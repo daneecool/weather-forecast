@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  weather-preprocess:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/app/src
+
+  cron:
+    image: alpine:latest
+    volumes:
+      - ./src:/app/src
+      - ./cronjob:/etc/cron.d/cronjob
+    command: ["crond", "-f", "-l", "2"]
+
+  json-server:
+    image: python:3.11-slim
+    working_dir: /app/src
+    volumes:
+      - ./src:/app/src
+    command: ["python3", "-m", "http.server", "8080"]
+    ports:
+      - "8082:8080"
+
+networks:
+  default:
+    driver: bridge
+
+volumes:
+  data:
