@@ -1,0 +1,12 @@
+{
+  "time": "2025-05-22 07:17:01",
+  "temp": 22.88,
+  "temp_max": 22.88,
+  "temp_min": 22.67,
+  "humidity": 73,
+  "feels_like": 23.13,
+  "pressure": 1006,
+  "weather_main": "Clouds",
+  "weather_description": "few clouds",
+  "weather_icon": "02d"
+}
