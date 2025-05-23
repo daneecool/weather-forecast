@@ -7,14 +7,12 @@ RUN apt-get update && apt-get install -y cron && apt-get upgrade -y && apt-get c
 
 COPY cronjob /etc/cron.d/cronjob
 
-# Give execution rights on the cron job
+# Give correct permissions on the cron job
 RUN chmod 0644 /etc/cron.d/cronjob
 
-# Apply cron job
-RUN crontab /etc/cron.d/cronjob
-
 # Install pip requirements
-RUN pip install requests
+RUN pip3 install requests\
+    pdfplumber
 
 # Create the log file to be able to run tail
 RUN mkdir -p /var/log && touch /var/log/preprocess.log

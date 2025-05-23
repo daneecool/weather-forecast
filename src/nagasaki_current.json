@@ -1,12 +1,14 @@
 {
-  "time": "2025-05-22 07:17:01",
-  "temp": 22.88,
-  "temp_max": 22.88,
-  "temp_min": 22.67,
-  "humidity": 73,
-  "feels_like": 23.13,
-  "pressure": 1006,
+  "time": "2025-05-23 05:57:53",
+  "temp": 24.88,
+  "temp_max": 24.89,
+  "temp_min": 24.88,
+  "humidity": 61,
+  "feels_like": 25.02,
+  "pressure": 1008,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02d"
+  "weather_description": "broken clouds",
+  "weather_icon": "04d",
+  "rain_1h_mm": 0,
+  "snow_1h_mm": 0
 }
