@@ -11,8 +11,7 @@ COPY cronjob /etc/cron.d/cronjob
 RUN chmod 0644 /etc/cron.d/cronjob
 
 # Install pip requirements
-RUN pip3 install requests\
-    pdfplumber
+RUN pip3 install requests
 
 # Create the log file to be able to run tail
 RUN mkdir -p /var/log && touch /var/log/preprocess.log

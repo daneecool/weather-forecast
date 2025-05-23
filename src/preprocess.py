@@ -1,8 +1,6 @@
 from datetime import datetime, date
 import json
 import requests
-import xml.etree.ElementTree as ET
-import pdfplumber
 
 # Forecast data (metric)
 forecast_url = "https://api.openweathermap.org/data/2.5/forecast?lat=32.7503&lon=129.8777&units=metric&appid=53d842d393e922cf8bddf6360e657e6a"
