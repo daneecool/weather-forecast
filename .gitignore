@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+src/nagasaki_temps.json
+weather.json
+=======
+>>>>>>> main
 # Ignore all JSON files
 *.json
 
@@ -18,4 +25,9 @@ Thumbs.db
 *.log
 
 # PDF files (optional)
+<<<<<<< HEAD
 *.pdf
+=======
+*.pdf
+>>>>>>> development
+>>>>>>> main
