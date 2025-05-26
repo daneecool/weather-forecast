@@ -15,7 +15,6 @@ services:
     volumes:
       - ./src:/app/src
       - ./cronjob:/etc/cron.d/cronjob
-    command: ["cron", "-f"]
 
   json-server:
     image: python:3.11-slim

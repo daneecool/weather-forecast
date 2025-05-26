@@ -1,4 +1,1 @@
-SHELL=/bin/sh
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-
-* * * * * root python3 /app/src/your_script.py >> /var/log/preprocess.log 2>&1
+* * * * * root python3 /app/src/preprocess.py >> /var/log/cron.log 2>&1

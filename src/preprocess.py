@@ -29,7 +29,7 @@ current_entry = {
     "weather_description": ", ".join(current_descriptions),
     "weather_icon": ", ".join(current_icons),
     "rain_1h_mm": rain_1h,
-    "snow_1h_mm": snow_1h,  # <-- Added for snow
+    "snow_1h_mm": snow_1h,  
 }
 
 with open('nagasaki_current.json', 'w') as f:
@@ -54,7 +54,7 @@ today_forecast = [
         "weather_description": ", ".join([w['description'] for w in entry.get('weather', [])]),
         "weather_icon": ", ".join([w['icon'] for w in entry.get('weather', [])]),
         "rain_mm": entry.get('rain', {}).get('3h', 0),
-        "snow_mm": entry.get('snow', {}).get('3h', 0)  # <-- Added for snow
+        "snow_mm": entry.get('snow', {}).get('3h', 0) 
     }
     for entry in forecast_data['list']
     if entry['dt_txt'].startswith(today_str)
@@ -62,6 +62,24 @@ today_forecast = [
 
 with open('nagasaki_today_forecast.json', 'w') as f:
     json.dump(today_forecast, f, indent=2)
+
+# Save 5-day temperature forecast as a new JSON
+temps_5days = [
+    {
+        "time": entry['dt_txt'],
+        "temp": entry['main']['temp'],
+        "temp_max": entry['main']['temp_max'],
+        "temp_min": entry['main']['temp_min'],
+        "humidity": entry['main']['humidity'],
+        "feels_like": entry['main']['feels_like'],
+        "pressure": entry['main']['pressure'],
+        "rain_mm": entry.get('rain', {}).get('3h', 0)
+    }
+    for entry in forecast_data['list']
+]
+
+with open('nagasaki_temps.json', 'w') as f:
+    json.dump(temps_5days, f, indent=2)
 
 # Typhoon prediction: collect entries with high wind and low pressure
 typhoon_entries = []
