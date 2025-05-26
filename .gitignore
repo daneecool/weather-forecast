@@ -1,2 +1,21 @@
-src/nagasaki_temps.json
-weather.json
+# Ignore all JSON files
+*.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PDF files (optional)
+*.pdf
