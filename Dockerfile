@@ -1,23 +1,19 @@
-FROM ubuntu:22.04
+FROM python:3-alpine
 
 WORKDIR /app
 
-# Install Python, pip, and cron
-RUN apt-get update && \
-    apt-get install -y python3 python3-pip cron nano && \
-    pip3 install requests
+# Install pip and requests
+RUN apk add --no-cache py3-pip && pip3 install requests
 
 # Copy your Python script
 COPY src/preprocess.py /app/src/preprocess.py
 
-# Copy the cronjob file
-COPY cronjob /etc/cron.d/cronjob
-
-# Give execution rights on the cron job
-RUN chmod 0644 /etc/cron.d/cronjob
+# Copy cron job
+COPY cronjob /var/spool/cron/crontabs/root
+RUN chmod 0644 /var/spool/cron/crontabs/root
 
 # Create log file to be able to run tail
-RUN touch /var/log/cron.log
+# RUN touch /var/log/cron.log
 
 # Run cron in the foreground and tail the log
-CMD cron && tail -f /var/log/cron.log
+CMD crond -l 1 -f
