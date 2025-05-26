@@ -1,1 +1,1 @@
-* * * * * root python3 /app/src/preprocess.py >> /var/log/cron.log 2>&1
+* * * * * root cd /app/src && python3 preprocess.py >> /var/log/cron.log 2>&1

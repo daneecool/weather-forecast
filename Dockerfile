@@ -4,7 +4,7 @@ WORKDIR /app
 
 # Install Python, pip, and cron
 RUN apt-get update && \
-    apt-get install -y python3 python3-pip cron && \
+    apt-get install -y python3 python3-pip cron nano && \
     pip3 install requests
 
 # Copy your Python script
