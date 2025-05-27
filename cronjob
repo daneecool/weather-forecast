@@ -1,1 +1,2 @@
-* * * * * cd /app/src && python3 preprocess.py >> /var/log/cron.log 2>&1
+# Run a script every minute
+* * * * * root cd /app/src && python3 preprocess.py >> /var/log/cron.log 2>&1

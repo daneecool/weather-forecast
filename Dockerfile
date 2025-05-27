@@ -1,19 +1,21 @@
-FROM python:3-alpine
+# Use a base image with a Linux distro, here we use Ubuntu
+FROM ubuntu:20.04
 
-WORKDIR /app
+# Install cron and other necessary packages
+RUN apt-get update && apt-get install -y cron python3-pip
 
-# Install pip and requests
-RUN apk add --no-cache py3-pip && pip3 install requests
+# install requests package using pip
+RUN pip3 install requests
 
-# Copy your Python script
-COPY src/preprocess.py /app/src/preprocess.py
+# Copy your cron file into the container
+COPY cronjob /etc/cron.d/cronjob
 
-# Copy cron job
-COPY cronjob /var/spool/cron/crontabs/root
-RUN chmod 0644 /var/spool/cron/crontabs/root
+# Give execution rights on the cron job file
+RUN chmod 0644 /etc/cron.d/cronjob
 
-# Create log file to be able to run tail
-# RUN touch /var/log/cron.log
+# Create the log file to be able to run tail
+RUN touch /var/log/cron.log
 
-# Run cron in the foreground and tail the log
-CMD crond -l 1 -f
+# Do NOT run: RUN crontab /etc/cron.d/cronjob
+# Run the cron service and tail the log file
+CMD cron && tail -f /var/log/cron.log

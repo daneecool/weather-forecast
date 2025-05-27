@@ -146,3 +146,37 @@ with open('nagasaki_typhoon_predict.json', 'w') as f:
 #     print(f"JMA Typhoon XML to JSON failed: {e}")
 
 # ========================================================== #
+
+# Fetch the live analysis EEW data from JMA earthquake data and convert to JSON
+url = "https://api.wolfx.jp/jma_eew.json"
+response = requests.get(url)
+data = response.json()
+# Fetch the latest earthquake list data from JMA and add to quake_info
+eqlist_url = "https://api.wolfx.jp/jma_eqlist.json"
+eqlist_response = requests.get(eqlist_url)
+eqlist_data = eqlist_response.json()
+
+fields = [
+    "EventID", "Serial", "AnnouncedTime", "OriginTime", "Hypocenter",
+    "Latitude", "Longitude", "Magunitude", "Depth", "MaxIntensity",
+    "isSea", "isTraining", "isAssumption", "isWarn", "isFinal",
+    "isCancel", "OriginalText", "Pond"
+]
+
+quake_info = {k: data.get(k) for k in fields}
+
+# Extract and add specific subfields at the root level
+accuracy = data.get("Accuracy", {})
+quake_info["Epicenter"] = accuracy.get("Epicenter")
+quake_info["DepthAccuracy"] = accuracy.get("Depth")
+quake_info["MagnitudeAccuracy"] = accuracy.get("Magnitude")
+maxintchange = data.get("MaxIntChange", {})
+quake_info["String"] = maxintchange.get("String")
+quake_info["Reason"] = maxintchange.get("Reason")
+quake_info["WarnArea"] = data.get("WarnArea", [])
+
+no_keys = [f"No{i}" for i in range(1, 11)]
+quake_info["RecentList"] = {k: eqlist_data.get(k) for k in no_keys if k in eqlist_data}
+
+with open("quake.json", "w", encoding="utf-8") as f:
+    json.dump(quake_info, f, ensure_ascii=False, indent=2)
