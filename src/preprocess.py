@@ -82,6 +82,8 @@ temps_5days = [
 with open('temps.json', 'w') as f:
     json.dump(temps_5days, f, indent=2)
 
+# -------------------- Typhoon Prediction Section --------------------
+
 # Typhoon prediction: collect entries with high wind and low pressure
 typhoon_entries = []
 for entry in forecast_data['list']:
