@@ -169,3 +169,51 @@ quake_points_array = [
 
 with open("quake_points.json", "w", encoding="utf-8") as f:
     json.dump(quake_points_array, f, ensure_ascii=False, indent=2)
+
+# -------------------- Air Polution Data Section --------------------
+
+def get_warning_level(value, good, moderate):
+    if value <= good:
+        return "Good"
+    elif value <= moderate:
+        return "Moderate"
+    else:
+        return "Unhealthy"
+
+def air_quality_warnings(components):
+    return [
+        {
+            "type": "co",
+            "value": components["co"],
+            "unit": "μg/m³",
+            "level": get_warning_level(components["co"], 4400, 9400)
+        },
+        {
+            "type": "pm2_5",
+            "value": components["pm2_5"],
+            "unit": "μg/m³",
+            "level": get_warning_level(components["pm2_5"], 12, 35)
+        },
+        {
+            "type": "pm10",
+            "value": components["pm10"],
+            "unit": "μg/m³",
+            "level": get_warning_level(components["pm10"], 54, 154)
+        }
+    ]
+
+# Fetch air pollution data
+AIR_POLLUTION_URL = "https://api.openweathermap.org/data/2.5/air_pollution?lat=35.4478&lon=139.6425&appid=53d842d393e922cf8bddf6360e657e6a"
+air_response = requests.get(AIR_POLLUTION_URL)
+air_data = air_response.json()
+
+# Extract components and generate warnings
+components = air_data["list"][0]["components"]
+warnings = air_quality_warnings(components)
+
+# Add warnings to the air_data dictionary
+air_data["warnings"] = warnings
+
+# Write the updated data back to air_pollution.json
+with open('air_pollution.json', 'w') as f:
+    json.dump(air_data, f, ensure_ascii=False, indent=2)

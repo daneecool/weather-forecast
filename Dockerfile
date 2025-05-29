@@ -1,5 +1,5 @@
 # Use a base image with a Linux distro, here we use Ubuntu
-FROM ubuntu:20.04
+FROM ubuntu:latest
 
 # Install cron and other necessary packages
 RUN apt-get update && apt-get install -y cron python3-pip
