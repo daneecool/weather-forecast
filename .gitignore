@@ -1,25 +1,7 @@
-# Ignore all JSON files
-*.json
+# Ignore everything
+*
 
-# Ignore Dockerfile and entrypoint.sh temporally ignore
-Dockerfile
-entrypoint.sh
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environment
-venv/
-env/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# PDF files (optional)
-*.pdf
+# But not these files...
+!.gitignore
+!src/
+!src/preprocess.py
