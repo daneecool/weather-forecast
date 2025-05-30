@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-src/nagasaki_temps.json
-weather.json
-=======
->>>>>>> main
 # Ignore all JSON files
 *.json
+
+# Ignore Dockerfile and entrypoint.sh temporally ignore
+Dockerfile
+entrypoint.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -25,9 +22,4 @@ Thumbs.db
 *.log
 
 # PDF files (optional)
-<<<<<<< HEAD
 *.pdf
-=======
-*.pdf
->>>>>>> development
->>>>>>> main
