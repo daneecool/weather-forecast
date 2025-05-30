@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
       - name: Run Python script
-        run: python src/preprocess.py  # replace with your script name
+        run: python src/preprocess.py
