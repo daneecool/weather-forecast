@@ -25,6 +25,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+      
+      - name: List JSON files
+        run: ls -lah src/*.json  
 
       - name: Run preprocess.py
         run: python src/preprocess.py
