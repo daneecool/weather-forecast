@@ -1,1 +1,0 @@
-* * * * * cd /app/src && python3 preprocess.py >> /var/log/cron.log 2>&1
