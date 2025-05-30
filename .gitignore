@@ -1,9 +1,14 @@
-<<<<<<< HEAD
-src/nagasaki_temps.json
-weather.json
-=======
 # Ignore all JSON files
-# *.json
+*.json
+
+# But do NOT ignore these important files
+!src/quake.json
+!src/quake_points.json
+!src/air_pollution.json
+!src/typhoon_predict.json
+!src/current.json
+!src/today_forecast.json
+!src/temps.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -23,4 +28,3 @@ Thumbs.db
 
 # PDF files (optional)
 *.pdf
->>>>>>> development

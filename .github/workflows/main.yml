@@ -1,39 +1,46 @@
-name: Run Python Every Minute
+name: Update GitHub Pages JSON
 
 on:
   schedule:
-    - cron: '* * * * *'  # every minute UTC
-  workflow_dispatch:      # allow manual trigger
+    - cron: '*/10 * * * *'  # every 10 minutes
+  workflow_dispatch:
 
 jobs:
-  run-script:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout source branch
+        uses: actions/checkout@v4
+        with:
+          ref: main  # or your source branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'  # or your preferred version
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      - name: Run Python script
+      - name: Run preprocess.py
         run: python src/preprocess.py
 
-      - name: Upload JSON outputs
-        uses: actions/upload-artifact@v4
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
         with:
-          name: json-outputs
-          path: |
-            src/current.json
-            src/today_forecast.json
-            src/temps.json
-            src/typhoon_predict.json
-            src/quake.json
-            src/quake_points.json
-            src/air_pollution.json
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Copy JSON files to gh-pages
+        run: |
+          cp src/*.json gh-pages/
+      
+      - name: Commit and push changes
+        run: |
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.json
+          git commit -m "Update JSON files [skip ci]" || echo "No changes to commit"
+          git push origin gh-pages
