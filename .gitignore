@@ -1,5 +1,5 @@
 # Ignore all JSON files
-# *.json
+*.json
 
 # Ignore Dockerfile and entrypoint.sh temporally ignore and revert later
 # Dockerfile
