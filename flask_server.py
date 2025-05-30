@@ -1,3 +1,5 @@
+# Flask server to serve JSON data for air pollution, earthquake, and typhoon predictions
+
 from flask import Flask, jsonify
 import json
 import os

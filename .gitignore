@@ -1,9 +1,9 @@
 # Ignore all JSON files
 *.json
 
-# Ignore Dockerfile and entrypoint.sh temporally ignore
-Dockerfile
-entrypoint.sh
+# Ignore Dockerfile and entrypoint.sh temporally ignore and revert later
+# Dockerfile
+# entrypoint.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
