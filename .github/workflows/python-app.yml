@@ -1,12 +1,12 @@
 name: Python application and GitHub Pages update
 
 on:
+  schedule:
+    - cron: '*/10 * * * *'
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-  schedule:
-    - cron: '*/1 * * * *'  # every minute
 
 permissions:
   contents: write
@@ -58,3 +58,12 @@ jobs:
         git push origin gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  cleanup-old-workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs older than 1 day
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 1
+          keep_minimum_runs: 3
