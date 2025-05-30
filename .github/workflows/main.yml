@@ -24,3 +24,16 @@ jobs:
 
       - name: Run Python script
         run: python src/preprocess.py
+
+      - name: Upload JSON outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: json-outputs
+          path: |
+            src/current.json
+            src/today_forecast.json
+            src/temps.json
+            src/typhoon_predict.json
+            src/quake.json
+            src/quake_points.json
+            src/air_pollution.json
