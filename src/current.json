@@ -1,0 +1,14 @@
+{
+  "time": "2025-05-30 05:08:55",
+  "temp": 15.05,
+  "temp_max": 16.19,
+  "temp_min": 14.8,
+  "humidity": 89,
+  "feels_like": 14.93,
+  "pressure": 1010,
+  "weather_main": "Clouds",
+  "weather_description": "broken clouds",
+  "weather_icon": "04d",
+  "rain_1h_mm": 0,
+  "snow_1h_mm": 0
+}
