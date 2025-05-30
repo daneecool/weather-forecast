@@ -3,7 +3,7 @@ src/nagasaki_temps.json
 weather.json
 =======
 # Ignore all JSON files
-*.json
+# *.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
