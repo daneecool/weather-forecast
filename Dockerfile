@@ -2,10 +2,8 @@
 FROM ubuntu:latest
 
 # Install cron and other necessary packages
-RUN apt-get update && apt-get install -y cron python3-pip
-
-# install requests package using pip
-RUN pip3 install requests
+RUN apt-get update && \
+    apt-get install -y cron python3-pip python3-flask python3-requests
 
 # Copy your cron file into the container
 COPY cronjob /etc/cron.d/cronjob
