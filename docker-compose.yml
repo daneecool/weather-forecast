@@ -1,0 +1,36 @@
+#version: '3.8'
+
+services:
+  cron:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/app/src
+
+  flask-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    command: python3 flask_server.py
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+
+  json-server:
+    image: python:3.11-slim
+    working_dir: /app/src
+    volumes:
+      - ./src:/app/src
+    command: ["python3", "-m", "http.server", "8080"]
+    ports:
+      - "8082:8080"
+
+networks:
+  default:
+    driver: bridge
+
+volumes:
+  data:
