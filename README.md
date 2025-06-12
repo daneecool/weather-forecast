@@ -101,3 +101,8 @@ Below is the mock parameter of the data for ```typhoon_predict.json
   }
 ]
 ```
+
+--- 
+
+Problem Encounter 
++ Workflow build up in Github Action 
