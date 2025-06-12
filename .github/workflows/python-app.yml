@@ -63,8 +63,9 @@ jobs:
   cleanup-old-workflows:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete workflow runs older than 1 day, keep at least 1
+      - name: Delete all workflow runs
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          retain_days: 1
-          keep_minimum_runs: 1
+          retain_days: 0
+          keep_minimum_runs: 0
+          token: ${{ secrets.PAT_TOKEN }}
