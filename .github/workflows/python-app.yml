@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   push:
-    branches: [ "main" ]
+    branches: [ "ubuntu-cron-test" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "ubuntu-cron-test" ]
 
 permissions:
   contents: write
