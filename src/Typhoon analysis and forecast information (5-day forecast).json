@@ -1,0 +1,1288 @@
+{
+  "{http://xml.kishou.go.jp/jmaxml1/}Report": {
+    "{http://xml.kishou.go.jp/jmaxml1/}Control": {
+      "{http://xml.kishou.go.jp/jmaxml1/}Title": {
+        "#text": "台風解析・予報情報（５日予報）（Ｈ３０）"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/}DateTime": {
+        "#text": "2025-06-12T06:47:33Z"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/}Status": {
+        "#text": "通常"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/}EditorialOffice": {
+        "#text": "気象庁本庁"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/}PublishingOffice": {
+        "#text": "気象庁"
+      }
+    },
+    "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}Head": {
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}Title": {
+        "#text": "台風解析・予報情報"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}ReportDateTime": {
+        "#text": "2025-06-12T15:50:00+09:00"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}TargetDateTime": {
+        "#text": "2025-06-12T15:00:00+09:00"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}TargetDuration": {
+        "#text": "PT120H"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}EventID": {
+        "#text": "TC2501"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}InfoType": {
+        "#text": "発表"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}Serial": {
+        "#text": "19"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}InfoKind": {
+        "#text": "台風解析・予報情報（５日予報）"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}InfoKindVersion": {
+        "#text": "1.0_2"
+      },
+      "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}Headline": {
+        "{http://xml.kishou.go.jp/jmaxml1/informationBasis1/}Text": {}
+      }
+    },
+    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Body": {
+      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}MeteorologicalInfos": {
+        "@type": "台風情報",
+        "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}MeteorologicalInfo": [
+          {
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}DateTime": {
+              "@type": "実況",
+              "#text": "2025-06-12T15:00:00+09:00"
+            },
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Item": {
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Kind": [
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "呼称"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}TyphoonNamePart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                        "#text": "WUTIP"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}NameKana": {
+                        "#text": "ウーティップ"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Number": {
+                        "#text": "2501"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Remark": {}
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "階級"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ClassPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}TyphoonClass": {
+                        "@type": "熱帯擾乱種類",
+                        "#text": "台風(TS)"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}AreaClass": {
+                        "@type": "大きさ階級"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}IntensityClass": {
+                        "@type": "強さ階級"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "中心"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}CenterPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Coordinate": [
+                        {
+                          "@description": "北緯１７．３度東経１１０．０度",
+                          "@condition": "ほぼ正確",
+                          "@type": "中心位置（度）",
+                          "#text": "+17.3+110.0/"
+                        },
+                        {
+                          "@description": "北緯１７度２０分東経１１０度００分",
+                          "@condition": "ほぼ正確",
+                          "@type": "中心位置（度分）",
+                          "#text": "+1720+11000/"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Location": {
+                        "#text": "南シナ海"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@unit": "１６方位漢字",
+                        "@type": "移動方向",
+                        "#text": "西北西"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Speed": [
+                        {
+                          "@description": "ゆっくり",
+                          "@condition": "ゆっくり",
+                          "@unit": "ノット",
+                          "@type": "移動速度"
+                        },
+                        {
+                          "@description": "ゆっくり",
+                          "@condition": "ゆっくり",
+                          "@unit": "km/h",
+                          "@type": "移動速度"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Pressure": {
+                        "@description": "中心気圧９８５ヘクトパスカル",
+                        "@unit": "hPa",
+                        "@type": "中心気圧",
+                        "#text": "985"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "風"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WindPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "中心付近の最大風速４５ノット",
+                          "@condition": "中心付近",
+                          "@unit": "ノット",
+                          "@type": "最大風速",
+                          "#text": "45"
+                        },
+                        {
+                          "@description": "中心付近の最大風速２３メートル",
+                          "@condition": "中心付近",
+                          "@unit": "m/s",
+                          "@type": "最大風速",
+                          "#text": "23"
+                        },
+                        {
+                          "@description": "最大瞬間風速６５ノット",
+                          "@unit": "ノット",
+                          "@type": "最大瞬間風速",
+                          "#text": "65"
+                        },
+                        {
+                          "@description": "最大瞬間風速３５メートル",
+                          "@unit": "m/s",
+                          "@type": "最大瞬間風速",
+                          "#text": "35"
+                        }
+                      ]
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WarningAreaPart": [
+                      {
+                        "@type": "暴風域",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                          {
+                            "@description": "風速５０ノット以上",
+                            "@condition": "以上",
+                            "@unit": "ノット",
+                            "@type": "風速",
+                            "#text": "50"
+                          },
+                          {
+                            "@description": "風速２５メートル以上",
+                            "@condition": "以上",
+                            "@unit": "m/s",
+                            "@type": "風速",
+                            "#text": "25"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                              "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                                "@description": "全域",
+                                "@condition": "全域",
+                                "@unit": "８方位漢字",
+                                "@type": "方向"
+                              },
+                              "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                                {
+                                  "@description": "なし",
+                                  "@condition": "なし",
+                                  "@unit": "海里",
+                                  "@type": "半径"
+                                },
+                                {
+                                  "@description": "なし",
+                                  "@condition": "なし",
+                                  "@unit": "km",
+                                  "@type": "半径"
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "@type": "強風域",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                          {
+                            "@description": "風速３０ノット以上",
+                            "@condition": "以上",
+                            "@unit": "ノット",
+                            "@type": "風速",
+                            "#text": "30"
+                          },
+                          {
+                            "@description": "風速１５メートル以上",
+                            "@condition": "以上",
+                            "@unit": "m/s",
+                            "@type": "風速",
+                            "#text": "15"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": [
+                              {
+                                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                                  "@unit": "８方位漢字",
+                                  "@type": "方向",
+                                  "#text": "南"
+                                },
+                                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                                  {
+                                    "@description": "３２５海里",
+                                    "@unit": "海里",
+                                    "@type": "半径",
+                                    "#text": "325"
+                                  },
+                                  {
+                                    "@description": "６００キロ",
+                                    "@unit": "km",
+                                    "@type": "半径",
+                                    "#text": "600"
+                                  }
+                                ]
+                              },
+                              {
+                                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                                  "@unit": "８方位漢字",
+                                  "@type": "方向",
+                                  "#text": "北"
+                                },
+                                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                                  {
+                                    "@description": "２１０海里",
+                                    "@unit": "海里",
+                                    "@type": "半径",
+                                    "#text": "210"
+                                  },
+                                  {
+                                    "@description": "３９０キロ",
+                                    "@unit": "km",
+                                    "@type": "半径",
+                                    "#text": "390"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Area": {
+                "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                  "#text": "熱帯低気圧"
+                },
+                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                  "@type": "強風域",
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                    {
+                      "@description": "北緯１７．３度東経１１０．０度",
+                      "@type": "中心位置（度）",
+                      "#text": "+17.3+110.0/"
+                    },
+                    {
+                      "@description": "北緯１７度２０分東経１１０度００分",
+                      "@type": "中心位置（度分）",
+                      "#text": "+1720+11000/"
+                    }
+                  ],
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                    "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": [
+                      {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                          "@unit": "８方位漢字",
+                          "@type": "方向",
+                          "#text": "南"
+                        },
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                          {
+                            "@description": "３２５海里",
+                            "@unit": "海里",
+                            "@type": "半径",
+                            "#text": "325"
+                          },
+                          {
+                            "@description": "６００キロ",
+                            "@unit": "km",
+                            "@type": "半径",
+                            "#text": "600"
+                          }
+                        ]
+                      },
+                      {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                          "@unit": "８方位漢字",
+                          "@type": "方向",
+                          "#text": "北"
+                        },
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                          {
+                            "@description": "２１０海里",
+                            "@unit": "海里",
+                            "@type": "半径",
+                            "#text": "210"
+                          },
+                          {
+                            "@description": "３９０キロ",
+                            "@unit": "km",
+                            "@type": "半径",
+                            "#text": "390"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}DateTime": {
+              "@type": "予報　１２時間後",
+              "#text": "2025-06-13T03:00:00+09:00"
+            },
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Item": {
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Kind": [
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "階級"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ClassPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}TyphoonClass": {
+                        "@type": "熱帯擾乱種類",
+                        "#text": "台風(STS)"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}IntensityClass": {
+                        "@type": "強さ階級"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "中心"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}CenterPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ProbabilityCircle": {
+                        "@type": "予報円",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                          {
+                            "@description": "北緯１８．１度東経１０８．９度",
+                            "@type": "中心位置（度）",
+                            "#text": "+18.1+108.9/"
+                          },
+                          {
+                            "@description": "北緯１８度０５分東経１０８度５５分",
+                            "@type": "中心位置（度分）",
+                            "#text": "+1805+10855/"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径４０海里",
+                                "@unit": "海里",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "40"
+                              },
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径７５キロ",
+                                "@unit": "km",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "75"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Location": {
+                        "#text": "トンキン湾"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@unit": "１６方位漢字",
+                        "@type": "移動方向",
+                        "#text": "北西"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Speed": [
+                        {
+                          "@description": "ゆっくり",
+                          "@condition": "ゆっくり",
+                          "@unit": "ノット",
+                          "@type": "移動速度"
+                        },
+                        {
+                          "@description": "ゆっくり",
+                          "@condition": "ゆっくり",
+                          "@unit": "km/h",
+                          "@type": "移動速度"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Pressure": {
+                        "@description": "中心気圧９８５ヘクトパスカル",
+                        "@unit": "hPa",
+                        "@type": "中心気圧",
+                        "#text": "985"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "風"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WindPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "中心付近の最大風速５０ノット",
+                          "@condition": "中心付近",
+                          "@unit": "ノット",
+                          "@type": "最大風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "中心付近の最大風速２５メートル",
+                          "@condition": "中心付近",
+                          "@unit": "m/s",
+                          "@type": "最大風速",
+                          "#text": "25"
+                        },
+                        {
+                          "@description": "最大瞬間風速７０ノット",
+                          "@unit": "ノット",
+                          "@type": "最大瞬間風速",
+                          "#text": "70"
+                        },
+                        {
+                          "@description": "最大瞬間風速３５メートル",
+                          "@unit": "m/s",
+                          "@type": "最大瞬間風速",
+                          "#text": "35"
+                        }
+                      ]
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WarningAreaPart": {
+                      "@type": "暴風警戒域",
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "風速５０ノット以上",
+                          "@condition": "以上",
+                          "@unit": "ノット",
+                          "@type": "風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "風速２５メートル以上",
+                          "@condition": "以上",
+                          "@unit": "m/s",
+                          "@type": "風速",
+                          "#text": "25"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "海里",
+                                "@type": "半径"
+                              },
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "km",
+                                "@type": "半径"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Area": {
+                "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                  "#text": "熱帯低気圧"
+                },
+                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                  "@type": "予報円",
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                    {
+                      "@description": "北緯１８．１度東経１０８．９度",
+                      "@type": "中心位置（度）",
+                      "#text": "+18.1+108.9/"
+                    },
+                    {
+                      "@description": "北緯１８度０５分東経１０８度５５分",
+                      "@type": "中心位置（度分）",
+                      "#text": "+1805+10855/"
+                    }
+                  ],
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                    "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@description": "全域",
+                        "@condition": "全域",
+                        "@unit": "８方位漢字",
+                        "@type": "方向"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径４０海里",
+                          "@unit": "海里",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "40"
+                        },
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径７５キロ",
+                          "@unit": "km",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "75"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}DateTime": {
+              "@type": "予報　２４時間後",
+              "#text": "2025-06-13T15:00:00+09:00"
+            },
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Item": {
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Kind": [
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "階級"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ClassPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}TyphoonClass": {
+                        "@type": "熱帯擾乱種類",
+                        "#text": "台風(STS)"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}IntensityClass": {
+                        "@type": "強さ階級"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "中心"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}CenterPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ProbabilityCircle": {
+                        "@type": "予報円",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                          {
+                            "@description": "北緯１９．３度東経１０８．９度",
+                            "@type": "中心位置（度）",
+                            "#text": "+19.3+108.9/"
+                          },
+                          {
+                            "@description": "北緯１９度２０分東経１０８度５５分",
+                            "@type": "中心位置（度分）",
+                            "#text": "+1920+10855/"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径５０海里",
+                                "@unit": "海里",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "50"
+                              },
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径９５キロ",
+                                "@unit": "km",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "95"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Location": {
+                        "#text": "海南島"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@unit": "１６方位漢字",
+                        "@type": "移動方向",
+                        "#text": "北"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Speed": [
+                        {
+                          "@description": "６ノット",
+                          "@unit": "ノット",
+                          "@type": "移動速度",
+                          "#text": "6"
+                        },
+                        {
+                          "@description": "毎時１０キロ",
+                          "@unit": "km/h",
+                          "@type": "移動速度",
+                          "#text": "10"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Pressure": {
+                        "@description": "中心気圧９８５ヘクトパスカル",
+                        "@unit": "hPa",
+                        "@type": "中心気圧",
+                        "#text": "985"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "風"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WindPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "中心付近の最大風速５０ノット",
+                          "@condition": "中心付近",
+                          "@unit": "ノット",
+                          "@type": "最大風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "中心付近の最大風速２５メートル",
+                          "@condition": "中心付近",
+                          "@unit": "m/s",
+                          "@type": "最大風速",
+                          "#text": "25"
+                        },
+                        {
+                          "@description": "最大瞬間風速７０ノット",
+                          "@unit": "ノット",
+                          "@type": "最大瞬間風速",
+                          "#text": "70"
+                        },
+                        {
+                          "@description": "最大瞬間風速３５メートル",
+                          "@unit": "m/s",
+                          "@type": "最大瞬間風速",
+                          "#text": "35"
+                        }
+                      ]
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WarningAreaPart": {
+                      "@type": "暴風警戒域",
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "風速５０ノット以上",
+                          "@condition": "以上",
+                          "@unit": "ノット",
+                          "@type": "風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "風速２５メートル以上",
+                          "@condition": "以上",
+                          "@unit": "m/s",
+                          "@type": "風速",
+                          "#text": "25"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "海里",
+                                "@type": "半径"
+                              },
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "km",
+                                "@type": "半径"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Area": {
+                "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                  "#text": "熱帯低気圧"
+                },
+                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                  "@type": "予報円",
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                    {
+                      "@description": "北緯１９．３度東経１０８．９度",
+                      "@type": "中心位置（度）",
+                      "#text": "+19.3+108.9/"
+                    },
+                    {
+                      "@description": "北緯１９度２０分東経１０８度５５分",
+                      "@type": "中心位置（度分）",
+                      "#text": "+1920+10855/"
+                    }
+                  ],
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                    "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@description": "全域",
+                        "@condition": "全域",
+                        "@unit": "８方位漢字",
+                        "@type": "方向"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径５０海里",
+                          "@unit": "海里",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径９５キロ",
+                          "@unit": "km",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "95"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}DateTime": {
+              "@type": "予報　４８時間後",
+              "#text": "2025-06-14T15:00:00+09:00"
+            },
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Item": {
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Kind": [
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "階級"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ClassPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}TyphoonClass": {
+                        "@type": "熱帯擾乱種類",
+                        "#text": "台風(TS)"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}IntensityClass": {
+                        "@type": "強さ階級"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "中心"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}CenterPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ProbabilityCircle": {
+                        "@type": "予報円",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                          {
+                            "@description": "北緯２１．６度東経１０９．９度",
+                            "@type": "中心位置（度）",
+                            "#text": "+21.6+109.9/"
+                          },
+                          {
+                            "@description": "北緯２１度３５分東経１０９度５５分",
+                            "@type": "中心位置（度分）",
+                            "#text": "+2135+10955/"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径８５海里",
+                                "@unit": "海里",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "85"
+                              },
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径１５５キロ",
+                                "@unit": "km",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "155"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Location": {
+                        "#text": "華南"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@unit": "１６方位漢字",
+                        "@type": "移動方向",
+                        "#text": "北北東"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Speed": [
+                        {
+                          "@description": "６ノット",
+                          "@unit": "ノット",
+                          "@type": "移動速度",
+                          "#text": "6"
+                        },
+                        {
+                          "@description": "毎時１０キロ",
+                          "@unit": "km/h",
+                          "@type": "移動速度",
+                          "#text": "10"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Pressure": {
+                        "@description": "中心気圧９９０ヘクトパスカル",
+                        "@unit": "hPa",
+                        "@type": "中心気圧",
+                        "#text": "990"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "風"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WindPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "中心付近の最大風速４５ノット",
+                          "@condition": "中心付近",
+                          "@unit": "ノット",
+                          "@type": "最大風速",
+                          "#text": "45"
+                        },
+                        {
+                          "@description": "中心付近の最大風速２３メートル",
+                          "@condition": "中心付近",
+                          "@unit": "m/s",
+                          "@type": "最大風速",
+                          "#text": "23"
+                        },
+                        {
+                          "@description": "最大瞬間風速６５ノット",
+                          "@unit": "ノット",
+                          "@type": "最大瞬間風速",
+                          "#text": "65"
+                        },
+                        {
+                          "@description": "最大瞬間風速３５メートル",
+                          "@unit": "m/s",
+                          "@type": "最大瞬間風速",
+                          "#text": "35"
+                        }
+                      ]
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WarningAreaPart": {
+                      "@type": "暴風警戒域",
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "風速５０ノット以上",
+                          "@condition": "以上",
+                          "@unit": "ノット",
+                          "@type": "風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "風速２５メートル以上",
+                          "@condition": "以上",
+                          "@unit": "m/s",
+                          "@type": "風速",
+                          "#text": "25"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "海里",
+                                "@type": "半径"
+                              },
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "km",
+                                "@type": "半径"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Area": {
+                "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                  "#text": "熱帯低気圧"
+                },
+                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                  "@type": "予報円",
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                    {
+                      "@description": "北緯２１．６度東経１０９．９度",
+                      "@type": "中心位置（度）",
+                      "#text": "+21.6+109.9/"
+                    },
+                    {
+                      "@description": "北緯２１度３５分東経１０９度５５分",
+                      "@type": "中心位置（度分）",
+                      "#text": "+2135+10955/"
+                    }
+                  ],
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                    "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@description": "全域",
+                        "@condition": "全域",
+                        "@unit": "８方位漢字",
+                        "@type": "方向"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径８５海里",
+                          "@unit": "海里",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "85"
+                        },
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径１５５キロ",
+                          "@unit": "km",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "155"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}DateTime": {
+              "@type": "予報　７２時間後",
+              "#text": "2025-06-15T15:00:00+09:00"
+            },
+            "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Item": {
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Kind": [
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "階級"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ClassPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}TyphoonClass": {
+                        "@type": "熱帯擾乱種類",
+                        "#text": "熱帯低気圧(TD)"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}IntensityClass": {
+                        "@type": "強さ階級"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "中心"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}CenterPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}ProbabilityCircle": {
+                        "@type": "予報円",
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                          {
+                            "@description": "北緯２４．８度東経１１３．３度",
+                            "@type": "中心位置（度）",
+                            "#text": "+24.8+113.3/"
+                          },
+                          {
+                            "@description": "北緯２４度５０分東経１１３度２０分",
+                            "@type": "中心位置（度分）",
+                            "#text": "+2450+11320/"
+                          }
+                        ],
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径１２０海里",
+                                "@unit": "海里",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "120"
+                              },
+                              {
+                                "@description": "中心が７０パーセントの確率で入る予報円の半径２２０キロ",
+                                "@unit": "km",
+                                "@type": "７０パーセント確率半径",
+                                "#text": "220"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Location": {
+                        "#text": "華南"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@unit": "１６方位漢字",
+                        "@type": "移動方向",
+                        "#text": "北東"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Speed": [
+                        {
+                          "@description": "１１ノット",
+                          "@unit": "ノット",
+                          "@type": "移動速度",
+                          "#text": "11"
+                        },
+                        {
+                          "@description": "毎時２０キロ",
+                          "@unit": "km/h",
+                          "@type": "移動速度",
+                          "#text": "20"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Pressure": {
+                        "@description": "中心気圧９９４ヘクトパスカル",
+                        "@unit": "hPa",
+                        "@type": "中心気圧",
+                        "#text": "994"
+                      }
+                    }
+                  }
+                },
+                {
+                  "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Property": {
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Type": {
+                      "#text": "風"
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WindPart": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "最大風速０ノット",
+                          "@condition": "なし",
+                          "@unit": "ノット",
+                          "@type": "最大風速",
+                          "#text": "0"
+                        },
+                        {
+                          "@description": "最大風速０メートル",
+                          "@condition": "なし",
+                          "@unit": "m/s",
+                          "@type": "最大風速",
+                          "#text": "0"
+                        },
+                        {
+                          "@description": "最大瞬間風速０ノット",
+                          "@unit": "ノット",
+                          "@type": "最大瞬間風速",
+                          "#text": "0"
+                        },
+                        {
+                          "@description": "最大瞬間風速０メートル",
+                          "@unit": "m/s",
+                          "@type": "最大瞬間風速",
+                          "#text": "0"
+                        }
+                      ]
+                    },
+                    "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}WarningAreaPart": {
+                      "@type": "暴風警戒域",
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}WindSpeed": [
+                        {
+                          "@description": "風速５０ノット以上",
+                          "@condition": "以上",
+                          "@unit": "ノット",
+                          "@type": "風速",
+                          "#text": "50"
+                        },
+                        {
+                          "@description": "風速２５メートル以上",
+                          "@condition": "以上",
+                          "@unit": "m/s",
+                          "@type": "風速",
+                          "#text": "25"
+                        }
+                      ],
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                        "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                          "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                              "@description": "全域",
+                              "@condition": "全域",
+                              "@unit": "８方位漢字",
+                              "@type": "方向"
+                            },
+                            "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "海里",
+                                "@type": "半径"
+                              },
+                              {
+                                "@description": "なし",
+                                "@condition": "なし",
+                                "@unit": "km",
+                                "@type": "半径"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ],
+              "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Area": {
+                "{http://xml.kishou.go.jp/jmaxml1/body/meteorology1/}Name": {
+                  "#text": "熱帯低気圧"
+                },
+                "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Circle": {
+                  "@type": "予報円",
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}BasePoint": [
+                    {
+                      "@description": "北緯２４．８度東経１１３．３度",
+                      "@type": "中心位置（度）",
+                      "#text": "+24.8+113.3/"
+                    },
+                    {
+                      "@description": "北緯２４度５０分東経１１３度２０分",
+                      "@type": "中心位置（度分）",
+                      "#text": "+2450+11320/"
+                    }
+                  ],
+                  "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axes": {
+                    "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Axis": {
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Direction": {
+                        "@description": "全域",
+                        "@condition": "全域",
+                        "@unit": "８方位漢字",
+                        "@type": "方向"
+                      },
+                      "{http://xml.kishou.go.jp/jmaxml1/elementBasis1/}Radius": [
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径１２０海里",
+                          "@unit": "海里",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "120"
+                        },
+                        {
+                          "@description": "中心が７０パーセントの確率で入る予報円の半径２２０キロ",
+                          "@unit": "km",
+                          "@type": "７０パーセント確率半径",
+                          "#text": "220"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 # Ignore all JSON files
-*.json
+# Ignore all JSON files in the src directory in order to sent the json files to the client at gh-pages
+# *.json 
 
 # But do NOT ignore these important files
 !src/quake.json
