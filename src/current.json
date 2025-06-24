@@ -1,14 +1,14 @@
 {
-  "time": "2025-06-17 02:53:10",
-  "temp": 34.76,
-  "temp_max": 34.76,
-  "temp_min": 34.76,
-  "humidity": 57,
-  "feels_like": 41.76,
-  "pressure": 1006,
+  "time": "2025-06-24 06:53:49",
+  "temp": 26.49,
+  "temp_max": 26.49,
+  "temp_min": 26.49,
+  "humidity": 77,
+  "feels_like": 26.49,
+  "pressure": 1013,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03d",
+  "weather_description": "overcast clouds",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
