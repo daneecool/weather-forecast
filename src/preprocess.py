@@ -91,7 +91,7 @@ for entry in forecast_data['list']:
     wind_gust = entry['wind'].get('gust', 0)
     pressure = entry['main']['pressure']
     # if wind_speed >= 20 or pressure <= 990:
-    if wind_speed >= 12 or pressure <= 1010:
+    if wind_speed >= 10 or pressure <= 1010:
         typhoon_entries.append({
             "time": entry['dt_txt'],
             "wind_speed": wind_speed,
@@ -101,9 +101,7 @@ for entry in forecast_data['list']:
             "humidity": entry['main']['humidity'],
             "weather_main": ", ".join([w['main'] for w in entry.get('weather', [])]),
             "weather_description": ", ".join([w['description'] for w in entry.get('weather', [])]),
-            "rain_mm": entry.get('rain', {}).get('3h', 0),
-            # "typhoon_lat": 30.0085,      # <-- add latitude
-            # "typhoon_lon": 140.625       # <-- add longitude
+            "rain_mm": entry.get('rain', {}).get('3h', 0)
         })
 
 with open('typhoon_predict.json', 'w') as f:
