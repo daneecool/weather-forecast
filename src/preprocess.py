@@ -260,6 +260,3 @@ air_data["warnings"] = warnings
 # Write the updated data back to air_pollution.json
 with open('air_pollution.json', 'w') as f:
     json.dump(air_data, f, ensure_ascii=False, indent=2)
-
-
-
