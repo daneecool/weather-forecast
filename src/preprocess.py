@@ -2,6 +2,39 @@ from datetime import datetime, date
 import json
 import requests
 
+# -------------------- Ocean Monitoring Section --------------------
+
+# List of ocean monitoring points (lat, lon)
+OCEAN_POINTS = [
+    # Pacific Ocean east of Japan
+    (30.0, 145.0),
+    (35.0, 150.0),
+    (40.0, 155.0),
+    # Philippine Sea
+    (20.0, 130.0),
+    (25.0, 135.0),
+    (15.0, 140.0),
+    # South China Sea
+    (18.0, 115.0),
+    (22.0, 120.0),
+    (15.0, 118.0),
+]
+
+# -------------------- Japan Bounding Box Section --------------------
+
+# Japan bounding box (covers all main islands)
+JAPAN_BBOX = {
+    "min_lat": 24.396308,
+    "max_lat": 45.551483,
+    "min_lon": 122.93457,
+    "max_lon": 153.986672
+}
+
+def is_in_japan(lat, lon):
+    """Return True if the given lat/lon is within Japan's bounding box."""
+    return (JAPAN_BBOX["min_lat"] <= lat <= JAPAN_BBOX["max_lat"] and
+            JAPAN_BBOX["min_lon"] <= lon <= JAPAN_BBOX["max_lon"])
+    
 # -------------------- Weather Data Section --------------------
 
 # API URLs
@@ -84,25 +117,34 @@ with open('temps.json', 'w') as f:
 
 # -------------------- Typhoon Prediction Section --------------------
 
-# Typhoon prediction: collect entries with high wind and low pressure
+API_KEY = "53d842d393e922cf8bddf6360e657e6a"
+FORECAST_URL_TEMPLATE = "https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&units=metric&appid=" + API_KEY
+
 typhoon_entries = []
-for entry in forecast_data['list']:
-    wind_speed = entry['wind']['speed']
-    wind_gust = entry['wind'].get('gust', 0)
-    pressure = entry['main']['pressure']
-    # if wind_speed >= 20 or pressure <= 990:
-    if wind_speed >= 10 or pressure <= 1010:
-        typhoon_entries.append({
-            "time": entry['dt_txt'],
-            "wind_speed": wind_speed,
-            "wind_gust": wind_gust,
-            "pressure": pressure,
-            "temp": entry['main']['temp'],
-            "humidity": entry['main']['humidity'],
-            "weather_main": ", ".join([w['main'] for w in entry.get('weather', [])]),
-            "weather_description": ", ".join([w['description'] for w in entry.get('weather', [])]),
-            "rain_mm": entry.get('rain', {}).get('3h', 0)
-        })
+
+for lat, lon in OCEAN_POINTS:
+    url = FORECAST_URL_TEMPLATE.format(lat=lat, lon=lon)
+    forecast_response = requests.get(url)
+    forecast_data = forecast_response.json()
+    for entry in forecast_data['list']:
+        wind_speed = entry['wind']['speed']
+        wind_gust = entry['wind'].get('gust', 0)
+        pressure = entry['main']['pressure']
+        if wind_speed >= 10 or pressure <= 1010:
+            typhoon_entries.append({
+                "time": entry['dt_txt'],
+                "wind_speed": wind_speed,
+                "wind_gust": wind_gust,
+                "pressure": pressure,
+                "lat": lat,
+                "lon": lon,
+                "in_japan": is_in_japan(lat, lon),
+                "temp": entry['main']['temp'],
+                "humidity": entry['main']['humidity'],
+                "weather_main": ", ".join([w['main'] for w in entry.get('weather', [])]),
+                "weather_description": ", ".join([w['description'] for w in entry.get('weather', [])]),
+                "rain_mm": entry.get('rain', {}).get('3h', 0)
+            })
 
 with open('typhoon_predict.json', 'w') as f:
     json.dump(typhoon_entries, f, indent=2)
@@ -218,3 +260,6 @@ air_data["warnings"] = warnings
 # Write the updated data back to air_pollution.json
 with open('air_pollution.json', 'w') as f:
     json.dump(air_data, f, ensure_ascii=False, indent=2)
+
+
+
