@@ -7,17 +7,17 @@ import requests
 # List of ocean monitoring points (lat, lon)
 OCEAN_POINTS = [
     # Pacific Ocean east of Japan
-    (30.0, 145.0),
-    (35.0, 150.0),
-    (40.0, 155.0),
+    (30.0, 145.0, "Pacific Ocean"),
+    (35.0, 150.0, "Pacific Ocean"),
+    (40.0, 155.0, "Pacific Ocean"),
     # Philippine Sea
-    (20.0, 130.0),
-    (25.0, 135.0),
-    (15.0, 140.0),
+    (20.0, 130.0, "Philippine Sea"),
+    (25.0, 135.0, "Philippine Sea"),
+    (15.0, 140.0, "Philippine Sea"),
     # South China Sea
-    (18.0, 115.0),
-    (22.0, 120.0),
-    (15.0, 118.0),
+    (18.0, 115.0, "South China Sea"),
+    (22.0, 120.0, "South China Sea"),
+    (15.0, 118.0, "South China Sea"),
 ]
 
 # -------------------- Japan Bounding Box Section --------------------
@@ -120,9 +120,13 @@ with open('temps.json', 'w') as f:
 API_KEY = "53d842d393e922cf8bddf6360e657e6a"
 FORECAST_URL_TEMPLATE = "https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&units=metric&appid=" + API_KEY
 
-typhoon_entries = []
+typhoon_entries_by_region = {
+    "Pacific Ocean": [],
+    "Philippine Sea": [],
+    "South China Sea": []
+}
 
-for lat, lon in OCEAN_POINTS:
+for lat, lon, region in OCEAN_POINTS:
     url = FORECAST_URL_TEMPLATE.format(lat=lat, lon=lon)
     forecast_response = requests.get(url)
     forecast_data = forecast_response.json()
@@ -130,24 +134,29 @@ for lat, lon in OCEAN_POINTS:
         wind_speed = entry['wind']['speed']
         wind_gust = entry['wind'].get('gust', 0)
         pressure = entry['main']['pressure']
-        if wind_speed >= 10 or pressure <= 1010:
-            typhoon_entries.append({
+        if wind_speed >= 10 or pressure <= 1006:
+            typhoon_entry = {
                 "time": entry['dt_txt'],
                 "wind_speed": wind_speed,
                 "wind_gust": wind_gust,
                 "pressure": pressure,
                 "lat": lat,
                 "lon": lon,
+                "region": region,
                 "in_japan": is_in_japan(lat, lon),
                 "temp": entry['main']['temp'],
                 "humidity": entry['main']['humidity'],
                 "weather_main": ", ".join([w['main'] for w in entry.get('weather', [])]),
                 "weather_description": ", ".join([w['description'] for w in entry.get('weather', [])]),
                 "rain_mm": entry.get('rain', {}).get('3h', 0)
-            })
+            }
+            typhoon_entries_by_region[region].append(typhoon_entry)
 
-with open('typhoon_predict.json', 'w') as f:
-    json.dump(typhoon_entries, f, indent=2)
+# Save each region's data to its own file
+for region, entries in typhoon_entries_by_region.items():
+    filename = f"typhoon_predict_{region.replace(' ', '_').lower()}.json"
+    with open(filename, 'w') as f:
+        json.dump(entries, f, indent=2)
 
 # -------------------- Earthquake Data Section --------------------
 
