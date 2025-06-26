@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   build-and-deploy:
@@ -54,10 +55,10 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add *.json
         git commit -m "Update JSON files [skip ci]" || echo "No changes to commit"
-        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push origin gh-pages
       env:
-        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   cleanup-old-workflows:
     runs-on: ubuntu-latest
@@ -67,7 +68,7 @@ jobs:
         with:
           retain_days: 0
           keep_minimum_runs: 0
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
 # ----------------------------------------------------------------------------------------------------------------------------- #
 
