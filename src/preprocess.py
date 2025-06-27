@@ -134,7 +134,7 @@ for lat, lon, region in OCEAN_POINTS:
         wind_speed = entry['wind']['speed']
         wind_gust = entry['wind'].get('gust', 0)
         pressure = entry['main']['pressure']
-        if wind_speed >= 18 or pressure <= 1006:
+        if wind_speed >= 18 or pressure <= 995:
             typhoon_entry = {
                 "time": entry['dt_txt'],
                 "wind_speed": wind_speed,
