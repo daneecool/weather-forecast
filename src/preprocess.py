@@ -1,4 +1,4 @@
-from datetime import datetime, date
+from datetime import datetime, date, timezone
 import json
 import requests
 
@@ -47,7 +47,7 @@ current_data = current_response.json()
 current_mains = [w['main'] for w in current_data.get('weather', [])]
 current_descriptions = [w['description'] for w in current_data.get('weather', [])]
 current_icons = [w['icon'] for w in current_data.get('weather', [])]
-current_time_str = datetime.utcfromtimestamp(current_data['dt']).strftime('%Y-%m-%d %H:%M:%S')
+current_time_str = datetime.fromtimestamp(current_data['dt'], timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
 rain_1h = current_data.get('rain', {}).get('1h', 0)
 snow_1h = current_data.get('snow', {}).get('1h', 0)
 
@@ -267,5 +267,5 @@ warnings = air_quality_warnings(components)
 air_data["warnings"] = warnings
 
 # Write the updated data back to air_pollution.json
-with open('air_pollution.json', 'w') as f:
+with open('air_pollution.json', 'w', encoding='utf-8') as f:
     json.dump(air_data, f, ensure_ascii=False, indent=2)
