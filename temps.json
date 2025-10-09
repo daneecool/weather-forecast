@@ -1,21 +1,21 @@
 [
   {
     "time": "2025-10-09 18:00:00",
-    "temp": 19.44,
-    "temp_max": 19.44,
-    "temp_min": 19.37,
-    "humidity": 57,
-    "feels_like": 18.93,
+    "temp": 19.14,
+    "temp_max": 19.37,
+    "temp_min": 19.14,
+    "humidity": 63,
+    "feels_like": 18.75,
     "pressure": 1019,
     "rain_mm": 0
   },
   {
     "time": "2025-10-09 21:00:00",
-    "temp": 19.37,
-    "temp_max": 19.37,
-    "temp_min": 19.32,
-    "humidity": 59,
-    "feels_like": 18.9,
+    "temp": 19.22,
+    "temp_max": 19.32,
+    "temp_min": 19.22,
+    "humidity": 62,
+    "feels_like": 18.82,
     "pressure": 1020,
     "rain_mm": 0
   },
