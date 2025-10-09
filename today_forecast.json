@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-10-09 21:00:00",
-    "temp": 18.92,
+    "temp": 18.71,
     "temp_max": 19.34,
-    "temp_min": 18.92,
-    "humidity": 68,
-    "feels_like": 18.64,
-    "pressure": 1020,
+    "temp_min": 18.71,
+    "humidity": 70,
+    "feels_like": 18.46,
+    "pressure": 1021,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04d",
