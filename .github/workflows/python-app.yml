@@ -2,11 +2,12 @@ name: Python application and GitHub Pages update
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'  # Changed to every 30 minutes to avoid rate limits
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  workflow_dispatch:  # Allow manual triggering
 
 permissions:
   contents: write
@@ -18,11 +19,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch all history for all branches
 
-    - name: Set up Python 3.10
+    - name: Set up Python 3.11
       uses: actions/setup-python@v4
       with:
-        python-version: "3.10"
+        python-version: "3.11"
 
     - name: Install dependencies
       run: |
@@ -36,38 +39,49 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
     - name: Run preprocess.py
-      run: python src/preprocess.py
+      run: |
+        cd src
+        python preprocess.py
+
+    - name: Check if JSON files were created
+      run: |
+        ls -la src/*.json || echo "No JSON files found"
 
     - name: Checkout gh-pages branch
       uses: actions/checkout@v4
       with:
         ref: gh-pages
         path: gh-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Copy JSON files to gh-pages
       run: |
-        cp src/*.json gh-pages/
+        cp src/*.json gh-pages/ || echo "No JSON files to copy"
 
     - name: Commit and push changes
       run: |
         cd gh-pages
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add *.json
-        git commit -m "Update JSON files [skip ci]" || echo "No changes to commit"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git push origin gh-pages
+        git add *.json || echo "No JSON files to add"
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update JSON files [skip ci]"
+          git push origin gh-pages
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   cleanup-old-workflows:
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'  # Only run cleanup on scheduled runs
     steps:
-      - name: Delete workflow runs older than 1 day
+      - name: Delete workflow runs older than 7 days
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          retain_days: 1
-          keep_minimum_runs: 3
+          retain_days: 7
+          keep_minimum_runs: 10
           token: ${{ secrets.GITHUB_TOKEN }}
 
 # ----------------------------------------------------------------------------------------------------------------------------- #
