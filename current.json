@@ -1,9 +1,9 @@
 {
-  "time": "2025-10-10 11:03:04",
-  "temp": 21.62,
+  "time": "2025-10-10 11:29:02",
+  "temp": 21.55,
   "temp_max": 22.19,
   "temp_min": 20.55,
-  "humidity": 70,
+  "humidity": 73,
   "feels_like": 21.67,
   "pressure": 1020,
   "weather_main": "Clouds",
