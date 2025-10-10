@@ -1,47 +1,47 @@
 [
   {
-    "time": "2025-10-13 09:00:00",
-    "wind_speed": 24.47,
-    "wind_gust": 31.71,
-    "pressure": 993,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 25.04,
-    "humidity": 90,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 4.69
-  },
-  {
     "time": "2025-10-13 12:00:00",
-    "wind_speed": 38.53,
-    "wind_gust": 43.2,
+    "wind_speed": 28.87,
+    "wind_gust": 33.82,
     "pressure": 990,
     "lat": 35.0,
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 21.3,
-    "humidity": 95,
+    "temp": 23.99,
+    "humidity": 97,
     "weather_main": "Rain",
     "weather_description": "very heavy rain",
-    "rain_mm": 60.38
+    "rain_mm": 57
   },
   {
     "time": "2025-10-13 15:00:00",
-    "wind_speed": 21.97,
-    "wind_gust": 25.74,
-    "pressure": 1007,
+    "wind_speed": 27.87,
+    "wind_gust": 33.62,
+    "pressure": 1004,
     "lat": 35.0,
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 20.82,
-    "humidity": 84,
+    "temp": 20.78,
+    "humidity": 86,
+    "weather_main": "Rain",
+    "weather_description": "very heavy rain",
+    "rain_mm": 96.19
+  },
+  {
+    "time": "2025-10-13 18:00:00",
+    "wind_speed": 20.36,
+    "wind_gust": 22.51,
+    "pressure": 1011,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 20.56,
+    "humidity": 75,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 1.06
+    "rain_mm": 0.13
   }
 ]
