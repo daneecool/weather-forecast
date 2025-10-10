@@ -57,18 +57,33 @@ jobs:
     - name: Copy JSON files to gh-pages
       run: |
         cp src/*.json gh-pages/ || echo "No JSON files to copy"
+        ls -la gh-pages/*.json || echo "No JSON files in gh-pages"
 
     - name: Commit and push changes
       run: |
         cd gh-pages
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add all JSON files
         git add *.json || echo "No JSON files to add"
+        
+        # Show what files are staged
+        echo "Staged files:"
+        git diff --staged --name-only || echo "No staged files"
+        
+        # Show the actual changes
+        echo "Changes in staged files:"
+        git diff --staged || echo "No changes in staged files"
+        
+        # Check if there are any changes to commit
         if git diff --staged --quiet; then
-          echo "No changes to commit"
+          echo "No changes detected in JSON files - skipping commit"
         else
-          git commit -m "Update JSON files [skip ci]"
+          echo "Changes detected, committing..."
+          git commit -m "Update JSON files $(date '+%Y-%m-%d %H:%M:%S') [skip ci]"
           git push origin gh-pages
+          echo "Successfully pushed changes to gh-pages"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
