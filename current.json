@@ -1,14 +1,14 @@
 {
-  "time": "2025-10-11 05:05:05",
-  "temp": 19.44,
-  "temp_max": 19.44,
-  "temp_min": 19.44,
-  "humidity": 83,
-  "feels_like": 19.61,
+  "time": "2025-10-11 05:34:39",
+  "temp": 19.29,
+  "temp_max": 19.29,
+  "temp_min": 19.29,
+  "humidity": 81,
+  "feels_like": 19.39,
   "pressure": 1017,
   "weather_main": "Rain",
   "weather_description": "moderate rain",
   "weather_icon": "10d",
-  "rain_1h_mm": 3.65,
+  "rain_1h_mm": 1.15,
   "snow_1h_mm": 0
 }
