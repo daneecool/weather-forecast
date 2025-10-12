@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-12 21:00:00",
-    "temp": 21.85,
+    "temp": 20.82,
     "temp_max": 22.77,
-    "temp_min": 21.85,
-    "humidity": 85,
-    "feels_like": 22.31,
+    "temp_min": 20.82,
+    "humidity": 89,
+    "feels_like": 21.28,
     "pressure": 1009,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
