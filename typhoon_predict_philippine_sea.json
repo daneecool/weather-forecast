@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "time": "2025-10-16 03:00:00",
+    "wind_speed": 18.5,
+    "wind_gust": 23.08,
+    "pressure": 996,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.95,
+    "humidity": 86,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 6.01
+  },
+  {
+    "time": "2025-10-16 06:00:00",
+    "wind_speed": 26.41,
+    "wind_gust": 30.01,
+    "pressure": 988,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.12,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 30.55
+  },
+  {
+    "time": "2025-10-16 09:00:00",
+    "wind_speed": 27.4,
+    "wind_gust": 31.72,
+    "pressure": 991,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 26.88,
+    "humidity": 95,
+    "weather_main": "Rain",
+    "weather_description": "very heavy rain",
+    "rain_mm": 54.93
+  },
+  {
+    "time": "2025-10-16 12:00:00",
+    "wind_speed": 21.75,
+    "wind_gust": 26.45,
+    "pressure": 1001,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 26.84,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "very heavy rain",
+    "rain_mm": 55.84
+  }
+]
