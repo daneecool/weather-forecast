@@ -1,5 +1,5 @@
 {
-  "time": "2025-10-12 15:32:03",
+  "time": "2025-10-12 16:00:17",
   "temp": 21.72,
   "temp_max": 22.19,
   "temp_min": 20.58,
@@ -7,8 +7,8 @@
   "feels_like": 22.25,
   "pressure": 1010,
   "weather_main": "Rain",
-  "weather_description": "light intensity shower rain",
-  "weather_icon": "09n",
-  "rain_1h_mm": 2.73,
+  "weather_description": "heavy intensity rain",
+  "weather_icon": "10n",
+  "rain_1h_mm": 4.86,
   "snow_1h_mm": 0
 }
