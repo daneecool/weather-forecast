@@ -1,30 +1,43 @@
 {
-  "EventID": "20251011232436",
+  "EventID": "20251013122557",
   "Serial": 6,
-  "AnnouncedTime": "2025/10/11 23:25:24",
-  "OriginTime": "2025/10/11 23:24:22",
-  "Hypocenter": "沖縄本島北西沖",
-  "Latitude": 27.3,
-  "Longitude": 127.6,
-  "Magunitude": 4.1,
+  "AnnouncedTime": "2025/10/13 12:26:56",
+  "OriginTime": "2025/10/13 12:25:45",
+  "Hypocenter": "宮城県沖",
+  "Latitude": 38.6,
+  "Longitude": 142.5,
+  "Magunitude": 4.6,
   "Depth": 90,
-  "MaxIntensity": "2",
+  "MaxIntensity": "3",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251011232524 C11 251011232422 ND20251011232436 NCN906 JD////////////// JN/// 858 N273 E1276 090 41 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "1",
+  "OriginalText": "37 03 00 251013122656 C11 251013122545 ND20251013122557 NCN906 JD////////////// JN/// 287 N386 E1425 090 46 03 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "131",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251013122557",
+      "time": "2025/10/13 12:25",
+      "time_full": "2025/10/13 12:25:57",
+      "location": "宮城県沖",
+      "magnitude": "4.6",
+      "depth": "70km",
+      "latitude": "38.6",
+      "longitude": "142.4",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251013023613",
       "time": "2025/10/13 02:36",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "29.1",
       "longitude": "129.3",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251013023517",
       "time": "2025/10/13 02:35",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251012123443",
       "time": "2025/10/12 12:34",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251012042506",
       "time": "2025/10/12 04:25",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251011232436",
       "time": "2025/10/11 23:24",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251011123045",
       "time": "2025/10/11 12:30",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251011101424",
       "time": "2025/10/11 10:14",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251011082326",
       "time": "2025/10/11 08:23",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251011070646",
       "time": "2025/10/11 07:06",
@@ -138,19 +151,6 @@
       "depth": "60km",
       "latitude": "41.7",
       "longitude": "142.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251011063954",
-      "time": "2025/10/11 06:39",
-      "time_full": "2025/10/11 06:39:54",
-      "location": "福島県浜通り",
-      "magnitude": "3.6",
-      "depth": "100km",
-      "latitude": "37.2",
-      "longitude": "141.0",
       "info": "",
       "intensity": "1"
     }
