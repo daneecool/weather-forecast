@@ -1,5 +1,20 @@
 [
   {
+    "time": "2025-10-18 03:00:00",
+    "wind_speed": 20.16,
+    "wind_gust": 26.82,
+    "pressure": 1001,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.71,
+    "humidity": 86,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 1.32
+  },
+  {
     "time": "2025-10-16 06:00:00",
     "wind_speed": 24.38,
     "wind_gust": 26.36,
