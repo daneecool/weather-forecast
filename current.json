@@ -1,14 +1,14 @@
 {
-  "time": "2025-10-16 11:00:07",
+  "time": "2025-10-16 11:33:02",
   "temp": 18.84,
   "temp_max": 18.98,
   "temp_min": 18.38,
   "humidity": 92,
   "feels_like": 19.18,
-  "pressure": 1013,
-  "weather_main": "Rain, Mist",
-  "weather_description": "light rain, mist",
-  "weather_icon": "10n, 50n",
-  "rain_1h_mm": 0.42,
+  "pressure": 1014,
+  "weather_main": "Clouds",
+  "weather_description": "broken clouds",
+  "weather_icon": "04n",
+  "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
