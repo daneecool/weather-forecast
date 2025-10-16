@@ -1,11 +1,11 @@
 {
-  "time": "2025-10-16 18:07:10",
+  "time": "2025-10-16 18:40:49",
   "temp": 18.52,
   "temp_max": 19.58,
   "temp_min": 18.1,
   "humidity": 93,
   "feels_like": 18.86,
-  "pressure": 1015,
+  "pressure": 1016,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
   "weather_icon": "02n",
