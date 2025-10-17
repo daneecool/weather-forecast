@@ -7,9 +7,9 @@
     "humidity": 88,
     "feels_like": 17.03,
     "pressure": 1021,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01d",
+    "weather_main": "Clouds",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03d",
     "rain_mm": 0,
     "snow_mm": 0
   }
