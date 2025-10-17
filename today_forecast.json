@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-17 21:00:00",
-    "temp": 18.92,
-    "temp_max": 20.8,
-    "temp_min": 18.92,
-    "humidity": 75,
-    "feels_like": 18.83,
+    "temp": 18.84,
+    "temp_max": 20.76,
+    "temp_min": 18.84,
+    "humidity": 79,
+    "feels_like": 18.84,
     "pressure": 1022,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
