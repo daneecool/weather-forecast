@@ -73,5 +73,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.44
+  },
+  {
+    "time": "2025-10-22 03:00:00",
+    "wind_speed": 33.34,
+    "wind_gust": 36.64,
+    "pressure": 991,
+    "lat": 18.0,
+    "lon": 115.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 25.58,
+    "humidity": 92,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 29.1
   }
 ]
