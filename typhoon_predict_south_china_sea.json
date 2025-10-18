@@ -148,5 +148,20 @@
     "weather_main": "Rain",
     "weather_description": "moderate rain",
     "rain_mm": 3.36
+  },
+  {
+    "time": "2025-10-23 00:00:00",
+    "wind_speed": 25.49,
+    "wind_gust": 29.97,
+    "pressure": 994,
+    "lat": 18.0,
+    "lon": 115.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 27.22,
+    "humidity": 89,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 5.67
   }
 ]
