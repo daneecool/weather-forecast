@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-10-18 21:00:00",
-    "temp": 21.88,
-    "temp_max": 22.73,
-    "temp_min": 21.88,
-    "humidity": 73,
-    "feels_like": 22.03,
-    "pressure": 1017,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
