@@ -1,17 +1,17 @@
 [
   {
-    "time": "2025-10-22 18:00:00",
-    "wind_speed": 18.11,
-    "wind_gust": 20.21,
+    "time": "2025-10-22 12:00:00",
+    "wind_speed": 20.93,
+    "wind_gust": 25.32,
     "pressure": 1001,
     "lat": 18.0,
     "lon": 115.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 25.66,
-    "humidity": 90,
+    "temp": 25.19,
+    "humidity": 91,
     "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.75
+    "weather_description": "moderate rain",
+    "rain_mm": 3.23
   }
 ]
