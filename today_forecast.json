@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-20 21:00:00",
-    "temp": 16.35,
-    "temp_max": 16.35,
+    "temp": 16.26,
+    "temp_max": 16.26,
     "temp_min": 15.99,
-    "humidity": 73,
-    "feels_like": 15.95,
+    "humidity": 72,
+    "feels_like": 15.82,
     "pressure": 1023,
     "weather_main": "Rain",
     "weather_description": "light rain",
