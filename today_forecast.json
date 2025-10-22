@@ -1,19 +1,5 @@
 [
   {
-    "time": "2025-10-22 18:00:00",
-    "temp": 13.06,
-    "temp_max": 14.47,
-    "temp_min": 13.06,
-    "humidity": 80,
-    "feels_like": 12.51,
-    "pressure": 1027,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2025-10-22 21:00:00",
     "temp": 13.53,
     "temp_max": 14.47,
