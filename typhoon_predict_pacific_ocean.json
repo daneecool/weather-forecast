@@ -1,17 +1,17 @@
 [
   {
-    "time": "2025-10-27 06:00:00",
-    "wind_speed": 21.76,
-    "wind_gust": 30.53,
-    "pressure": 996,
-    "lat": 40.0,
-    "lon": 155.0,
+    "time": "2025-10-26 18:00:00",
+    "wind_speed": 18.6,
+    "wind_gust": 24.91,
+    "pressure": 1009,
+    "lat": 35.0,
+    "lon": 150.0,
     "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 20.76,
-    "humidity": 93,
+    "in_japan": true,
+    "temp": 23.51,
+    "humidity": 90,
     "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
-    "rain_mm": 41
+    "weather_description": "moderate rain",
+    "rain_mm": 7.19
   }
 ]
