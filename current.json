@@ -1,5 +1,5 @@
 {
-  "time": "2025-10-24 15:36:22",
+  "time": "2025-10-24 16:05:51",
   "temp": 13.93,
   "temp_max": 13.98,
   "temp_min": 11.58,
@@ -7,8 +7,8 @@
   "feels_like": 13.52,
   "pressure": 1025,
   "weather_main": "Rain",
-  "weather_description": "light rain",
+  "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 0.91,
+  "rain_1h_mm": 1.07,
   "snow_1h_mm": 0
 }
