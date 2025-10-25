@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-10-25 21:00:00",
-    "temp": 14.28,
-    "temp_max": 15.93,
-    "temp_min": 14.28,
-    "humidity": 93,
-    "feels_like": 14.19,
-    "pressure": 1016,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 1.7,
-    "snow_mm": 0
-  }
-]
+[]
