@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2025-10-26 15:00:00",
+    "wind_speed": 19.84,
+    "wind_gust": 21.2,
+    "pressure": 1008,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 22.59,
+    "humidity": 92,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 7.69
+  }
+]
