@@ -1,14 +1,14 @@
 {
-  "time": "2025-10-26 18:00:06",
-  "temp": 15.91,
+  "time": "2025-10-26 18:35:26",
+  "temp": 15.9,
   "temp_max": 16.08,
   "temp_min": 15.55,
-  "humidity": 96,
-  "feels_like": 16.06,
+  "humidity": 93,
+  "feels_like": 15.97,
   "pressure": 1004,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02n",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
