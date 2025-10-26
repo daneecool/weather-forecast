@@ -1,63 +1,56 @@
 {
-  "EventID": "20251025014018",
-  "Serial": 10,
-  "AnnouncedTime": "2025/10/25 01:41:18",
-  "OriginTime": "2025/10/25 01:40:09",
-  "Hypocenter": "根室半島南東沖",
-  "Latitude": 42.9,
-  "Longitude": 145.6,
-  "Magunitude": 6.1,
-  "Depth": 50,
-  "MaxIntensity": "5弱",
-  "isSea": true,
+  "EventID": "20251026120742",
+  "Serial": 3,
+  "AnnouncedTime": "2025/10/26 12:08:51",
+  "OriginTime": "2025/10/26 12:07:41",
+  "Hypocenter": "栃木県南部",
+  "Latitude": 36.6,
+  "Longitude": 139.5,
+  "Magunitude": 4.1,
+  "Depth": 10,
+  "MaxIntensity": "3",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": true,
+  "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251025014118 C11 251025014009 ND20251025014018 NCN910 JD////////////// JN/// 189 N429 E1456 050 61 5- RK44559 RT11/// RC0//// EBI 167 S5-5- ////// 11 166 S5-5- 014028 19 161 S0404 ////// 11 165 S0404 ////// 11 9999=",
-  "Pond": "47",
+  "OriginalText": "37 03 00 251026120851 C11 251026120741 ND20251026120742 NCN903 JD////////////// JN/// 311 N366 E1395 010 41 03 RK44519 RT00/// RC0//// 9999=",
+  "Pond": "26",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "根室地方南部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "根室地方中部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "014028",
-      "Type": "警報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    },
-    {
-      "Chiiki": "釧路地方中南部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "根室地方北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251026120742",
+      "time": "2025/10/26 12:07",
+      "time_full": "2025/10/26 12:07:42",
+      "location": "栃木県南部",
+      "magnitude": "3.7",
+      "depth": "10km",
+      "latitude": "36.6",
+      "longitude": "139.5",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20251026120456",
+      "time": "2025/10/26 12:04",
+      "time_full": "2025/10/26 12:04:56",
+      "location": "栃木県北部",
+      "magnitude": "4.7",
+      "depth": "10km",
+      "latitude": "36.6",
+      "longitude": "139.4",
+      "info": "",
+      "intensity": "4"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251026010959",
       "time": "2025/10/26 01:09",
@@ -67,10 +60,10 @@
       "depth": "10km",
       "latitude": "36.9",
       "longitude": "140.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251026003440",
       "time": "2025/10/26 00:34",
@@ -83,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251025234436",
       "time": "2025/10/25 23:44",
@@ -96,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251025141301",
       "time": "2025/10/25 14:13",
@@ -109,7 +102,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251025093923",
       "time": "2025/10/25 09:39",
@@ -122,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20251025014018",
       "time": "2025/10/25 01:40",
@@ -135,7 +128,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251025014018",
       "time": "2025/10/25 01:40",
@@ -148,7 +141,7 @@
       "info": "",
       "intensity": "5-"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251024154734",
       "time": "2025/10/24 15:47",
@@ -158,32 +151,6 @@
       "depth": "70km",
       "latitude": "35.8",
       "longitude": "140.1",
-      "info": "",
-      "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20251024104303",
-      "time": "2025/10/24 10:43",
-      "time_full": "2025/10/24 10:43:03",
-      "location": "トカラ列島近海",
-      "magnitude": "3.1",
-      "depth": "20km",
-      "latitude": "29.4",
-      "longitude": "129.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251024092722",
-      "time": "2025/10/24 09:27",
-      "time_full": "2025/10/24 09:27:22",
-      "location": "宮城県沖",
-      "magnitude": "3.9",
-      "depth": "50km",
-      "latitude": "38.2",
-      "longitude": "141.7",
       "info": "",
       "intensity": "2"
     }
