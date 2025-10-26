@@ -8,8 +8,8 @@
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 22.87,
-    "humidity": 89,
+    "temp": 22.7,
+    "humidity": 92,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "rain_mm": 19.31
