@@ -118,5 +118,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.81
+  },
+  {
+    "time": "2025-11-01 15:00:00",
+    "wind_speed": 19.34,
+    "wind_gust": 29.42,
+    "pressure": 1000,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 19.78,
+    "humidity": 80,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.56
   }
 ]
