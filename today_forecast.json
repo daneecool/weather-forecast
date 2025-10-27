@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-27 21:00:00",
-    "temp": 16.07,
+    "temp": 15.96,
     "temp_max": 17.32,
-    "temp_min": 16.07,
-    "humidity": 58,
-    "feels_like": 15.25,
+    "temp_min": 15.96,
+    "humidity": 66,
+    "feels_like": 15.33,
     "pressure": 1015,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
