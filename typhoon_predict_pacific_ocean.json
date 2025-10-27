@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "time": "2025-10-27 03:00:00",
+    "wind_speed": 15.11,
+    "wind_gust": 20.7,
+    "pressure": 994,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 19.62,
+    "humidity": 94,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 4.13
+  },
+  {
+    "time": "2025-10-27 06:00:00",
+    "wind_speed": 16.05,
+    "wind_gust": 22.64,
+    "pressure": 995,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 19.54,
+    "humidity": 92,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.13
+  }
+]
