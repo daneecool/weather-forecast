@@ -1,15 +1,15 @@
 [
   {
     "time": "2025-10-28 21:00:00",
-    "temp": 14.3,
+    "temp": 13.71,
     "temp_max": 15.12,
-    "temp_min": 14.3,
-    "humidity": 45,
-    "feels_like": 12.96,
-    "pressure": 1025,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03d",
+    "temp_min": 13.71,
+    "humidity": 47,
+    "feels_like": 12.36,
+    "pressure": 1026,
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "weather_icon": "01d",
     "rain_mm": 0,
     "snow_mm": 0
   }
