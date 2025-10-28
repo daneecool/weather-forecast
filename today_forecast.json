@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-28 21:00:00",
-    "temp": 14.5,
+    "temp": 14.21,
     "temp_max": 14.85,
-    "temp_min": 14.5,
+    "temp_min": 14.21,
     "humidity": 45,
-    "feels_like": 13.18,
+    "feels_like": 12.86,
     "pressure": 1025,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
