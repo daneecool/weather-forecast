@@ -1,17 +1,1 @@
-[
-  {
-    "time": "2025-10-29 12:00:00",
-    "wind_speed": 19.01,
-    "wind_gust": 21.49,
-    "pressure": 1015,
-    "lat": 25.0,
-    "lon": 135.0,
-    "region": "Philippine Sea",
-    "in_japan": true,
-    "temp": 24.15,
-    "humidity": 91,
-    "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
-    "rain_mm": 33.52
-  }
-]
+[]
