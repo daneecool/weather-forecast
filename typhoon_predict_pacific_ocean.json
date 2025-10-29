@@ -28,5 +28,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 0.65
+  },
+  {
+    "time": "2025-11-03 18:00:00",
+    "wind_speed": 18.48,
+    "wind_gust": 20.5,
+    "pressure": 1005,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 15.03,
+    "humidity": 83,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.25
   }
 ]
