@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-10-30 21:00:00",
-    "temp": 14.73,
+    "temp": 14.15,
     "temp_max": 17.03,
-    "temp_min": 14.73,
-    "humidity": 71,
-    "feels_like": 14.11,
+    "temp_min": 14.15,
+    "humidity": 73,
+    "feels_like": 13.53,
     "pressure": 1024,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
