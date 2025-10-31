@@ -1,15 +1,15 @@
 [
   {
     "time": "2025-10-31 21:00:00",
-    "temp": 15.34,
+    "temp": 15.39,
     "temp_max": 17.18,
-    "temp_min": 15.34,
-    "humidity": 87,
-    "feels_like": 15.2,
+    "temp_min": 15.39,
+    "humidity": 88,
+    "feels_like": 15.28,
     "pressure": 999,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   }
