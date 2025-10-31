@@ -1,11 +1,11 @@
 {
-  "time": "2025-10-31 21:04:11",
+  "time": "2025-10-31 21:33:32",
   "temp": 13.98,
   "temp_max": 13.98,
   "temp_min": 13.58,
   "humidity": 94,
   "feels_like": 13.89,
-  "pressure": 1000,
+  "pressure": 1001,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
   "weather_icon": "02d",
