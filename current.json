@@ -1,14 +1,14 @@
 {
-  "time": "2025-10-31 11:04:23",
+  "time": "2025-10-31 11:30:22",
   "temp": 14.57,
   "temp_max": 14.98,
   "temp_min": 14.21,
   "humidity": 94,
   "feels_like": 14.54,
-  "pressure": 1009,
+  "pressure": 1005,
   "weather_main": "Rain, Mist",
   "weather_description": "shower rain, mist",
   "weather_icon": "09n, 50n",
-  "rain_1h_mm": 8.65,
+  "rain_1h_mm": 4.86,
   "snow_1h_mm": 0
 }
