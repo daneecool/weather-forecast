@@ -1,5 +1,5 @@
 {
-  "time": "2025-10-31 08:06:50",
+  "time": "2025-10-31 08:26:10",
   "temp": 15.98,
   "temp_max": 15.98,
   "temp_min": 14.58,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "light intensity shower rain",
   "weather_icon": "09n",
-  "rain_1h_mm": 7.09,
+  "rain_1h_mm": 5.62,
   "snow_1h_mm": 0
 }
