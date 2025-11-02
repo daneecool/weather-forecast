@@ -118,5 +118,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 2.43
+  },
+  {
+    "time": "2025-11-07 06:00:00",
+    "wind_speed": 18.2,
+    "wind_gust": 22.55,
+    "pressure": 994,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.24,
+    "humidity": 85,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 1.68
   }
 ]
