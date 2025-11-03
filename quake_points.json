@@ -2,6 +2,48 @@
   {
     "No": "No1",
     "Title": "震源・震度情報",
+    "EventID": "20251103193101",
+    "time": "2025/11/03 19:31",
+    "time_full": "2025/11/03 19:31:01",
+    "location": "鹿児島県薩摩地方",
+    "magnitude": "2.2",
+    "depth": "0km",
+    "latitude": "31.8",
+    "longitude": "130.7",
+    "info": "この地震による津波の心配はありません。",
+    "intensity": "2"
+  },
+  {
+    "No": "No2",
+    "Title": "震源・震度情報",
+    "EventID": "20251103192034",
+    "time": "2025/11/03 19:20",
+    "time_full": "2025/11/03 19:20:34",
+    "location": "鹿児島県薩摩地方",
+    "magnitude": "2.5",
+    "depth": "0km",
+    "latitude": "31.8",
+    "longitude": "130.7",
+    "info": "",
+    "intensity": "3"
+  },
+  {
+    "No": "No3",
+    "Title": "震源・震度情報",
+    "EventID": "20251103191847",
+    "time": "2025/11/03 19:18",
+    "time_full": "2025/11/03 19:18:47",
+    "location": "鹿児島県薩摩地方",
+    "magnitude": "4.2",
+    "depth": "0km",
+    "latitude": "31.8",
+    "longitude": "130.7",
+    "info": "",
+    "intensity": "4"
+  },
+  {
+    "No": "No4",
+    "Title": "震源・震度情報",
     "EventID": "20251103185047",
     "time": "2025/11/03 18:50",
     "time_full": "2025/11/03 18:50:47",
@@ -10,11 +52,11 @@
     "depth": "0km",
     "latitude": "31.8",
     "longitude": "130.7",
-    "info": "この地震による津波の心配はありません。",
+    "info": "",
     "intensity": "3"
   },
   {
-    "No": "No2",
+    "No": "No5",
     "Title": "震源・震度情報",
     "EventID": "20251103173857",
     "time": "2025/11/03 17:38",
@@ -28,7 +70,7 @@
     "intensity": "2"
   },
   {
-    "No": "No3",
+    "No": "No6",
     "Title": "震源・震度情報",
     "EventID": "20251103144103",
     "time": "2025/11/03 14:41",
@@ -42,7 +84,7 @@
     "intensity": "2"
   },
   {
-    "No": "No4",
+    "No": "No7",
     "Title": "震源・震度情報",
     "EventID": "20251103091547",
     "time": "2025/11/03 09:15",
@@ -56,7 +98,7 @@
     "intensity": "1"
   },
   {
-    "No": "No5",
+    "No": "No8",
     "Title": "震源・震度情報",
     "EventID": "20251103055753",
     "time": "2025/11/03 05:57",
@@ -70,7 +112,7 @@
     "intensity": "2"
   },
   {
-    "No": "No6",
+    "No": "No9",
     "Title": "震源・震度情報",
     "EventID": "20251102231536",
     "time": "2025/11/02 23:15",
@@ -84,7 +126,7 @@
     "intensity": "2"
   },
   {
-    "No": "No7",
+    "No": "No10",
     "Title": "震源・震度情報",
     "EventID": "20251102204319",
     "time": "2025/11/02 20:43",
@@ -94,48 +136,6 @@
     "depth": "60km",
     "latitude": "38.0",
     "longitude": "141.8",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No8",
-    "Title": "震源・震度情報",
-    "EventID": "20251102203952",
-    "time": "2025/11/02 20:39",
-    "time_full": "2025/11/02 20:39:52",
-    "location": "鹿児島県薩摩地方",
-    "magnitude": "1.2",
-    "depth": "0km",
-    "latitude": "31.8",
-    "longitude": "130.7",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No9",
-    "Title": "震源・震度情報",
-    "EventID": "20251102184344",
-    "time": "2025/11/02 18:43",
-    "time_full": "2025/11/02 18:43:44",
-    "location": "土佐湾",
-    "magnitude": "2.7",
-    "depth": "30km",
-    "latitude": "33.4",
-    "longitude": "134.0",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No10",
-    "Title": "震源・震度情報",
-    "EventID": "20251102172441",
-    "time": "2025/11/02 17:24",
-    "time_full": "2025/11/02 17:24:41",
-    "location": "和歌山県北部",
-    "magnitude": "2.1",
-    "depth": "0km",
-    "latitude": "34.1",
-    "longitude": "135.2",
     "info": "",
     "intensity": "1"
   }
