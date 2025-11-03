@@ -1,10 +1,10 @@
 [
   {
     "time": "2025-11-03 21:00:00",
-    "temp": 11.83,
+    "temp": 11.74,
     "temp_max": 13.65,
-    "temp_min": 11.83,
-    "humidity": 60,
+    "temp_min": 11.74,
+    "humidity": 64,
     "feels_like": 10.64,
     "pressure": 1028,
     "weather_main": "Clear",
