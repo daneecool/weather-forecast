@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-11-03 21:00:00",
-    "temp": 11.49,
-    "temp_max": 13.65,
-    "temp_min": 11.49,
-    "humidity": 64,
-    "feels_like": 10.37,
-    "pressure": 1028,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
