@@ -1,14 +1,14 @@
 {
-  "time": "2025-11-04 07:33:30",
-  "temp": 16.01,
-  "temp_max": 16.64,
-  "temp_min": 15.05,
-  "humidity": 52,
-  "feels_like": 15.02,
+  "time": "2025-11-04 08:07:02",
+  "temp": 15.62,
+  "temp_max": 16.08,
+  "temp_min": 14.47,
+  "humidity": 53,
+  "feels_like": 14.62,
   "pressure": 1027,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
