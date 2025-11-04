@@ -7,9 +7,9 @@
     "humidity": 67,
     "feels_like": 12.26,
     "pressure": 1028,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_main": "Clear",
+    "weather_description": "clear sky",
+    "weather_icon": "01n",
     "rain_mm": 0,
     "snow_mm": 0
   },
@@ -22,8 +22,8 @@
     "feels_like": 12.91,
     "pressure": 1028,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   },
@@ -36,7 +36,7 @@
     "feels_like": 13.19,
     "pressure": 1027,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
+    "weather_description": "broken clouds",
     "weather_icon": "04n",
     "rain_mm": 0,
     "snow_mm": 0
