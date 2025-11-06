@@ -1,20 +1,5 @@
 [
   {
-    "time": "2025-11-06 12:00:00",
-    "wind_speed": 18.19,
-    "wind_gust": 23.49,
-    "pressure": 1002,
-    "lat": 15.0,
-    "lon": 140.0,
-    "region": "Philippine Sea",
-    "in_japan": false,
-    "temp": 27.52,
-    "humidity": 85,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 5.77
-  },
-  {
     "time": "2025-11-06 15:00:00",
     "wind_speed": 19.41,
     "wind_gust": 23.5,
@@ -26,8 +11,8 @@
     "temp": 27.76,
     "humidity": 87,
     "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
-    "rain_mm": 12.72
+    "weather_description": "moderate rain",
+    "rain_mm": 11.64
   },
   {
     "time": "2025-11-06 18:00:00",
