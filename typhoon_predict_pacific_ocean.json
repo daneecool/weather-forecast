@@ -1,20 +1,5 @@
 [
   {
-    "time": "2025-11-06 15:00:00",
-    "wind_speed": 19.57,
-    "wind_gust": 19.31,
-    "pressure": 1002,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 19.14,
-    "humidity": 87,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 4.63
-  },
-  {
     "time": "2025-11-10 09:00:00",
     "wind_speed": 20.31,
     "wind_gust": 26.32,
