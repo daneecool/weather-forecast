@@ -1,5 +1,5 @@
 {
-  "time": "2025-11-07 14:36:56",
+  "time": "2025-11-07 15:04:23",
   "temp": 14.85,
   "temp_max": 14.99,
   "temp_min": 13.65,
@@ -7,8 +7,8 @@
   "feels_like": 13.7,
   "pressure": 1023,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03n",
+  "weather_description": "broken clouds",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
