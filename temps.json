@@ -4,8 +4,8 @@
     "temp": 14.85,
     "temp_max": 16.25,
     "temp_min": 14.85,
-    "humidity": 51,
-    "feels_like": 13.72,
+    "humidity": 50,
+    "feels_like": 13.7,
     "pressure": 1023,
     "rain_mm": 0
   },
@@ -24,8 +24,8 @@
     "temp": 15.02,
     "temp_max": 15.1,
     "temp_min": 15.02,
-    "humidity": 45,
-    "feels_like": 13.75,
+    "humidity": 44,
+    "feels_like": 13.73,
     "pressure": 1024,
     "rain_mm": 0
   },
