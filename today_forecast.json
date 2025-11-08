@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-11-08 21:00:00",
-    "temp": 13.15,
+    "temp": 12.43,
     "temp_max": 14.6,
-    "temp_min": 13.15,
-    "humidity": 76,
-    "feels_like": 12.51,
-    "pressure": 1022,
+    "temp_min": 12.43,
+    "humidity": 78,
+    "feels_like": 11.77,
+    "pressure": 1021,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
