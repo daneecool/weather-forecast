@@ -1,71 +1,43 @@
 {
-  "EventID": "20251109170446",
-  "Serial": 9,
-  "AnnouncedTime": "2025/11/09 17:05:56",
-  "OriginTime": "2025/11/09 17:04:44",
-  "Hypocenter": "岩手県沿岸北部",
-  "Latitude": 40.2,
-  "Longitude": 141.8,
-  "Magunitude": 1.0,
-  "Depth": 10,
-  "MaxIntensity": "5弱",
-  "isSea": false,
+  "EventID": "20251109173407",
+  "Serial": 11,
+  "AnnouncedTime": "2025/11/09 17:35:27",
+  "OriginTime": "2025/11/09 17:34:03",
+  "Hypocenter": "三陸沖",
+  "Latitude": 39.4,
+  "Longitude": 143.5,
+  "Magunitude": 5.9,
+  "Depth": 30,
+  "MaxIntensity": "3",
+  "isSea": true,
   "isTraining": false,
-  "isAssumption": true,
-  "isWarn": true,
-  "isFinal": false,
+  "isAssumption": false,
+  "isWarn": false,
+  "isFinal": true,
   "isCancel": false,
-  "OriginalText": "36 04 00 251109170556 C11 251109170444 ND20251109170446 NCN009 JD////////////// JN009 210 N402 E1418 010 10 5- RK11811 RT/19// RC0//// EBI 212 S5-// 170502 19 220 S04// 170459 19 222 S04// 170459 19 213 S04// 170502 19 233 S04// 170508 09 9999=",
+  "OriginalText": "37 04 00 251109173527 C11 251109173403 ND20251109173407 NCN911 JD////////////// JN/// 288 N394 E1435 030 59 03 RK44559 RT10/// RC0//// 9999=",
   "Pond": "96",
-  "Epicenter": "P 波／S 波レベル超え、IPF 法（1 点）、または仮定震源要素",
-  "DepthAccuracy": "P 波／S 波レベル超え、IPF 法（1 点）、または仮定震源要素",
-  "MagnitudeAccuracy": "P 波／S 波レベル超え、または仮定震源要素",
+  "Epicenter": "IPF 法（5 点以上）",
+  "DepthAccuracy": "IPF 法（5 点以上）",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "岩手県内陸北部",
-      "Shindo1": "5弱",
-      "Shindo2": "不明",
-      "Time": "170502",
-      "Type": "警報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    },
-    {
-      "Chiiki": "宮城県北部",
-      "Shindo1": "4",
-      "Shindo2": "不明",
-      "Time": "170459",
-      "Type": "警報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    },
-    {
-      "Chiiki": "宮城県中部",
-      "Shindo1": "4",
-      "Shindo2": "不明",
-      "Time": "170459",
-      "Type": "警報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    },
-    {
-      "Chiiki": "岩手県内陸南部",
-      "Shindo1": "4",
-      "Shindo2": "不明",
-      "Time": "170502",
-      "Type": "警報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    },
-    {
-      "Chiiki": "秋田県内陸南部",
-      "Shindo1": "4",
-      "Shindo2": "不明",
-      "Time": "170508",
-      "Type": "予報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251109170343",
+      "time": "2025/11/09 17:03",
+      "time_full": "2025/11/09 17:03:43",
+      "location": "三陸沖",
+      "magnitude": "6.7",
+      "depth": "10km",
+      "latitude": "39.4",
+      "longitude": "143.5",
+      "info": "津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中です。\nこの地震について、緊急地震速報を発表しています。",
+      "intensity": "4"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251109163436",
       "time": "2025/11/09 16:34",
@@ -75,10 +47,10 @@
       "depth": "30km",
       "latitude": "27.4",
       "longitude": "128.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251109131652",
       "time": "2025/11/09 13:16",
@@ -91,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251109091739",
       "time": "2025/11/09 09:17",
@@ -104,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251109073350",
       "time": "2025/11/09 07:33",
@@ -117,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251109072704",
       "time": "2025/11/09 07:27",
@@ -130,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251109071512",
       "time": "2025/11/09 07:15",
@@ -143,7 +115,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251109062508",
       "time": "2025/11/09 06:25",
@@ -156,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251109060421",
       "time": "2025/11/09 06:04",
@@ -169,7 +141,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251109052920",
       "time": "2025/11/09 05:29",
@@ -179,19 +151,6 @@
       "depth": "10km",
       "latitude": "39.4",
       "longitude": "143.5",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251108181737",
-      "time": "2025/11/08 18:17",
-      "time_full": "2025/11/08 18:17:37",
-      "location": "宮城県沖",
-      "magnitude": "3.9",
-      "depth": "70km",
-      "latitude": "38.3",
-      "longitude": "141.9",
       "info": "",
       "intensity": "2"
     }
