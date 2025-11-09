@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-09 21:00:00",
-    "temp": 12.08,
+    "temp": 12.88,
     "temp_max": 15.94,
-    "temp_min": 12.08,
-    "humidity": 92,
-    "feels_like": 11.75,
+    "temp_min": 12.88,
+    "humidity": 88,
+    "feels_like": 12.52,
     "pressure": 1003,
     "weather_main": "Clear",
     "weather_description": "clear sky",
