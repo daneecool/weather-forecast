@@ -105,21 +105,6 @@
     "rain_mm": 2.4
   },
   {
-    "time": "2025-11-09 21:00:00",
-    "wind_speed": 20.51,
-    "wind_gust": 26.57,
-    "pressure": 994,
-    "lat": 15.0,
-    "lon": 118.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 26.73,
-    "humidity": 92,
-    "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
-    "rain_mm": 13.4
-  },
-  {
     "time": "2025-11-10 00:00:00",
     "wind_speed": 24.62,
     "wind_gust": 32.01,
