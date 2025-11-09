@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-09 21:00:00",
-    "temp": 13.74,
+    "temp": 13.65,
     "temp_max": 16.08,
-    "temp_min": 13.74,
-    "humidity": 85,
-    "feels_like": 13.39,
+    "temp_min": 13.65,
+    "humidity": 84,
+    "feels_like": 13.26,
     "pressure": 1003,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
