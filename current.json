@@ -1,14 +1,14 @@
 {
-  "time": "2025-11-09 10:33:41",
-  "temp": 12.74,
+  "time": "2025-11-09 11:04:32",
+  "temp": 12.82,
   "temp_max": 12.98,
-  "temp_min": 12.54,
+  "temp_min": 12.58,
   "humidity": 92,
-  "feels_like": 12.47,
+  "feels_like": 12.56,
   "pressure": 1008,
-  "weather_main": "Mist, Rain",
-  "weather_description": "mist, light intensity shower rain",
-  "weather_icon": "50n, 09n",
-  "rain_1h_mm": 0.6,
+  "weather_main": "Mist",
+  "weather_description": "mist",
+  "weather_icon": "50n",
+  "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
