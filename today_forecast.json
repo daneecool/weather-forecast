@@ -1,19 +1,5 @@
 [
   {
-    "time": "2025-11-09 15:00:00",
-    "temp": 12.57,
-    "temp_max": 15.53,
-    "temp_min": 12.57,
-    "humidity": 93,
-    "feels_like": 12.31,
-    "pressure": 1005,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2025-11-09 18:00:00",
     "temp": 13.59,
     "temp_max": 15.64,
