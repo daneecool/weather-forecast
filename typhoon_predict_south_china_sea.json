@@ -15,34 +15,19 @@
     "rain_mm": 0
   },
   {
-    "time": "2025-11-10 18:00:00",
-    "wind_speed": 18.2,
-    "wind_gust": 21.87,
-    "pressure": 1001,
-    "lat": 18.0,
-    "lon": 115.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 24.7,
-    "humidity": 89,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 3.05
-  },
-  {
     "time": "2025-11-10 21:00:00",
-    "wind_speed": 18.17,
-    "wind_gust": 20.28,
-    "pressure": 1001,
+    "wind_speed": 19.36,
+    "wind_gust": 23.01,
+    "pressure": 1000,
     "lat": 18.0,
     "lon": 115.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 25,
-    "humidity": 85,
+    "temp": 24.8,
+    "humidity": 88,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 0.92
+    "rain_mm": 1.2
   },
   {
     "time": "2025-11-09 21:00:00",
@@ -118,5 +103,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 2.4
+  },
+  {
+    "time": "2025-11-10 15:00:00",
+    "wind_speed": 18.65,
+    "wind_gust": 24.68,
+    "pressure": 1001,
+    "lat": 15.0,
+    "lon": 118.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 27.74,
+    "humidity": 83,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 4.19
   }
 ]
