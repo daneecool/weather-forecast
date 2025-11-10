@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-11-10 21:00:00",
-    "temp": 11.82,
-    "temp_max": 13.52,
-    "temp_min": 11.82,
-    "humidity": 50,
-    "feels_like": 10.36,
-    "pressure": 1015,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
