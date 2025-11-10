@@ -1,20 +1,5 @@
 [
   {
-    "time": "2025-11-10 09:00:00",
-    "wind_speed": 18.08,
-    "wind_gust": 20.63,
-    "pressure": 1000,
-    "lat": 18.0,
-    "lon": 115.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 25.77,
-    "humidity": 85,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "rain_mm": 0
-  },
-  {
     "time": "2025-11-12 00:00:00",
     "wind_speed": 19.65,
     "wind_gust": 26.46,
