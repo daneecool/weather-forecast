@@ -8,8 +8,8 @@
     "feels_like": 10.36,
     "pressure": 1013,
     "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03n",
+    "weather_description": "few clouds",
+    "weather_icon": "02n",
     "rain_mm": 0,
     "snow_mm": 0
   },
