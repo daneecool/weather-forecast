@@ -1,29 +1,15 @@
 [
   {
-    "time": "2025-11-10 18:00:00",
-    "temp": 11.82,
-    "temp_max": 13.6,
-    "temp_min": 11.82,
-    "humidity": 50,
-    "feels_like": 10.36,
-    "pressure": 1013,
+    "time": "2025-11-10 21:00:00",
+    "temp": 11.76,
+    "temp_max": 13.29,
+    "temp_min": 11.76,
+    "humidity": 55,
+    "feels_like": 10.43,
+    "pressure": 1014,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
     "weather_icon": "02n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
-    "time": "2025-11-10 21:00:00",
-    "temp": 12.31,
-    "temp_max": 13.29,
-    "temp_min": 12.31,
-    "humidity": 49,
-    "feels_like": 10.88,
-    "pressure": 1014,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   }
