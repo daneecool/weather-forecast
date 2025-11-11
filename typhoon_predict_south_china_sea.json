@@ -1,23 +1,8 @@
 [
   {
-    "time": "2025-11-11 18:00:00",
-    "wind_speed": 18.3,
-    "wind_gust": 21.81,
-    "pressure": 1000,
-    "lat": 22.0,
-    "lon": 120.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 26.53,
-    "humidity": 85,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.22
-  },
-  {
     "time": "2025-11-11 21:00:00",
-    "wind_speed": 18.52,
-    "wind_gust": 22.8,
+    "wind_speed": 18.17,
+    "wind_gust": 20.83,
     "pressure": 1000,
     "lat": 22.0,
     "lon": 120.0,
@@ -27,6 +12,21 @@
     "humidity": 84,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 0.75
+    "rain_mm": 1.23
+  },
+  {
+    "time": "2025-11-12 09:00:00",
+    "wind_speed": 19.33,
+    "wind_gust": 19.81,
+    "pressure": 1002,
+    "lat": 22.0,
+    "lon": 120.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 24.07,
+    "humidity": 92,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 7.31
   }
 ]
