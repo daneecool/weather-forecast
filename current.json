@@ -1,10 +1,10 @@
 {
-  "time": "2025-11-14 21:33:10",
-  "temp": 13.72,
+  "time": "2025-11-14 22:00:06",
+  "temp": 13.71,
   "temp_max": 13.99,
   "temp_min": 12.58,
   "humidity": 62,
-  "feels_like": 12.77,
+  "feels_like": 12.76,
   "pressure": 1022,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
