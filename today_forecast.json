@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-11-15 21:00:00",
-    "temp": 13.65,
-    "temp_max": 14.99,
-    "temp_min": 13.65,
+    "temp": 12.84,
+    "temp_max": 14.56,
+    "temp_min": 12.84,
     "humidity": 66,
-    "feels_like": 12.79,
-    "pressure": 1027,
+    "feels_like": 11.9,
+    "pressure": 1028,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
     "weather_icon": "03n",
