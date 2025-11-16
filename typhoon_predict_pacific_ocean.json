@@ -1,17 +1,17 @@
 [
   {
     "time": "2025-11-17 15:00:00",
-    "wind_speed": 21.28,
-    "wind_gust": 25.31,
+    "wind_speed": 18.75,
+    "wind_gust": 24.01,
     "pressure": 1005,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 15.53,
-    "humidity": 84,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.06
+    "temp": 17.14,
+    "humidity": 74,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "rain_mm": 0
   }
 ]
