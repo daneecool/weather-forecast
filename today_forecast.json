@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-16 21:00:00",
-    "temp": 11.77,
+    "temp": 11.98,
     "temp_max": 14.83,
-    "temp_min": 11.77,
-    "humidity": 87,
-    "feels_like": 11.27,
+    "temp_min": 11.98,
+    "humidity": 71,
+    "feels_like": 11.09,
     "pressure": 1020,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
