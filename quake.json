@@ -1,11 +1,11 @@
 {
-  "EventID": "20251118052738",
-  "Serial": 5,
-  "AnnouncedTime": "2025/11/18 05:28:17",
-  "OriginTime": "2025/11/18 05:27:35",
-  "Hypocenter": "新島・神津島近海",
-  "Latitude": 34.5,
-  "Longitude": 139.2,
+  "EventID": "20251118055214",
+  "Serial": 7,
+  "AnnouncedTime": "2025/11/18 05:52:46",
+  "OriginTime": "2025/11/18 05:52:12",
+  "Hypocenter": "伊豆大島近海",
+  "Latitude": 34.6,
+  "Longitude": 139.3,
   "Magunitude": 3.6,
   "Depth": 10,
   "MaxIntensity": "2",
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251118052817 C11 251118052735 ND20251118052738 NCN905 JD////////////// JN/// 483 N345 E1392 010 36 02 RK44549 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 251118055246 C11 251118055212 ND20251118055214 NCN907 JD////////////// JN/// 480 N346 E1393 010 36 02 RK44519 RT10/// RC0//// 9999=",
   "Pond": "10",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251118055214",
+      "time": "2025/11/18 05:52",
+      "time_full": "2025/11/18 05:52:14",
+      "location": "新島・神津島近海",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "34.5",
+      "longitude": "139.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20251118052738",
       "time": "2025/11/18 05:27",
       "time_full": "2025/11/18 05:27:38",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "34.5",
       "longitude": "139.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251118040637",
       "time": "2025/11/18 04:06",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251118000604",
       "time": "2025/11/18 00:06",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251117001436",
       "time": "2025/11/17 00:14",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251116160332",
       "time": "2025/11/16 16:03",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251116112456",
       "time": "2025/11/16 11:24",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251116085444",
       "time": "2025/11/16 08:54",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251116072638",
       "time": "2025/11/16 07:26",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251116051621",
       "time": "2025/11/16 05:16",
@@ -140,19 +153,6 @@
       "longitude": "129.6",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251116044441",
-      "time": "2025/11/16 04:44",
-      "time_full": "2025/11/16 04:44:41",
-      "location": "長野県中部",
-      "magnitude": "2.6",
-      "depth": "0km",
-      "latitude": "36.2",
-      "longitude": "137.6",
-      "info": "",
-      "intensity": "2"
     }
   }
 }

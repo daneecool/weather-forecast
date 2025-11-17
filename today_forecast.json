@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-11-17 21:00:00",
-    "temp": 14.05,
-    "temp_max": 14.05,
-    "temp_min": 13.81,
-    "humidity": 54,
-    "feels_like": 12.92,
-    "pressure": 1011,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10n",
-    "rain_mm": 0.21,
-    "snow_mm": 0
-  }
-]
+[]
