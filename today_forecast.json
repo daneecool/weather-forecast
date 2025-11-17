@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-17 21:00:00",
-    "temp": 13.72,
-    "temp_max": 13.81,
-    "temp_min": 13.72,
-    "humidity": 57,
-    "feels_like": 12.64,
+    "temp": 14.2,
+    "temp_max": 14.2,
+    "temp_min": 13.81,
+    "humidity": 54,
+    "feels_like": 13.09,
     "pressure": 1011,
     "weather_main": "Rain",
     "weather_description": "light rain",
