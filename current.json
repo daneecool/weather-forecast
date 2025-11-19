@@ -1,5 +1,5 @@
 {
-  "time": "2025-11-19 18:42:12",
+  "time": "2025-11-19 19:01:30",
   "temp": 8.27,
   "temp_max": 8.98,
   "temp_min": 6.99,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 1.78,
+  "rain_1h_mm": 1.68,
   "snow_1h_mm": 0
 }
