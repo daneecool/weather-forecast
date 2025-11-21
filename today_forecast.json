@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-11-21 21:00:00",
-    "temp": 11.45,
-    "temp_max": 12.42,
-    "temp_min": 11.45,
-    "humidity": 71,
-    "feels_like": 10.5,
-    "pressure": 1020,
+    "temp": 11.65,
+    "temp_max": 13,
+    "temp_min": 11.65,
+    "humidity": 69,
+    "feels_like": 10.67,
+    "pressure": 1019,
     "weather_main": "Clear",
     "weather_description": "clear sky",
     "weather_icon": "01n",
