@@ -1,13 +1,13 @@
 {
-  "EventID": "20251121083629",
-  "Serial": 9,
-  "AnnouncedTime": "2025/11/21 08:37:22",
-  "OriginTime": "2025/11/21 08:36:06",
-  "Hypocenter": "宮古島北西沖",
-  "Latitude": 25.6,
-  "Longitude": 124.8,
+  "EventID": "20251121121729",
+  "Serial": 10,
+  "AnnouncedTime": "2025/11/21 12:18:23",
+  "OriginTime": "2025/11/21 12:17:10",
+  "Hypocenter": "北海道東方沖",
+  "Latitude": 43.9,
+  "Longitude": 146.9,
   "Magunitude": 4.7,
-  "Depth": 140,
+  "Depth": 70,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,16 +15,29 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251121083722 C11 251121083606 ND20251121083629 NCN909 JD////////////// JN/// 859 N256 E1248 140 47 02 RK44559 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 251121121823 C11 251121121710 ND20251121121729 NCN910 JD////////////// JN/// 188 N439 E1469 070 47 02 RK44209 RT10/// RC0//// 9999=",
   "Pond": "118",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251121121729",
+      "time": "2025/11/21 12:17",
+      "time_full": "2025/11/21 12:17:29",
+      "location": "国後島付近",
+      "magnitude": "4.4",
+      "depth": "80km",
+      "latitude": "44.0",
+      "longitude": "146.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251121084635",
       "time": "2025/11/21 08:46",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "44.3",
       "longitude": "142.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251121083629",
       "time": "2025/11/21 08:36",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251121060951",
       "time": "2025/11/21 06:09",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251121035154",
       "time": "2025/11/21 03:51",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251120103519",
       "time": "2025/11/20 10:35",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251120053310",
       "time": "2025/11/20 05:33",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "遠地地震に関する情報",
       "EventID": "20251119185014",
       "time": "2025/11/19 18:50",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251120035042",
       "time": "2025/11/20 03:50",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "遠地地震に関する情報",
       "EventID": "20251119185014",
       "time": "2025/11/19 18:50",
@@ -140,19 +153,6 @@
       "longitude": "112.9",
       "info": "",
       "intensity": "不明"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251119210437",
-      "time": "2025/11/19 21:04",
-      "time_full": "2025/11/19 21:04:37",
-      "location": "宗谷地方南部",
-      "magnitude": "2.8",
-      "depth": "0km",
-      "latitude": "44.8",
-      "longitude": "142.2",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
