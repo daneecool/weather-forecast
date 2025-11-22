@@ -43,5 +43,20 @@
     "weather_main": "Rain",
     "weather_description": "moderate rain",
     "rain_mm": 4.38
+  },
+  {
+    "time": "2025-11-27 12:00:00",
+    "wind_speed": 21.7,
+    "wind_gust": 24.65,
+    "pressure": 1004,
+    "lat": 15.0,
+    "lon": 118.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 26.21,
+    "humidity": 87,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.72
   }
 ]
