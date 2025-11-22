@@ -1,21 +1,21 @@
 [
   {
     "time": "2025-11-22 18:00:00",
-    "temp": 13.74,
+    "temp": 13.4,
     "temp_max": 14.59,
-    "temp_min": 13.74,
-    "humidity": 71,
-    "feels_like": 13.02,
+    "temp_min": 13.4,
+    "humidity": 69,
+    "feels_like": 12.6,
     "pressure": 1024,
     "rain_mm": 0.1
   },
   {
     "time": "2025-11-22 21:00:00",
-    "temp": 13.9,
+    "temp": 13.73,
     "temp_max": 14.19,
-    "temp_min": 13.9,
-    "humidity": 64,
-    "feels_like": 13.02,
+    "temp_min": 13.73,
+    "humidity": 63,
+    "feels_like": 12.8,
     "pressure": 1024,
     "rain_mm": 0
   },
