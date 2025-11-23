@@ -1,9 +1,9 @@
 {
-  "time": "2025-11-23 19:04:25",
+  "time": "2025-11-23 19:30:46",
   "temp": 9.98,
   "temp_max": 9.98,
-  "temp_min": 9.98,
-  "humidity": 87,
+  "temp_min": 9.58,
+  "humidity": 81,
   "feels_like": 8.44,
   "pressure": 1019,
   "weather_main": "Clear",
