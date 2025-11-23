@@ -1,13 +1,13 @@
 {
-  "EventID": "20251122072344",
-  "Serial": 5,
-  "AnnouncedTime": "2025/11/22 07:24:42",
-  "OriginTime": "2025/11/22 07:23:36",
-  "Hypocenter": "与那国島近海",
-  "Latitude": 24.4,
-  "Longitude": 122.9,
-  "Magunitude": 3.5,
-  "Depth": 60,
+  "EventID": "20251123123751",
+  "Serial": 3,
+  "AnnouncedTime": "2025/11/23 12:38:39",
+  "OriginTime": "2025/11/23 12:37:45",
+  "Hypocenter": "岩手県沖",
+  "Latitude": 39.5,
+  "Longitude": 142.6,
+  "Magunitude": 3.6,
+  "Depth": 40,
   "MaxIntensity": "1",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251122072442 C11 251122072336 ND20251122072344 NCN905 JD////////////// JN/// 857 N244 E1229 060 35 01 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "2",
+  "OriginalText": "37 03 00 251123123839 C11 251123123745 ND20251123123751 NCN903 JD////////////// JN/// 286 N395 E1426 040 36 01 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "95",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251123123751",
+      "time": "2025/11/23 12:37",
+      "time_full": "2025/11/23 12:37:51",
+      "location": "岩手県沖",
+      "magnitude": "4.2",
+      "depth": "30km",
+      "latitude": "39.5",
+      "longitude": "142.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20251123102429",
       "time": "2025/11/23 10:24",
       "time_full": "2025/11/23 10:24:29",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "32.5",
       "longitude": "130.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251123090333",
       "time": "2025/11/23 09:03",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251122191141",
       "time": "2025/11/22 19:11",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251121212208",
       "time": "2025/11/21 21:22",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251121122413",
       "time": "2025/11/21 12:24",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251121121729",
       "time": "2025/11/21 12:17",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251121084635",
       "time": "2025/11/21 08:46",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251121083629",
       "time": "2025/11/21 08:36",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251121060951",
       "time": "2025/11/21 06:09",
@@ -138,19 +151,6 @@
       "depth": "10km",
       "latitude": "29.9",
       "longitude": "130.0",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251121035154",
-      "time": "2025/11/21 03:51",
-      "time_full": "2025/11/21 03:51:54",
-      "location": "岐阜県飛騨地方",
-      "magnitude": "2.8",
-      "depth": "10km",
-      "latitude": "36.1",
-      "longitude": "137.5",
       "info": "",
       "intensity": "2"
     }
