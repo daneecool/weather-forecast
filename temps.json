@@ -1,32 +1,32 @@
 [
   {
     "time": "2025-11-24 00:00:00",
-    "temp": 11.38,
+    "temp": 8.98,
     "temp_max": 14.17,
-    "temp_min": 11.38,
-    "humidity": 71,
-    "feels_like": 10.43,
+    "temp_min": 8.98,
+    "humidity": 87,
+    "feels_like": 7.28,
     "pressure": 1019,
     "rain_mm": 0
   },
   {
     "time": "2025-11-24 03:00:00",
-    "temp": 13.89,
+    "temp": 11.27,
     "temp_max": 15.85,
-    "temp_min": 13.89,
-    "humidity": 55,
-    "feels_like": 12.77,
+    "temp_min": 11.27,
+    "humidity": 72,
+    "feels_like": 10.33,
     "pressure": 1018,
     "rain_mm": 0
   },
   {
     "time": "2025-11-24 06:00:00",
-    "temp": 16.99,
+    "temp": 14.32,
     "temp_max": 16.99,
-    "temp_min": 16.99,
-    "humidity": 35,
-    "feels_like": 15.66,
-    "pressure": 1016,
+    "temp_min": 14.32,
+    "humidity": 52,
+    "feels_like": 13.17,
+    "pressure": 1017,
     "rain_mm": 0
   },
   {
