@@ -1,22 +1,22 @@
 {
-  "EventID": "20251124011611",
-  "Serial": 4,
-  "AnnouncedTime": "2025/11/24 01:17:01",
-  "OriginTime": "2025/11/24 01:16:02",
-  "Hypocenter": "根室半島南東沖",
-  "Latitude": 42.9,
-  "Longitude": 145.9,
-  "Magunitude": 3.9,
+  "EventID": "20251124155423",
+  "Serial": 3,
+  "AnnouncedTime": "2025/11/24 15:55:11",
+  "OriginTime": "2025/11/24 15:54:21",
+  "Hypocenter": "胆振地方中東部",
+  "Latitude": 42.6,
+  "Longitude": 141.9,
+  "Magunitude": 2.9,
   "Depth": 10,
-  "MaxIntensity": "2",
-  "isSea": true,
+  "MaxIntensity": "3",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251124011701 C11 251124011602 ND20251124011611 NCN904 JD////////////// JN/// 189 N429 E1459 010 39 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "45",
+  "OriginalText": "37 03 00 251124155511 C11 251124155421 ND20251124155423 NCN903 JD////////////// JN/// 146 N426 E1419 010 29 03 RK44209 RT00/// RC0//// 9999=",
+  "Pond": "84",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251124155423",
+      "time": "2025/11/24 15:54",
+      "time_full": "2025/11/24 15:54:23",
+      "location": "苫小牧沖",
+      "magnitude": "2.3",
+      "depth": "10km",
+      "latitude": "42.6",
+      "longitude": "141.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20251124011611",
       "time": "2025/11/24 01:16",
       "time_full": "2025/11/24 01:16:11",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "42.8",
       "longitude": "146.0",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251123190930",
       "time": "2025/11/23 19:09",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251123135422",
       "time": "2025/11/23 13:54",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251123123751",
       "time": "2025/11/23 12:37",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251123102429",
       "time": "2025/11/23 10:24",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251123090333",
       "time": "2025/11/23 09:03",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251122191141",
       "time": "2025/11/22 19:11",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251121212208",
       "time": "2025/11/21 21:22",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251121122413",
       "time": "2025/11/21 12:24",
@@ -140,19 +153,6 @@
       "longitude": "139.9",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251121121729",
-      "time": "2025/11/21 12:17",
-      "time_full": "2025/11/21 12:17:29",
-      "location": "国後島付近",
-      "magnitude": "4.4",
-      "depth": "80km",
-      "latitude": "44.0",
-      "longitude": "146.8",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
