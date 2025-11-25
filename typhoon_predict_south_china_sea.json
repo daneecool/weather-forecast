@@ -2,31 +2,16 @@
   {
     "time": "2025-11-27 00:00:00",
     "wind_speed": 18.41,
-    "wind_gust": 20.36,
-    "pressure": 1014,
+    "wind_gust": 20.6,
+    "pressure": 1012,
     "lat": 18.0,
     "lon": 115.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 23.39,
-    "humidity": 84,
+    "temp": 23.64,
+    "humidity": 83,
     "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 3.62
-  },
-  {
-    "time": "2025-11-26 03:00:00",
-    "wind_speed": 19.18,
-    "wind_gust": 24.08,
-    "pressure": 1003,
-    "lat": 15.0,
-    "lon": 118.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 26.35,
-    "humidity": 92,
-    "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
-    "rain_mm": 26.63
+    "weather_description": "light rain",
+    "rain_mm": 1.3
   }
 ]
