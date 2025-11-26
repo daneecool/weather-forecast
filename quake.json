@@ -1,30 +1,43 @@
 {
-  "EventID": "20251125234825",
-  "Serial": 4,
-  "AnnouncedTime": "2025/11/25 23:49:01",
-  "OriginTime": "2025/11/25 23:48:22",
-  "Hypocenter": "熊本県阿蘇地方",
-  "Latitude": 33.0,
-  "Longitude": 131.1,
-  "Magunitude": 3.4,
-  "Depth": 10,
-  "MaxIntensity": "3",
-  "isSea": false,
+  "EventID": "20251127014410",
+  "Serial": 8,
+  "AnnouncedTime": "2025/11/27 01:45:05",
+  "OriginTime": "2025/11/27 01:43:56",
+  "Hypocenter": "釧路沖",
+  "Latitude": 42.4,
+  "Longitude": 144.4,
+  "Magunitude": 4.6,
+  "Depth": 90,
+  "MaxIntensity": "2",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251125234901 C11 251125234822 ND20251125234825 NCN904 JD////////////// JN/// 740 N330 E1311 010 34 03 RK44209 RT00/// RC0//// 9999=",
-  "Pond": "81",
+  "OriginalText": "37 04 00 251127014505 C11 251127014356 ND20251127014410 NCN908 JD////////////// JN/// 190 N424 E1444 090 46 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "129",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251127014410",
+      "time": "2025/11/27 01:44",
+      "time_full": "2025/11/27 01:44:10",
+      "location": "釧路沖",
+      "magnitude": "4.6",
+      "depth": "80km",
+      "latitude": "42.5",
+      "longitude": "144.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251126221207",
       "time": "2025/11/26 22:12",
@@ -34,10 +47,10 @@
       "depth": "0km",
       "latitude": "33.0",
       "longitude": "131.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251126215934",
       "time": "2025/11/26 21:59",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251126214208",
       "time": "2025/11/26 21:42",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251126205610",
       "time": "2025/11/26 20:56",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251126202429",
       "time": "2025/11/26 20:24",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251126201920",
       "time": "2025/11/26 20:19",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251126153927",
       "time": "2025/11/26 15:39",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251126151743",
       "time": "2025/11/26 15:17",
@@ -128,26 +141,13 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251126134132",
       "time": "2025/11/26 13:41",
       "time_full": "2025/11/26 13:41:32",
       "location": "熊本県阿蘇地方",
       "magnitude": "2.4",
-      "depth": "0km",
-      "latitude": "33.0",
-      "longitude": "131.1",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251126122503",
-      "time": "2025/11/26 12:25",
-      "time_full": "2025/11/26 12:25:03",
-      "location": "熊本県阿蘇地方",
-      "magnitude": "2.7",
       "depth": "0km",
       "latitude": "33.0",
       "longitude": "131.1",
