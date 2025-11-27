@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-27 06:00:00",
-    "temp": 15.32,
+    "temp": 15.31,
     "temp_max": 16.66,
-    "temp_min": 15.32,
+    "temp_min": 15.31,
     "humidity": 61,
-    "feels_like": 14.5,
+    "feels_like": 14.49,
     "pressure": 1019,
     "rain_mm": 0
   },
