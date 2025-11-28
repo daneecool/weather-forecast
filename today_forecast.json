@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-11-28 21:00:00",
-    "temp": 10.32,
+    "temp": 10.16,
     "temp_max": 11.21,
-    "temp_min": 10.32,
-    "humidity": 57,
-    "feels_like": 8.9,
+    "temp_min": 10.16,
+    "humidity": 58,
+    "feels_like": 8.75,
     "pressure": 1016,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
