@@ -1,9 +1,9 @@
 {
-  "time": "2025-11-29 15:34:31",
+  "time": "2025-11-29 16:05:19",
   "temp": 10,
-  "temp_max": 11.69,
+  "temp_max": 12.25,
   "temp_min": 7.58,
-  "humidity": 71,
+  "humidity": 76,
   "feels_like": 8.46,
   "pressure": 1018,
   "weather_main": "Clouds",
