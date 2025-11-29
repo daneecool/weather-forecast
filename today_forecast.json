@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-11-29 15:00:00",
-    "temp": 13.06,
-    "temp_max": 13.42,
-    "temp_min": 13.06,
+    "temp": 13.21,
+    "temp_max": 13.87,
+    "temp_min": 13.21,
     "humidity": 71,
-    "feels_like": 12.28,
-    "pressure": 1019,
+    "feels_like": 12.44,
+    "pressure": 1018,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04n",
