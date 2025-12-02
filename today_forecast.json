@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-02 21:00:00",
-    "temp": 11.74,
+    "temp": 10.63,
     "temp_max": 14.19,
-    "temp_min": 11.74,
+    "temp_min": 10.63,
     "humidity": 92,
-    "feels_like": 11.37,
+    "feels_like": 10.15,
     "pressure": 1009,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
