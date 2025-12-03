@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-03 18:00:00",
-    "temp": 7.63,
+    "temp": 7.64,
     "temp_max": 7.88,
-    "temp_min": 7.63,
+    "temp_min": 7.64,
     "humidity": 44,
-    "feels_like": 2.38,
+    "feels_like": 2.39,
     "pressure": 1010,
     "rain_mm": 0
   },
