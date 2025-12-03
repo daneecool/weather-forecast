@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-03 21:00:00",
-    "temp": 5.01,
+    "temp": 4.96,
     "temp_max": 7.91,
-    "temp_min": 5.01,
-    "humidity": 61,
-    "feels_like": 0.93,
+    "temp_min": 4.96,
+    "humidity": 53,
+    "feels_like": 0.87,
     "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
