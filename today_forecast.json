@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-12-03 21:00:00",
-    "temp": 6.7,
+    "temp": 5.47,
     "temp_max": 7.91,
-    "temp_min": 6.7,
-    "humidity": 44,
-    "feels_like": 3.07,
-    "pressure": 1010,
+    "temp_min": 5.47,
+    "humidity": 49,
+    "feels_like": 1.51,
+    "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
     "weather_icon": "02n",
