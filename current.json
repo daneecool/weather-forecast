@@ -1,14 +1,14 @@
 {
-  "time": "2025-12-03 03:49:12",
+  "time": "2025-12-03 04:10:18",
   "temp": 12.64,
   "temp_max": 12.98,
-  "temp_min": 11.14,
-  "humidity": 83,
-  "feels_like": 12.13,
+  "temp_min": 11.99,
+  "humidity": 82,
+  "feels_like": 12.1,
   "pressure": 1002,
   "weather_main": "Rain",
-  "weather_description": "heavy intensity rain",
+  "weather_description": "moderate rain",
   "weather_icon": "10d",
-  "rain_1h_mm": 5.33,
+  "rain_1h_mm": 3.16,
   "snow_1h_mm": 0
 }
