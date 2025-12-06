@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-06 15:00:00",
-    "temp": 8.98,
-    "temp_max": 10.97,
-    "temp_min": 8.98,
+    "temp": 8.99,
+    "temp_max": 11,
+    "temp_min": 8.99,
     "humidity": 55,
-    "feels_like": 7.41,
+    "feels_like": 7.42,
     "pressure": 1021,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
