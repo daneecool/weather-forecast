@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-07 21:00:00",
-    "temp": 9.02,
-    "temp_max": 11.11,
-    "temp_min": 9.02,
+    "temp": 8.32,
+    "temp_max": 10.99,
+    "temp_min": 8.32,
     "humidity": 54,
-    "feels_like": 8.09,
+    "feels_like": 7.27,
     "pressure": 1018,
     "weather_main": "Clear",
     "weather_description": "clear sky",
