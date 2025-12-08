@@ -1,12 +1,12 @@
 {
-  "EventID": "20251208235129",
-  "Serial": 6,
-  "AnnouncedTime": "2025/12/08 23:52:06",
-  "OriginTime": "2025/12/08 23:51:23",
-  "Hypocenter": "宮古島近海",
-  "Latitude": 24.8,
-  "Longitude": 125.4,
-  "Magunitude": 4.0,
+  "EventID": "20251209005800",
+  "Serial": 3,
+  "AnnouncedTime": "2025/12/09 00:58:44",
+  "OriginTime": "2025/12/09 00:57:55",
+  "Hypocenter": "青森県東方沖",
+  "Latitude": 40.9,
+  "Longitude": 143.2,
+  "Magunitude": 4.7,
   "Depth": 40,
   "MaxIntensity": "2",
   "isSea": true,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251208235206 C11 251208235123 ND20251208235129 NCN906 JD////////////// JN/// 853 N248 E1254 040 40 02 RK44529 RT10/// RC0//// 9999=",
-  "Pond": "7",
+  "OriginalText": "37 03 00 251209005844 C11 251209005755 ND20251209005800 NCN903 JD////////////// JN/// 285 N409 E1432 040 47 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "145",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251209005800",
+      "time": "2025/12/09 00:58",
+      "time_full": "2025/12/09 00:58:00",
+      "location": "青森県東方沖",
+      "magnitude": "4.7",
+      "depth": "30km",
+      "latitude": "40.9",
+      "longitude": "143.1",
+      "info": "津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中です。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20251209001002",
       "time": "2025/12/09 00:10",
       "time_full": "2025/12/09 00:10:02",
@@ -34,10 +47,10 @@
       "depth": "30km",
       "latitude": "41.0",
       "longitude": "142.7",
-      "info": "津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中です。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251208235129",
       "time": "2025/12/08 23:51",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251208234109",
       "time": "2025/12/08 23:41",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251208233346",
       "time": "2025/12/08 23:33",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251208231519",
       "time": "2025/12/08 23:15",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "6+"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251208213027",
       "time": "2025/12/08 21:30",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251208074510",
       "time": "2025/12/08 07:45",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251208045532",
       "time": "2025/12/08 04:55",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251207210140",
       "time": "2025/12/07 21:01",
@@ -138,19 +151,6 @@
       "depth": "10km",
       "latitude": "41.2",
       "longitude": "141.3",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251207183310",
-      "time": "2025/12/07 18:33",
-      "time_full": "2025/12/07 18:33:10",
-      "location": "浦河沖",
-      "magnitude": "3.3",
-      "depth": "50km",
-      "latitude": "41.6",
-      "longitude": "142.1",
       "info": "",
       "intensity": "1"
     }
