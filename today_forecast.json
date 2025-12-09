@@ -8,8 +8,8 @@
     "feels_like": 11.44,
     "pressure": 1020,
     "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03d",
+    "weather_description": "broken clouds",
+    "weather_icon": "04d",
     "rain_mm": 0,
     "snow_mm": 0
   },
@@ -22,8 +22,8 @@
     "feels_like": 11.1,
     "pressure": 1021,
     "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03n",
+    "weather_description": "broken clouds",
+    "weather_icon": "04n",
     "rain_mm": 0,
     "snow_mm": 0
   },
