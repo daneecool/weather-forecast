@@ -4,8 +4,8 @@
     "temp": 10.1,
     "temp_max": 12.1,
     "temp_min": 10.1,
-    "humidity": 71,
-    "feels_like": 9.02,
+    "humidity": 72,
+    "feels_like": 9.05,
     "pressure": 1024,
     "rain_mm": 0
   },
@@ -21,11 +21,11 @@
   },
   {
     "time": "2025-12-10 18:00:00",
-    "temp": 10.62,
-    "temp_max": 10.88,
-    "temp_min": 10.62,
-    "humidity": 62,
-    "feels_like": 9.36,
+    "temp": 10.55,
+    "temp_max": 10.78,
+    "temp_min": 10.55,
+    "humidity": 60,
+    "feels_like": 9.23,
     "pressure": 1023,
     "rain_mm": 0
   },
