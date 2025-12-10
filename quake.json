@@ -1,39 +1,43 @@
 {
-  "EventID": "20251210235232",
-  "Serial": 13,
-  "AnnouncedTime": "2025/12/10 23:53:50",
-  "OriginTime": "2025/12/10 23:52:23",
-  "Hypocenter": "青森県東方沖",
-  "Latitude": 40.9,
-  "Longitude": 142.8,
-  "Magunitude": 5.6,
-  "Depth": 60,
-  "MaxIntensity": "4",
+  "EventID": "20251211032627",
+  "Serial": 4,
+  "AnnouncedTime": "2025/12/11 03:27:01",
+  "OriginTime": "2025/12/11 03:26:24",
+  "Hypocenter": "新島・神津島近海",
+  "Latitude": 34.2,
+  "Longitude": 139.3,
+  "Magunitude": 3.7,
+  "Depth": 10,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251210235350 C11 251210235223 ND20251210235232 NCN913 JD////////////// JN/// 285 N409 E1428 060 56 04 RK44559 RT10/// RC0//// EBI 202 S0404 235307 09 9999=",
+  "OriginalText": "37 03 00 251211032701 C11 251211032624 ND20251211032627 NCN904 JD////////////// JN/// 483 N342 E1393 010 37 02 RK44529 RT10/// RC0//// 9999=",
   "Pond": "24",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "青森県三八上北",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "235307",
-      "Type": "予報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251211032627",
+      "time": "2025/12/11 03:26",
+      "time_full": "2025/12/11 03:26:27",
+      "location": "新島・神津島近海",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "34.2",
+      "longitude": "139.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251211003608",
       "time": "2025/12/11 00:36",
@@ -43,10 +47,10 @@
       "depth": "20km",
       "latitude": "40.5",
       "longitude": "141.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251210235232",
       "time": "2025/12/10 23:52",
@@ -59,7 +63,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251210230138",
       "time": "2025/12/10 23:01",
@@ -72,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251210174515",
       "time": "2025/12/10 17:45",
@@ -85,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251210152354",
       "time": "2025/12/10 15:23",
@@ -98,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251210121520",
       "time": "2025/12/10 12:15",
@@ -111,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251210080445",
       "time": "2025/12/10 08:04",
@@ -124,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251210072009",
       "time": "2025/12/10 07:20",
@@ -137,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251210071447",
       "time": "2025/12/10 07:14",
@@ -147,19 +151,6 @@
       "depth": "40km",
       "latitude": "41.2",
       "longitude": "142.6",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251209230943",
-      "time": "2025/12/09 23:09",
-      "time_full": "2025/12/09 23:09:43",
-      "location": "新島・神津島近海",
-      "magnitude": "2.7",
-      "depth": "10km",
-      "latitude": "34.2",
-      "longitude": "139.3",
       "info": "",
       "intensity": "1"
     }
