@@ -1,9 +1,9 @@
 {
-  "time": "2025-12-10 17:36:33",
+  "time": "2025-12-10 18:05:12",
   "temp": 6.98,
   "temp_max": 6.98,
-  "temp_min": 5.58,
-  "humidity": 70,
+  "temp_min": 6.58,
+  "humidity": 65,
   "feels_like": 4.82,
   "pressure": 1022,
   "weather_main": "Clear",
