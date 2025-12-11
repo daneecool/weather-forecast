@@ -1,14 +1,14 @@
 {
-  "time": "2025-12-11 05:07:08",
-  "temp": 15.56,
-  "temp_max": 16.58,
-  "temp_min": 14.98,
-  "humidity": 55,
-  "feels_like": 14.61,
-  "pressure": 1013,
+  "time": "2025-12-11 05:37:01",
+  "temp": 16.08,
+  "temp_max": 16.77,
+  "temp_min": 15.55,
+  "humidity": 58,
+  "feels_like": 15.26,
+  "pressure": 1012,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03d",
+  "weather_description": "few clouds",
+  "weather_icon": "02d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
