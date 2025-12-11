@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-12-11 21:00:00",
-    "temp": 9.54,
-    "temp_max": 9.54,
-    "temp_min": 8.09,
-    "humidity": 46,
-    "feels_like": 4.69,
-    "pressure": 1014,
+    "temp": 9.05,
+    "temp_max": 9.05,
+    "temp_min": 8.05,
+    "humidity": 47,
+    "feels_like": 4.01,
+    "pressure": 1015,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
     "weather_icon": "03n",
