@@ -1,30 +1,121 @@
 {
   "EventID": "20251212190527",
-  "Serial": 3,
-  "AnnouncedTime": "2025/12/12 19:05:31",
-  "OriginTime": "2025/12/12 19:05:17",
+  "Serial": 13,
+  "AnnouncedTime": "2025/12/12 19:06:18",
+  "OriginTime": "2025/12/12 19:05:19",
   "Hypocenter": "茨城県南部",
-  "Latitude": 36.1,
-  "Longitude": 140.0,
-  "Magunitude": 4.9,
-  "Depth": 70,
-  "MaxIntensity": "3",
+  "Latitude": 36.2,
+  "Longitude": 140.1,
+  "Magunitude": 5.1,
+  "Depth": 60,
+  "MaxIntensity": "4",
   "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
-  "isFinal": false,
+  "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251212190531 C11 251212190517 ND20251212190527 NCN003 JD////////////// JN/// 301 N361 E1400 070 49 03 RK44314 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 251212190618 C11 251212190519 ND20251212190527 NCN913 JD////////////// JN/// 301 N362 E1401 060 51 04 RK44559 RT00/// RC0//// EBI 301 S0404 ////// 01 300 S0404 ////// 01 331 S0404 ////// 01 321 S0404 190538 09 341 S0403 ////// 01 311 S0404 190538 09 330 S0404 190538 09 350 S0404 190542 09 9999=",
   "Pond": "132",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点P 相",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "茨城県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "茨城県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "埼玉県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "群馬県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "190538",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "千葉県北西部",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "栃木県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "190538",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "埼玉県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "190538",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "東京都２３区",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "190542",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251212191438",
+      "time": "2025/12/12 19:14",
+      "time_full": "2025/12/12 19:14:38",
+      "location": "青森県東方沖",
+      "magnitude": "4.0",
+      "depth": "20km",
+      "latitude": "41",
+      "longitude": "143",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20251212190527",
+      "time": "2025/12/12 19:05",
+      "time_full": "2025/12/12 19:05:27",
+      "location": "茨城県南部",
+      "magnitude": "4.9",
+      "depth": "50km",
+      "latitude": "36.2",
+      "longitude": "140.1",
+      "info": "",
+      "intensity": "4"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251212165549",
       "time": "2025/12/12 16:55",
@@ -34,10 +125,10 @@
       "depth": "40km",
       "latitude": "41.2",
       "longitude": "142.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251212160513",
       "time": "2025/12/12 16:05",
@@ -50,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251212154005",
       "time": "2025/12/12 15:40",
@@ -63,7 +154,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251212135829",
       "time": "2025/12/12 13:58",
@@ -76,7 +167,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20251212114419",
       "time": "2025/12/12 11:44",
@@ -89,7 +180,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251212122615",
       "time": "2025/12/12 12:26",
@@ -102,7 +193,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251212122143",
       "time": "2025/12/12 12:21",
@@ -115,7 +206,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251212120639",
       "time": "2025/12/12 12:06",
@@ -125,32 +216,6 @@
       "depth": "20km",
       "latitude": "40.9",
       "longitude": "143",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20251212114419",
-      "time": "2025/12/12 11:44",
-      "time_full": "2025/12/12 11:44:19",
-      "location": "青森県東方沖",
-      "magnitude": "6.7",
-      "depth": "20km",
-      "latitude": "40.9",
-      "longitude": "143",
-      "info": "",
-      "intensity": "4"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251212072730",
-      "time": "2025/12/12 07:27",
-      "time_full": "2025/12/12 07:27:30",
-      "location": "千葉県東方沖",
-      "magnitude": "3.2",
-      "depth": "10km",
-      "latitude": "35.7",
-      "longitude": "140.9",
       "info": "",
       "intensity": "1"
     }
