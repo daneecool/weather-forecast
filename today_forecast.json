@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-12-12 21:00:00",
-    "temp": 4.94,
+    "temp": 4.7,
     "temp_max": 6.38,
-    "temp_min": 4.94,
-    "humidity": 46,
-    "feels_like": 0.56,
-    "pressure": 1027,
+    "temp_min": 4.7,
+    "humidity": 54,
+    "feels_like": 0.25,
+    "pressure": 1028,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04n",
