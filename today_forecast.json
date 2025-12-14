@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-14 21:00:00",
-    "temp": 6.73,
+    "temp": 5.63,
     "temp_max": 9.04,
-    "temp_min": 6.73,
-    "humidity": 67,
-    "feels_like": 3.61,
+    "temp_min": 5.63,
+    "humidity": 71,
+    "feels_like": 2.24,
     "pressure": 1010,
     "weather_main": "Clear",
     "weather_description": "clear sky",
