@@ -1,21 +1,21 @@
 {
   "EventID": "20251215040339",
-  "Serial": 5,
-  "AnnouncedTime": "2025/12/15 04:03:50",
+  "Serial": 8,
+  "AnnouncedTime": "2025/12/15 04:04:34",
   "OriginTime": "2025/12/15 04:03:36",
   "Hypocenter": "能登半島沖",
   "Latitude": 37.1,
-  "Longitude": 136.7,
-  "Magunitude": 4.4,
+  "Longitude": 136.6,
+  "Magunitude": 4.7,
   "Depth": 10,
   "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
-  "isFinal": false,
+  "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251215040350 C11 251215040336 ND20251215040339 NCN005 JD////////////// JN/// 495 N371 E1367 010 44 04 RK44554 RT10/// RC0//// EBI 390 S0403 ////// 01 9999=",
+  "OriginalText": "37 04 00 251215040434 C11 251215040336 ND20251215040339 NCN908 JD////////////// JN/// 495 N371 E1366 010 47 04 RK44559 RT10/// RC0//// EBI 390 S0404 ////// 01 9999=",
   "Pond": "149",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,7 +26,7 @@
     {
       "Chiiki": "石川県能登",
       "Shindo1": "4",
-      "Shindo2": "3",
+      "Shindo2": "4",
       "Time": "//////",
       "Type": "予報",
       "Arrive": "既に到達と予測"
@@ -34,6 +34,19 @@
   ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251215040339",
+      "time": "2025/12/15 04:03",
+      "time_full": "2025/12/15 04:03:39",
+      "location": "能登半島沖",
+      "magnitude": "4.7",
+      "depth": "10km",
+      "latitude": "37.1",
+      "longitude": "136.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251215030934",
       "time": "2025/12/15 03:09",
@@ -43,10 +56,10 @@
       "depth": "40km",
       "latitude": "41.2",
       "longitude": "142.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251215012450",
       "time": "2025/12/15 01:24",
@@ -59,7 +72,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251214235404",
       "time": "2025/12/14 23:54",
@@ -72,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251214233704",
       "time": "2025/12/14 23:37",
@@ -85,7 +98,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251214232654",
       "time": "2025/12/14 23:26",
@@ -98,7 +111,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251214224953",
       "time": "2025/12/14 22:49",
@@ -111,7 +124,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251214195928",
       "time": "2025/12/14 19:59",
@@ -124,7 +137,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251214195411",
       "time": "2025/12/14 19:54",
@@ -137,7 +150,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251214175129",
       "time": "2025/12/14 17:51",
@@ -149,19 +162,6 @@
       "longitude": "142.2",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251214165816",
-      "time": "2025/12/14 16:58",
-      "time_full": "2025/12/14 16:58:16",
-      "location": "三陸沖",
-      "magnitude": "4.7",
-      "depth": "10km",
-      "latitude": "39.8",
-      "longitude": "143.7",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
