@@ -1,39 +1,43 @@
 {
-  "EventID": "20251214232654",
-  "Serial": 9,
-  "AnnouncedTime": "2025/12/14 23:27:48",
-  "OriginTime": "2025/12/14 23:26:50",
-  "Hypocenter": "能登半島沖",
-  "Latitude": 37.1,
-  "Longitude": 136.6,
-  "Magunitude": 5.0,
-  "Depth": 10,
-  "MaxIntensity": "4",
+  "EventID": "20251215030934",
+  "Serial": 4,
+  "AnnouncedTime": "2025/12/15 03:10:26",
+  "OriginTime": "2025/12/15 03:09:27",
+  "Hypocenter": "青森県東方沖",
+  "Latitude": 41.2,
+  "Longitude": 142.7,
+  "Magunitude": 4.7,
+  "Depth": 50,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251214232748 C11 251214232650 ND20251214232654 NCN909 JD////////////// JN/// 495 N371 E1366 010 50 04 RK44559 RT10/// RC0//// EBI 390 S0404 ////// 01 9999=",
+  "OriginalText": "37 04 00 251215031026 C11 251215030927 ND20251215030934 NCN904 JD////////////// JN/// 285 N412 E1427 050 47 02 RK44559 RT10/// RC0//// 9999=",
   "Pond": "93",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "石川県能登",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251215030934",
+      "time": "2025/12/15 03:09",
+      "time_full": "2025/12/15 03:09:34",
+      "location": "青森県東方沖",
+      "magnitude": "4.4",
+      "depth": "40km",
+      "latitude": "41.2",
+      "longitude": "142.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251215012450",
       "time": "2025/12/15 01:24",
@@ -43,10 +47,10 @@
       "depth": "10km",
       "latitude": "37.1",
       "longitude": "136.6",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251214235404",
       "time": "2025/12/14 23:54",
@@ -59,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251214233704",
       "time": "2025/12/14 23:37",
@@ -72,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251214232654",
       "time": "2025/12/14 23:26",
@@ -85,7 +89,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251214224953",
       "time": "2025/12/14 22:49",
@@ -98,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251214195928",
       "time": "2025/12/14 19:59",
@@ -111,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251214195411",
       "time": "2025/12/14 19:54",
@@ -124,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251214175129",
       "time": "2025/12/14 17:51",
@@ -137,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251214165816",
       "time": "2025/12/14 16:58",
@@ -147,19 +151,6 @@
       "depth": "10km",
       "latitude": "39.8",
       "longitude": "143.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251214135705",
-      "time": "2025/12/14 13:57",
-      "time_full": "2025/12/14 13:57:05",
-      "location": "和歌山県北部",
-      "magnitude": "2.3",
-      "depth": "0km",
-      "latitude": "34.1",
-      "longitude": "135.3",
       "info": "",
       "intensity": "1"
     }
