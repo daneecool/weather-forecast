@@ -1,10 +1,10 @@
 {
-  "time": "2025-12-15 11:35:42",
-  "temp": 8.42,
+  "time": "2025-12-15 12:09:30",
+  "temp": 8.12,
   "temp_max": 8.98,
   "temp_min": 6.58,
   "humidity": 48,
-  "feels_like": 4.42,
+  "feels_like": 4.03,
   "pressure": 1020,
   "weather_main": "Clouds",
   "weather_description": "few clouds",

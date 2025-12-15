@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2025-12-15 15:00:00",
+    "wind_speed": 18.22,
+    "wind_gust": 20.71,
+    "pressure": 1001,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 10.46,
+    "humidity": 63,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.25
+  }
+]
