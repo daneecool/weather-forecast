@@ -1,32 +1,17 @@
 [
   {
-    "time": "2025-12-15 00:00:00",
-    "wind_speed": 27.44,
-    "wind_gust": 36.9,
-    "pressure": 1000,
-    "lat": 40.0,
-    "lon": 155.0,
+    "time": "2025-12-15 06:00:00",
+    "wind_speed": 18.04,
+    "wind_gust": 19.21,
+    "pressure": 1006,
+    "lat": 35.0,
+    "lon": 150.0,
     "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 12.65,
-    "humidity": 88,
+    "in_japan": true,
+    "temp": 16.81,
+    "humidity": 59,
     "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 4.5
-  },
-  {
-    "time": "2025-12-15 03:00:00",
-    "wind_speed": 20.28,
-    "wind_gust": 30.71,
-    "pressure": 998,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 13.15,
-    "humidity": 90,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 8.44
+    "weather_description": "light rain",
+    "rain_mm": 0.69
   }
 ]
