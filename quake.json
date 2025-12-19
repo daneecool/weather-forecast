@@ -1,13 +1,13 @@
 {
-  "EventID": "20251219215441",
-  "Serial": 9,
-  "AnnouncedTime": "2025/12/19 21:55:29",
-  "OriginTime": "2025/12/19 21:54:19",
-  "Hypocenter": "八丈島東方沖",
-  "Latitude": 32.6,
-  "Longitude": 140.2,
-  "Magunitude": 4.5,
-  "Depth": 150,
+  "EventID": "20251220064008",
+  "Serial": 3,
+  "AnnouncedTime": "2025/12/20 06:40:53",
+  "OriginTime": "2025/12/20 06:40:04",
+  "Hypocenter": "三陸沖",
+  "Latitude": 39.6,
+  "Longitude": 143.3,
+  "Magunitude": 4.4,
+  "Depth": 30,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 251219215529 C11 251219215419 ND20251219215441 NCN909 JD////////////// JN/// 475 N326 E1402 150 45 02 RK44529 RT10/// RC0//// 9999=",
-  "Pond": "145",
+  "OriginalText": "37 04 00 251220064053 C11 251220064004 ND20251220064008 NCN903 JD////////////// JN/// 288 N396 E1433 030 44 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "5",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251220064008",
+      "time": "2025/12/20 06:40",
+      "time_full": "2025/12/20 06:40:08",
+      "location": "三陸沖",
+      "magnitude": "4.4",
+      "depth": "10km",
+      "latitude": "39.6",
+      "longitude": "143.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20251220063716",
+      "time": "2025/12/20 06:37",
+      "time_full": "2025/12/20 06:37:16",
+      "location": "トカラ列島近海",
+      "magnitude": "2.0",
+      "depth": "0km",
+      "latitude": "29.5",
+      "longitude": "129.7",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20251220061505",
       "time": "2025/12/20 06:15",
       "time_full": "2025/12/20 06:15:05",
@@ -34,10 +60,10 @@
       "depth": "10km",
       "latitude": "32.0",
       "longitude": "131.0",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251220052142",
       "time": "2025/12/20 05:21",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251220020543",
       "time": "2025/12/20 02:05",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251219215441",
       "time": "2025/12/19 21:54",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251219194507",
       "time": "2025/12/19 19:45",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251219133720",
       "time": "2025/12/19 13:37",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251219130412",
       "time": "2025/12/19 13:04",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251219054453",
       "time": "2025/12/19 05:44",
@@ -125,32 +151,6 @@
       "depth": "0km",
       "latitude": "29.6",
       "longitude": "129.8",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20251219032900",
-      "time": "2025/12/19 03:29",
-      "time_full": "2025/12/19 03:29:00",
-      "location": "福島県会津",
-      "magnitude": "2.5",
-      "depth": "10km",
-      "latitude": "37.0",
-      "longitude": "139.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251219002742",
-      "time": "2025/12/19 00:27",
-      "time_full": "2025/12/19 00:27:42",
-      "location": "能登半島沖",
-      "magnitude": "2.8",
-      "depth": "0km",
-      "latitude": "37.1",
-      "longitude": "136.6",
       "info": "",
       "intensity": "1"
     }
