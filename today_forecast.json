@@ -1,12 +1,12 @@
 [
   {
     "time": "2025-12-20 15:00:00",
-    "temp": 11.94,
-    "temp_max": 15.85,
-    "temp_min": 11.94,
+    "temp": 11.58,
+    "temp_max": 14.78,
+    "temp_min": 11.58,
     "humidity": 92,
-    "feels_like": 11.59,
-    "pressure": 1022,
+    "feels_like": 11.2,
+    "pressure": 1021,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "weather_icon": "10n",
