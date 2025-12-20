@@ -1,10 +1,10 @@
 {
-  "time": "2025-12-20 15:34:51",
+  "time": "2025-12-20 16:00:28",
   "temp": 9.98,
   "temp_max": 9.98,
   "temp_min": 8.58,
   "humidity": 100,
-  "feels_like": 9.58,
+  "feels_like": 9.98,
   "pressure": 1020,
   "weather_main": "Mist",
   "weather_description": "mist",
