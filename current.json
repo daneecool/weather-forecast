@@ -1,14 +1,14 @@
 {
-  "time": "2025-12-21 11:04:23",
-  "temp": 13.57,
-  "temp_max": 13.98,
+  "time": "2025-12-21 11:33:36",
+  "temp": 13.72,
+  "temp_max": 13.99,
   "temp_min": 12.83,
   "humidity": 80,
-  "feels_like": 13.07,
-  "pressure": 1012,
-  "weather_main": "Clouds",
-  "weather_description": "broken clouds",
-  "weather_icon": "04n",
-  "rain_1h_mm": 0,
+  "feels_like": 13.24,
+  "pressure": 1013,
+  "weather_main": "Rain",
+  "weather_description": "light intensity shower rain",
+  "weather_icon": "09n",
+  "rain_1h_mm": 0.27,
   "snow_1h_mm": 0
 }
