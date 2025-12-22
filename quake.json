@@ -1,21 +1,21 @@
 {
-  "EventID": "20251223050357",
-  "Serial": 5,
-  "AnnouncedTime": "2025/12/23 05:04:36",
-  "OriginTime": "2025/12/23 05:03:49",
-  "Hypocenter": "十勝地方南部",
-  "Latitude": 42.3,
-  "Longitude": 143.1,
-  "Magunitude": 3.8,
-  "Depth": 50,
+  "EventID": "20251223082905",
+  "Serial": 3,
+  "AnnouncedTime": "2025/12/23 08:29:52",
+  "OriginTime": "2025/12/23 08:28:55",
+  "Hypocenter": "福島県沖",
+  "Latitude": 37.8,
+  "Longitude": 141.7,
+  "Magunitude": 3.9,
+  "Depth": 70,
   "MaxIntensity": "2",
-  "isSea": false,
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251223050436 C11 251223050349 ND20251223050357 NCN905 JD////////////// JN/// 157 N423 E1431 050 38 02 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 03 00 251223082952 C11 251223082855 ND20251223082905 NCN903 JD////////////// JN/// 289 N378 E1417 070 39 02 RK44209 RT10/// RC0//// 9999=",
   "Pond": "55",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20251223082905",
+      "time": "2025/12/23 08:29",
+      "time_full": "2025/12/23 08:29:05",
+      "location": "福島県沖",
+      "magnitude": "4.0",
+      "depth": "60km",
+      "latitude": "37.8",
+      "longitude": "141.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20251223050357",
       "time": "2025/12/23 05:03",
       "time_full": "2025/12/23 05:03:57",
@@ -34,10 +47,10 @@
       "depth": "50km",
       "latitude": "42.3",
       "longitude": "143.0",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251222213827",
       "time": "2025/12/22 21:38",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251222083309",
       "time": "2025/12/22 08:33",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251221230319",
       "time": "2025/12/21 23:03",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251221220600",
       "time": "2025/12/21 22:06",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251221220311",
       "time": "2025/12/21 22:03",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251221213000",
       "time": "2025/12/21 21:30",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251221155144",
       "time": "2025/12/21 15:51",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251221124828",
       "time": "2025/12/21 12:48",
@@ -138,19 +151,6 @@
       "depth": "0km",
       "latitude": "43.6",
       "longitude": "147.6",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251221120028",
-      "time": "2025/12/21 12:00",
-      "time_full": "2025/12/21 12:00:28",
-      "location": "和歌山県北部",
-      "magnitude": "2.6",
-      "depth": "10km",
-      "latitude": "34.1",
-      "longitude": "135.3",
       "info": "",
       "intensity": "1"
     }
