@@ -1,25 +1,11 @@
 [
   {
-    "time": "2025-12-22 18:00:00",
-    "temp": 5.47,
-    "temp_max": 7.56,
-    "temp_min": 5.47,
-    "humidity": 59,
-    "feels_like": 1.11,
-    "pressure": 1030,
-    "weather_main": "Clouds",
-    "weather_description": "few clouds",
-    "weather_icon": "02n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2025-12-22 21:00:00",
-    "temp": 6.08,
+    "temp": 5.88,
     "temp_max": 7.31,
-    "temp_min": 6.08,
+    "temp_min": 5.88,
     "humidity": 56,
-    "feels_like": 2.05,
+    "feels_like": 1.79,
     "pressure": 1030,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
