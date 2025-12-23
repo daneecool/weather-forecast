@@ -11,12 +11,12 @@
   },
   {
     "time": "2025-12-24 00:00:00",
-    "temp": 6.98,
-    "temp_max": 7.04,
-    "temp_min": 6.98,
-    "humidity": 75,
-    "feels_like": 3.33,
-    "pressure": 1022,
+    "temp": 6.94,
+    "temp_max": 6.99,
+    "temp_min": 6.94,
+    "humidity": 80,
+    "feels_like": 3.28,
+    "pressure": 1021,
     "rain_mm": 1.99
   },
   {
