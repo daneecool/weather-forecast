@@ -1,30 +1,56 @@
 {
-  "EventID": "20251223184505",
-  "Serial": 3,
-  "AnnouncedTime": "2025/12/23 18:46:23",
-  "OriginTime": "2025/12/23 18:44:17",
-  "Hypocenter": "東海道南方沖",
-  "Latitude": 33.0,
-  "Longitude": 138.0,
-  "Magunitude": 5.0,
-  "Depth": 380,
-  "MaxIntensity": "不明",
+  "EventID": "20251224055506",
+  "Serial": 4,
+  "AnnouncedTime": "2025/12/24 05:56:01",
+  "OriginTime": "2025/12/24 05:55:01",
+  "Hypocenter": "奄美大島近海",
+  "Latitude": 27.7,
+  "Longitude": 128.7,
+  "Magunitude": 3.7,
+  "Depth": 10,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251223184623 C11 251223184417 ND20251223184505 NCN903 JD////////////// JN/// 499 N330 E1380 380 50 // RK44209 RT10/// RC///// 9999=",
-  "Pond": "55",
+  "OriginalText": "37 03 00 251224055601 C11 251224055501 ND20251224055506 NCN904 JD////////////// JN/// 793 N277 E1287 010 37 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "84",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
-  "String": "不明、未設定時、キャンセル時",
+  "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251224055506",
+      "time": "2025/12/24 05:55",
+      "time_full": "2025/12/24 05:55:06",
+      "location": "奄美大島近海",
+      "magnitude": "3.6",
+      "depth": "20km",
+      "latitude": "27.7",
+      "longitude": "128.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20251224054035",
+      "time": "2025/12/24 05:40",
+      "time_full": "2025/12/24 05:40:35",
+      "location": "トカラ列島近海",
+      "magnitude": "2.0",
+      "depth": "10km",
+      "latitude": "29.5",
+      "longitude": "129.7",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251223184505",
       "time": "2025/12/23 18:45",
@@ -34,10 +60,10 @@
       "depth": "330km",
       "latitude": "33.2",
       "longitude": "137.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251223082905",
       "time": "2025/12/23 08:29",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251223050357",
       "time": "2025/12/23 05:03",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251222213827",
       "time": "2025/12/22 21:38",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251222083309",
       "time": "2025/12/22 08:33",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251221230319",
       "time": "2025/12/21 23:03",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251221220600",
       "time": "2025/12/21 22:06",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251221220311",
       "time": "2025/12/21 22:03",
@@ -127,32 +153,6 @@
       "longitude": "129.6",
       "info": "",
       "intensity": "3"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20251221213000",
-      "time": "2025/12/21 21:30",
-      "time_full": "2025/12/21 21:30:00",
-      "location": "トカラ列島近海",
-      "magnitude": "2.1",
-      "depth": "10km",
-      "latitude": "29.5",
-      "longitude": "129.6",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251221155144",
-      "time": "2025/12/21 15:51",
-      "time_full": "2025/12/21 15:51:44",
-      "location": "奄美大島近海",
-      "magnitude": "3.9",
-      "depth": "10km",
-      "latitude": "27.5",
-      "longitude": "129.2",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
