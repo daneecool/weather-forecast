@@ -1,13 +1,13 @@
 {
-  "time": "2025-12-25 06:45:09",
-  "temp": 12.62,
+  "time": "2025-12-25 07:06:47",
+  "temp": 12.16,
   "temp_max": 13.58,
   "temp_min": 11.66,
   "humidity": 83,
-  "feels_like": 12.1,
+  "feels_like": 11.6,
   "pressure": 997,
   "weather_main": "Clouds",
-  "weather_description": "overcast clouds",
+  "weather_description": "broken clouds",
   "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
