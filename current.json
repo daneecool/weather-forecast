@@ -1,5 +1,5 @@
 {
-  "time": "2025-12-25 09:34:18",
+  "time": "2025-12-25 10:00:23",
   "temp": 10.92,
   "temp_max": 11.58,
   "temp_min": 10.55,
@@ -9,6 +9,6 @@
   "weather_main": "Rain, Mist",
   "weather_description": "light rain, mist",
   "weather_icon": "10n, 50n",
-  "rain_1h_mm": 0.11,
+  "rain_1h_mm": 0.1,
   "snow_1h_mm": 0
 }
