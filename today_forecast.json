@@ -5,12 +5,12 @@
     "temp_max": 12.87,
     "temp_min": 9.96,
     "humidity": 96,
-    "feels_like": 6.83,
+    "feels_like": 6.41,
     "pressure": 993,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
-    "rain_mm": 0.16,
+    "rain_mm": 0.11,
     "snow_mm": 0
   },
   {
