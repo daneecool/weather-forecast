@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-25 15:00:00",
-    "temp": 10.55,
-    "temp_max": 11.03,
-    "temp_min": 10.55,
-    "humidity": 87,
-    "feels_like": 9.93,
+    "temp": 10.59,
+    "temp_max": 11.14,
+    "temp_min": 10.59,
+    "humidity": 86,
+    "feels_like": 9.95,
     "pressure": 997,
     "weather_main": "Rain",
     "weather_description": "light rain",
