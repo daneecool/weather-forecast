@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-26 21:00:00",
-    "temp": 3.37,
+    "temp": 3.36,
     "temp_max": 4.53,
-    "temp_min": 3.37,
-    "humidity": 40,
-    "feels_like": -0.57,
+    "temp_min": 3.36,
+    "humidity": 45,
+    "feels_like": -0.58,
     "pressure": 1018,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
