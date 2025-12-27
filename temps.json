@@ -4,7 +4,7 @@
     "temp": 2.98,
     "temp_max": 6.58,
     "temp_min": 2.98,
-    "humidity": 60,
+    "humidity": 65,
     "feels_like": -1.33,
     "pressure": 1019,
     "rain_mm": 0
@@ -14,7 +14,7 @@
     "temp": 4.16,
     "temp_max": 6.53,
     "temp_min": 4.16,
-    "humidity": 55,
+    "humidity": 58,
     "feels_like": 0.53,
     "pressure": 1019,
     "rain_mm": 0
@@ -24,7 +24,7 @@
     "temp": 5.42,
     "temp_max": 6.64,
     "temp_min": 5.42,
-    "humidity": 48,
+    "humidity": 50,
     "feels_like": 1.65,
     "pressure": 1022,
     "rain_mm": 0
