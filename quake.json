@@ -1,30 +1,52 @@
 {
-  "EventID": "20251227125526",
-  "Serial": 4,
-  "AnnouncedTime": "2025/12/27 12:56:10",
-  "OriginTime": "2025/12/27 12:55:17",
-  "Hypocenter": "釧路沖",
-  "Latitude": 42.9,
-  "Longitude": 145.5,
-  "Magunitude": 4.1,
-  "Depth": 50,
-  "MaxIntensity": "3",
+  "EventID": "20251228000613",
+  "Serial": 11,
+  "AnnouncedTime": "2025/12/28 00:07:38",
+  "OriginTime": "2025/12/28 00:05:55",
+  "Hypocenter": "台湾付近",
+  "Latitude": 24.7,
+  "Longitude": 122.0,
+  "Magunitude": 6.7,
+  "Depth": 70,
+  "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251227125610 C11 251227125517 ND20251227125526 NCN904 JD////////////// JN/// 190 N429 E1455 050 41 03 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "90",
+  "OriginalText": "37 03 00 251228000738 C11 251228000555 ND20251228000613 NCN911 JD////////////// JN/// 900 N247 E1220 070 67 04 RK44559 RT11/// RC0//// EBI 806 S0404 ////// 11 9999=",
+  "Pond": "53",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "沖縄県与那国島",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251228000613",
+      "time": "2025/12/28 00:06",
+      "time_full": "2025/12/28 00:06:13",
+      "location": "台湾付近",
+      "magnitude": "6.7",
+      "depth": "40km",
+      "latitude": "24.7",
+      "longitude": "122.1",
+      "info": "この地震により、日本の沿岸では若干の海面変動があるかもしれませんが、被害の心配はありません。\nこの地震について、緊急地震速報を発表しています。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251227185605",
       "time": "2025/12/27 18:56",
@@ -34,10 +56,10 @@
       "depth": "40km",
       "latitude": "33.0",
       "longitude": "132.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251227125526",
       "time": "2025/12/27 12:55",
@@ -50,7 +72,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251227093349",
       "time": "2025/12/27 09:33",
@@ -63,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251227082630",
       "time": "2025/12/27 08:26",
@@ -76,7 +98,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251226032935",
       "time": "2025/12/26 03:29",
@@ -89,7 +111,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251226031857",
       "time": "2025/12/26 03:18",
@@ -102,7 +124,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251226025649",
       "time": "2025/12/26 02:56",
@@ -115,7 +137,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251226012557",
       "time": "2025/12/26 01:25",
@@ -128,7 +150,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251226011748",
       "time": "2025/12/26 01:17",
@@ -140,19 +162,6 @@
       "longitude": "142.6",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251225212835",
-      "time": "2025/12/25 21:28",
-      "time_full": "2025/12/25 21:28:35",
-      "location": "大分県中部",
-      "magnitude": "2.0",
-      "depth": "10km",
-      "latitude": "33.3",
-      "longitude": "131.4",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
