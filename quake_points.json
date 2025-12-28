@@ -1,20 +1,48 @@
 [
   {
     "No": "No1",
-    "Title": "震度速報",
-    "EventID": "20251229073524",
-    "time": "2025/12/29 07:35",
-    "time_full": "2025/12/29 07:35:24",
-    "location": "",
-    "magnitude": "",
-    "depth": "0km",
-    "latitude": "0.0",
-    "longitude": "0.0",
-    "info": "今後の情報に注意してください。",
+    "Title": "震源・震度情報",
+    "EventID": "20251229075149",
+    "time": "2025/12/29 07:51",
+    "time_full": "2025/12/29 07:51:49",
+    "location": "トカラ列島近海",
+    "magnitude": "3.3",
+    "depth": "20km",
+    "latitude": "29.4",
+    "longitude": "129.4",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "3"
   },
   {
     "No": "No2",
+    "Title": "震源・震度情報",
+    "EventID": "20251229073744",
+    "time": "2025/12/29 07:37",
+    "time_full": "2025/12/29 07:37:44",
+    "location": "熊本県阿蘇地方",
+    "magnitude": "2.4",
+    "depth": "10km",
+    "latitude": "33.0",
+    "longitude": "131.1",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No3",
+    "Title": "震源・震度情報",
+    "EventID": "20251229073524",
+    "time": "2025/12/29 07:35",
+    "time_full": "2025/12/29 07:35:24",
+    "location": "熊本県阿蘇地方",
+    "magnitude": "4.0",
+    "depth": "10km",
+    "latitude": "33.0",
+    "longitude": "131.1",
+    "info": "",
+    "intensity": "3"
+  },
+  {
+    "No": "No4",
     "Title": "震源・震度情報",
     "EventID": "20251229061258",
     "time": "2025/12/29 06:12",
@@ -28,7 +56,7 @@
     "intensity": "2"
   },
   {
-    "No": "No3",
+    "No": "No5",
     "Title": "震源・震度情報",
     "EventID": "20251228180817",
     "time": "2025/12/28 18:08",
@@ -42,7 +70,7 @@
     "intensity": "1"
   },
   {
-    "No": "No4",
+    "No": "No6",
     "Title": "震源・震度情報",
     "EventID": "20251228164007",
     "time": "2025/12/28 16:40",
@@ -56,7 +84,7 @@
     "intensity": "1"
   },
   {
-    "No": "No5",
+    "No": "No7",
     "Title": "震源・震度情報",
     "EventID": "20251228090224",
     "time": "2025/12/28 09:02",
@@ -70,7 +98,7 @@
     "intensity": "1"
   },
   {
-    "No": "No6",
+    "No": "No8",
     "Title": "震源・震度情報",
     "EventID": "20251228021955",
     "time": "2025/12/28 02:19",
@@ -84,7 +112,7 @@
     "intensity": "2"
   },
   {
-    "No": "No7",
+    "No": "No9",
     "Title": "震源・震度情報",
     "EventID": "20251228000613",
     "time": "2025/12/28 00:06",
@@ -98,7 +126,7 @@
     "intensity": "3"
   },
   {
-    "No": "No8",
+    "No": "No10",
     "Title": "震源・震度情報",
     "EventID": "20251227185605",
     "time": "2025/12/27 18:56",
@@ -108,34 +136,6 @@
     "depth": "40km",
     "latitude": "33.0",
     "longitude": "132.2",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No9",
-    "Title": "震源・震度情報",
-    "EventID": "20251227125526",
-    "time": "2025/12/27 12:55",
-    "time_full": "2025/12/27 12:55:26",
-    "location": "釧路沖",
-    "magnitude": "4.2",
-    "depth": "40km",
-    "latitude": "42.9",
-    "longitude": "145.5",
-    "info": "",
-    "intensity": "2"
-  },
-  {
-    "No": "No10",
-    "Title": "震源・震度情報",
-    "EventID": "20251227093349",
-    "time": "2025/12/27 09:33",
-    "time_full": "2025/12/27 09:33:49",
-    "location": "釧路沖",
-    "magnitude": "3.6",
-    "depth": "50km",
-    "latitude": "42.7",
-    "longitude": "144.6",
     "info": "",
     "intensity": "1"
   }
