@@ -15,6 +15,21 @@
     "rain_mm": 0.81
   },
   {
+    "time": "2026-01-02 18:00:00",
+    "wind_speed": 19.78,
+    "wind_gust": 25.2,
+    "pressure": 994,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 15.56,
+    "humidity": 73,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 1.44
+  },
+  {
     "time": "2025-12-31 15:00:00",
     "wind_speed": 21.93,
     "wind_gust": 22.22,
@@ -58,5 +73,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.31
+  },
+  {
+    "time": "2026-01-02 18:00:00",
+    "wind_speed": 8.95,
+    "wind_gust": 11.5,
+    "pressure": 989,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 10.44,
+    "humidity": 83,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 3.81
   }
 ]
