@@ -1,11 +1,11 @@
 [
   {
     "time": "2025-12-30 21:00:00",
-    "temp": 7.3,
+    "temp": 9,
     "temp_max": 9.04,
-    "temp_min": 7.3,
-    "humidity": 67,
-    "feels_like": 4.14,
+    "temp_min": 9,
+    "humidity": 64,
+    "feels_like": 6.27,
     "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
