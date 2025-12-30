@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2025-12-30 21:00:00",
-    "temp": 6.82,
-    "temp_max": 9.04,
-    "temp_min": 6.82,
-    "humidity": 76,
-    "feels_like": 3.53,
-    "pressure": 1013,
-    "weather_main": "Clouds",
-    "weather_description": "few clouds",
-    "weather_icon": "02n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
