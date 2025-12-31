@@ -1,10 +1,10 @@
 {
-  "time": "2025-12-31 22:34:17",
+  "time": "2025-12-31 23:01:10",
   "temp": 4.45,
   "temp_max": 5.1,
   "temp_min": 3.65,
-  "humidity": 78,
-  "feels_like": 0.58,
+  "humidity": 79,
+  "feels_like": 0.84,
   "pressure": 1012,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
