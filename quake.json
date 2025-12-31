@@ -1,47 +1,43 @@
 {
-  "EventID": "20251231232704",
-  "Serial": 10,
-  "AnnouncedTime": "2025/12/31 23:28:47",
-  "OriginTime": "2025/12/31 23:26:57",
+  "EventID": "20251231235010",
+  "Serial": 4,
+  "AnnouncedTime": "2025/12/31 23:50:49",
+  "OriginTime": "2025/12/31 23:50:02",
   "Hypocenter": "岩手県沖",
-  "Latitude": 40.1,
-  "Longitude": 142.9,
-  "Magunitude": 5.7,
+  "Latitude": 39.6,
+  "Longitude": 142.1,
+  "Magunitude": 3.7,
   "Depth": 50,
-  "MaxIntensity": "4",
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 251231232847 C11 251231232657 ND20251231232704 NCN910 JD////////////// JN/// 286 N401 E1429 050 57 04 RK44559 RT10/// RC0//// EBI 202 S0404 ////// 01 212 S0404 232751 09 9999=",
+  "OriginalText": "37 03 00 251231235049 C11 251231235002 ND20251231235010 NCN904 JD////////////// JN/// 286 N396 E1421 050 37 02 RK44209 RT10/// RC0//// 9999=",
   "Pond": "122",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "青森県三八上北",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "岩手県内陸北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "232751",
-      "Type": "予報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20251231235010",
+      "time": "2025/12/31 23:50",
+      "time_full": "2025/12/31 23:50:10",
+      "location": "岩手県沖",
+      "magnitude": "3.9",
+      "depth": "50km",
+      "latitude": "39.6",
+      "longitude": "142.1",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20251231232704",
       "time": "2025/12/31 23:27",
@@ -51,10 +47,10 @@
       "depth": "30km",
       "latitude": "40.1",
       "longitude": "142.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "4"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20251231205223",
       "time": "2025/12/31 20:52",
@@ -67,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20251231202659",
       "time": "2025/12/31 20:26",
@@ -80,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20251231164341",
       "time": "2025/12/31 16:43",
@@ -93,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20251231142254",
       "time": "2025/12/31 14:22",
@@ -106,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20251231103336",
       "time": "2025/12/31 10:33",
@@ -119,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20251231085142",
       "time": "2025/12/31 08:51",
@@ -132,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20251231071949",
       "time": "2025/12/31 07:19",
@@ -145,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20251231040347",
       "time": "2025/12/31 04:03",
@@ -157,19 +153,6 @@
       "longitude": "128.7",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20251230174818",
-      "time": "2025/12/30 17:48",
-      "time_full": "2025/12/30 17:48:18",
-      "location": "奄美大島近海",
-      "magnitude": "4.1",
-      "depth": "10km",
-      "latitude": "27.7",
-      "longitude": "128.7",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
