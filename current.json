@@ -1,9 +1,9 @@
 {
-  "time": "2025-12-31 17:34:51",
-  "temp": 6.38,
-  "temp_max": 7.88,
+  "time": "2025-12-31 18:07:10",
+  "temp": 6.22,
+  "temp_max": 7.32,
   "temp_min": 4.58,
-  "humidity": 77,
+  "humidity": 78,
   "feels_like": 2.58,
   "pressure": 1011,
   "weather_main": "Clouds",
