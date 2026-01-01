@@ -1,73 +1,63 @@
 [
   {
-    "time": "2026-01-01 12:00:00",
-    "temp": 8.12,
-    "temp_max": 8.98,
-    "temp_min": 8.12,
-    "humidity": 51,
-    "feels_like": 7.23,
-    "pressure": 1011,
-    "rain_mm": 0
-  },
-  {
     "time": "2026-01-01 15:00:00",
     "temp": 7.8,
     "temp_max": 7.8,
     "temp_min": 7.16,
-    "humidity": 47,
-    "feels_like": 3.89,
+    "humidity": 44,
+    "feels_like": 4.11,
     "pressure": 1011,
     "rain_mm": 0
   },
   {
     "time": "2026-01-01 18:00:00",
-    "temp": 6.62,
-    "temp_max": 6.62,
-    "temp_min": 5.87,
-    "humidity": 62,
-    "feels_like": 2.8,
+    "temp": 7.69,
+    "temp_max": 7.69,
+    "temp_min": 7.47,
+    "humidity": 41,
+    "feels_like": 4.21,
     "pressure": 1010,
-    "rain_mm": 0.14
-  },
-  {
-    "time": "2026-01-01 21:00:00",
-    "temp": 5.09,
-    "temp_max": 5.09,
-    "temp_min": 5.09,
-    "humidity": 68,
-    "feels_like": 2.4,
-    "pressure": 1011,
-    "rain_mm": 0.44
-  },
-  {
-    "time": "2026-01-02 00:00:00",
-    "temp": 4.47,
-    "temp_max": 4.47,
-    "temp_min": 4.47,
-    "humidity": 67,
-    "feels_like": 1.28,
-    "pressure": 1011,
     "rain_mm": 0
   },
   {
+    "time": "2026-01-01 21:00:00",
+    "temp": 6.26,
+    "temp_max": 6.26,
+    "temp_min": 6.26,
+    "humidity": 49,
+    "feels_like": 4.1,
+    "pressure": 1010,
+    "rain_mm": 0
+  },
+  {
+    "time": "2026-01-02 00:00:00",
+    "temp": 5.17,
+    "temp_max": 5.17,
+    "temp_min": 5.17,
+    "humidity": 71,
+    "feels_like": 1.9,
+    "pressure": 1010,
+    "rain_mm": 1.01
+  },
+  {
     "time": "2026-01-02 03:00:00",
-    "temp": 4.5,
-    "temp_max": 4.5,
-    "temp_min": 4.5,
-    "humidity": 80,
-    "feels_like": 1.23,
-    "pressure": 1009,
-    "rain_mm": 0.43
+    "temp": 5.28,
+    "temp_max": 5.28,
+    "temp_min": 5.28,
+    "humidity": 69,
+    "feels_like": 2.5,
+    "pressure": 1008,
+    "rain_mm": 0.71
   },
   {
     "time": "2026-01-02 06:00:00",
-    "temp": 5.05,
-    "temp_max": 5.05,
-    "temp_min": 5.05,
-    "humidity": 82,
-    "feels_like": 1.81,
+    "temp": 5.76,
+    "temp_max": 5.76,
+    "temp_min": 5.76,
+    "humidity": 76,
+    "feels_like": 2.36,
     "pressure": 1007,
-    "rain_mm": 0.53
+    "rain_mm": 0.7
   },
   {
     "time": "2026-01-02 09:00:00",
@@ -396,6 +386,16 @@
     "temp_min": 9.25,
     "humidity": 52,
     "feels_like": 6.61,
+    "pressure": 1017,
+    "rain_mm": 0
+  },
+  {
+    "time": "2026-01-06 12:00:00",
+    "temp": 9.64,
+    "temp_max": 9.64,
+    "temp_min": 9.64,
+    "humidity": 47,
+    "feels_like": 7.28,
     "pressure": 1017,
     "rain_mm": 0
   }
