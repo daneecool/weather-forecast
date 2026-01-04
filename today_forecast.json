@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-01-04 21:00:00",
-    "temp": 5.2,
-    "temp_max": 7.65,
-    "temp_min": 5.2,
-    "humidity": 62,
-    "feels_like": 5.2,
-    "pressure": 1012,
+    "temp": 5.26,
+    "temp_max": 7.82,
+    "temp_min": 5.26,
+    "humidity": 61,
+    "feels_like": 5.26,
+    "pressure": 1011,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
     "weather_icon": "02n",
