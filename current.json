@@ -1,9 +1,9 @@
 {
-  "time": "2026-01-04 21:59:38",
+  "time": "2026-01-04 22:37:48",
   "temp": 2.98,
-  "temp_max": 2.98,
-  "temp_min": 2.58,
-  "humidity": 65,
+  "temp_max": 3.58,
+  "temp_min": 2.98,
+  "humidity": 70,
   "feels_like": 2.98,
   "pressure": 1011,
   "weather_main": "Clouds",
