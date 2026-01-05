@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2026-01-05 12:00:00",
+    "wind_speed": 19,
+    "wind_gust": 23.2,
+    "pressure": 1006,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 16,
+    "humidity": 87,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 10.75
+  }
+]
