@@ -1,17 +1,17 @@
 [
   {
     "time": "2026-01-08 06:00:00",
-    "wind_speed": 18.16,
-    "wind_gust": 21.7,
-    "pressure": 1003,
+    "wind_speed": 19.58,
+    "wind_gust": 24.12,
+    "pressure": 1002,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 9.18,
-    "humidity": 85,
+    "temp": 9.96,
+    "humidity": 84,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 1.81
+    "rain_mm": 1.88
   }
 ]
