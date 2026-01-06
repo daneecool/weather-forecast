@@ -1,12 +1,12 @@
 {
-  "EventID": "20260106192142",
-  "Serial": 4,
-  "AnnouncedTime": "2026/01/06 19:22:20",
-  "OriginTime": "2026/01/06 19:21:40",
+  "EventID": "20260106195315",
+  "Serial": 5,
+  "AnnouncedTime": "2026/01/06 19:53:53",
+  "OriginTime": "2026/01/06 19:53:12",
   "Hypocenter": "島根県東部",
   "Latitude": 35.3,
   "Longitude": 133.2,
-  "Magunitude": 3.7,
+  "Magunitude": 3.8,
   "Depth": 20,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,16 +15,42 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260106192220 C11 260106192140 ND20260106192142 NCN904 JD////////////// JN/// 570 N353 E1332 020 37 03 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260106195353 C11 260106195312 ND20260106195315 NCN905 JD////////////// JN/// 570 N353 E1332 020 38 03 RK44519 RT00/// RC0//// 9999=",
   "Pond": "83",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260106195315",
+      "time": "2026/01/06 19:53",
+      "time_full": "2026/01/06 19:53:15",
+      "location": "島根県東部",
+      "magnitude": "3.9",
+      "depth": "20km",
+      "latitude": "35.3",
+      "longitude": "133.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260106194735",
+      "time": "2026/01/06 19:47",
+      "time_full": "2026/01/06 19:47:35",
+      "location": "和歌山県北部",
+      "magnitude": "2.2",
+      "depth": "0km",
+      "latitude": "34.1",
+      "longitude": "135.3",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260106192831",
       "time": "2026/01/06 19:28",
@@ -34,10 +60,10 @@
       "depth": "10km",
       "latitude": "35.3",
       "longitude": "133.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260106192142",
       "time": "2026/01/06 19:21",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260106162623",
       "time": "2026/01/06 16:26",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260106162034",
       "time": "2026/01/06 16:20",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260106153822",
       "time": "2026/01/06 15:38",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260106134156",
       "time": "2026/01/06 13:41",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260106133137",
       "time": "2026/01/06 13:31",
@@ -115,39 +141,13 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260106132400",
       "time": "2026/01/06 13:24",
       "time_full": "2026/01/06 13:24:00",
       "location": "島根県東部",
       "magnitude": "2.8",
-      "depth": "10km",
-      "latitude": "35.3",
-      "longitude": "133.2",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260106130535",
-      "time": "2026/01/06 13:05",
-      "time_full": "2026/01/06 13:05:35",
-      "location": "島根県東部",
-      "magnitude": "3.3",
-      "depth": "10km",
-      "latitude": "35.3",
-      "longitude": "133.2",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260106125114",
-      "time": "2026/01/06 12:51",
-      "time_full": "2026/01/06 12:51:14",
-      "location": "島根県東部",
-      "magnitude": "2.9",
       "depth": "10km",
       "latitude": "35.3",
       "longitude": "133.2",
