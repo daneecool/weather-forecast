@@ -1,10 +1,10 @@
 {
-  "time": "2026-01-06 16:05:18",
+  "time": "2026-01-06 16:43:22",
   "temp": 5.17,
   "temp_max": 5.98,
-  "temp_min": 3.38,
+  "temp_min": 3.58,
   "humidity": 50,
-  "feels_like": 1.25,
+  "feels_like": 1.48,
   "pressure": 1018,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
