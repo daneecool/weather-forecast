@@ -1,9 +1,9 @@
 {
-  "time": "2026-01-08 13:18:01",
+  "time": "2026-01-08 13:42:43",
   "temp": 3.42,
   "temp_max": 3.98,
   "temp_min": 2.27,
-  "humidity": 43,
+  "humidity": 44,
   "feels_like": -2.72,
   "pressure": 1014,
   "weather_main": "Clouds",
