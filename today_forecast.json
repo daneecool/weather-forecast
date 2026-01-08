@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-08 21:00:00",
-    "temp": 3.5,
-    "temp_max": 3.96,
-    "temp_min": 3.5,
-    "humidity": 40,
-    "feels_like": -1.13,
+    "temp": 3.55,
+    "temp_max": 4.11,
+    "temp_min": 3.55,
+    "humidity": 38,
+    "feels_like": -1.07,
     "pressure": 1017,
     "weather_main": "Clear",
     "weather_description": "clear sky",
