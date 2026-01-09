@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-09 21:00:00",
-    "temp": 3.77,
+    "temp": 4.14,
     "temp_max": 6.37,
-    "temp_min": 3.77,
-    "humidity": 60,
-    "feels_like": 1.51,
+    "temp_min": 4.14,
+    "humidity": 59,
+    "feels_like": 1.94,
     "pressure": 1018,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
