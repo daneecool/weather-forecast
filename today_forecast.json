@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-01-10 21:00:00",
-    "temp": 13.99,
-    "temp_max": 13.99,
-    "temp_min": 12.64,
-    "humidity": 59,
-    "feels_like": 12.99,
-    "pressure": 1004,
+    "temp": 14.29,
+    "temp_max": 14.29,
+    "temp_min": 13.24,
+    "humidity": 62,
+    "feels_like": 13.39,
+    "pressure": 1003,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04n",
