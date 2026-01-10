@@ -1,30 +1,43 @@
 {
-  "EventID": "20260109202414",
-  "Serial": 8,
-  "AnnouncedTime": "2026/01/09 20:25:40",
-  "OriginTime": "2026/01/09 20:24:11",
-  "Hypocenter": "秋田県内陸北部",
-  "Latitude": 40.3,
-  "Longitude": 140.8,
-  "Magunitude": 4.5,
+  "EventID": "20260110085153",
+  "Serial": 7,
+  "AnnouncedTime": "2026/01/10 08:52:38",
+  "OriginTime": "2026/01/10 08:51:48",
+  "Hypocenter": "父島近海",
+  "Latitude": 26.5,
+  "Longitude": 142.0,
+  "Magunitude": 4.7,
   "Depth": 10,
   "MaxIntensity": "3",
-  "isSea": false,
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260109202540 C11 260109202411 ND20260109202414 NCN908 JD////////////// JN/// 232 N403 E1408 010 45 03 RK44559 RT00/// RC0//// 9999=",
-  "Pond": "27",
-  "Epicenter": "IPF 法（5 点以上）",
-  "DepthAccuracy": "IPF 法（5 点以上）",
+  "OriginalText": "36 04 00 260110085238 C11 260110085148 ND20260110085153 NCN907 JD////////////// JN/// 911 N265 E1420 010 47 03 RK22529 RT10/// RC0//// 9999=",
+  "Pond": "11",
+  "Epicenter": "IPF 法（2 点）",
+  "DepthAccuracy": "IPF 法（2 点）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260110085153",
+      "time": "2026/01/10 08:51",
+      "time_full": "2026/01/10 08:51:53",
+      "location": "硫黄島近海",
+      "magnitude": "5.5",
+      "depth": "30km",
+      "latitude": "25.9",
+      "longitude": "141.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260110040248",
       "time": "2026/01/10 04:02",
@@ -34,10 +47,10 @@
       "depth": "40km",
       "latitude": "34.9",
       "longitude": "137.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260110031207",
       "time": "2026/01/10 03:12",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260109232712",
       "time": "2026/01/09 23:27",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260109232420",
       "time": "2026/01/09 23:24",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260109230151",
       "time": "2026/01/09 23:01",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260109213931",
       "time": "2026/01/09 21:39",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260109203511",
       "time": "2026/01/09 20:35",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260109203021",
       "time": "2026/01/09 20:30",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260109202414",
       "time": "2026/01/09 20:24",
@@ -138,19 +151,6 @@
       "depth": "10km",
       "latitude": "40.3",
       "longitude": "140.9",
-      "info": "",
-      "intensity": "4"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260109200804",
-      "time": "2026/01/09 20:08",
-      "time_full": "2026/01/09 20:08:04",
-      "location": "千葉県北東部",
-      "magnitude": "4.7",
-      "depth": "30km",
-      "latitude": "35.5",
-      "longitude": "140.4",
       "info": "",
       "intensity": "4"
     }
