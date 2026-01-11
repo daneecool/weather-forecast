@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-01-11 21:00:00",
-    "temp": 1.48,
-    "temp_max": 4.77,
-    "temp_min": 1.48,
-    "humidity": 45,
-    "feels_like": 1.48,
-    "pressure": 1014,
-    "weather_main": "Clouds",
-    "weather_description": "few clouds",
-    "weather_icon": "02n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
