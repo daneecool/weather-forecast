@@ -1,12 +1,12 @@
 {
-  "EventID": "20260113015854",
-  "Serial": 10,
-  "AnnouncedTime": "2026/01/13 02:00:05",
-  "OriginTime": "2026/01/13 01:58:54",
-  "Hypocenter": "宗谷地方南部",
-  "Latitude": 45.0,
-  "Longitude": 142.2,
-  "Magunitude": 5.1,
+  "EventID": "20260113050950",
+  "Serial": 9,
+  "AnnouncedTime": "2026/01/13 05:11:09",
+  "OriginTime": "2026/01/13 05:09:48",
+  "Hypocenter": "石川県能登地方",
+  "Latitude": 37.5,
+  "Longitude": 137.3,
+  "Magunitude": 4.4,
   "Depth": 10,
   "MaxIntensity": "4",
   "isSea": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260113020005 C11 260113015854 ND20260113015854 NCN910 JD////////////// JN/// 136 N450 E1422 010 51 04 RK44559 RT00/// RC0//// EBI 136 S0404 ////// 01 125 S0404 ////// 01 135 S0404 ////// 01 9999=",
-  "Pond": "70",
+  "OriginalText": "37 04 00 260113051109 C11 260113050948 ND20260113050950 NCN909 JD////////////// JN/// 390 N375 E1373 010 44 04 RK44559 RT00/// RC0//// EBI 390 S0404 ////// 01 9999=",
+  "Pond": "92",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -24,23 +24,7 @@
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [
     {
-      "Chiiki": "宗谷地方南部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "上川地方北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "宗谷地方北部",
+      "Chiiki": "石川県能登",
       "Shindo1": "4",
       "Shindo2": "4",
       "Time": "//////",
@@ -51,6 +35,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260113050950",
+      "time": "2026/01/13 05:09",
+      "time_full": "2026/01/13 05:09:50",
+      "location": "石川県能登地方",
+      "magnitude": "4.2",
+      "depth": "10km",
+      "latitude": "37.5",
+      "longitude": "137.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "4"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260113015854",
       "time": "2026/01/13 01:58",
       "time_full": "2026/01/13 01:58:54",
@@ -59,10 +56,10 @@
       "depth": "0km",
       "latitude": "45.1",
       "longitude": "142.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260113013434",
       "time": "2026/01/13 01:34",
@@ -75,7 +72,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260113012747",
       "time": "2026/01/13 01:27",
@@ -88,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260113011014",
       "time": "2026/01/13 01:10",
@@ -101,7 +98,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260113000251",
       "time": "2026/01/13 00:02",
@@ -114,7 +111,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260112230844",
       "time": "2026/01/12 23:08",
@@ -127,7 +124,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260112154754",
       "time": "2026/01/12 15:47",
@@ -140,7 +137,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260112145748",
       "time": "2026/01/12 14:57",
@@ -153,7 +150,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260112121452",
       "time": "2026/01/12 12:14",
@@ -165,19 +162,6 @@
       "longitude": "141.8",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260112120256",
-      "time": "2026/01/12 12:02",
-      "time_full": "2026/01/12 12:02:56",
-      "location": "宗谷地方南部",
-      "magnitude": "3.0",
-      "depth": "0km",
-      "latitude": "45.0",
-      "longitude": "142.2",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
