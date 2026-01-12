@@ -1,10 +1,10 @@
 {
-  "EventID": "20260112094839",
-  "Serial": 4,
-  "AnnouncedTime": "2026/01/12 09:49:09",
-  "OriginTime": "2026/01/12 09:48:38",
+  "EventID": "20260112095837",
+  "Serial": 5,
+  "AnnouncedTime": "2026/01/12 09:59:49",
+  "OriginTime": "2026/01/12 09:58:37",
   "Hypocenter": "宗谷地方南部",
-  "Latitude": 45.1,
+  "Latitude": 45.0,
   "Longitude": 142.2,
   "Magunitude": 4.1,
   "Depth": 10,
@@ -13,9 +13,9 @@
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
-  "isFinal": false,
+  "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260112094909 C11 260112094838 ND20260112094839 NCN004 JD////////////// JN/// 136 N451 E1422 010 41 03 RK44554 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260112095949 C11 260112095837 ND20260112095837 NCN905 JD////////////// JN/// 136 N450 E1422 010 41 03 RK44559 RT00/// RC0//// 9999=",
   "Pond": "150",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,45 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260112095837",
+      "time": "2026/01/12 09:58",
+      "time_full": "2026/01/12 09:58:37",
+      "location": "宗谷地方南部",
+      "magnitude": "4.3",
+      "depth": "0km",
+      "latitude": "45.0",
+      "longitude": "142.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260112095020",
+      "time": "2026/01/12 09:50",
+      "time_full": "2026/01/12 09:50:20",
+      "location": "宗谷地方南部",
+      "magnitude": "5.0",
+      "depth": "0km",
+      "latitude": "45.0",
+      "longitude": "142.2",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
+      "Title": "震度速報",
+      "EventID": "20260112094839",
+      "time": "2026/01/12 09:48",
+      "time_full": "2026/01/12 09:48:39",
+      "location": "",
+      "magnitude": "",
+      "depth": "0km",
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "info": "",
+      "intensity": "3"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
       "EventID": "20260112085055",
       "time": "2026/01/12 08:50",
       "time_full": "2026/01/12 08:50:55",
@@ -34,10 +73,10 @@
       "depth": "20km",
       "latitude": "24.0",
       "longitude": "123.3",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260112024129",
       "time": "2026/01/12 02:41",
@@ -50,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260112011134",
       "time": "2026/01/12 01:11",
@@ -63,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260111183749",
       "time": "2026/01/11 18:37",
@@ -76,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260111180433",
       "time": "2026/01/11 18:04",
@@ -89,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260111131544",
       "time": "2026/01/11 13:15",
@@ -102,7 +141,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No7": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260111094812",
       "time": "2026/01/11 09:48",
@@ -112,45 +151,6 @@
       "depth": "60km",
       "latitude": "42.3",
       "longitude": "144.2",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260111085917",
-      "time": "2026/01/11 08:59",
-      "time_full": "2026/01/11 08:59:17",
-      "location": "鹿児島県薩摩地方",
-      "magnitude": "2.7",
-      "depth": "0km",
-      "latitude": "31.6",
-      "longitude": "130.4",
-      "info": "",
-      "intensity": "3"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260111025913",
-      "time": "2026/01/11 02:59",
-      "time_full": "2026/01/11 02:59:13",
-      "location": "岐阜県飛騨地方",
-      "magnitude": "2.6",
-      "depth": "10km",
-      "latitude": "36.3",
-      "longitude": "137.1",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260110231633",
-      "time": "2026/01/10 23:16",
-      "time_full": "2026/01/10 23:16:33",
-      "location": "福島県会津",
-      "magnitude": "2.2",
-      "depth": "10km",
-      "latitude": "37.1",
-      "longitude": "139.4",
       "info": "",
       "intensity": "1"
     }
