@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-15 21:00:00",
-    "temp": 8.09,
+    "temp": 8.27,
     "temp_max": 10.09,
-    "temp_min": 8.09,
+    "temp_min": 8.27,
     "humidity": 69,
-    "feels_like": 6.43,
+    "feels_like": 6.65,
     "pressure": 1011,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
