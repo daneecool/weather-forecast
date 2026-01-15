@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-01-15 21:00:00",
-    "temp": 8.3,
-    "temp_max": 10.09,
-    "temp_min": 8.3,
-    "humidity": 66,
-    "feels_like": 6.68,
-    "pressure": 1011,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
