@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-16 21:00:00",
-    "temp": 8.8,
+    "temp": 8.66,
     "temp_max": 9.05,
-    "temp_min": 8.8,
+    "temp_min": 8.66,
     "humidity": 56,
-    "feels_like": 6.48,
+    "feels_like": 6.3,
     "pressure": 1015,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
