@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-18 21:00:00",
-    "temp": 8.12,
-    "temp_max": 9.08,
-    "temp_min": 8.12,
-    "humidity": 63,
-    "feels_like": 5.19,
+    "temp": 8.24,
+    "temp_max": 9.43,
+    "temp_min": 8.24,
+    "humidity": 61,
+    "feels_like": 5.34,
     "pressure": 1019,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
