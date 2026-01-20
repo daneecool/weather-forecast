@@ -75,21 +75,6 @@
     "rain_mm": 11.25
   },
   {
-    "time": "2026-01-20 18:00:00",
-    "wind_speed": 18.76,
-    "wind_gust": 22.71,
-    "pressure": 998,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 4.43,
-    "humidity": 72,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "rain_mm": 0
-  },
-  {
     "time": "2026-01-25 03:00:00",
     "wind_speed": 6.17,
     "wind_gust": 6.5,
