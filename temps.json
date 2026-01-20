@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-01-20 15:00:00",
-    "temp": 3.88,
+    "temp": 3.78,
     "temp_max": 4.2,
-    "temp_min": 3.88,
-    "humidity": 39,
-    "feels_like": -1.76,
+    "temp_min": 3.78,
+    "humidity": 40,
+    "feels_like": -1.89,
     "pressure": 1012,
     "rain_mm": 0
   },
   {
     "time": "2026-01-20 18:00:00",
-    "temp": 3.69,
-    "temp_max": 3.69,
-    "temp_min": 3.68,
+    "temp": 3.64,
+    "temp_max": 3.68,
+    "temp_min": 3.64,
     "humidity": 39,
-    "feels_like": -2.08,
+    "feels_like": -2.15,
     "pressure": 1012,
     "rain_mm": 0
   },
