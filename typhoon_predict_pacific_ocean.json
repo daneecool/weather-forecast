@@ -88,5 +88,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1
+  },
+  {
+    "time": "2026-01-26 03:00:00",
+    "wind_speed": 18.29,
+    "wind_gust": 18.2,
+    "pressure": 1000,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 3.57,
+    "humidity": 75,
+    "weather_main": "Snow",
+    "weather_description": "light snow",
+    "rain_mm": 0
   }
 ]
