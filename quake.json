@@ -1,12 +1,12 @@
 {
-  "EventID": "20260121044035",
-  "Serial": 7,
-  "AnnouncedTime": "2026/01/21 04:41:26",
-  "OriginTime": "2026/01/21 04:40:35",
+  "EventID": "20260121093402",
+  "Serial": 5,
+  "AnnouncedTime": "2026/01/21 09:34:42",
+  "OriginTime": "2026/01/21 09:34:01",
   "Hypocenter": "宗谷地方南部",
-  "Latitude": 45.0,
+  "Latitude": 45.1,
   "Longitude": 142.2,
-  "Magunitude": 4.2,
+  "Magunitude": 3.9,
   "Depth": 10,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260121044126 C11 260121044035 ND20260121044035 NCN907 JD////////////// JN/// 136 N450 E1422 010 42 03 RK44559 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260121093442 C11 260121093401 ND20260121093402 NCN905 JD////////////// JN/// 136 N451 E1422 010 39 03 RK44549 RT00/// RC0//// 9999=",
   "Pond": "1",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260121094434",
+      "time": "2026/01/21 09:44",
+      "time_full": "2026/01/21 09:44:34",
+      "location": "宗谷地方南部",
+      "magnitude": "3.5",
+      "depth": "0km",
+      "latitude": "45.0",
+      "longitude": "142.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260121093402",
+      "time": "2026/01/21 09:34",
+      "time_full": "2026/01/21 09:34:02",
+      "location": "宗谷地方南部",
+      "magnitude": "4.1",
+      "depth": "0km",
+      "latitude": "45.1",
+      "longitude": "142.2",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260121044035",
       "time": "2026/01/21 04:40",
       "time_full": "2026/01/21 04:40:35",
@@ -34,10 +60,10 @@
       "depth": "0km",
       "latitude": "45.0",
       "longitude": "142.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260121025151",
       "time": "2026/01/21 02:51",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260120212117",
       "time": "2026/01/20 21:21",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260120181732",
       "time": "2026/01/20 18:17",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260120173628",
       "time": "2026/01/20 17:36",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260120140312",
       "time": "2026/01/20 14:03",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260120122602",
       "time": "2026/01/20 12:26",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260120122508",
       "time": "2026/01/20 12:25",
@@ -127,32 +153,6 @@
       "longitude": "133.2",
       "info": "",
       "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260120080132",
-      "time": "2026/01/20 08:01",
-      "time_full": "2026/01/20 08:01:32",
-      "location": "千葉県南東沖",
-      "magnitude": "3.6",
-      "depth": "60km",
-      "latitude": "34.6",
-      "longitude": "140.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260120075326",
-      "time": "2026/01/20 07:53",
-      "time_full": "2026/01/20 07:53:26",
-      "location": "宗谷地方南部",
-      "magnitude": "2.7",
-      "depth": "0km",
-      "latitude": "45.1",
-      "longitude": "142.2",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
