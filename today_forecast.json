@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-24 21:00:00",
-    "temp": 2.61,
-    "temp_max": 4,
-    "temp_min": 2.61,
+    "temp": 2.63,
+    "temp_max": 4.18,
+    "temp_min": 2.63,
     "humidity": 58,
-    "feels_like": -3.48,
+    "feels_like": -3.46,
     "pressure": 1011,
     "weather_main": "Rain",
     "weather_description": "light rain",
