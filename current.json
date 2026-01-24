@@ -1,14 +1,14 @@
 {
-  "time": "2026-01-24 04:40:08",
-  "temp": 10.74,
+  "time": "2026-01-24 05:01:50",
+  "temp": 10.75,
   "temp_max": 11.21,
   "temp_min": 9.94,
   "humidity": 33,
-  "feels_like": 8.73,
+  "feels_like": 8.74,
   "pressure": 1008,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02d",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
