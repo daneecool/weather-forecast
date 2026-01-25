@@ -1,21 +1,21 @@
 {
-  "EventID": "20260125060459",
-  "Serial": 4,
-  "AnnouncedTime": "2026/01/25 06:05:38",
-  "OriginTime": "2026/01/25 06:04:49",
-  "Hypocenter": "釧路地方中南部",
-  "Latitude": 43.0,
-  "Longitude": 144.7,
-  "Magunitude": 4.3,
-  "Depth": 70,
-  "MaxIntensity": "2",
+  "EventID": "20260125114620",
+  "Serial": 7,
+  "AnnouncedTime": "2026/01/25 11:47:03",
+  "OriginTime": "2026/01/25 11:46:11",
+  "Hypocenter": "茨城県南部",
+  "Latitude": 36.2,
+  "Longitude": 140.1,
+  "Magunitude": 4.1,
+  "Depth": 60,
+  "MaxIntensity": "3",
   "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260125060538 C11 260125060449 ND20260125060459 NCN904 JD////////////// JN/// 161 N430 E1447 070 43 02 RK44519 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260125114703 C11 260125114611 ND20260125114620 NCN907 JD////////////// JN/// 301 N362 E1401 060 41 03 RK44559 RT00/// RC0//// 9999=",
   "Pond": "42",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260125114620",
+      "time": "2026/01/25 11:46",
+      "time_full": "2026/01/25 11:46:20",
+      "location": "茨城県南部",
+      "magnitude": "4.2",
+      "depth": "50km",
+      "latitude": "36.2",
+      "longitude": "140.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260125061907",
       "time": "2026/01/25 06:19",
       "time_full": "2026/01/25 06:19:07",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "44.1",
       "longitude": "141.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260125060459",
       "time": "2026/01/25 06:04",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260125002742",
       "time": "2026/01/25 00:27",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260125002518",
       "time": "2026/01/25 00:25",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260125002011",
       "time": "2026/01/25 00:20",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260124205253",
       "time": "2026/01/24 20:52",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260124180015",
       "time": "2026/01/24 18:00",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260124152322",
       "time": "2026/01/24 15:23",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260124152235",
       "time": "2026/01/24 15:22",
@@ -138,19 +151,6 @@
       "depth": "10km",
       "latitude": "42.0",
       "longitude": "140.8",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260124145427",
-      "time": "2026/01/24 14:54",
-      "time_full": "2026/01/24 14:54:27",
-      "location": "宗谷地方南部",
-      "magnitude": "2.9",
-      "depth": "0km",
-      "latitude": "45.1",
-      "longitude": "142.2",
       "info": "",
       "intensity": "1"
     }
