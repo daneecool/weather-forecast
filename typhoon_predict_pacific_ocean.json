@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-01-25 03:00:00",
-    "wind_speed": 19.67,
-    "wind_gust": 22.31,
-    "pressure": 1011,
-    "lat": 30.0,
-    "lon": 145.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 15.81,
-    "humidity": 63,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.68
-  },
-  {
     "time": "2026-01-25 06:00:00",
     "wind_speed": 20.78,
     "wind_gust": 26.14,
