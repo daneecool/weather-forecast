@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-25 21:00:00",
-    "temp": 2.48,
+    "temp": 2.17,
     "temp_max": 3.13,
-    "temp_min": 2.48,
-    "humidity": 41,
-    "feels_like": -2.83,
+    "temp_min": 2.17,
+    "humidity": 43,
+    "feels_like": -3.23,
     "pressure": 1020,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
