@@ -1,5 +1,5 @@
 {
-  "time": "2026-01-27 21:36:19",
+  "time": "2026-01-27 22:05:18",
   "temp": 4.14,
   "temp_max": 4.99,
   "temp_min": 3.65,
@@ -8,7 +8,7 @@
   "pressure": 1016,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
-  "weather_icon": "02n",
+  "weather_icon": "02d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
