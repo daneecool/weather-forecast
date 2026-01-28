@@ -1,39 +1,43 @@
 {
-  "EventID": "20260128153402",
-  "Serial": 9,
-  "AnnouncedTime": "2026/01/28 15:34:57",
-  "OriginTime": "2026/01/28 15:34:02",
-  "Hypocenter": "宗谷地方南部",
-  "Latitude": 45.1,
-  "Longitude": 142.2,
-  "Magunitude": 4.7,
-  "Depth": 10,
-  "MaxIntensity": "4",
-  "isSea": false,
+  "EventID": "20260128194556",
+  "Serial": 8,
+  "AnnouncedTime": "2026/01/28 19:47:09",
+  "OriginTime": "2026/01/28 19:45:50",
+  "Hypocenter": "三陸沖",
+  "Latitude": 40.2,
+  "Longitude": 143.2,
+  "Magunitude": 4.8,
+  "Depth": 40,
+  "MaxIntensity": "2",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260128153457 C11 260128153402 ND20260128153402 NCN909 JD////////////// JN/// 136 N451 E1422 010 47 04 RK44559 RT00/// RC0//// EBI 135 S0404 ////// 01 9999=",
-  "Pond": "49",
+  "OriginalText": "37 04 00 260128194709 C11 260128194550 ND20260128194556 NCN908 JD////////////// JN/// 288 N402 E1432 040 48 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "78",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "宗谷地方北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260128194556",
+      "time": "2026/01/28 19:45",
+      "time_full": "2026/01/28 19:45:56",
+      "location": "三陸沖",
+      "magnitude": "5.1",
+      "depth": "20km",
+      "latitude": "40.2",
+      "longitude": "143.1",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260128153402",
       "time": "2026/01/28 15:34",
@@ -43,10 +47,10 @@
       "depth": "0km",
       "latitude": "45.1",
       "longitude": "142.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260128122709",
       "time": "2026/01/28 12:27",
@@ -59,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260128112821",
       "time": "2026/01/28 11:28",
@@ -72,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260128110602",
       "time": "2026/01/28 11:06",
@@ -85,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260128105348",
       "time": "2026/01/28 10:53",
@@ -98,7 +102,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No6": {
+    "No7": {
       "Title": "震度速報",
       "EventID": "20260128105157",
       "time": "2026/01/28 10:51",
@@ -111,7 +115,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260128072648",
       "time": "2026/01/28 07:26",
@@ -124,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260128044840",
       "time": "2026/01/28 04:48",
@@ -137,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260128044003",
       "time": "2026/01/28 04:40",
@@ -147,19 +151,6 @@
       "depth": "20km",
       "latitude": "35.0",
       "longitude": "136.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260128031508",
-      "time": "2026/01/28 03:15",
-      "time_full": "2026/01/28 03:15:08",
-      "location": "島根県東部",
-      "magnitude": "2.9",
-      "depth": "10km",
-      "latitude": "35.3",
-      "longitude": "133.3",
       "info": "",
       "intensity": "1"
     }
