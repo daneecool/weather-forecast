@@ -1,30 +1,43 @@
 {
-  "EventID": "20260128105348",
+  "EventID": "20260128122709",
   "Serial": 5,
-  "AnnouncedTime": "2026/01/28 10:54:30",
-  "OriginTime": "2026/01/28 10:53:43",
-  "Hypocenter": "宗谷地方南部",
-  "Latitude": 45.1,
-  "Longitude": 142.4,
-  "Magunitude": 3.5,
+  "AnnouncedTime": "2026/01/28 12:27:54",
+  "OriginTime": "2026/01/28 12:27:03",
+  "Hypocenter": "父島近海",
+  "Latitude": 27.3,
+  "Longitude": 142.0,
+  "Magunitude": 4.2,
   "Depth": 10,
   "MaxIntensity": "2",
-  "isSea": false,
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260128105430 C11 260128105343 ND20260128105348 NCN905 JD////////////// JN/// 136 N451 E1424 010 35 02 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "36 04 00 260128122754 C11 260128122703 ND20260128122709 NCN905 JD////////////// JN/// 911 N273 E1420 010 42 02 RK22529 RT10/// RC0//// 9999=",
   "Pond": "147",
-  "Epicenter": "IPF 法（5 点以上）",
-  "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "Epicenter": "IPF 法（2 点）",
+  "DepthAccuracy": "IPF 法（2 点）",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260128122709",
+      "time": "2026/01/28 12:27",
+      "time_full": "2026/01/28 12:27:09",
+      "location": "父島近海",
+      "magnitude": "4.6",
+      "depth": "20km",
+      "latitude": "27.2",
+      "longitude": "142.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260128112821",
       "time": "2026/01/28 11:28",
@@ -34,10 +47,10 @@
       "depth": "0km",
       "latitude": "45.1",
       "longitude": "142.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260128110602",
       "time": "2026/01/28 11:06",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260128105348",
       "time": "2026/01/28 10:53",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No4": {
+    "No5": {
       "Title": "震度速報",
       "EventID": "20260128105157",
       "time": "2026/01/28 10:51",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260128072648",
       "time": "2026/01/28 07:26",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260128044840",
       "time": "2026/01/28 04:48",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260128044003",
       "time": "2026/01/28 04:40",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260128031508",
       "time": "2026/01/28 03:15",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260127114741",
       "time": "2026/01/27 11:47",
@@ -140,19 +153,6 @@
       "longitude": "146.5",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260127055935",
-      "time": "2026/01/27 05:59",
-      "time_full": "2026/01/27 05:59:35",
-      "location": "石川県能登地方",
-      "magnitude": "2.8",
-      "depth": "0km",
-      "latitude": "37.2",
-      "longitude": "136.7",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
