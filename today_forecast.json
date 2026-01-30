@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-01-30 21:00:00",
-    "temp": 1.43,
+    "temp": 1.73,
     "temp_max": 3.53,
-    "temp_min": 1.43,
-    "humidity": 44,
-    "feels_like": -3.21,
+    "temp_min": 1.73,
+    "humidity": 43,
+    "feels_like": -2.84,
     "pressure": 1018,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
