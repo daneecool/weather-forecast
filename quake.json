@@ -1,30 +1,43 @@
 {
-  "EventID": "20260204033616",
-  "Serial": 6,
-  "AnnouncedTime": "2026/02/04 03:36:59",
-  "OriginTime": "2026/02/04 03:36:11",
-  "Hypocenter": "千葉県東方沖",
-  "Latitude": 35.8,
-  "Longitude": 141.0,
-  "Magunitude": 4.3,
-  "Depth": 30,
-  "MaxIntensity": "3",
+  "EventID": "20260204172712",
+  "Serial": 3,
+  "AnnouncedTime": "2026/02/04 17:27:57",
+  "OriginTime": "2026/02/04 17:27:01",
+  "Hypocenter": "福島県沖",
+  "Latitude": 37.8,
+  "Longitude": 141.7,
+  "Magunitude": 3.4,
+  "Depth": 70,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260204033659 C11 260204033611 ND20260204033616 NCN906 JD////////////// JN/// 473 N358 E1410 030 43 03 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "16",
+  "OriginalText": "37 03 00 260204172757 C11 260204172701 ND20260204172712 NCN903 JD////////////// JN/// 289 N378 E1417 070 34 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "48",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260204172712",
+      "time": "2026/02/04 17:27",
+      "time_full": "2026/02/04 17:27:12",
+      "location": "福島県沖",
+      "magnitude": "3.8",
+      "depth": "60km",
+      "latitude": "37.8",
+      "longitude": "141.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260204120935",
       "time": "2026/02/04 12:09",
@@ -34,10 +47,10 @@
       "depth": "50km",
       "latitude": "43.3",
       "longitude": "147.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260204101625",
       "time": "2026/02/04 10:16",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260204054634",
       "time": "2026/02/04 05:46",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260204033616",
       "time": "2026/02/04 03:36",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260204021526",
       "time": "2026/02/04 02:15",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260203194624",
       "time": "2026/02/03 19:46",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260203180330",
       "time": "2026/02/03 18:03",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260203112450",
       "time": "2026/02/03 11:24",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260203092128",
       "time": "2026/02/03 09:21",
@@ -140,19 +153,6 @@
       "longitude": "140.6",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260203065853",
-      "time": "2026/02/03 06:58",
-      "time_full": "2026/02/03 06:58:53",
-      "location": "福島県沖",
-      "magnitude": "4.4",
-      "depth": "30km",
-      "latitude": "37.6",
-      "longitude": "142.3",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
