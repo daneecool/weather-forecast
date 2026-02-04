@@ -1,17 +1,1 @@
-[
-  {
-    "time": "2026-02-08 03:00:00",
-    "wind_speed": 26.86,
-    "wind_gust": 28.2,
-    "pressure": 988,
-    "lat": 15.0,
-    "lon": 140.0,
-    "region": "Philippine Sea",
-    "in_japan": false,
-    "temp": 25.72,
-    "humidity": 95,
-    "weather_main": "Rain",
-    "weather_description": "very heavy rain",
-    "rain_mm": 76.18
-  }
-]
+[]
