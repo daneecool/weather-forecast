@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-02-06 18:00:00",
-    "temp": 7.14,
-    "temp_max": 7.14,
+    "temp": 7.04,
+    "temp_max": 7.04,
     "temp_min": 6.74,
-    "humidity": 45,
-    "feels_like": 2.54,
+    "humidity": 44,
+    "feels_like": 2.41,
     "pressure": 1011,
     "rain_mm": 0
   },
   {
     "time": "2026-02-06 21:00:00",
-    "temp": 6.14,
-    "temp_max": 6.14,
+    "temp": 6.09,
+    "temp_max": 6.09,
     "temp_min": 5.54,
     "humidity": 42,
-    "feels_like": 1.38,
+    "feels_like": 1.32,
     "pressure": 1012,
     "rain_mm": 0.11
   },
