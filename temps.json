@@ -4,7 +4,7 @@
     "temp": 5.68,
     "temp_max": 6.11,
     "temp_min": 5.68,
-    "humidity": 46,
+    "humidity": 48,
     "feels_like": 0.89,
     "pressure": 1012,
     "rain_mm": 0
@@ -14,10 +14,10 @@
     "temp": 4.5,
     "temp_max": 4.5,
     "temp_min": 4.01,
-    "humidity": 59,
+    "humidity": 60,
     "feels_like": -0.48,
     "pressure": 1013,
-    "rain_mm": 0
+    "rain_mm": 0.37
   },
   {
     "time": "2026-02-07 03:00:00",
