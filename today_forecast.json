@@ -21,11 +21,11 @@
     "humidity": 96,
     "feels_like": -0.01,
     "pressure": 1011,
-    "weather_main": "Snow",
-    "weather_description": "snow",
-    "weather_icon": "13n",
-    "rain_mm": 0,
-    "snow_mm": 4.06
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "weather_icon": "10n",
+    "rain_mm": 4.06,
+    "snow_mm": 0
   },
   {
     "time": "2026-02-07 15:00:00",
