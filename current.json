@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-07 18:42:10",
-  "temp": 0.11,
-  "temp_max": 0.66,
-  "temp_min": -0.24,
-  "humidity": 93,
-  "feels_like": -5.39,
+  "time": "2026-02-07 19:07:56",
+  "temp": -0.19,
+  "temp_max": 0.1,
+  "temp_min": -0.79,
+  "humidity": 91,
+  "feels_like": -6.02,
   "pressure": 1006,
   "weather_main": "Snow",
   "weather_description": "light shower snow",
   "weather_icon": "13n",
   "rain_1h_mm": 0,
-  "snow_1h_mm": 0.98
+  "snow_1h_mm": 1.85
 }

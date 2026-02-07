@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-07 21:00:00",
-    "temp": 0.07,
+    "temp": -0.03,
     "temp_max": 0.28,
-    "temp_min": 0.07,
+    "temp_min": -0.03,
     "humidity": 92,
-    "feels_like": -6.35,
+    "feels_like": -6.48,
     "pressure": 1006,
     "weather_main": "Snow",
     "weather_description": "snow",
