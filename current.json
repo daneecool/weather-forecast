@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-07 12:05:19",
-  "temp": 2.94,
-  "temp_max": 3.43,
+  "time": "2026-02-07 12:43:50",
+  "temp": 2.64,
+  "temp_max": 2.98,
   "temp_min": 1.16,
-  "humidity": 87,
-  "feels_like": -0.41,
-  "pressure": 1011,
-  "weather_main": "Snow",
-  "weather_description": "snow",
-  "weather_icon": "13n",
-  "rain_1h_mm": 0,
-  "snow_1h_mm": 1.33
+  "humidity": 86,
+  "feels_like": -0.4,
+  "pressure": 1010,
+  "weather_main": "Rain",
+  "weather_description": "light intensity shower rain",
+  "weather_icon": "09n",
+  "rain_1h_mm": 0.17,
+  "snow_1h_mm": 0
 }
