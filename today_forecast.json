@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-02-07 21:00:00",
-    "temp": -0.34,
-    "temp_max": 0.28,
-    "temp_min": -0.34,
-    "humidity": 92,
-    "feels_like": -6.89,
-    "pressure": 1006,
-    "weather_main": "Snow",
-    "weather_description": "snow",
-    "weather_icon": "13n",
-    "rain_mm": 0,
-    "snow_mm": 3.02
-  }
-]
+[]
