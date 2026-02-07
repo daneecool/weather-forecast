@@ -25,7 +25,7 @@
   "WarnArea": [],
   "RecentList": {
     "No1": {
-      "Title": "震源に関する情報",
+      "Title": "震源・震度情報",
       "EventID": "20260207200145",
       "time": "2026/02/07 20:01",
       "time_full": "2026/02/07 20:01:45",
@@ -35,7 +35,7 @@
       "latitude": "35.5",
       "longitude": "138.9",
       "info": "この地震による津波の心配はありません。",
-      "intensity": "不明"
+      "intensity": "3"
     },
     "No2": {
       "Title": "震源・震度情報",
