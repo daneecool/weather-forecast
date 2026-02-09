@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-02-09 21:00:00",
-    "temp": 1.18,
-    "temp_max": 3.52,
-    "temp_min": 1.18,
-    "humidity": 71,
-    "feels_like": -3.05,
-    "pressure": 1025,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
