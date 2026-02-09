@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-02-09 21:00:00",
-    "temp": 3.11,
+    "temp": 2.71,
     "temp_max": 3.52,
-    "temp_min": 3.11,
-    "humidity": 59,
-    "feels_like": -0.67,
-    "pressure": 1024,
+    "temp_min": 2.71,
+    "humidity": 60,
+    "feels_like": -1.16,
+    "pressure": 1025,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
     "weather_icon": "02n",
