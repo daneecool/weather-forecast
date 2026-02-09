@@ -1,30 +1,43 @@
 {
-  "EventID": "20260209064523",
-  "Serial": 7,
-  "AnnouncedTime": "2026/02/09 06:46:02",
-  "OriginTime": "2026/02/09 06:45:15",
-  "Hypocenter": "十勝地方南部",
-  "Latitude": 42.4,
-  "Longitude": 143.2,
-  "Magunitude": 4.2,
-  "Depth": 50,
-  "MaxIntensity": "2",
-  "isSea": false,
+  "EventID": "20260210043120",
+  "Serial": 5,
+  "AnnouncedTime": "2026/02/10 04:32:15",
+  "OriginTime": "2026/02/10 04:31:15",
+  "Hypocenter": "奄美大島近海",
+  "Latitude": 28.1,
+  "Longitude": 129.1,
+  "Magunitude": 3.7,
+  "Depth": 10,
+  "MaxIntensity": "3",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260209064602 C11 260209064515 ND20260209064523 NCN907 JD////////////// JN/// 157 N424 E1432 050 42 02 RK44519 RT00/// RC0//// 9999=",
-  "Pond": "86",
+  "OriginalText": "37 03 00 260210043215 C11 260210043115 ND20260210043120 NCN905 JD////////////// JN/// 793 N281 E1291 010 37 03 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "4",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260210043120",
+      "time": "2026/02/10 04:31",
+      "time_full": "2026/02/10 04:31:20",
+      "location": "奄美大島近海",
+      "magnitude": "3.6",
+      "depth": "10km",
+      "latitude": "28.1",
+      "longitude": "129.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260210000840",
       "time": "2026/02/10 00:08",
@@ -34,10 +47,10 @@
       "depth": "70km",
       "latitude": "35.6",
       "longitude": "140.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260209234402",
       "time": "2026/02/09 23:44",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260209212808",
       "time": "2026/02/09 21:28",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260209101323",
       "time": "2026/02/09 10:13",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260209064523",
       "time": "2026/02/09 06:45",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260209035440",
       "time": "2026/02/09 03:54",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260209030020",
       "time": "2026/02/09 03:00",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260209015017",
       "time": "2026/02/09 01:50",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260208143035",
       "time": "2026/02/08 14:30",
@@ -138,19 +151,6 @@
       "depth": "70km",
       "latitude": "40.8",
       "longitude": "142.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260208133349",
-      "time": "2026/02/08 13:33",
-      "time_full": "2026/02/08 13:33:49",
-      "location": "鳥取県中部",
-      "magnitude": "2.9",
-      "depth": "10km",
-      "latitude": "35.4",
-      "longitude": "133.7",
       "info": "",
       "intensity": "1"
     }
