@@ -1,5 +1,5 @@
 {
-  "time": "2026-02-10 21:17:45",
+  "time": "2026-02-10 21:43:53",
   "temp": 11.82,
   "temp_max": 11.98,
   "temp_min": 10.05,
@@ -8,7 +8,7 @@
   "pressure": 1012,
   "weather_main": "Rain",
   "weather_description": "light intensity shower rain",
-  "weather_icon": "09n",
-  "rain_1h_mm": 2.59,
+  "weather_icon": "09d",
+  "rain_1h_mm": 4.86,
   "snow_1h_mm": 0
 }
