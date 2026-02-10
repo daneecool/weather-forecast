@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-10 21:00:00",
-    "temp": 11.89,
-    "temp_max": 11.89,
+    "temp": 12.04,
+    "temp_max": 12.04,
     "temp_min": 11.05,
     "humidity": 73,
-    "feels_like": 11.04,
+    "feels_like": 11.21,
     "pressure": 1012,
     "weather_main": "Rain",
     "weather_description": "light rain",
