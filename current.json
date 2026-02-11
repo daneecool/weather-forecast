@@ -1,9 +1,9 @@
 {
-  "time": "2026-02-11 19:47:34",
+  "time": "2026-02-11 20:12:27",
   "temp": 5.56,
   "temp_max": 6.98,
   "temp_min": 4.76,
-  "humidity": 68,
+  "humidity": 66,
   "feels_like": 0.83,
   "pressure": 1014,
   "weather_main": "Clouds",
