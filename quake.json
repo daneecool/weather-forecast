@@ -1,30 +1,43 @@
 {
-  "EventID": "20260211035215",
-  "Serial": 4,
-  "AnnouncedTime": "2026/02/11 03:53:11",
-  "OriginTime": "2026/02/11 03:52:00",
-  "Hypocenter": "関東東方沖",
-  "Latitude": 35.5,
-  "Longitude": 144.0,
-  "Magunitude": 5.1,
-  "Depth": 60,
-  "MaxIntensity": "1",
-  "isSea": true,
+  "EventID": "20260211133101",
+  "Serial": 6,
+  "AnnouncedTime": "2026/02/11 13:31:44",
+  "OriginTime": "2026/02/11 13:30:49",
+  "Hypocenter": "釧路地方中南部",
+  "Latitude": 43.2,
+  "Longitude": 145.2,
+  "Magunitude": 3.8,
+  "Depth": 90,
+  "MaxIntensity": "2",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260211035311 C11 260211035200 ND20260211035215 NCN904 JD////////////// JN/// 472 N355 E1440 060 51 01 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "9",
+  "OriginalText": "37 03 00 260211133144 C11 260211133049 ND20260211133101 NCN906 JD////////////// JN/// 161 N432 E1452 090 38 02 RK44209 RT00/// RC0//// 9999=",
+  "Pond": "71",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260211133101",
+      "time": "2026/02/11 13:31",
+      "time_full": "2026/02/11 13:31:01",
+      "location": "釧路地方中南部",
+      "magnitude": "3.7",
+      "depth": "90km",
+      "latitude": "43.2",
+      "longitude": "145.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260211035215",
       "time": "2026/02/11 03:52",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "35.6",
       "longitude": "143.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260211011246",
       "time": "2026/02/11 01:12",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260210181521",
       "time": "2026/02/10 18:15",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260210131913",
       "time": "2026/02/10 13:19",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260210101745",
       "time": "2026/02/10 10:17",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260210043120",
       "time": "2026/02/10 04:31",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260210000840",
       "time": "2026/02/10 00:08",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260209234402",
       "time": "2026/02/09 23:44",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260209212808",
       "time": "2026/02/09 21:28",
@@ -138,19 +151,6 @@
       "depth": "90km",
       "latitude": "36.1",
       "longitude": "139.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260209101323",
-      "time": "2026/02/09 10:13",
-      "time_full": "2026/02/09 10:13:23",
-      "location": "和歌山県南方沖",
-      "magnitude": "2.5",
-      "depth": "20km",
-      "latitude": "33.5",
-      "longitude": "135.6",
       "info": "",
       "intensity": "1"
     }
