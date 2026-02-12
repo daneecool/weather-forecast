@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-12 21:00:00",
-    "temp": 4.21,
-    "temp_max": 6.66,
-    "temp_min": 4.21,
-    "humidity": 63,
-    "feels_like": 0.64,
+    "temp": 4.22,
+    "temp_max": 6.7,
+    "temp_min": 4.22,
+    "humidity": 64,
+    "feels_like": 0.65,
     "pressure": 1016,
     "weather_main": "Clear",
     "weather_description": "clear sky",
