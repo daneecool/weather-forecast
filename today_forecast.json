@@ -1,10 +1,10 @@
 [
   {
     "time": "2026-02-13 09:00:00",
-    "temp": 10.31,
-    "temp_max": 10.31,
+    "temp": 10.36,
+    "temp_max": 10.36,
     "temp_min": 9.84,
-    "humidity": 54,
+    "humidity": 52,
     "feels_like": 8.81,
     "pressure": 1016,
     "weather_main": "Clouds",
@@ -15,11 +15,11 @@
   },
   {
     "time": "2026-02-13 12:00:00",
-    "temp": 10.07,
-    "temp_max": 10.07,
+    "temp": 10.09,
+    "temp_max": 10.09,
     "temp_min": 9.83,
     "humidity": 55,
-    "feels_like": 8.57,
+    "feels_like": 8.59,
     "pressure": 1017,
     "weather_main": "Clear",
     "weather_description": "clear sky",
