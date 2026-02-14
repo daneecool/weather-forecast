@@ -1,10 +1,10 @@
 {
-  "time": "2026-02-14 13:44:31",
-  "temp": 11.25,
+  "time": "2026-02-14 14:00:06",
+  "temp": 11.38,
   "temp_max": 11.98,
   "temp_min": 9.58,
   "humidity": 67,
-  "feels_like": 10.18,
+  "feels_like": 10.32,
   "pressure": 1017,
   "weather_main": "Clear",
   "weather_description": "clear sky",
