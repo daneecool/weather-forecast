@@ -1,10 +1,10 @@
 {
-  "time": "2026-02-14 07:16:28",
-  "temp": 13.84,
+  "time": "2026-02-14 07:38:50",
+  "temp": 13.7,
   "temp_max": 14.14,
   "temp_min": 12.83,
   "humidity": 59,
-  "feels_like": 12.82,
+  "feels_like": 12.67,
   "pressure": 1018,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
