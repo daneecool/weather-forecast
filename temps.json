@@ -1,31 +1,21 @@
 [
   {
-    "time": "2026-02-15 15:00:00",
-    "temp": 11.25,
-    "temp_max": 13.52,
-    "temp_min": 11.25,
-    "humidity": 80,
-    "feels_like": 10.52,
-    "pressure": 1011,
-    "rain_mm": 0
-  },
-  {
     "time": "2026-02-15 18:00:00",
-    "temp": 11.61,
+    "temp": 11.41,
     "temp_max": 12.34,
-    "temp_min": 11.61,
-    "humidity": 70,
-    "feels_like": 10.65,
+    "temp_min": 11.41,
+    "humidity": 68,
+    "feels_like": 10.38,
     "pressure": 1011,
     "rain_mm": 0
   },
   {
     "time": "2026-02-15 21:00:00",
-    "temp": 11.09,
-    "temp_max": 11.09,
-    "temp_min": 11.01,
-    "humidity": 67,
-    "feels_like": 10,
+    "temp": 10.99,
+    "temp_max": 11.01,
+    "temp_min": 10.99,
+    "humidity": 66,
+    "feels_like": 9.87,
     "pressure": 1011,
     "rain_mm": 0
   },
@@ -396,6 +386,16 @@
     "temp_min": 11.6,
     "humidity": 38,
     "feels_like": 9.81,
+    "pressure": 1016,
+    "rain_mm": 0
+  },
+  {
+    "time": "2026-02-20 15:00:00",
+    "temp": 10.86,
+    "temp_max": 10.86,
+    "temp_min": 10.86,
+    "humidity": 44,
+    "feels_like": 9.15,
     "pressure": 1016,
     "rain_mm": 0
   }
