@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-16 20:42:13",
-  "temp": 4.47,
-  "temp_max": 5.1,
+  "time": "2026-02-16 21:00:06",
+  "temp": 4.34,
+  "temp_max": 4.76,
   "temp_min": 3.88,
-  "humidity": 84,
-  "feels_like": -0.59,
+  "humidity": 82,
+  "feels_like": -0.41,
   "pressure": 1020,
-  "weather_main": "Rain",
-  "weather_description": "light rain",
-  "weather_icon": "10n",
-  "rain_1h_mm": 0.23,
+  "weather_main": "Clouds",
+  "weather_description": "broken clouds",
+  "weather_icon": "04n",
+  "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
