@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-16 03:00:00",
-    "temp": 12.15,
-    "temp_max": 12.15,
+    "temp": 12.37,
+    "temp_max": 12.37,
     "temp_min": 11.22,
     "humidity": 58,
-    "feels_like": 10.94,
+    "feels_like": 11.18,
     "pressure": 1013,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
@@ -15,11 +15,11 @@
   },
   {
     "time": "2026-02-16 06:00:00",
-    "temp": 11.16,
-    "temp_max": 11.16,
+    "temp": 11.27,
+    "temp_max": 11.27,
     "temp_min": 10.43,
     "humidity": 64,
-    "feels_like": 10,
+    "feels_like": 10.12,
     "pressure": 1012,
     "weather_main": "Rain",
     "weather_description": "light rain",
@@ -85,16 +85,16 @@
   },
   {
     "time": "2026-02-16 21:00:00",
-    "temp": 4.73,
-    "temp_max": 4.73,
-    "temp_min": 4.73,
-    "humidity": 66,
-    "feels_like": 0.44,
+    "temp": 4.81,
+    "temp_max": 4.81,
+    "temp_min": 4.81,
+    "humidity": 65,
+    "feels_like": 0.67,
     "pressure": 1021,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10n",
-    "rain_mm": 0.58,
-    "snow_mm": 0
+    "weather_main": "Snow",
+    "weather_description": "light snow",
+    "weather_icon": "13n",
+    "rain_mm": 0,
+    "snow_mm": 0.38
   }
 ]
