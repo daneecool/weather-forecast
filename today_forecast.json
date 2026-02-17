@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-02-17 21:00:00",
-    "temp": 5.77,
-    "temp_max": 7.85,
-    "temp_min": 5.77,
-    "humidity": 76,
-    "feels_like": 2.62,
-    "pressure": 1014,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
