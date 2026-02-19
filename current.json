@@ -1,10 +1,10 @@
 {
-  "time": "2026-02-19 18:20:20",
+  "time": "2026-02-19 18:45:23",
   "temp": 3.34,
   "temp_max": 3.99,
   "temp_min": 2.54,
   "humidity": 51,
-  "feels_like": -0.54,
+  "feels_like": -0.25,
   "pressure": 1021,
   "weather_main": "Clouds",
   "weather_description": "scattered clouds",
