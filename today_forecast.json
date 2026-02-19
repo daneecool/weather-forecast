@@ -4,12 +4,12 @@
     "temp": 3.72,
     "temp_max": 6.2,
     "temp_min": 3.72,
-    "humidity": 47,
+    "humidity": 46,
     "feels_like": -0.22,
     "pressure": 1021,
     "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03n",
+    "weather_description": "few clouds",
+    "weather_icon": "02n",
     "rain_mm": 0,
     "snow_mm": 0
   },
@@ -22,8 +22,8 @@
     "feels_like": 0.47,
     "pressure": 1021,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   }
