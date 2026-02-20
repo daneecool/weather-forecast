@@ -1,22 +1,22 @@
 {
-  "EventID": "20260220231640",
+  "EventID": "20260221041657",
   "Serial": 10,
-  "AnnouncedTime": "2026/02/20 23:17:32",
-  "OriginTime": "2026/02/20 23:16:30",
-  "Hypocenter": "青森県東方沖",
-  "Latitude": 41.5,
-  "Longitude": 142.1,
-  "Magunitude": 4.8,
+  "AnnouncedTime": "2026/02/21 04:18:03",
+  "OriginTime": "2026/02/21 04:16:45",
+  "Hypocenter": "与那国島近海",
+  "Latitude": 24.3,
+  "Longitude": 122.6,
+  "Magunitude": 4.6,
   "Depth": 70,
-  "MaxIntensity": "3",
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260220231732 C11 260220231630 ND20260220231640 NCN910 JD////////////// JN/// 285 N415 E1421 070 48 03 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "146",
+  "OriginalText": "37 03 00 260221041803 C11 260221041645 ND20260221041657 NCN910 JD////////////// JN/// 857 N243 E1226 070 46 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "143",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260221041657",
+      "time": "2026/02/21 04:16",
+      "time_full": "2026/02/21 04:16:57",
+      "location": "与那国島近海",
+      "magnitude": "4.7",
+      "depth": "50km",
+      "latitude": "24.3",
+      "longitude": "122.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260220231640",
       "time": "2026/02/20 23:16",
       "time_full": "2026/02/20 23:16:40",
@@ -34,10 +47,10 @@
       "depth": "60km",
       "latitude": "41.5",
       "longitude": "142.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260220224007",
       "time": "2026/02/20 22:40",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260220220702",
       "time": "2026/02/20 22:07",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260220200528",
       "time": "2026/02/20 20:05",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260219224500",
       "time": "2026/02/19 22:45",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260219172437",
       "time": "2026/02/19 17:24",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260219074034",
       "time": "2026/02/19 07:40",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260219061323",
       "time": "2026/02/19 06:13",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260218112806",
       "time": "2026/02/18 11:28",
@@ -140,19 +153,6 @@
       "longitude": "130.6",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260217025301",
-      "time": "2026/02/17 02:53",
-      "time_full": "2026/02/17 02:53:01",
-      "location": "青森県東方沖",
-      "magnitude": "4.0",
-      "depth": "40km",
-      "latitude": "40.8",
-      "longitude": "142.7",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
