@@ -1,8 +1,8 @@
 {
-  "time": "2026-02-21 18:45:27",
+  "time": "2026-02-21 19:06:30",
   "temp": 5.98,
-  "temp_max": 6.58,
-  "temp_min": 5.98,
+  "temp_max": 5.98,
+  "temp_min": 5.58,
   "humidity": 70,
   "feels_like": 5.01,
   "pressure": 1019,
