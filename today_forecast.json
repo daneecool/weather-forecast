@@ -1,25 +1,11 @@
 [
   {
-    "time": "2026-02-21 18:00:00",
-    "temp": 6.98,
-    "temp_max": 10.97,
-    "temp_min": 6.98,
-    "humidity": 70,
-    "feels_like": 5.65,
-    "pressure": 1019,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-02-21 21:00:00",
     "temp": 8.23,
     "temp_max": 10.72,
     "temp_min": 8.23,
     "humidity": 64,
-    "feels_like": 7.24,
+    "feels_like": 6.04,
     "pressure": 1019,
     "weather_main": "Clear",
     "weather_description": "clear sky",
