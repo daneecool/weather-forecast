@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-22 21:05:02",
-  "temp": 15.96,
-  "temp_max": 16.61,
-  "temp_min": 15.59,
+  "time": "2026-02-22 21:34:07",
+  "temp": 15.93,
+  "temp_max": 16.58,
+  "temp_min": 15.55,
   "humidity": 84,
-  "feels_like": 15.8,
-  "pressure": 1015,
+  "feels_like": 15.77,
+  "pressure": 1016,
   "weather_main": "Rain",
   "weather_description": "light rain",
-  "weather_icon": "10n",
-  "rain_1h_mm": 0.37,
+  "weather_icon": "10d",
+  "rain_1h_mm": 0.29,
   "snow_1h_mm": 0
 }
