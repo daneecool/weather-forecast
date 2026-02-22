@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-22 11:01:50",
+  "time": "2026-02-22 11:34:28",
   "temp": 15.11,
   "temp_max": 15.66,
   "temp_min": 14.49,
-  "humidity": 76,
-  "feels_like": 14.66,
+  "humidity": 80,
+  "feels_like": 14.77,
   "pressure": 1017,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02n",
+  "weather_description": "broken clouds",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
