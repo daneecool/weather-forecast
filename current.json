@@ -1,11 +1,11 @@
 {
-  "time": "2026-02-23 15:15:26",
+  "time": "2026-02-23 15:42:11",
   "temp": 12.61,
   "temp_max": 13.58,
   "temp_min": 11.66,
   "humidity": 77,
   "feels_like": 11.94,
-  "pressure": 1022,
+  "pressure": 1023,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
   "weather_icon": "04n",
