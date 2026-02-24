@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-24 22:44:11",
+  "time": "2026-02-24 23:10:31",
   "temp": 10.92,
   "temp_max": 11.21,
   "temp_min": 10.05,
-  "humidity": 91,
-  "feels_like": 10.44,
+  "humidity": 92,
+  "feels_like": 10.47,
   "pressure": 1020,
-  "weather_main": "Rain, Mist",
-  "weather_description": "shower rain, mist",
-  "weather_icon": "09d, 50d",
+  "weather_main": "Mist, Rain",
+  "weather_description": "mist, light intensity shower rain",
+  "weather_icon": "50d, 09d",
   "rain_1h_mm": 2.09,
   "snow_1h_mm": 0
 }
