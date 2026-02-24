@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-02-24 21:00:00",
-    "temp": 12.47,
-    "temp_max": 12.48,
-    "temp_min": 12.47,
-    "humidity": 85,
-    "feels_like": 11.99,
-    "pressure": 1021,
+    "temp": 12.61,
+    "temp_max": 12.91,
+    "temp_min": 12.61,
+    "humidity": 84,
+    "feels_like": 12.12,
+    "pressure": 1020,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
