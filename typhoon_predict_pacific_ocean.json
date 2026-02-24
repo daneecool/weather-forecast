@@ -88,5 +88,20 @@
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
+  },
+  {
+    "time": "2026-03-01 15:00:00",
+    "wind_speed": 19.35,
+    "wind_gust": 21.2,
+    "pressure": 1009,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 6.16,
+    "humidity": 90,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "rain_mm": 0
   }
 ]
