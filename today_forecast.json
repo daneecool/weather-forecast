@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-25 21:00:00",
-    "temp": 6.76,
+    "temp": 6.55,
     "temp_max": 7.18,
-    "temp_min": 6.76,
-    "humidity": 84,
-    "feels_like": 1.69,
+    "temp_min": 6.55,
+    "humidity": 90,
+    "feels_like": 1.41,
     "pressure": 1020,
     "weather_main": "Rain",
     "weather_description": "light rain",
