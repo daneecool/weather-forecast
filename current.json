@@ -1,14 +1,14 @@
 {
-  "time": "2026-02-25 00:29:51",
-  "temp": 10.88,
-  "temp_max": 11.21,
+  "time": "2026-02-25 00:59:05",
+  "temp": 10.91,
+  "temp_max": 11.58,
   "temp_min": 10.05,
   "humidity": 92,
-  "feels_like": 10.43,
-  "pressure": 1019,
-  "weather_main": "Rain, Mist",
-  "weather_description": "shower rain, mist",
-  "weather_icon": "09d, 50d",
-  "rain_1h_mm": 7.03,
+  "feels_like": 10.46,
+  "pressure": 1020,
+  "weather_main": "Mist, Rain",
+  "weather_description": "mist, shower rain",
+  "weather_icon": "50d, 09d",
+  "rain_1h_mm": 9.41,
   "snow_1h_mm": 0
 }
