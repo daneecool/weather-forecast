@@ -1,12 +1,12 @@
 {
-  "EventID": "20260227115410",
+  "EventID": "20260227124609",
   "Serial": 3,
-  "AnnouncedTime": "2026/02/27 11:54:57",
-  "OriginTime": "2026/02/27 11:53:58",
-  "Hypocenter": "宮古島北西沖",
-  "Latitude": 25.5,
-  "Longitude": 124.9,
-  "Magunitude": 4.6,
+  "AnnouncedTime": "2026/02/27 12:46:50",
+  "OriginTime": "2026/02/27 12:45:56",
+  "Hypocenter": "宮古島近海",
+  "Latitude": 24.4,
+  "Longitude": 126.1,
+  "Magunitude": 4.8,
   "Depth": 10,
   "MaxIntensity": "2",
   "isSea": true,
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260227115457 C11 260227115358 ND20260227115410 NCN903 JD////////////// JN/// 859 N255 E1249 010 46 02 RK33529 RT10/// RC0//// 9999=",
+  "OriginalText": "37 03 00 260227124650 C11 260227124556 ND20260227124609 NCN903 JD////////////// JN/// 853 N244 E1261 010 48 02 RK33519 RT10/// RC0//// 9999=",
   "Pond": "122",
   "Epicenter": "IPF 法（3 点／4 点）",
   "DepthAccuracy": "IPF 法（3 点／4 点）",
@@ -26,6 +26,45 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260227124609",
+      "time": "2026/02/27 12:46",
+      "time_full": "2026/02/27 12:46:09",
+      "location": "宮古島北西沖",
+      "magnitude": "4.7",
+      "depth": "10km",
+      "latitude": "25.5",
+      "longitude": "125.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260227121927",
+      "time": "2026/02/27 12:19",
+      "time_full": "2026/02/27 12:19:27",
+      "location": "宮古島北西沖",
+      "magnitude": "4.4",
+      "depth": "10km",
+      "latitude": "25.4",
+      "longitude": "124.9",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260227115442",
+      "time": "2026/02/27 11:54",
+      "time_full": "2026/02/27 11:54:42",
+      "location": "宮古島近海",
+      "magnitude": "5.4",
+      "depth": "10km",
+      "latitude": "25.4",
+      "longitude": "125.0",
+      "info": "",
+      "intensity": "2"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
       "EventID": "20260227080640",
       "time": "2026/02/27 08:06",
       "time_full": "2026/02/27 08:06:40",
@@ -34,10 +73,10 @@
       "depth": "10km",
       "latitude": "25.3",
       "longitude": "124.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260227062407",
       "time": "2026/02/27 06:24",
@@ -50,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260227035200",
       "time": "2026/02/27 03:52",
@@ -63,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260226233127",
       "time": "2026/02/26 23:31",
@@ -76,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260226225408",
       "time": "2026/02/26 22:54",
@@ -89,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260226122223",
       "time": "2026/02/26 12:22",
@@ -102,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260226052446",
       "time": "2026/02/26 05:24",
@@ -114,45 +153,6 @@
       "longitude": "139.9",
       "info": "",
       "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260226032158",
-      "time": "2026/02/26 03:21",
-      "time_full": "2026/02/26 03:21:58",
-      "location": "十勝地方南部",
-      "magnitude": "3.2",
-      "depth": "10km",
-      "latitude": "42.3",
-      "longitude": "143.3",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260226021711",
-      "time": "2026/02/26 02:17",
-      "time_full": "2026/02/26 02:17:11",
-      "location": "日向灘",
-      "magnitude": "5.0",
-      "depth": "30km",
-      "latitude": "31.7",
-      "longitude": "132.2",
-      "info": "",
-      "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260225184145",
-      "time": "2026/02/25 18:41",
-      "time_full": "2026/02/25 18:41:45",
-      "location": "青森県東方沖",
-      "magnitude": "4.3",
-      "depth": "60km",
-      "latitude": "41.5",
-      "longitude": "142.0",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
