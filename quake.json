@@ -1,12 +1,12 @@
 {
-  "EventID": "20260227223917",
-  "Serial": 5,
-  "AnnouncedTime": "2026/02/27 22:39:55",
-  "OriginTime": "2026/02/27 22:39:09",
-  "Hypocenter": "北海道北西沖",
-  "Latitude": 45.6,
-  "Longitude": 140.5,
-  "Magunitude": 4.6,
+  "EventID": "20260227235438",
+  "Serial": 6,
+  "AnnouncedTime": "2026/02/27 23:55:22",
+  "OriginTime": "2026/02/27 23:54:29",
+  "Hypocenter": "宮古島近海",
+  "Latitude": 25.3,
+  "Longitude": 124.9,
+  "Magunitude": 4.5,
   "Depth": 10,
   "MaxIntensity": "2",
   "isSea": true,
@@ -15,16 +15,42 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "36 03 00 260227223955 C11 260227223909 ND20260227223917 NCN905 JD////////////// JN/// 183 N456 E1405 010 46 02 RK22519 RT10/// RC0//// 9999=",
+  "OriginalText": "37 03 00 260227235522 C11 260227235429 ND20260227235438 NCN906 JD////////////// JN/// 853 N253 E1249 010 45 02 RK44529 RT10/// RC0//// 9999=",
   "Pond": "26",
-  "Epicenter": "IPF 法（2 点）",
-  "DepthAccuracy": "IPF 法（2 点）",
+  "Epicenter": "IPF 法（5 点以上）",
+  "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260227235438",
+      "time": "2026/02/27 23:54",
+      "time_full": "2026/02/27 23:54:38",
+      "location": "宮古島近海",
+      "magnitude": "4.3",
+      "depth": "0km",
+      "latitude": "25.4",
+      "longitude": "125.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260227234829",
+      "time": "2026/02/27 23:48",
+      "time_full": "2026/02/27 23:48:29",
+      "location": "宮古島北西沖",
+      "magnitude": "5.6",
+      "depth": "10km",
+      "latitude": "25.4",
+      "longitude": "124.9",
+      "info": "",
+      "intensity": "2"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260227223917",
       "time": "2026/02/27 22:39",
@@ -34,10 +60,10 @@
       "depth": "10km",
       "latitude": "45.6",
       "longitude": "140.8",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260227200114",
       "time": "2026/02/27 20:01",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260227154336",
       "time": "2026/02/27 15:43",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260227151130",
       "time": "2026/02/27 15:11",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260227145048",
       "time": "2026/02/27 14:50",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260227124609",
       "time": "2026/02/27 12:46",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260227121927",
       "time": "2026/02/27 12:19",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260227115442",
       "time": "2026/02/27 11:54",
@@ -127,32 +153,6 @@
       "longitude": "125.0",
       "info": "",
       "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260227080640",
-      "time": "2026/02/27 08:06",
-      "time_full": "2026/02/27 08:06:40",
-      "location": "宮古島近海",
-      "magnitude": "5.0",
-      "depth": "10km",
-      "latitude": "25.3",
-      "longitude": "124.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260227062407",
-      "time": "2026/02/27 06:24",
-      "time_full": "2026/02/27 06:24:07",
-      "location": "上川地方北部",
-      "magnitude": "4.1",
-      "depth": "0km",
-      "latitude": "44.6",
-      "longitude": "142.1",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
