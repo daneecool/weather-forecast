@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-02-28 21:00:00",
-    "temp": 9.66,
+    "temp": 9.51,
     "temp_max": 10.13,
-    "temp_min": 9.66,
+    "temp_min": 9.51,
     "humidity": 56,
-    "feels_like": 7.18,
+    "feels_like": 6.99,
     "pressure": 1018,
     "weather_main": "Clear",
     "weather_description": "clear sky",
