@@ -1,10 +1,10 @@
 {
-  "time": "2026-02-28 13:16:32",
-  "temp": 12.31,
+  "time": "2026-02-28 13:43:18",
+  "temp": 12.16,
   "temp_max": 12.88,
   "temp_min": 11.66,
   "humidity": 52,
-  "feels_like": 10.95,
+  "feels_like": 10.79,
   "pressure": 1014,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
