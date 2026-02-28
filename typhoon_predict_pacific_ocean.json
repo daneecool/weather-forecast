@@ -3,15 +3,30 @@
     "time": "2026-03-01 00:00:00",
     "wind_speed": 20.56,
     "wind_gust": 29.5,
-    "pressure": 996,
+    "pressure": 994,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 11.78,
+    "temp": 11.99,
     "humidity": 93,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "rain_mm": 13.25
+  },
+  {
+    "time": "2026-03-01 03:00:00",
+    "wind_speed": 9.96,
+    "wind_gust": 13.21,
+    "pressure": 994,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 11.29,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 4.25
   }
 ]
