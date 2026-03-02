@@ -1,30 +1,56 @@
 {
-  "EventID": "20260302125626",
-  "Serial": 3,
-  "AnnouncedTime": "2026/03/02 12:57:26",
-  "OriginTime": "2026/03/02 12:56:00",
-  "Hypocenter": "硫黄島近海",
-  "Latitude": 25.8,
-  "Longitude": 143.5,
-  "Magunitude": 5.1,
+  "EventID": "20260302135636",
+  "Serial": 9,
+  "AnnouncedTime": "2026/03/02 13:57:32",
+  "OriginTime": "2026/03/02 13:56:25",
+  "Hypocenter": "宮古島北西沖",
+  "Latitude": 25.4,
+  "Longitude": 124.9,
+  "Magunitude": 5.7,
   "Depth": 10,
-  "MaxIntensity": "1",
+  "MaxIntensity": "3",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "36 04 00 260302125726 C11 260302125600 ND20260302125626 NCN903 JD////////////// JN/// 917 N258 E1435 010 51 01 RK22529 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260302135732 C11 260302135625 ND20260302135636 NCN909 JD////////////// JN/// 859 N254 E1249 010 57 03 RK44559 RT10/// RC0//// 9999=",
   "Pond": "55",
-  "Epicenter": "IPF 法（2 点）",
-  "DepthAccuracy": "IPF 法（2 点）",
+  "Epicenter": "IPF 法（5 点以上）",
+  "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260302135636",
+      "time": "2026/03/02 13:56",
+      "time_full": "2026/03/02 13:56:36",
+      "location": "宮古島北西沖",
+      "magnitude": "5.4",
+      "depth": "10km",
+      "latitude": "25.4",
+      "longitude": "124.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260302131558",
+      "time": "2026/03/02 13:15",
+      "time_full": "2026/03/02 13:15:58",
+      "location": "群馬県南部",
+      "magnitude": "3.1",
+      "depth": "10km",
+      "latitude": "36.5",
+      "longitude": "139.4",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260302033852",
       "time": "2026/03/02 03:38",
@@ -34,10 +60,10 @@
       "depth": "20km",
       "latitude": "40.4",
       "longitude": "143.0",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260302005656",
       "time": "2026/03/02 00:56",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260302005035",
       "time": "2026/03/02 00:50",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260301230918",
       "time": "2026/03/01 23:09",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260301213310",
       "time": "2026/03/01 21:33",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260301180025",
       "time": "2026/03/01 18:00",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260301141620",
       "time": "2026/03/01 14:16",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260301124110",
       "time": "2026/03/01 12:41",
@@ -127,32 +153,6 @@
       "longitude": "131.2",
       "info": "",
       "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260301093515",
-      "time": "2026/03/01 09:35",
-      "time_full": "2026/03/01 09:35:15",
-      "location": "大隅半島東方沖",
-      "magnitude": "4.0",
-      "depth": "50km",
-      "latitude": "31.5",
-      "longitude": "131.4",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260301072921",
-      "time": "2026/03/01 07:29",
-      "time_full": "2026/03/01 07:29:21",
-      "location": "秋田県内陸北部",
-      "magnitude": "3.1",
-      "depth": "10km",
-      "latitude": "40.3",
-      "longitude": "140.8",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
