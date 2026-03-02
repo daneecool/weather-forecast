@@ -1,39 +1,43 @@
 {
-  "EventID": "20260302193932",
+  "EventID": "20260302203057",
   "Serial": 5,
-  "AnnouncedTime": "2026/03/02 19:40:27",
-  "OriginTime": "2026/03/02 19:39:22",
+  "AnnouncedTime": "2026/03/02 20:31:40",
+  "OriginTime": "2026/03/02 20:30:50",
   "Hypocenter": "宮古島近海",
-  "Latitude": 25.3,
-  "Longitude": 124.9,
-  "Magunitude": 6.0,
+  "Latitude": 25.2,
+  "Longitude": 125.0,
+  "Magunitude": 4.1,
   "Depth": 10,
-  "MaxIntensity": "4",
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260302194027 C11 260302193922 ND20260302193932 NCN905 JD////////////// JN/// 853 N253 E1249 010 60 04 RK44559 RT10/// RC0//// EBI 804 S0404 ////// 01 9999=",
+  "OriginalText": "37 04 00 260302203140 C11 260302203050 ND20260302203057 NCN905 JD////////////// JN/// 853 N252 E1250 010 41 02 RK44539 RT10/// RC0//// 9999=",
   "Pond": "128",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "沖縄県宮古島",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260302203057",
+      "time": "2026/03/02 20:30",
+      "time_full": "2026/03/02 20:30:57",
+      "location": "宮古島北西沖",
+      "magnitude": "4.5",
+      "depth": "10km",
+      "latitude": "25.4",
+      "longitude": "124.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260302193932",
       "time": "2026/03/02 19:39",
@@ -43,10 +47,10 @@
       "depth": "0km",
       "latitude": "25.5",
       "longitude": "124.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260302192927",
       "time": "2026/03/02 19:29",
@@ -59,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260302191320",
       "time": "2026/03/02 19:13",
@@ -72,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260302182337",
       "time": "2026/03/02 18:23",
@@ -85,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260302141929",
       "time": "2026/03/02 14:19",
@@ -98,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260302135636",
       "time": "2026/03/02 13:56",
@@ -111,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260302131558",
       "time": "2026/03/02 13:15",
@@ -124,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260302033852",
       "time": "2026/03/02 03:38",
@@ -137,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260302005656",
       "time": "2026/03/02 00:56",
@@ -149,19 +153,6 @@
       "longitude": "137.3",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260302005035",
-      "time": "2026/03/02 00:50",
-      "time_full": "2026/03/02 00:50:35",
-      "location": "愛媛県南予",
-      "magnitude": "3.3",
-      "depth": "50km",
-      "latitude": "33.4",
-      "longitude": "132.4",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
