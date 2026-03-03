@@ -1,10 +1,10 @@
 {
-  "time": "2026-03-03 06:43:15",
+  "time": "2026-03-03 07:19:45",
   "temp": 8.36,
   "temp_max": 8.98,
   "temp_min": 6.72,
-  "humidity": 89,
-  "feels_like": 4.48,
+  "humidity": 92,
+  "feels_like": 4.77,
   "pressure": 1017,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
