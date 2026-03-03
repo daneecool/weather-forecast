@@ -1,14 +1,14 @@
 {
-  "time": "2026-03-03 11:10:42",
-  "temp": 6.46,
-  "temp_max": 7.31,
-  "temp_min": 5.94,
-  "humidity": 92,
-  "feels_like": 1.58,
+  "time": "2026-03-03 11:43:05",
+  "temp": 6.25,
+  "temp_max": 6.98,
+  "temp_min": 5.66,
+  "humidity": 89,
+  "feels_like": 1.17,
   "pressure": 1015,
   "weather_main": "Rain",
-  "weather_description": "moderate rain",
+  "weather_description": "heavy intensity rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 2.73,
+  "rain_1h_mm": 4.86,
   "snow_1h_mm": 0
 }
