@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-05 21:00:00",
-    "temp": 6.62,
+    "temp": 6.45,
     "temp_max": 9.75,
-    "temp_min": 6.62,
-    "humidity": 63,
-    "feels_like": 3.71,
+    "temp_min": 6.45,
+    "humidity": 61,
+    "feels_like": 3.5,
     "pressure": 1022,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
