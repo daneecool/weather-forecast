@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-06 20:44:01",
+  "time": "2026-03-06 21:07:55",
   "temp": 12.89,
   "temp_max": 12.89,
   "temp_min": 12.89,
@@ -8,7 +8,7 @@
   "pressure": 1009,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
-  "weather_icon": "04n",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
