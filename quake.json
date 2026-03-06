@@ -1,30 +1,56 @@
 {
-  "EventID": "20260307012907",
-  "Serial": 3,
-  "AnnouncedTime": "2026/03/07 01:29:52",
-  "OriginTime": "2026/03/07 01:29:01",
-  "Hypocenter": "種子島近海",
-  "Latitude": 30.7,
-  "Longitude": 131.0,
-  "Magunitude": 3.6,
-  "Depth": 10,
-  "MaxIntensity": "3",
+  "EventID": "20260307053548",
+  "Serial": 6,
+  "AnnouncedTime": "2026/03/07 05:36:34",
+  "OriginTime": "2026/03/07 05:35:39",
+  "Hypocenter": "宮城県沖",
+  "Latitude": 38.7,
+  "Longitude": 142.4,
+  "Magunitude": 4.2,
+  "Depth": 50,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260307012952 C11 260307012901 ND20260307012907 NCN903 JD////////////// JN/// 790 N307 E1310 010 36 03 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "78",
+  "OriginalText": "37 04 00 260307053634 C11 260307053539 ND20260307053548 NCN906 JD////////////// JN/// 287 N387 E1424 050 42 02 RK44549 RT10/// RC0//// 9999=",
+  "Pond": "140",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260307053548",
+      "time": "2026/03/07 05:35",
+      "time_full": "2026/03/07 05:35:48",
+      "location": "宮城県沖",
+      "magnitude": "4.1",
+      "depth": "50km",
+      "latitude": "38.8",
+      "longitude": "142.4",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260307053158",
+      "time": "2026/03/07 05:31",
+      "time_full": "2026/03/07 05:31:58",
+      "location": "宮城県沖",
+      "magnitude": "4.9",
+      "depth": "50km",
+      "latitude": "38.8",
+      "longitude": "142.4",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260307022338",
       "time": "2026/03/07 02:23",
@@ -34,10 +60,10 @@
       "depth": "0km",
       "latitude": "42.1",
       "longitude": "140.3",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260307011225",
       "time": "2026/03/07 01:12",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260306231944",
       "time": "2026/03/06 23:19",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260306221651",
       "time": "2026/03/06 22:16",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260306113352",
       "time": "2026/03/06 11:33",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260306112536",
       "time": "2026/03/06 11:25",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260306075400",
       "time": "2026/03/06 07:54",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260306014307",
       "time": "2026/03/06 01:43",
@@ -127,32 +153,6 @@
       "longitude": "129.6",
       "info": "",
       "intensity": "3"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260306013748",
-      "time": "2026/03/06 01:37",
-      "time_full": "2026/03/06 01:37:48",
-      "location": "宮古島近海",
-      "magnitude": "4.9",
-      "depth": "10km",
-      "latitude": "25.3",
-      "longitude": "124.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260305194831",
-      "time": "2026/03/05 19:48",
-      "time_full": "2026/03/05 19:48:31",
-      "location": "宮古島近海",
-      "magnitude": "5.2",
-      "depth": "10km",
-      "latitude": "25.3",
-      "longitude": "124.9",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
