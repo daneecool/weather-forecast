@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-03-08 21:00:00",
-    "temp": 5.26,
-    "temp_max": 5.74,
-    "temp_min": 5.26,
-    "humidity": 55,
-    "feels_like": 1.56,
-    "pressure": 1023,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
