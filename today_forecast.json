@@ -1,14 +1,14 @@
 [
   {
     "time": "2026-03-08 21:00:00",
-    "temp": 5.42,
+    "temp": 5.74,
     "temp_max": 5.74,
-    "temp_min": 5.42,
-    "humidity": 52,
-    "feels_like": 1.76,
-    "pressure": 1022,
+    "temp_min": 5.74,
+    "humidity": 51,
+    "feels_like": 2.16,
+    "pressure": 1023,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
+    "weather_description": "overcast clouds",
     "weather_icon": "04n",
     "rain_mm": 0,
     "snow_mm": 0
