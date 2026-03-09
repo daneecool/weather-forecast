@@ -73,5 +73,20 @@
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "rain_mm": 19.88
+  },
+  {
+    "time": "2026-03-14 15:00:00",
+    "wind_speed": 10.91,
+    "wind_gust": 11.2,
+    "pressure": 993,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 15.12,
+    "humidity": 79,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 7
   }
 ]
