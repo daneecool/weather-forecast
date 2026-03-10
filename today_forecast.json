@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-03-10 21:00:00",
-    "temp": 4.16,
-    "temp_max": 5.31,
-    "temp_min": 4.16,
-    "humidity": 53,
-    "feels_like": 1.25,
+    "temp": 5.68,
+    "temp_max": 5.68,
+    "temp_min": 5.31,
+    "humidity": 43,
+    "feels_like": 3.09,
     "pressure": 1024,
     "weather_main": "Clouds",
-    "weather_description": "few clouds",
-    "weather_icon": "02d",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03d",
     "rain_mm": 0,
     "snow_mm": 0
   }
