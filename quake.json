@@ -1,30 +1,60 @@
 {
-  "EventID": "20260310131427",
-  "Serial": 4,
-  "AnnouncedTime": "2026/03/10 13:15:16",
-  "OriginTime": "2026/03/10 13:14:19",
-  "Hypocenter": "宮古島近海",
-  "Latitude": 25.2,
-  "Longitude": 124.9,
-  "Magunitude": 3.6,
-  "Depth": 10,
-  "MaxIntensity": "1",
+  "EventID": "20260310152812",
+  "Serial": 9,
+  "AnnouncedTime": "2026/03/10 15:29:08",
+  "OriginTime": "2026/03/10 15:28:02",
+  "Hypocenter": "福島県沖",
+  "Latitude": 37.4,
+  "Longitude": 141.1,
+  "Magunitude": 4.7,
+  "Depth": 80,
+  "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260310131516 C11 260310131419 ND20260310131427 NCN904 JD////////////// JN/// 853 N252 E1249 010 36 01 RK44209 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260310152908 C11 260310152802 ND20260310152812 NCN909 JD////////////// JN/// 289 N374 E1411 080 47 04 RK44559 RT10/// RC0//// EBI 251 S0404 152823 09 250 S0404 152823 09 9999=",
   "Pond": "75",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "福島県浜通り",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "152823",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "福島県中通り",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "152823",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260310152812",
+      "time": "2026/03/10 15:28",
+      "time_full": "2026/03/10 15:28:12",
+      "location": "福島県沖",
+      "magnitude": "4.6",
+      "depth": "60km",
+      "latitude": "37.4",
+      "longitude": "141.1",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "4"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260310004603",
       "time": "2026/03/10 00:46",
@@ -34,10 +64,10 @@
       "depth": "150km",
       "latitude": "42.0",
       "longitude": "140.3",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260309113622",
       "time": "2026/03/09 11:36",
@@ -50,7 +80,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260309105847",
       "time": "2026/03/09 10:58",
@@ -63,7 +93,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260309050644",
       "time": "2026/03/09 05:06",
@@ -76,7 +106,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260308221713",
       "time": "2026/03/08 22:17",
@@ -89,7 +119,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260308220839",
       "time": "2026/03/08 22:08",
@@ -102,7 +132,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260308150638",
       "time": "2026/03/08 15:06",
@@ -115,7 +145,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260307163312",
       "time": "2026/03/07 16:33",
@@ -128,7 +158,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260307113325",
       "time": "2026/03/07 11:33",
@@ -140,19 +170,6 @@
       "longitude": "144.1",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260307103737",
-      "time": "2026/03/07 10:37",
-      "time_full": "2026/03/07 10:37:37",
-      "location": "網走地方",
-      "magnitude": "1.9",
-      "depth": "0km",
-      "latitude": "43.8",
-      "longitude": "144.1",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
