@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-11 09:00:00",
-    "temp": 10.4,
-    "temp_max": 10.4,
+    "temp": 10.41,
+    "temp_max": 10.41,
     "temp_min": 8.79,
     "humidity": 45,
-    "feels_like": 8.67,
+    "feels_like": 8.68,
     "pressure": 1022,
     "rain_mm": 0
   },
