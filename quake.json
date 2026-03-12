@@ -1,22 +1,22 @@
 {
-  "EventID": "20260312203352",
-  "Serial": 3,
-  "AnnouncedTime": "2026/03/12 20:34:38",
-  "OriginTime": "2026/03/12 20:33:50",
+  "EventID": "20260313042517",
+  "Serial": 7,
+  "AnnouncedTime": "2026/03/13 04:26:38",
+  "OriginTime": "2026/03/13 04:25:15",
   "Hypocenter": "富山県東部",
-  "Latitude": 36.5,
+  "Latitude": 36.4,
   "Longitude": 137.6,
-  "Magunitude": 3.7,
+  "Magunitude": 3.9,
   "Depth": 10,
-  "MaxIntensity": "2",
+  "MaxIntensity": "3",
   "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260312203438 C11 260312203350 ND20260312203352 NCN903 JD////////////// JN/// 380 N365 E1376 010 37 02 RK44559 RT00/// RC0//// 9999=",
-  "Pond": "71",
+  "OriginalText": "37 04 00 260313042638 C11 260313042515 ND20260313042517 NCN907 JD////////////// JN/// 380 N364 E1376 010 39 03 RK44559 RT00/// RC0//// 9999=",
+  "Pond": "138",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260313042630",
+      "time": "2026/03/13 04:26",
+      "time_full": "2026/03/13 04:26:30",
+      "location": "富山県東部",
+      "magnitude": "2.7",
+      "depth": "10km",
+      "latitude": "36.4",
+      "longitude": "137.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260313042517",
+      "time": "2026/03/13 04:25",
+      "time_full": "2026/03/13 04:25:17",
+      "location": "富山県東部",
+      "magnitude": "4.1",
+      "depth": "0km",
+      "latitude": "36.4",
+      "longitude": "137.6",
+      "info": "",
+      "intensity": "2"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260313040710",
       "time": "2026/03/13 04:07",
       "time_full": "2026/03/13 04:07:10",
@@ -34,10 +60,10 @@
       "depth": "0km",
       "latitude": "36.4",
       "longitude": "137.6",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260312203352",
       "time": "2026/03/12 20:33",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260312200933",
       "time": "2026/03/12 20:09",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260312025147",
       "time": "2026/03/12 02:51",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260311184809",
       "time": "2026/03/11 18:48",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260311073840",
       "time": "2026/03/11 07:38",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260310205632",
       "time": "2026/03/10 20:56",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260310204224",
       "time": "2026/03/10 20:42",
@@ -125,32 +151,6 @@
       "depth": "10km",
       "latitude": "24.1",
       "longitude": "125.2",
-      "info": "",
-      "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260310152812",
-      "time": "2026/03/10 15:28",
-      "time_full": "2026/03/10 15:28:12",
-      "location": "福島県沖",
-      "magnitude": "4.6",
-      "depth": "60km",
-      "latitude": "37.4",
-      "longitude": "141.1",
-      "info": "",
-      "intensity": "4"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260310004603",
-      "time": "2026/03/10 00:46",
-      "time_full": "2026/03/10 00:46:03",
-      "location": "檜山地方",
-      "magnitude": "5.9",
-      "depth": "150km",
-      "latitude": "42.0",
-      "longitude": "140.3",
       "info": "",
       "intensity": "2"
     }
