@@ -223,5 +223,20 @@
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "rain_mm": 0
+  },
+  {
+    "time": "2026-03-17 15:00:00",
+    "wind_speed": 20.21,
+    "wind_gust": 22.21,
+    "pressure": 1009,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 4.97,
+    "humidity": 69,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "rain_mm": 0
   }
 ]
