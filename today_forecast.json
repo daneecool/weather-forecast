@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-03-12 21:00:00",
-    "temp": 7.08,
-    "temp_max": 7.08,
-    "temp_min": 6.85,
-    "humidity": 43,
-    "feels_like": 3.33,
+    "temp": 6.01,
+    "temp_max": 6.8,
+    "temp_min": 6.01,
+    "humidity": 49,
+    "feels_like": 1.96,
     "pressure": 1021,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04d",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03d",
     "rain_mm": 0,
     "snow_mm": 0
   }
