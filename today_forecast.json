@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-13 21:00:00",
-    "temp": 7.64,
+    "temp": 7.56,
     "temp_max": 7.77,
-    "temp_min": 7.64,
-    "humidity": 53,
-    "feels_like": 2.94,
+    "temp_min": 7.56,
+    "humidity": 54,
+    "feels_like": 2.84,
     "pressure": 1019,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
