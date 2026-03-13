@@ -1,22 +1,22 @@
 {
-  "EventID": "20260313042517",
-  "Serial": 7,
-  "AnnouncedTime": "2026/03/13 04:26:38",
-  "OriginTime": "2026/03/13 04:25:15",
-  "Hypocenter": "富山県東部",
-  "Latitude": 36.4,
-  "Longitude": 137.6,
-  "Magunitude": 3.9,
-  "Depth": 10,
-  "MaxIntensity": "3",
-  "isSea": false,
+  "EventID": "20260314045530",
+  "Serial": 11,
+  "AnnouncedTime": "2026/03/14 04:56:42",
+  "OriginTime": "2026/03/14 04:55:22",
+  "Hypocenter": "三陸沖",
+  "Latitude": 39.4,
+  "Longitude": 143.4,
+  "Magunitude": 5.2,
+  "Depth": 40,
+  "MaxIntensity": "2",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260313042638 C11 260313042515 ND20260313042517 NCN907 JD////////////// JN/// 380 N364 E1376 010 39 03 RK44559 RT00/// RC0//// 9999=",
-  "Pond": "138",
+  "OriginalText": "37 04 00 260314045642 C11 260314045522 ND20260314045530 NCN911 JD////////////// JN/// 288 N394 E1434 040 52 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "40",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260314045530",
+      "time": "2026/03/14 04:55",
+      "time_full": "2026/03/14 04:55:30",
+      "location": "三陸沖",
+      "magnitude": "5.1",
+      "depth": "10km",
+      "latitude": "39.4",
+      "longitude": "143.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260314033043",
       "time": "2026/03/14 03:30",
       "time_full": "2026/03/14 03:30:43",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "37.2",
       "longitude": "136.8",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260313112038",
       "time": "2026/03/13 11:20",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260313074704",
       "time": "2026/03/13 07:47",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260313042630",
       "time": "2026/03/13 04:26",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260313042517",
       "time": "2026/03/13 04:25",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260313040710",
       "time": "2026/03/13 04:07",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260312203352",
       "time": "2026/03/12 20:33",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260312200933",
       "time": "2026/03/12 20:09",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260312025147",
       "time": "2026/03/12 02:51",
@@ -140,19 +153,6 @@
       "longitude": "133.2",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260311184809",
-      "time": "2026/03/11 18:48",
-      "time_full": "2026/03/11 18:48:09",
-      "location": "青森県東方沖",
-      "magnitude": "3.9",
-      "depth": "120km",
-      "latitude": "41.5",
-      "longitude": "141.7",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
