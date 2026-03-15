@@ -1,21 +1,21 @@
 {
-  "EventID": "20260316033917",
-  "Serial": 5,
-  "AnnouncedTime": "2026/03/16 03:40:43",
-  "OriginTime": "2026/03/16 03:39:12",
-  "Hypocenter": "大隅半島東方沖",
-  "Latitude": 31.4,
-  "Longitude": 131.6,
-  "Magunitude": 4.4,
-  "Depth": 30,
-  "MaxIntensity": "3",
+  "EventID": "20260316035701",
+  "Serial": 7,
+  "AnnouncedTime": "2026/03/16 03:57:58",
+  "OriginTime": "2026/03/16 03:56:53",
+  "Hypocenter": "青森県東方沖",
+  "Latitude": 41.4,
+  "Longitude": 142.7,
+  "Magunitude": 4.5,
+  "Depth": 40,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260316034043 C11 260316033912 ND20260316033917 NCN905 JD////////////// JN/// 820 N314 E1316 030 44 03 RK44559 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260316035758 C11 260316035653 ND20260316035701 NCN907 JD////////////// JN/// 285 N414 E1427 040 45 02 RK44559 RT10/// RC0//// 9999=",
   "Pond": "45",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260316035701",
+      "time": "2026/03/16 03:57",
+      "time_full": "2026/03/16 03:57:01",
+      "location": "青森県東方沖",
+      "magnitude": "4.9",
+      "depth": "30km",
+      "latitude": "41.4",
+      "longitude": "142.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260316035246",
+      "time": "2026/03/16 03:52",
+      "time_full": "2026/03/16 03:52:46",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "2.1",
+      "depth": "10km",
+      "latitude": "32.2",
+      "longitude": "130.4",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260316033917",
       "time": "2026/03/16 03:39",
       "time_full": "2026/03/16 03:39:17",
@@ -34,10 +60,10 @@
       "depth": "20km",
       "latitude": "31.4",
       "longitude": "131.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260316015923",
       "time": "2026/03/16 01:59",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260316013245",
       "time": "2026/03/16 01:32",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260316000800",
       "time": "2026/03/16 00:08",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260315234225",
       "time": "2026/03/15 23:42",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260315233155",
       "time": "2026/03/15 23:31",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260315231034",
       "time": "2026/03/15 23:10",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260315173159",
       "time": "2026/03/15 17:31",
@@ -127,32 +153,6 @@
       "longitude": "142.1",
       "info": "",
       "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260315170302",
-      "time": "2026/03/15 17:03",
-      "time_full": "2026/03/15 17:03:02",
-      "location": "栃木県北部",
-      "magnitude": "2.6",
-      "depth": "10km",
-      "latitude": "36.6",
-      "longitude": "139.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260315140618",
-      "time": "2026/03/15 14:06",
-      "time_full": "2026/03/15 14:06:18",
-      "location": "群馬県南部",
-      "magnitude": "4.4",
-      "depth": "80km",
-      "latitude": "36.3",
-      "longitude": "139.4",
-      "info": "",
-      "intensity": "3"
     }
   }
 }
