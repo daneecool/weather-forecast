@@ -23,8 +23,8 @@
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 5.82,
-    "humidity": 71,
+    "temp": 5.29,
+    "humidity": 67,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
@@ -38,8 +38,8 @@
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 5.61,
-    "humidity": 67,
+    "temp": 5.32,
+    "humidity": 66,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
@@ -53,8 +53,8 @@
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 5.25,
-    "humidity": 63,
+    "temp": 5.26,
+    "humidity": 64,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
