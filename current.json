@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-18 20:45:41",
+  "time": "2026-03-18 21:11:50",
   "temp": 15.05,
   "temp_max": 15.05,
   "temp_min": 15.05,
@@ -7,8 +7,8 @@
   "feels_like": 15.07,
   "pressure": 1003,
   "weather_main": "Rain",
-  "weather_description": "moderate rain",
-  "weather_icon": "10n",
-  "rain_1h_mm": 2.66,
+  "weather_description": "light rain",
+  "weather_icon": "10d",
+  "rain_1h_mm": 0.95,
   "snow_1h_mm": 0
 }
