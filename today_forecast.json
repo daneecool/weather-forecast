@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-03-19 12:00:00",
-    "temp": 13.19,
-    "temp_max": 13.19,
-    "temp_min": 13.19,
-    "humidity": 67,
-    "feels_like": 12.31,
-    "pressure": 1012,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10n",
-    "rain_mm": 0.32,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-03-19 15:00:00",
     "temp": 12.5,
     "temp_max": 12.5,
@@ -24,35 +10,35 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
-    "rain_mm": 0.53,
+    "rain_mm": 0.5,
     "snow_mm": 0
   },
   {
     "time": "2026-03-19 18:00:00",
-    "temp": 11.44,
-    "temp_max": 11.44,
-    "temp_min": 10.56,
-    "humidity": 75,
-    "feels_like": 10.6,
+    "temp": 11.58,
+    "temp_max": 11.58,
+    "temp_min": 10.77,
+    "humidity": 73,
+    "feels_like": 10.7,
     "pressure": 1013,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
-    "rain_mm": 1.09,
+    "rain_mm": 1.21,
     "snow_mm": 0
   },
   {
     "time": "2026-03-19 21:00:00",
-    "temp": 10.07,
-    "temp_max": 10.07,
-    "temp_min": 10.07,
-    "humidity": 82,
-    "feels_like": 9.27,
+    "temp": 10.1,
+    "temp_max": 10.1,
+    "temp_min": 10.1,
+    "humidity": 81,
+    "feels_like": 9.28,
     "pressure": 1015,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10d",
-    "rain_mm": 0.98,
+    "rain_mm": 0.69,
     "snow_mm": 0
   }
 ]
