@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-03-19 12:00:00",
-    "temp": 14.01,
-    "temp_max": 14.01,
+    "temp": 14.81,
+    "temp_max": 14.81,
     "temp_min": 13.19,
     "humidity": 69,
-    "feels_like": 13.27,
+    "feels_like": 14.15,
     "pressure": 1010,
     "rain_mm": 0.32
   },
   {
     "time": "2026-03-19 15:00:00",
-    "temp": 12.23,
-    "temp_max": 12.23,
+    "temp": 12.63,
+    "temp_max": 12.63,
     "temp_min": 11.13,
     "humidity": 74,
-    "feels_like": 11.44,
+    "feels_like": 11.88,
     "pressure": 1012,
     "rain_mm": 0.53
   },
