@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-20 21:00:00",
-    "temp": 6.11,
+    "temp": 5.58,
     "temp_max": 6.46,
-    "temp_min": 6.11,
-    "humidity": 47,
-    "feels_like": 1.65,
+    "temp_min": 5.58,
+    "humidity": 45,
+    "feels_like": 0.96,
     "pressure": 1019,
     "weather_main": "Clear",
     "weather_description": "clear sky",
