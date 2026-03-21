@@ -15,21 +15,6 @@
     "rain_mm": 17.13
   },
   {
-    "time": "2026-03-21 21:00:00",
-    "wind_speed": 21.37,
-    "wind_gust": 25.1,
-    "pressure": 1010,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 5.86,
-    "humidity": 71,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 0.38
-  },
-  {
     "time": "2026-03-22 00:00:00",
     "wind_speed": 20.55,
     "wind_gust": 23.3,
