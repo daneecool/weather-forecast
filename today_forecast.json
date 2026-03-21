@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-21 21:00:00",
-    "temp": 9.95,
-    "temp_max": 9.95,
-    "temp_min": 9.27,
-    "humidity": 35,
-    "feels_like": 7.19,
+    "temp": 10.24,
+    "temp_max": 10.24,
+    "temp_min": 9.33,
+    "humidity": 34,
+    "feels_like": 8.21,
     "pressure": 1023,
     "weather_main": "Clear",
     "weather_description": "clear sky",
