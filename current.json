@@ -1,5 +1,5 @@
 {
-  "time": "2026-03-22 08:45:12",
+  "time": "2026-03-22 09:10:21",
   "temp": 14.88,
   "temp_max": 14.88,
   "temp_min": 14.88,
@@ -8,7 +8,7 @@
   "pressure": 1021,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
