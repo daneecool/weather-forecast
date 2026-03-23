@@ -1,14 +1,14 @@
 {
-  "time": "2026-03-23 06:36:30",
-  "temp": 14.89,
+  "time": "2026-03-23 07:26:44",
+  "temp": 14.19,
   "temp_max": 17.14,
   "temp_min": 13.88,
-  "humidity": 63,
-  "feels_like": 14.08,
+  "humidity": 62,
+  "feels_like": 13.28,
   "pressure": 1012,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03d",
+  "weather_description": "few clouds",
+  "weather_icon": "02d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
