@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-03-26 21:00:00",
-    "temp": 11,
-    "temp_max": 11.35,
-    "temp_min": 11,
-    "humidity": 87,
-    "feels_like": 10.43,
-    "pressure": 1014,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 0.58,
-    "snow_mm": 0
-  }
-]
+[]
