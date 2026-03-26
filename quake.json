@@ -1,12 +1,12 @@
 {
-  "EventID": "20260326234712",
-  "Serial": 3,
-  "AnnouncedTime": "2026/03/26 23:47:49",
-  "OriginTime": "2026/03/26 23:47:07",
+  "EventID": "20260327012038",
+  "Serial": 4,
+  "AnnouncedTime": "2026/03/27 01:21:24",
+  "OriginTime": "2026/03/27 01:20:33",
   "Hypocenter": "三陸沖",
-  "Latitude": 39.4,
-  "Longitude": 143.4,
-  "Magunitude": 4.6,
+  "Latitude": 39.5,
+  "Longitude": 143.3,
+  "Magunitude": 4.5,
   "Depth": 20,
   "MaxIntensity": "2",
   "isSea": true,
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260326234749 C11 260326234707 ND20260326234712 NCN903 JD////////////// JN/// 288 N394 E1434 020 46 02 RK44529 RT10/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260327012124 C11 260327012033 ND20260327012038 NCN904 JD////////////// JN/// 288 N395 E1433 020 45 02 RK44559 RT10/// RC0//// 9999=",
   "Pond": "27",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,9 +26,9 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
-      "EventID": "20260326234712",
-      "time": "2026/03/26 23:47",
-      "time_full": "2026/03/26 23:47:12",
+      "EventID": "20260327012038",
+      "time": "2026/03/27 01:20",
+      "time_full": "2026/03/27 01:20:38",
       "location": "三陸沖",
       "magnitude": "4.5",
       "depth": "10km",
@@ -38,6 +38,19 @@
       "intensity": "1"
     },
     "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260326234712",
+      "time": "2026/03/26 23:47",
+      "time_full": "2026/03/26 23:47:12",
+      "location": "三陸沖",
+      "magnitude": "4.5",
+      "depth": "10km",
+      "latitude": "39.5",
+      "longitude": "143.3",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260326233711",
       "time": "2026/03/26 23:37",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260326231858",
       "time": "2026/03/26 23:18",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260326195419",
       "time": "2026/03/26 19:54",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260326175156",
       "time": "2026/03/26 17:51",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260326163759",
       "time": "2026/03/26 16:37",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260326142304",
       "time": "2026/03/26 14:23",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260326130111",
       "time": "2026/03/26 13:01",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260326100819",
       "time": "2026/03/26 10:08",
@@ -140,19 +153,6 @@
       "longitude": "130.4",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260326004354",
-      "time": "2026/03/26 00:43",
-      "time_full": "2026/03/26 00:43:54",
-      "location": "新島・神津島近海",
-      "magnitude": "2.2",
-      "depth": "0km",
-      "latitude": "34.3",
-      "longitude": "139.3",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
