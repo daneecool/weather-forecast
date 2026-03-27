@@ -1,11 +1,11 @@
 {
-  "time": "2026-03-27 19:18:16",
+  "time": "2026-03-27 19:41:14",
   "temp": 10.85,
   "temp_max": 11.58,
   "temp_min": 10.54,
   "humidity": 93,
   "feels_like": 10.42,
-  "pressure": 1014,
+  "pressure": 1015,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
   "weather_icon": "04n",
