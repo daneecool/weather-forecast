@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-03-28 21:00:00",
-    "temp": 12.05,
+    "temp": 12.17,
     "temp_max": 13.42,
-    "temp_min": 12.05,
-    "humidity": 83,
-    "feels_like": 11.48,
+    "temp_min": 12.17,
+    "humidity": 82,
+    "feels_like": 11.58,
     "pressure": 1015,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
