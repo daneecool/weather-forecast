@@ -1,10 +1,10 @@
 {
-  "time": "2026-03-28 15:40:10",
-  "temp": 13.58,
+  "time": "2026-03-28 16:00:01",
+  "temp": 13.86,
   "temp_max": 15.02,
   "temp_min": 11.99,
   "humidity": 83,
-  "feels_like": 13.16,
+  "feels_like": 13.47,
   "pressure": 1014,
   "weather_main": "Clear",
   "weather_description": "clear sky",
