@@ -1,14 +1,14 @@
 [
   {
     "time": "2026-03-29 21:00:00",
-    "temp": 14.07,
-    "temp_max": 14.07,
-    "temp_min": 13.88,
+    "temp": 13.35,
+    "temp_max": 13.88,
+    "temp_min": 13.35,
     "humidity": 75,
-    "feels_like": 13.49,
+    "feels_like": 12.7,
     "pressure": 1020,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
+    "weather_description": "broken clouds",
     "weather_icon": "04d",
     "rain_mm": 0,
     "snow_mm": 0
