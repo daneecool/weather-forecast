@@ -1,14 +1,14 @@
 {
-  "time": "2026-03-31 05:15:33",
+  "time": "2026-03-31 06:00:36",
   "temp": 15.32,
   "temp_max": 16.14,
   "temp_min": 14.94,
-  "humidity": 95,
-  "feels_like": 15.39,
-  "pressure": 1006,
+  "humidity": 94,
+  "feels_like": 15.36,
+  "pressure": 1004,
   "weather_main": "Rain, Mist",
   "weather_description": "light intensity shower rain, mist",
   "weather_icon": "09d, 50d",
-  "rain_1h_mm": 1.64,
+  "rain_1h_mm": 1.83,
   "snow_1h_mm": 0
 }
