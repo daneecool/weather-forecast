@@ -1,30 +1,100 @@
 {
-  "EventID": "20260401003900",
-  "Serial": 5,
-  "AnnouncedTime": "2026/04/01 00:39:52",
-  "OriginTime": "2026/04/01 00:38:46",
-  "Hypocenter": "房総半島南方沖",
-  "Latitude": 33.9,
-  "Longitude": 140.1,
-  "Magunitude": 4.4,
-  "Depth": 100,
-  "MaxIntensity": "2",
-  "isSea": true,
+  "EventID": "20260401100625",
+  "Serial": 12,
+  "AnnouncedTime": "2026/04/01 10:07:13",
+  "OriginTime": "2026/04/01 10:06:17",
+  "Hypocenter": "茨城県南部",
+  "Latitude": 36.1,
+  "Longitude": 140.0,
+  "Magunitude": 5.1,
+  "Depth": 60,
+  "MaxIntensity": "5弱",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260401003952 C11 260401003846 ND20260401003900 NCN905 JD////////////// JN/// 349 N339 E1401 100 44 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "131",
+  "OriginalText": "37 03 00 260401100713 C11 260401100617 ND20260401100625 NCN912 JD////////////// JN/// 301 N361 E1400 060 51 5- RK44559 RT01/// RC0//// EBI 311 S5-5- 100639 19 300 S5-5- 100639 19 301 S5-5- 100639 19 331 S0404 ////// 11 341 S0404 ////// 11 330 S0403 ////// 11 321 S0404 100637 19 9999=",
+  "Pond": "127",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "栃木県南部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "100639",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "茨城県北部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "100639",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "茨城県南部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "100639",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "埼玉県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "千葉県北西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "埼玉県北部",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "群馬県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "100637",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260401100625",
+      "time": "2026/04/01 10:06",
+      "time_full": "2026/04/01 10:06:25",
+      "location": "茨城県南部",
+      "magnitude": "5.0",
+      "depth": "50km",
+      "latitude": "36.1",
+      "longitude": "140.0",
+      "info": "この地震による津波の心配はありません。\nこの地震について、緊急地震速報を発表しています。",
+      "intensity": "5-"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260401035759",
       "time": "2026/04/01 03:57",
@@ -34,10 +104,10 @@
       "depth": "10km",
       "latitude": "35.3",
       "longitude": "133.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260401003900",
       "time": "2026/04/01 00:39",
@@ -50,7 +120,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260331202227",
       "time": "2026/03/31 20:22",
@@ -63,7 +133,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260331040600",
       "time": "2026/03/31 04:06",
@@ -76,7 +146,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260331034339",
       "time": "2026/03/31 03:43",
@@ -89,7 +159,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260330202310",
       "time": "2026/03/30 20:23",
@@ -102,7 +172,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "遠地地震に関する情報",
       "EventID": "20260330175022",
       "time": "2026/03/30 17:50",
@@ -115,7 +185,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260330164702",
       "time": "2026/03/30 16:47",
@@ -128,7 +198,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260330151202",
       "time": "2026/03/30 15:12",
@@ -138,19 +208,6 @@
       "depth": "70km",
       "latitude": "42.7",
       "longitude": "143.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260330123134",
-      "time": "2026/03/30 12:31",
-      "time_full": "2026/03/30 12:31:34",
-      "location": "沖縄本島近海",
-      "magnitude": "4.5",
-      "depth": "10km",
-      "latitude": "26.4",
-      "longitude": "129.0",
       "info": "",
       "intensity": "1"
     }
