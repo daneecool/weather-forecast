@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-04-02 21:00:00",
-    "temp": 8.78,
-    "temp_max": 11.09,
-    "temp_min": 8.78,
-    "humidity": 66,
-    "feels_like": 7.16,
-    "pressure": 1016,
-    "weather_main": "Clouds",
-    "weather_description": "few clouds",
-    "weather_icon": "02d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
