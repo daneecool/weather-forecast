@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-04-02 21:00:00",
-    "temp": 8.27,
+    "temp": 9.09,
     "temp_max": 11.09,
-    "temp_min": 8.27,
-    "humidity": 65,
-    "feels_like": 6.55,
+    "temp_min": 9.09,
+    "humidity": 67,
+    "feels_like": 7.53,
     "pressure": 1016,
     "weather_main": "Clear",
     "weather_description": "clear sky",
