@@ -1,13 +1,13 @@
 {
-  "EventID": "20260402232005",
-  "Serial": 4,
-  "AnnouncedTime": "2026/04/02 23:23:09",
-  "OriginTime": "2026/04/02 23:22:20",
+  "EventID": "20260403175151",
+  "Serial": 3,
+  "AnnouncedTime": "2026/04/03 17:52:38",
+  "OriginTime": "2026/04/03 17:51:45",
   "Hypocenter": "岩手県沖",
-  "Latitude": 39.2,
-  "Longitude": 142.1,
-  "Magunitude": 3.7,
-  "Depth": 50,
+  "Latitude": 39.5,
+  "Longitude": 142.6,
+  "Magunitude": 3.9,
+  "Depth": 30,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260402232309 C11 260402232220 ND20260402232005 NCN904 JD////////////// JN/// 286 N392 E1421 050 37 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "142",
+  "OriginalText": "37 03 00 260403175238 C11 260403175145 ND20260403175151 NCN903 JD////////////// JN/// 286 N395 E1426 030 39 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "1",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260403175151",
+      "time": "2026/04/03 17:51",
+      "time_full": "2026/04/03 17:51:51",
+      "location": "岩手県沖",
+      "magnitude": "4.2",
+      "depth": "30km",
+      "latitude": "39.4",
+      "longitude": "142.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260403113329",
       "time": "2026/04/03 11:33",
       "time_full": "2026/04/03 11:33:29",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "32.3",
       "longitude": "130.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260403014107",
       "time": "2026/04/03 01:41",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260402232316",
       "time": "2026/04/02 23:23",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260402162719",
       "time": "2026/04/02 16:27",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260402095258",
       "time": "2026/04/02 09:52",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No6": {
+    "No7": {
       "Title": "遠地地震に関する情報",
       "EventID": "20260402075339",
       "time": "2026/04/02 07:53",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260402023823",
       "time": "2026/04/02 02:38",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260402012826",
       "time": "2026/04/02 01:28",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260402005943",
       "time": "2026/04/02 00:59",
@@ -140,19 +153,6 @@
       "longitude": "135.1",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "顕著な地震の震源要素更新のお知らせ",
-      "EventID": "20260401100625",
-      "time": "2026/04/01 10:06",
-      "time_full": "2026/04/01 10:06:25",
-      "location": "茨城県南部",
-      "magnitude": "5.0",
-      "depth": "48km",
-      "latitude": "36.1",
-      "longitude": "140.0",
-      "info": "",
-      "intensity": "不明"
     }
   }
 }
