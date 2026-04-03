@@ -1,30 +1,43 @@
 {
-  "EventID": "20260403185319",
-  "Serial": 7,
-  "AnnouncedTime": "2026/04/03 18:53:59",
-  "OriginTime": "2026/04/03 18:53:11",
-  "Hypocenter": "宮古島近海",
-  "Latitude": 25.0,
-  "Longitude": 125.7,
-  "Magunitude": 4.5,
-  "Depth": 30,
-  "MaxIntensity": "2",
+  "EventID": "20260404005353",
+  "Serial": 4,
+  "AnnouncedTime": "2026/04/04 00:54:33",
+  "OriginTime": "2026/04/04 00:53:50",
+  "Hypocenter": "大阪湾",
+  "Latitude": 34.5,
+  "Longitude": 135.0,
+  "Magunitude": 3.2,
+  "Depth": 20,
+  "MaxIntensity": "3",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260403185359 C11 260403185311 ND20260403185319 NCN907 JD////////////// JN/// 853 N250 E1257 030 45 02 RK44529 RT10/// RC0//// 9999=",
+  "OriginalText": "37 03 00 260404005433 C11 260404005350 ND20260404005353 NCN904 JD////////////// JN/// 675 N345 E1350 020 32 03 RK44209 RT10/// RC0//// 9999=",
   "Pond": "1",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260404005353",
+      "time": "2026/04/04 00:53",
+      "time_full": "2026/04/04 00:53:53",
+      "location": "大阪湾",
+      "magnitude": "3.1",
+      "depth": "20km",
+      "latitude": "34.5",
+      "longitude": "135.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260404000648",
       "time": "2026/04/04 00:06",
@@ -34,10 +47,10 @@
       "depth": "0km",
       "latitude": "34.3",
       "longitude": "135.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260403233709",
       "time": "2026/04/03 23:37",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260403185319",
       "time": "2026/04/03 18:53",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260403175151",
       "time": "2026/04/03 17:51",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260403113329",
       "time": "2026/04/03 11:33",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260403014107",
       "time": "2026/04/03 01:41",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260402232316",
       "time": "2026/04/02 23:23",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260402162719",
       "time": "2026/04/02 16:27",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260402095258",
       "time": "2026/04/02 09:52",
@@ -140,19 +153,6 @@
       "longitude": "141.7",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "遠地地震に関する情報",
-      "EventID": "20260402075339",
-      "time": "2026/04/02 07:53",
-      "time_full": "2026/04/02 07:53:39",
-      "location": "インドネシア付近",
-      "magnitude": "7.4",
-      "depth": "0km",
-      "latitude": "0.0",
-      "longitude": "0.0",
-      "info": "",
-      "intensity": "不明"
     }
   }
 }
