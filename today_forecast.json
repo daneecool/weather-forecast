@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-04-04 21:00:00",
-    "temp": 17.55,
+    "temp": 17.25,
     "temp_max": 17.6,
-    "temp_min": 17.55,
+    "temp_min": 17.25,
     "humidity": 91,
-    "feels_like": 17.74,
+    "feels_like": 17.41,
     "pressure": 1004,
     "weather_main": "Rain",
     "weather_description": "light rain",
