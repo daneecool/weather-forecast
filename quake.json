@@ -1,39 +1,43 @@
 {
-  "EventID": "20260404193655",
-  "Serial": 9,
-  "AnnouncedTime": "2026/04/04 19:37:44",
-  "OriginTime": "2026/04/04 19:36:43",
-  "Hypocenter": "宮城県沖",
-  "Latitude": 38.4,
-  "Longitude": 141.9,
-  "Magunitude": 5.1,
-  "Depth": 70,
-  "MaxIntensity": "4",
+  "EventID": "20260405011420",
+  "Serial": 4,
+  "AnnouncedTime": "2026/04/05 01:15:02",
+  "OriginTime": "2026/04/05 01:14:12",
+  "Hypocenter": "種子島南東沖",
+  "Latitude": 30.1,
+  "Longitude": 131.1,
+  "Magunitude": 4.3,
+  "Depth": 10,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260404193744 C11 260404193643 ND20260404193655 NCN909 JD////////////// JN/// 287 N384 E1419 070 51 04 RK44559 RT10/// RC0//// EBI 222 S0404 ////// 01 9999=",
+  "OriginalText": "37 03 00 260405011502 C11 260405011412 ND20260405011420 NCN904 JD////////////// JN/// 822 N301 E1311 010 43 02 RK44539 RT10/// RC0//// 9999=",
   "Pond": "91",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "宮城県中部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260405011420",
+      "time": "2026/04/05 01:14",
+      "time_full": "2026/04/05 01:14:20",
+      "location": "種子島南東沖",
+      "magnitude": "4.6",
+      "depth": "20km",
+      "latitude": "30.1",
+      "longitude": "131.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260404193655",
       "time": "2026/04/04 19:36",
@@ -43,10 +47,10 @@
       "depth": "60km",
       "latitude": "38.4",
       "longitude": "141.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260404164947",
       "time": "2026/04/04 16:49",
@@ -59,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260404154312",
       "time": "2026/04/04 15:43",
@@ -72,7 +76,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260404153442",
       "time": "2026/04/04 15:34",
@@ -85,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260404142911",
       "time": "2026/04/04 14:29",
@@ -98,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260404121658",
       "time": "2026/04/04 12:16",
@@ -111,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260404063941",
       "time": "2026/04/04 06:39",
@@ -124,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260404030806",
       "time": "2026/04/04 03:08",
@@ -137,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260404005353",
       "time": "2026/04/04 00:53",
@@ -147,19 +151,6 @@
       "depth": "20km",
       "latitude": "34.5",
       "longitude": "135.0",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260404000648",
-      "time": "2026/04/04 00:06",
-      "time_full": "2026/04/04 00:06:48",
-      "location": "和歌山県北部",
-      "magnitude": "2.4",
-      "depth": "0km",
-      "latitude": "34.3",
-      "longitude": "135.1",
       "info": "",
       "intensity": "1"
     }
