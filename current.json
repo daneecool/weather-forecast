@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-05 18:10:35",
+  "time": "2026-04-05 18:46:29",
   "temp": 15.96,
   "temp_max": 16.58,
   "temp_min": 15.54,
@@ -7,8 +7,8 @@
   "feels_like": 15.86,
   "pressure": 1011,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02n",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
