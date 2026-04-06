@@ -1,29 +1,15 @@
 [
   {
-    "time": "2026-04-06 18:00:00",
-    "temp": 16.86,
-    "temp_max": 16.86,
-    "temp_min": 16.86,
-    "humidity": 81,
-    "feels_like": 16.72,
-    "pressure": 1007,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-06 21:00:00",
-    "temp": 16.88,
-    "temp_max": 16.92,
-    "temp_min": 16.88,
-    "humidity": 79,
-    "feels_like": 16.69,
+    "temp": 17.74,
+    "temp_max": 17.74,
+    "temp_min": 16.92,
+    "humidity": 75,
+    "feels_like": 17.53,
     "pressure": 1007,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04d",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03d",
     "rain_mm": 0,
     "snow_mm": 0
   }
