@@ -1,14 +1,14 @@
 {
-  "time": "2026-04-06 10:49:24",
-  "temp": 18.08,
-  "temp_max": 19.02,
-  "temp_min": 17.23,
-  "humidity": 77,
-  "feels_like": 17.95,
+  "time": "2026-04-06 11:20:40",
+  "temp": 17.99,
+  "temp_max": 17.99,
+  "temp_min": 17.99,
+  "humidity": 69,
+  "feels_like": 17.65,
   "pressure": 1011,
-  "weather_main": "Clear",
-  "weather_description": "clear sky",
-  "weather_icon": "01n",
+  "weather_main": "Clouds",
+  "weather_description": "overcast clouds",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
