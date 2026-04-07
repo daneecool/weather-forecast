@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-04-07 09:00:00",
-    "temp": 13.18,
-    "temp_max": 13.18,
-    "temp_min": 13.18,
-    "humidity": 49,
-    "feels_like": 11.83,
-    "pressure": 1001,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-07 12:00:00",
     "temp": 12.84,
     "temp_max": 12.84,
