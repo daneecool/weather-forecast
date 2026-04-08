@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-04-08 03:00:00",
-    "temp": 13.87,
-    "temp_max": 13.87,
-    "temp_min": 13.87,
-    "humidity": 31,
-    "feels_like": 12.12,
-    "pressure": 1019,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-08 06:00:00",
     "temp": 13.93,
     "temp_max": 14.04,
