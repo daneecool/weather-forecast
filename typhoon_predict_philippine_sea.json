@@ -13,5 +13,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.2
+  },
+  {
+    "time": "2026-04-13 09:00:00",
+    "wind_speed": 19.97,
+    "wind_gust": 26.11,
+    "pressure": 997,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 26.98,
+    "humidity": 85,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 2.79
   }
 ]
