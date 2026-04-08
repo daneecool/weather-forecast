@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2026-04-13 06:00:00",
+    "wind_speed": 19.71,
+    "wind_gust": 25.03,
+    "pressure": 997,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.28,
+    "humidity": 83,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 1.2
+  }
+]
