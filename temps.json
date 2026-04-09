@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-04-09 15:00:00",
-    "temp": 16.17,
-    "temp_max": 16.17,
-    "temp_min": 15.93,
-    "humidity": 75,
-    "feels_like": 15.8,
+    "temp": 16.14,
+    "temp_max": 16.14,
+    "temp_min": 15.85,
+    "humidity": 76,
+    "feels_like": 15.79,
     "pressure": 1015,
     "rain_mm": 0
   },
