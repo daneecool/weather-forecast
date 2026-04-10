@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-04-10 03:00:00",
-    "temp": 16.81,
-    "temp_max": 16.81,
-    "temp_min": 16.81,
-    "humidity": 92,
-    "feels_like": 16.95,
-    "pressure": 1005,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 1.23,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-10 06:00:00",
     "temp": 17.02,
     "temp_max": 17.45,
