@@ -148,5 +148,20 @@
     "weather_main": "Rain",
     "weather_description": "very heavy rain",
     "rain_mm": 80.04
+  },
+  {
+    "time": "2026-04-15 09:00:00",
+    "wind_speed": 17.46,
+    "wind_gust": 20,
+    "pressure": 937,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.29,
+    "humidity": 91,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 17.37
   }
 ]
