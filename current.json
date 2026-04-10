@@ -1,11 +1,11 @@
 {
-  "time": "2026-04-10 19:20:41",
+  "time": "2026-04-10 19:45:32",
   "temp": 16.58,
   "temp_max": 16.58,
   "temp_min": 16.58,
   "humidity": 88,
   "feels_like": 16.59,
-  "pressure": 998,
+  "pressure": 999,
   "weather_main": "Clear",
   "weather_description": "clear sky",
   "weather_icon": "01n",
