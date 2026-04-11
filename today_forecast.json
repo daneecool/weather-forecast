@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-04-11 21:00:00",
-    "temp": 16.04,
-    "temp_max": 16.04,
-    "temp_min": 16.04,
-    "humidity": 49,
-    "feels_like": 14.98,
-    "pressure": 1012,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]

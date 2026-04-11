@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-11 20:40:47",
+  "time": "2026-04-11 21:05:45",
   "temp": 16.04,
   "temp_max": 16.04,
   "temp_min": 16.04,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "light rain",
   "weather_icon": "10d",
-  "rain_1h_mm": 0.1,
+  "rain_1h_mm": 0.47,
   "snow_1h_mm": 0
 }
