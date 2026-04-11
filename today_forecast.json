@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-04-11 21:00:00",
-    "temp": 15.82,
+    "temp": 16.04,
     "temp_max": 16.04,
-    "temp_min": 15.82,
-    "humidity": 51,
-    "feels_like": 14.79,
+    "temp_min": 16.04,
+    "humidity": 49,
+    "feels_like": 14.98,
     "pressure": 1012,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01d",
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "weather_icon": "04d",
     "rain_mm": 0,
     "snow_mm": 0
   }
