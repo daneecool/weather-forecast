@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-04-11 09:00:00",
-    "temp": 20.18,
-    "temp_max": 20.18,
-    "temp_min": 20.18,
-    "humidity": 58,
-    "feels_like": 19.77,
-    "pressure": 1001,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-11 12:00:00",
     "temp": 19.81,
     "temp_max": 19.81,
