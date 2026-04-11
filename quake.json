@@ -1,30 +1,43 @@
 {
-  "EventID": "20260411185002",
-  "Serial": 10,
-  "AnnouncedTime": "2026/04/11 18:51:29",
-  "OriginTime": "2026/04/11 18:49:52",
-  "Hypocenter": "根室半島南東沖",
-  "Latitude": 42.0,
-  "Longitude": 146.7,
-  "Magunitude": 5.7,
+  "EventID": "20260412013046",
+  "Serial": 4,
+  "AnnouncedTime": "2026/04/12 01:31:23",
+  "OriginTime": "2026/04/12 01:30:43",
+  "Hypocenter": "島根県東部",
+  "Latitude": 35.1,
+  "Longitude": 132.7,
+  "Magunitude": 3.3,
   "Depth": 10,
-  "MaxIntensity": "3",
-  "isSea": true,
+  "MaxIntensity": "2",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260411185129 C11 260411184952 ND20260411185002 NCN910 JD////////////// JN/// 189 N420 E1467 010 57 03 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "118",
+  "OriginalText": "37 03 00 260412013123 C11 260412013043 ND20260412013046 NCN904 JD////////////// JN/// 570 N351 E1327 010 33 02 RK44209 RT00/// RC0//// 9999=",
+  "Pond": "140",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260412013046",
+      "time": "2026/04/12 01:30",
+      "time_full": "2026/04/12 01:30:46",
+      "location": "島根県東部",
+      "magnitude": "4.0",
+      "depth": "10km",
+      "latitude": "35.1",
+      "longitude": "132.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260411185002",
       "time": "2026/04/11 18:50",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "41.8",
       "longitude": "146.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260411181010",
       "time": "2026/04/11 18:10",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260411064722",
       "time": "2026/04/11 06:47",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260410184608",
       "time": "2026/04/10 18:46",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260410104349",
       "time": "2026/04/10 10:43",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260410052401",
       "time": "2026/04/10 05:24",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260410033049",
       "time": "2026/04/10 03:30",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260409213904",
       "time": "2026/04/09 21:39",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260409103432",
       "time": "2026/04/09 10:34",
@@ -138,19 +151,6 @@
       "depth": "10km",
       "latitude": "25.3",
       "longitude": "125.2",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260409042803",
-      "time": "2026/04/09 04:28",
-      "time_full": "2026/04/09 04:28:03",
-      "location": "豊後水道",
-      "magnitude": "3.4",
-      "depth": "40km",
-      "latitude": "33.0",
-      "longitude": "132.2",
       "info": "",
       "intensity": "1"
     }
