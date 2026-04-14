@@ -1,10 +1,10 @@
 [
   {
     "time": "2026-04-14 21:00:00",
-    "temp": 16.24,
-    "temp_max": 16.24,
-    "temp_min": 16.15,
-    "humidity": 79,
+    "temp": 15.98,
+    "temp_max": 16.15,
+    "temp_min": 15.98,
+    "humidity": 90,
     "feels_like": 15.98,
     "pressure": 1015,
     "weather_main": "Clouds",
