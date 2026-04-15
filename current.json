@@ -1,5 +1,5 @@
 {
-  "time": "2026-04-15 14:33:10",
+  "time": "2026-04-15 15:29:50",
   "temp": 15.67,
   "temp_max": 15.67,
   "temp_min": 15.67,
@@ -7,8 +7,8 @@
   "feels_like": 15.59,
   "pressure": 1008,
   "weather_main": "Rain",
-  "weather_description": "heavy intensity rain",
+  "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 4.21,
+  "rain_1h_mm": 3.65,
   "snow_1h_mm": 0
 }
