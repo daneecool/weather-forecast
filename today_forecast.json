@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-04-15 18:00:00",
-    "temp": 15.5,
-    "temp_max": 15.5,
-    "temp_min": 15.5,
-    "humidity": 88,
-    "feels_like": 15.4,
-    "pressure": 1007,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "weather_icon": "10n",
-    "rain_mm": 3.18,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-15 21:00:00",
     "temp": 15.69,
     "temp_max": 16.08,
