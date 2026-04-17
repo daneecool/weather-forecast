@@ -1,10 +1,10 @@
 {
-  "time": "2026-04-17 18:20:24",
+  "time": "2026-04-17 18:47:55",
   "temp": 13.7,
   "temp_max": 13.98,
   "temp_min": 12.27,
-  "humidity": 79,
-  "feels_like": 13.19,
+  "humidity": 81,
+  "feels_like": 13.24,
   "pressure": 1019,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
