@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-04-19 21:00:00",
-    "temp": 16.33,
-    "temp_max": 16.33,
+    "temp": 15.98,
+    "temp_max": 15.98,
     "temp_min": 15.98,
     "humidity": 82,
-    "feels_like": 16.16,
-    "pressure": 1016,
+    "feels_like": 15.77,
+    "pressure": 1017,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "weather_icon": "04d",
