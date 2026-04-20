@@ -1,13 +1,13 @@
 {
-  "EventID": "20260420184946",
-  "Serial": 7,
-  "AnnouncedTime": "2026/04/20 18:51:02",
-  "OriginTime": "2026/04/20 18:49:42",
+  "EventID": "20260420202903",
+  "Serial": 4,
+  "AnnouncedTime": "2026/04/20 20:29:49",
+  "OriginTime": "2026/04/20 20:28:57",
   "Hypocenter": "三陸沖",
-  "Latitude": 39.8,
-  "Longitude": 143.4,
-  "Magunitude": 5.0,
-  "Depth": 40,
+  "Latitude": 39.6,
+  "Longitude": 143.1,
+  "Magunitude": 4.4,
+  "Depth": 20,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260420185102 C11 260420184942 ND20260420184946 NCN907 JD////////////// JN/// 288 N398 E1434 040 50 02 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "94",
+  "OriginalText": "37 03 00 260420202949 C11 260420202857 ND20260420202903 NCN904 JD////////////// JN/// 288 N396 E1431 020 44 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "16",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -25,6 +25,32 @@
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260420194417",
+      "time": "2026/04/20 19:44",
+      "time_full": "2026/04/20 19:44:17",
+      "location": "三陸沖",
+      "magnitude": "4.9",
+      "depth": "10km",
+      "latitude": "39.6",
+      "longitude": "143.6",
+      "info": "津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中です。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260420193738",
+      "time": "2026/04/20 19:37",
+      "time_full": "2026/04/20 19:37:38",
+      "location": "三陸沖",
+      "magnitude": "4.5",
+      "depth": "10km",
+      "latitude": "39.5",
+      "longitude": "143.4",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20260420165303",
       "time": "2026/04/20 16:53",
@@ -37,7 +63,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260420184946",
       "time": "2026/04/20 18:49",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260420184415",
       "time": "2026/04/20 18:44",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260420180703",
       "time": "2026/04/20 18:07",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260420173250",
       "time": "2026/04/20 17:32",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260420173014",
       "time": "2026/04/20 17:30",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260420165303",
       "time": "2026/04/20 16:53",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "5+"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260420161040",
       "time": "2026/04/20 16:10",
@@ -124,32 +150,6 @@
       "magnitude": "2.4",
       "depth": "10km",
       "latitude": "36.6",
-      "longitude": "137.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260420155459",
-      "time": "2026/04/20 15:54",
-      "time_full": "2026/04/20 15:54:59",
-      "location": "長野県北部",
-      "magnitude": "2.3",
-      "depth": "10km",
-      "latitude": "36.6",
-      "longitude": "137.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260420120632",
-      "time": "2026/04/20 12:06",
-      "time_full": "2026/04/20 12:06:32",
-      "location": "長野県北部",
-      "magnitude": "1.7",
-      "depth": "10km",
-      "latitude": "36.5",
       "longitude": "137.9",
       "info": "",
       "intensity": "1"
