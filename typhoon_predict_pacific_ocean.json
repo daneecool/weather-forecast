@@ -1,17 +1,32 @@
 [
   {
-    "time": "2026-04-25 09:00:00",
-    "wind_speed": 18.88,
-    "wind_gust": 20.5,
-    "pressure": 1007,
+    "time": "2026-04-24 09:00:00",
+    "wind_speed": 19.72,
+    "wind_gust": 26.9,
+    "pressure": 1004,
     "lat": 35.0,
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 14.91,
-    "humidity": 80,
+    "temp": 20.06,
+    "humidity": 89,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 0.31
+    "rain_mm": 2.06
+  },
+  {
+    "time": "2026-04-24 12:00:00",
+    "wind_speed": 18.58,
+    "wind_gust": 25.61,
+    "pressure": 1003,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 20.07,
+    "humidity": 91,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 3.13
   }
 ]

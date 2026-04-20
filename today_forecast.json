@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-04-20 21:00:00",
-    "temp": 17.11,
-    "temp_max": 17.11,
-    "temp_min": 16.94,
-    "humidity": 82,
-    "feels_like": 17.02,
+    "temp": 17.39,
+    "temp_max": 17.39,
+    "temp_min": 17.13,
+    "humidity": 83,
+    "feels_like": 17.35,
     "pressure": 1009,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
