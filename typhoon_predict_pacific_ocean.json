@@ -1,17 +1,17 @@
 [
   {
     "time": "2026-04-25 09:00:00",
-    "wind_speed": 18.46,
-    "wind_gust": 19.3,
-    "pressure": 1008,
+    "wind_speed": 18.88,
+    "wind_gust": 20.5,
+    "pressure": 1007,
     "lat": 35.0,
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 14.9,
-    "humidity": 84,
+    "temp": 14.91,
+    "humidity": 80,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 0.38
+    "rain_mm": 0.31
   }
 ]
