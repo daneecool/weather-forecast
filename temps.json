@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-04-22 15:00:00",
-    "temp": 18.75,
-    "temp_max": 18.75,
-    "temp_min": 18.26,
-    "humidity": 71,
-    "feels_like": 18.53,
-    "pressure": 1013,
+    "temp": 18.69,
+    "temp_max": 18.69,
+    "temp_min": 18.44,
+    "humidity": 74,
+    "feels_like": 18.55,
+    "pressure": 1012,
     "rain_mm": 0
   },
   {
     "time": "2026-04-22 18:00:00",
-    "temp": 18.43,
-    "temp_max": 18.43,
+    "temp": 18.37,
+    "temp_max": 18.37,
     "temp_min": 18.15,
-    "humidity": 62,
-    "feels_like": 17.95,
+    "humidity": 64,
+    "feels_like": 17.93,
     "pressure": 1011,
     "rain_mm": 0
   },
@@ -361,42 +361,42 @@
   },
   {
     "time": "2026-04-27 03:00:00",
-    "temp": 18.05,
-    "temp_max": 18.05,
-    "temp_min": 18.05,
-    "humidity": 58,
-    "feels_like": 17.43,
-    "pressure": 1011,
-    "rain_mm": 0
+    "temp": 16.04,
+    "temp_max": 16.04,
+    "temp_min": 16.04,
+    "humidity": 68,
+    "feels_like": 15.48,
+    "pressure": 1009,
+    "rain_mm": 0.37
   },
   {
     "time": "2026-04-27 06:00:00",
-    "temp": 19.35,
-    "temp_max": 19.35,
-    "temp_min": 19.35,
-    "humidity": 55,
-    "feels_like": 18.78,
+    "temp": 14.23,
+    "temp_max": 14.23,
+    "temp_min": 14.23,
+    "humidity": 85,
+    "feels_like": 13.93,
     "pressure": 1011,
-    "rain_mm": 0
+    "rain_mm": 2.76
   },
   {
     "time": "2026-04-27 09:00:00",
-    "temp": 18.29,
-    "temp_max": 18.29,
-    "temp_min": 18.29,
-    "humidity": 71,
-    "feels_like": 18.03,
+    "temp": 14.68,
+    "temp_max": 14.68,
+    "temp_min": 14.68,
+    "humidity": 80,
+    "feels_like": 14.29,
     "pressure": 1013,
-    "rain_mm": 0
+    "rain_mm": 0.45
   },
   {
     "time": "2026-04-27 12:00:00",
-    "temp": 17.51,
-    "temp_max": 17.51,
-    "temp_min": 17.51,
-    "humidity": 68,
-    "feels_like": 17.09,
-    "pressure": 1014,
+    "temp": 14.71,
+    "temp_max": 14.71,
+    "temp_min": 14.71,
+    "humidity": 82,
+    "feels_like": 14.38,
+    "pressure": 1015,
     "rain_mm": 0
   }
 ]
