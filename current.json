@@ -1,14 +1,14 @@
 {
-  "time": "2026-04-27 19:31:03",
+  "time": "2026-04-27 20:26:31",
   "temp": 13.12,
   "temp_max": 13.98,
-  "temp_min": 11.99,
+  "temp_min": 11.58,
   "humidity": 93,
   "feels_like": 12.92,
   "pressure": 1013,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
-  "weather_icon": "04n",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
