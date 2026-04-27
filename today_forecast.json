@@ -1,25 +1,11 @@
 [
   {
-    "time": "2026-04-27 18:00:00",
-    "temp": 13.18,
-    "temp_max": 15.43,
-    "temp_min": 13.18,
-    "humidity": 94,
-    "feels_like": 13.01,
-    "pressure": 1012,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-04-27 21:00:00",
-    "temp": 14.42,
+    "temp": 14,
     "temp_max": 16.9,
-    "temp_min": 14.42,
+    "temp_min": 14,
     "humidity": 88,
-    "feels_like": 14.22,
+    "feels_like": 13.75,
     "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
