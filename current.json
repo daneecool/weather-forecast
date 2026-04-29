@@ -1,14 +1,14 @@
 {
-  "time": "2026-04-29 08:15:46",
-  "temp": 17.4,
-  "temp_max": 18.1,
-  "temp_min": 16.66,
-  "humidity": 82,
-  "feels_like": 17.34,
-  "pressure": 1013,
+  "time": "2026-04-29 09:15:40",
+  "temp": 16.94,
+  "temp_max": 17.58,
+  "temp_min": 16.65,
+  "humidity": 80,
+  "feels_like": 16.78,
+  "pressure": 1014,
   "weather_main": "Rain",
-  "weather_description": "moderate rain",
+  "weather_description": "heavy intensity rain",
   "weather_icon": "10d",
-  "rain_1h_mm": 3.5,
+  "rain_1h_mm": 5.62,
   "snow_1h_mm": 0
 }
