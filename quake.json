@@ -25,16 +25,16 @@
   "WarnArea": [],
   "RecentList": {
     "No1": {
-      "Title": "震度速報",
+      "Title": "震源・震度情報",
       "EventID": "20260502021933",
       "time": "2026/05/02 02:19",
       "time_full": "2026/05/02 02:19:33",
-      "location": "",
-      "magnitude": "",
-      "depth": "0km",
-      "latitude": "0.0",
-      "longitude": "0.0",
-      "info": "今後の情報に注意してください。",
+      "location": "釧路沖",
+      "magnitude": "4.7",
+      "depth": "40km",
+      "latitude": "42.9",
+      "longitude": "145.5",
+      "info": "この地震による津波の心配はありません。",
       "intensity": "3"
     },
     "No2": {
