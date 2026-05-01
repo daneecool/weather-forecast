@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-05-01 18:00:00",
-    "wind_speed": 19.17,
-    "wind_gust": 26.72,
-    "pressure": 1004,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 19.61,
-    "humidity": 94,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.56
-  },
-  {
     "time": "2026-05-01 21:00:00",
     "wind_speed": 19.48,
     "wind_gust": 23.12,
