@@ -1,30 +1,137 @@
 {
-  "EventID": "20260502021933",
-  "Serial": 9,
-  "AnnouncedTime": "2026/05/02 02:20:24",
-  "OriginTime": "2026/05/02 02:19:24",
-  "Hypocenter": "釧路沖",
-  "Latitude": 42.9,
-  "Longitude": 145.5,
-  "Magunitude": 4.5,
-  "Depth": 50,
-  "MaxIntensity": "3",
-  "isSea": true,
+  "EventID": "20260502182850",
+  "Serial": 20,
+  "AnnouncedTime": "2026/05/02 18:30:05",
+  "OriginTime": "2026/05/02 18:28:40",
+  "Hypocenter": "奈良県",
+  "Latitude": 34.1,
+  "Longitude": 135.6,
+  "Magunitude": 5.7,
+  "Depth": 80,
+  "MaxIntensity": "5弱",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260502022024 C11 260502021924 ND20260502021933 NCN909 JD////////////// JN/// 190 N429 E1455 050 45 03 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "20",
+  "OriginalText": "37 03 00 260502183005 C11 260502182840 ND20260502182850 NCN920 JD////////////// JN/// 540 N341 E1356 080 57 5- RK44559 RT01/// RC0//// EBI 540 S5-5- 182908 19 550 S0404 ////// 11 521 S0404 ////// 11 551 S0404 ////// 11 462 S0404 ////// 11 535 S0404 ////// 11 511 S0404 ////// 11 520 S0404 ////// 11 531 S0403 ////// 11 461 S0404 182908 19 9999=",
+  "Pond": "61",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "奈良県",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "182908",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "和歌山県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "大阪府南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "和歌山県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "三重県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "兵庫県淡路島",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "京都府南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "大阪府北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "兵庫県南東部",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "三重県中部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "182908",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260502183939",
+      "time": "2026/05/02 18:39",
+      "time_full": "2026/05/02 18:39:39",
+      "location": "長野県北部",
+      "magnitude": "2.0",
+      "depth": "0km",
+      "latitude": "36.5",
+      "longitude": "137.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260502182850",
+      "time": "2026/05/02 18:28",
+      "time_full": "2026/05/02 18:28:50",
+      "location": "奈良県",
+      "magnitude": "5.7",
+      "depth": "70km",
+      "latitude": "34.1",
+      "longitude": "135.6",
+      "info": "",
+      "intensity": "4"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260502152905",
       "time": "2026/05/02 15:29",
@@ -34,10 +141,10 @@
       "depth": "0km",
       "latitude": "36.5",
       "longitude": "137.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260502131428",
       "time": "2026/05/02 13:14",
@@ -50,7 +157,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260502043543",
       "time": "2026/05/02 04:35",
@@ -63,7 +170,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260502034723",
       "time": "2026/05/02 03:47",
@@ -76,7 +183,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260502021933",
       "time": "2026/05/02 02:19",
@@ -89,7 +196,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260501220045",
       "time": "2026/05/01 22:00",
@@ -102,7 +209,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260501214015",
       "time": "2026/05/01 21:40",
@@ -115,7 +222,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260501064722",
       "time": "2026/05/01 06:47",
@@ -125,32 +232,6 @@
       "depth": "10km",
       "latitude": "32.9",
       "longitude": "129.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260501031534",
-      "time": "2026/05/01 03:15",
-      "time_full": "2026/05/01 03:15:34",
-      "location": "岩手県沖",
-      "magnitude": "3.8",
-      "depth": "40km",
-      "latitude": "39.9",
-      "longitude": "142.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260501021231",
-      "time": "2026/05/01 02:12",
-      "time_full": "2026/05/01 02:12:31",
-      "location": "沖縄本島近海",
-      "magnitude": "3.2",
-      "depth": "10km",
-      "latitude": "26.8",
-      "longitude": "128.0",
       "info": "",
       "intensity": "1"
     }
