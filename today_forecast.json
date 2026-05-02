@@ -4,12 +4,12 @@
     "temp": 17.1,
     "temp_max": 17.47,
     "temp_min": 17.1,
-    "humidity": 73,
-    "feels_like": 16.77,
+    "humidity": 71,
+    "feels_like": 16.72,
     "pressure": 1012,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04d",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03d",
     "rain_mm": 0,
     "snow_mm": 0
   }
