@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-05-02 21:00:00",
-    "temp": 17.1,
+    "temp": 17.12,
     "temp_max": 17.47,
-    "temp_min": 17.1,
+    "temp_min": 17.12,
     "humidity": 71,
-    "feels_like": 16.72,
+    "feels_like": 16.74,
     "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
