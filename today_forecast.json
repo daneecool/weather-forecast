@@ -10,7 +10,7 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
-    "rain_mm": 2.35,
+    "rain_mm": 1.91,
     "snow_mm": 0
   },
   {
@@ -24,7 +24,7 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10d",
-    "rain_mm": 1.77,
+    "rain_mm": 1.11,
     "snow_mm": 0
   }
 ]
