@@ -9,34 +9,34 @@
         "aqi": 4
       },
       "components": {
-        "co": 160.34,
+        "co": 162.08,
         "no": 0,
-        "no2": 0.87,
-        "o3": 143.38,
-        "so2": 2.59,
-        "pm2_5": 30.75,
-        "pm10": 54,
+        "no2": 0.77,
+        "o3": 143.13,
+        "so2": 2.62,
+        "pm2_5": 29.34,
+        "pm10": 51.61,
         "nh3": 0
       },
-      "dt": 1777798920
+      "dt": 1777802048
     }
   ],
   "warnings": [
     {
       "type": "co",
-      "value": 160.34,
+      "value": 162.08,
       "unit": "μg/m³",
       "level": "Good"
     },
     {
       "type": "pm2_5",
-      "value": 30.75,
+      "value": 29.34,
       "unit": "μg/m³",
       "level": "Moderate"
     },
     {
       "type": "pm10",
-      "value": 54,
+      "value": 51.61,
       "unit": "μg/m³",
       "level": "Good"
     }
