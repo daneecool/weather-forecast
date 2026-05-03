@@ -1,14 +1,14 @@
 {
-  "time": "2026-05-03 19:24:01",
-  "temp": 20.44,
-  "temp_max": 21.21,
+  "time": "2026-05-03 19:48:08",
+  "temp": 20.68,
+  "temp_max": 21.77,
   "temp_min": 19.49,
   "humidity": 94,
-  "feels_like": 20.99,
-  "pressure": 999,
+  "feels_like": 21.26,
+  "pressure": 998,
   "weather_main": "Rain",
   "weather_description": "light intensity shower rain",
-  "weather_icon": "09n",
-  "rain_1h_mm": 0.14,
+  "weather_icon": "09d",
+  "rain_1h_mm": 2.37,
   "snow_1h_mm": 0
 }
