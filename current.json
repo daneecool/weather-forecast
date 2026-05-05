@@ -1,10 +1,10 @@
 {
-  "time": "2026-05-05 12:25:10",
+  "time": "2026-05-05 12:55:21",
   "temp": 16.7,
   "temp_max": 17.32,
   "temp_min": 16.09,
-  "humidity": 62,
-  "feels_like": 16.04,
+  "humidity": 63,
+  "feels_like": 16.07,
   "pressure": 1024,
   "weather_main": "Clear",
   "weather_description": "clear sky",
