@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-05-09 21:00:00",
-    "temp": 15.47,
+    "temp": 16.13,
     "temp_max": 17.09,
-    "temp_min": 15.47,
-    "humidity": 51,
-    "feels_like": 14.4,
+    "temp_min": 16.13,
+    "humidity": 48,
+    "feels_like": 15.05,
     "pressure": 1020,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
