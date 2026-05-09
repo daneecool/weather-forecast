@@ -28,20 +28,5 @@
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
-  },
-  {
-    "time": "2026-05-13 15:00:00",
-    "wind_speed": 12.63,
-    "wind_gust": 15.5,
-    "pressure": 994,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 18.51,
-    "humidity": 91,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2
   }
 ]
