@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-05-10 21:00:00",
-    "temp": 17.44,
-    "temp_max": 17.89,
-    "temp_min": 17.44,
-    "humidity": 83,
-    "feels_like": 17.41,
-    "pressure": 1021,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
