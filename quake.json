@@ -1,13 +1,13 @@
 {
-  "EventID": "20260513211943",
-  "Serial": 4,
-  "AnnouncedTime": "2026/05/13 21:20:36",
-  "OriginTime": "2026/05/13 21:19:39",
-  "Hypocenter": "西表島付近",
-  "Latitude": 24.4,
-  "Longitude": 123.9,
+  "EventID": "20260514030250",
+  "Serial": 3,
+  "AnnouncedTime": "2026/05/14 03:03:33",
+  "OriginTime": "2026/05/14 03:02:39",
+  "Hypocenter": "宮城県沖",
+  "Latitude": 38.4,
+  "Longitude": 141.9,
   "Magunitude": 3.5,
-  "Depth": 20,
+  "Depth": 70,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260513212036 C11 260513211939 ND20260513211943 NCN904 JD////////////// JN/// 856 N244 E1239 020 35 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "139",
+  "OriginalText": "37 04 00 260514030333 C11 260514030239 ND20260514030250 NCN903 JD////////////// JN/// 287 N384 E1419 070 35 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "202",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260514030250",
+      "time": "2026/05/14 03:02",
+      "time_full": "2026/05/14 03:02:50",
+      "location": "宮城県沖",
+      "magnitude": "3.8",
+      "depth": "60km",
+      "latitude": "38.4",
+      "longitude": "141.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260514023243",
+      "time": "2026/05/14 02:32",
+      "time_full": "2026/05/14 02:32:43",
+      "location": "青森県津軽南部",
+      "magnitude": "3.7",
+      "depth": "10km",
+      "latitude": "40.6",
+      "longitude": "140.4",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260513213237",
       "time": "2026/05/13 21:32",
       "time_full": "2026/05/13 21:32:37",
@@ -34,10 +60,10 @@
       "depth": "10km",
       "latitude": "24.5",
       "longitude": "123.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260513211943",
       "time": "2026/05/13 21:19",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260513211242",
       "time": "2026/05/13 21:12",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260513201740",
       "time": "2026/05/13 20:17",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260513142502",
       "time": "2026/05/13 14:25",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260513112447",
       "time": "2026/05/13 11:24",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260513031438",
       "time": "2026/05/13 03:14",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260513030308",
       "time": "2026/05/13 03:03",
@@ -127,32 +153,6 @@
       "longitude": "142.0",
       "info": "",
       "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260512193226",
-      "time": "2026/05/12 19:32",
-      "time_full": "2026/05/12 19:32:26",
-      "location": "北海道北西沖",
-      "magnitude": "3.6",
-      "depth": "10km",
-      "latitude": "45.4",
-      "longitude": "141.1",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260512090243",
-      "time": "2026/05/12 09:02",
-      "time_full": "2026/05/12 09:02:43",
-      "location": "茨城県南部",
-      "magnitude": "4.3",
-      "depth": "50km",
-      "latitude": "36.1",
-      "longitude": "139.9",
-      "info": "",
-      "intensity": "3"
     }
   }
 }
