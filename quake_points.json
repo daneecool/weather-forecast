@@ -2,6 +2,62 @@
   {
     "No": "No1",
     "Title": "震源・震度情報",
+    "EventID": "20260514054628",
+    "time": "2026/05/14 05:46",
+    "time_full": "2026/05/14 05:46:28",
+    "location": "西表島付近",
+    "magnitude": "3.4",
+    "depth": "10km",
+    "latitude": "24.5",
+    "longitude": "123.8",
+    "info": "この地震による津波の心配はありません。",
+    "intensity": "1"
+  },
+  {
+    "No": "No2",
+    "Title": "震源・震度情報",
+    "EventID": "20260514052816",
+    "time": "2026/05/14 05:28",
+    "time_full": "2026/05/14 05:28:16",
+    "location": "岩手県内陸北部",
+    "magnitude": "2.8",
+    "depth": "10km",
+    "latitude": "39.8",
+    "longitude": "141.4",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No3",
+    "Title": "震源・震度情報",
+    "EventID": "20260514051305",
+    "time": "2026/05/14 05:13",
+    "time_full": "2026/05/14 05:13:05",
+    "location": "岩手県内陸北部",
+    "magnitude": "3.1",
+    "depth": "10km",
+    "latitude": "39.8",
+    "longitude": "141.4",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No4",
+    "Title": "震源・震度情報",
+    "EventID": "20260514051126",
+    "time": "2026/05/14 05:11",
+    "time_full": "2026/05/14 05:11:26",
+    "location": "岩手県内陸北部",
+    "magnitude": "3.1",
+    "depth": "10km",
+    "latitude": "39.8",
+    "longitude": "141.4",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No5",
+    "Title": "震源・震度情報",
     "EventID": "20260514050138",
     "time": "2026/05/14 05:01",
     "time_full": "2026/05/14 05:01:38",
@@ -10,11 +66,11 @@
     "depth": "10km",
     "latitude": "39.8",
     "longitude": "141.4",
-    "info": "この地震による津波の心配はありません。",
+    "info": "",
     "intensity": "4"
   },
   {
-    "No": "No2",
+    "No": "No6",
     "Title": "震度速報",
     "EventID": "20260514050002",
     "time": "2026/05/14 05:00",
@@ -28,7 +84,7 @@
     "intensity": "4"
   },
   {
-    "No": "No3",
+    "No": "No7",
     "Title": "震源・震度情報",
     "EventID": "20260514030250",
     "time": "2026/05/14 03:02",
@@ -42,7 +98,7 @@
     "intensity": "1"
   },
   {
-    "No": "No4",
+    "No": "No8",
     "Title": "震源・震度情報",
     "EventID": "20260514023243",
     "time": "2026/05/14 02:32",
@@ -56,7 +112,7 @@
     "intensity": "3"
   },
   {
-    "No": "No5",
+    "No": "No9",
     "Title": "震源・震度情報",
     "EventID": "20260513213237",
     "time": "2026/05/13 21:32",
@@ -70,7 +126,7 @@
     "intensity": "1"
   },
   {
-    "No": "No6",
+    "No": "No10",
     "Title": "震源・震度情報",
     "EventID": "20260513211943",
     "time": "2026/05/13 21:19",
@@ -82,61 +138,5 @@
     "longitude": "123.9",
     "info": "",
     "intensity": "2"
-  },
-  {
-    "No": "No7",
-    "Title": "震源・震度情報",
-    "EventID": "20260513211242",
-    "time": "2026/05/13 21:12",
-    "time_full": "2026/05/13 21:12:42",
-    "location": "西表島付近",
-    "magnitude": "3.6",
-    "depth": "10km",
-    "latitude": "24.5",
-    "longitude": "123.9",
-    "info": "",
-    "intensity": "2"
-  },
-  {
-    "No": "No8",
-    "Title": "震源・震度情報",
-    "EventID": "20260513201740",
-    "time": "2026/05/13 20:17",
-    "time_full": "2026/05/13 20:17:40",
-    "location": "群馬県北部",
-    "magnitude": "2.6",
-    "depth": "10km",
-    "latitude": "36.6",
-    "longitude": "139.2",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No9",
-    "Title": "震源・震度情報",
-    "EventID": "20260513142502",
-    "time": "2026/05/13 14:25",
-    "time_full": "2026/05/13 14:25:02",
-    "location": "青森県下北地方",
-    "magnitude": "2.3",
-    "depth": "0km",
-    "latitude": "41.3",
-    "longitude": "141.3",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No10",
-    "Title": "震源・震度情報",
-    "EventID": "20260513112447",
-    "time": "2026/05/13 11:24",
-    "time_full": "2026/05/13 11:24:47",
-    "location": "釧路沖",
-    "magnitude": "4.8",
-    "depth": "10km",
-    "latitude": "41.8",
-    "longitude": "145.9",
-    "info": "",
-    "intensity": "1"
   }
 ]
