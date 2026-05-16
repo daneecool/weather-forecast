@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-05-16 21:00:00",
-    "temp": 18.13,
-    "temp_max": 19.24,
-    "temp_min": 18.13,
-    "humidity": 76,
-    "feels_like": 17.98,
+    "temp": 17.64,
+    "temp_max": 18.76,
+    "temp_min": 17.64,
+    "humidity": 78,
+    "feels_like": 17.5,
     "pressure": 1018,
     "weather_main": "Clear",
     "weather_description": "clear sky",
