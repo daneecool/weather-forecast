@@ -1,151 +1,43 @@
 {
-  "EventID": "20260515202209",
-  "Serial": 23,
-  "AnnouncedTime": "2026/05/15 20:24:11",
-  "OriginTime": "2026/05/15 20:22:01",
-  "Hypocenter": "宮城県沖",
-  "Latitude": 38.9,
-  "Longitude": 142.1,
-  "Magunitude": 6.6,
-  "Depth": 60,
-  "MaxIntensity": "5弱",
+  "EventID": "20260517090731",
+  "Serial": 9,
+  "AnnouncedTime": "2026/05/17 09:08:57",
+  "OriginTime": "2026/05/17 09:07:26",
+  "Hypocenter": "三陸沖",
+  "Latitude": 39.9,
+  "Longitude": 143.1,
+  "Magunitude": 4.7,
+  "Depth": 30,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": true,
+  "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260515202411 C11 260515202201 ND20260515202209 NCN923 JD////////////// JN/// 287 N389 E1421 060 66 5- RK44559 RT11/// RC0//// EBI 213 S5-5- ////// 11 222 S5-5- ////// 11 220 S5-5- ////// 11 212 S5-5- ////// 11 211 S5-04 ////// 11 210 S0404 ////// 11 221 S0404 ////// 11 233 S0404 ////// 11 251 S0404 ////// 11 242 S0404 ////// 01 202 S0404 ////// 11 250 S0404 ////// 11 240 S0404 ////// 01 230 S0404 ////// 01 231 S0403 ////// 01 9999=",
-  "Pond": "195",
+  "OriginalText": "37 04 00 260517090857 C11 260517090726 ND20260517090731 NCN909 JD////////////// JN/// 288 N399 E1431 030 47 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "46",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "岩手県内陸南部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "宮城県中部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "宮城県北部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "岩手県内陸北部",
-      "Shindo1": "5弱",
-      "Shindo2": "5弱",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "岩手県沿岸南部",
-      "Shindo1": "5弱",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "岩手県沿岸北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "宮城県南部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "秋田県内陸南部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "福島県浜通り",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "山形県村山",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "青森県三八上北",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "福島県中通り",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "警報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "山形県庄内",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "秋田県沿岸北部",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "秋田県沿岸南部",
-      "Shindo1": "4",
-      "Shindo2": "3",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260517090731",
+      "time": "2026/05/17 09:07",
+      "time_full": "2026/05/17 09:07:31",
+      "location": "三陸沖",
+      "magnitude": "4.9",
+      "depth": "10km",
+      "latitude": "39.9",
+      "longitude": "143.1",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260517055544",
       "time": "2026/05/17 05:55",
@@ -155,10 +47,10 @@
       "depth": "0km",
       "latitude": "32.0",
       "longitude": "130.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260517052249",
       "time": "2026/05/17 05:22",
@@ -171,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260517042540",
       "time": "2026/05/17 04:25",
@@ -184,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260517010908",
       "time": "2026/05/17 01:09",
@@ -197,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260516122924",
       "time": "2026/05/16 12:29",
@@ -210,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260516072735",
       "time": "2026/05/16 07:27",
@@ -223,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260516035544",
       "time": "2026/05/16 03:55",
@@ -236,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20260515202209",
       "time": "2026/05/15 20:22",
@@ -249,7 +141,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260515202112",
       "time": "2026/05/15 20:21",
@@ -261,19 +153,6 @@
       "longitude": "142.7",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260515202209",
-      "time": "2026/05/15 20:22",
-      "time_full": "2026/05/15 20:22:09",
-      "location": "宮城県沖",
-      "magnitude": "6.3",
-      "depth": "50km",
-      "latitude": "38.9",
-      "longitude": "142.1",
-      "info": "",
-      "intensity": "5-"
     }
   }
 }
