@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-05-19 00:00:00",
-    "temp": 21.35,
-    "temp_max": 21.35,
+    "temp": 21.96,
+    "temp_max": 21.96,
     "temp_min": 21.19,
-    "humidity": 75,
-    "feels_like": 21.5,
+    "humidity": 72,
+    "feels_like": 22.09,
     "pressure": 1017,
     "rain_mm": 0
   },
   {
     "time": "2026-05-19 03:00:00",
-    "temp": 21.93,
-    "temp_max": 22.18,
-    "temp_min": 21.93,
-    "humidity": 72,
-    "feels_like": 22.06,
+    "temp": 22.23,
+    "temp_max": 22.23,
+    "temp_min": 22.18,
+    "humidity": 70,
+    "feels_like": 22.34,
     "pressure": 1016,
     "rain_mm": 0
   },
