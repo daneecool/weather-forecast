@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-05-18 21:00:00",
-    "temp": 19.6,
-    "temp_max": 19.6,
-    "temp_min": 19.42,
-    "humidity": 83,
-    "feels_like": 19.78,
-    "pressure": 1017,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
