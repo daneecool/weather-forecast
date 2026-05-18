@@ -1,13 +1,13 @@
 {
-  "EventID": "20260518151927",
-  "Serial": 5,
-  "AnnouncedTime": "2026/05/18 15:20:12",
-  "OriginTime": "2026/05/18 15:19:19",
-  "Hypocenter": "宮城県沖",
-  "Latitude": 37.9,
-  "Longitude": 141.6,
-  "Magunitude": 4.0,
-  "Depth": 50,
+  "EventID": "20260519020432",
+  "Serial": 3,
+  "AnnouncedTime": "2026/05/19 02:05:17",
+  "OriginTime": "2026/05/19 02:04:29",
+  "Hypocenter": "三陸沖",
+  "Latitude": 39.7,
+  "Longitude": 143.5,
+  "Magunitude": 4.4,
+  "Depth": 20,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,16 +15,29 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260518152012 C11 260518151919 ND20260518151927 NCN905 JD////////////// JN/// 287 N379 E1416 050 40 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "48",
+  "OriginalText": "37 04 00 260519020517 C11 260519020429 ND20260519020432 NCN903 JD////////////// JN/// 288 N397 E1435 020 44 02 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "65",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260519020432",
+      "time": "2026/05/19 02:04",
+      "time_full": "2026/05/19 02:04:32",
+      "location": "三陸沖",
+      "magnitude": "4.6",
+      "depth": "10km",
+      "latitude": "39.8",
+      "longitude": "143.4",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260518151927",
       "time": "2026/05/18 15:19",
@@ -34,10 +47,10 @@
       "depth": "50km",
       "latitude": "37.9",
       "longitude": "141.6",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260518083630",
       "time": "2026/05/18 08:36",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260518082403",
       "time": "2026/05/18 08:24",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260518082126",
       "time": "2026/05/18 08:21",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260518022720",
       "time": "2026/05/18 02:27",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260517180201",
       "time": "2026/05/17 18:02",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260517114219",
       "time": "2026/05/17 11:42",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260517090731",
       "time": "2026/05/17 09:07",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260517055544",
       "time": "2026/05/17 05:55",
@@ -140,19 +153,6 @@
       "longitude": "130.4",
       "info": "",
       "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260517052249",
-      "time": "2026/05/17 05:22",
-      "time_full": "2026/05/17 05:22:49",
-      "location": "鹿児島県薩摩地方",
-      "magnitude": "2.6",
-      "depth": "0km",
-      "latitude": "32.0",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
