@@ -1,30 +1,68 @@
 {
-  "EventID": "20260520022910",
-  "Serial": 4,
-  "AnnouncedTime": "2026/05/20 02:30:10",
-  "OriginTime": "2026/05/20 02:29:06",
-  "Hypocenter": "奄美大島近海",
-  "Latitude": 28.6,
-  "Longitude": 129.7,
-  "Magunitude": 4.0,
-  "Depth": 10,
-  "MaxIntensity": "3",
+  "EventID": "20260520114633",
+  "Serial": 17,
+  "AnnouncedTime": "2026/05/20 11:47:25",
+  "OriginTime": "2026/05/20 11:46:26",
+  "Hypocenter": "沖縄本島近海",
+  "Latitude": 27.5,
+  "Longitude": 128.5,
+  "Magunitude": 6.2,
+  "Depth": 30,
+  "MaxIntensity": "5弱",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260520023010 C11 260520022906 ND20260520022910 NCN904 JD////////////// JN/// 793 N286 E1297 010 40 03 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "66",
+  "OriginalText": "37 04 00 260520114725 C11 260520114626 ND20260520114633 NCN917 JD////////////// JN/// 850 N275 E1285 030 62 5- RK44559 RT11/// RC0//// EBI 779 S5-04 ////// 11 800 S0404 ////// 01 778 S0404 ////// 01 9999=",
+  "Pond": "71",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "鹿児島県奄美南部",
+      "Shindo1": "5弱",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "沖縄県本島北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "鹿児島県奄美北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260520114633",
+      "time": "2026/05/20 11:46",
+      "time_full": "2026/05/20 11:46:33",
+      "location": "沖縄本島近海",
+      "magnitude": "5.9",
+      "depth": "50km",
+      "latitude": "27.5",
+      "longitude": "128.6",
+      "info": "この地震による津波の心配はありません。\nこの地震について、緊急地震速報を発表しています。",
+      "intensity": "5+"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260520070805",
       "time": "2026/05/20 07:08",
@@ -34,10 +72,10 @@
       "depth": "50km",
       "latitude": "34.0",
       "longitude": "135.6",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260520022910",
       "time": "2026/05/20 02:29",
@@ -50,7 +88,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260519193523",
       "time": "2026/05/19 19:35",
@@ -63,7 +101,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260519192347",
       "time": "2026/05/19 19:23",
@@ -76,7 +114,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260519130327",
       "time": "2026/05/19 13:03",
@@ -89,7 +127,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260519051424",
       "time": "2026/05/19 05:14",
@@ -102,7 +140,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260519020432",
       "time": "2026/05/19 02:04",
@@ -115,7 +153,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260518151927",
       "time": "2026/05/18 15:19",
@@ -128,7 +166,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260518083630",
       "time": "2026/05/18 08:36",
@@ -140,19 +178,6 @@
       "longitude": "123.9",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260518082403",
-      "time": "2026/05/18 08:24",
-      "time_full": "2026/05/18 08:24:03",
-      "location": "西表島付近",
-      "magnitude": "4.4",
-      "depth": "10km",
-      "latitude": "24.5",
-      "longitude": "123.9",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
