@@ -158,7 +158,7 @@ for region, entries in typhoon_entries_by_region.items():
     with open(filename, 'w') as f:
         json.dump(entries, f, indent=2)
 
-# -------------------- Earthquake Data Section --------------------
+# -------------------- Earthquake Data Section Single --------------------
 
 # Fetch the live analysis EEW data from JMA earthquake data and convert to JSON
 eew_url = "https://api.wolfx.jp/jma_eew.json"
@@ -253,6 +253,42 @@ def air_quality_warnings(components):
             "level": get_warning_level(components["pm10"], 54, 154)
         }
     ]
+
+# -------------------- Earthquake Data Section Lists --------------------
+
+# Build `quake_list.json` similar to `quake.json` but including up to No1..No50
+list_keys = [f"No{i}" for i in range(1, 51)]
+quake_info_list = {k: eew_data.get(k) for k in quake_fields}
+
+accuracy = eew_data.get("Accuracy", {})
+quake_info_list["Epicenter"] = accuracy.get("Epicenter")
+quake_info_list["DepthAccuracy"] = accuracy.get("Depth")
+quake_info_list["MagnitudeAccuracy"] = accuracy.get("Magnitude")
+maxintchange = eew_data.get("MaxIntChange", {})
+quake_info_list["String"] = maxintchange.get("String")
+quake_info_list["Reason"] = maxintchange.get("Reason")
+quake_info_list["WarnArea"] = eew_data.get("WarnArea", [])
+
+quake_info_list["RecentList"] = {k: eqlist_data.get(k) for k in list_keys if k in eqlist_data}
+
+# Fix shindo entries in-place
+for event in quake_info_list["RecentList"].values():
+    if isinstance(event, dict):
+        fix_shindo(event)
+
+# Save quake_info_list to quake_list.json
+with open("quake_list.json", "w", encoding="utf-8") as f:
+    json.dump(quake_info_list, f, ensure_ascii=False, indent=2)
+
+# Prepare quake_points_list as array (like quake_points.json)
+quake_points_list_array = [
+    {"No": no, **fix_shindo(event.copy())}
+    for no, event in quake_info_list["RecentList"].items()
+    if isinstance(event, dict)
+]
+
+with open("quake_points_list.json", "w", encoding="utf-8") as f:
+    json.dump(quake_points_list_array, f, ensure_ascii=False, indent=2)
 
 # Fetch air pollution data
 AIR_POLLUTION_URL = "https://api.openweathermap.org/data/2.5/air_pollution?lat=35.4478&lon=139.6425&appid=53d842d393e922cf8bddf6360e657e6a"
