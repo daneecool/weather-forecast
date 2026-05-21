@@ -1,14 +1,14 @@
 {
-  "time": "2026-05-21 22:00:10",
+  "time": "2026-05-21 22:50:10",
   "temp": 14.73,
-  "temp_max": 15.58,
-  "temp_min": 13.94,
+  "temp_max": 14.99,
+  "temp_min": 14.42,
   "humidity": 94,
   "feels_like": 14.71,
   "pressure": 1009,
-  "weather_main": "Rain, Mist",
-  "weather_description": "shower rain, mist",
-  "weather_icon": "09d, 50d",
-  "rain_1h_mm": 7.49,
+  "weather_main": "Clouds",
+  "weather_description": "broken clouds",
+  "weather_icon": "04d",
+  "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
