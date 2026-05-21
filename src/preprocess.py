@@ -276,6 +276,14 @@ for event in quake_info_list["RecentList"].values():
     if isinstance(event, dict):
         fix_shindo(event)
 
+# Also write RecentList alone to quake_recentlist.json for easy access
+with open("quake_recentlist.json", "w", encoding="utf-8") as f:
+    recent_fixed = {
+        no: fix_shindo(event.copy()) if isinstance(event, dict) else event
+        for no, event in quake_info_list["RecentList"].items()
+    }
+    json.dump(recent_fixed, f, ensure_ascii=False, indent=2)
+
 # Save quake_info_list to quake_list.json
 with open("quake_list.json", "w", encoding="utf-8") as f:
     json.dump(quake_info_list, f, ensure_ascii=False, indent=2)
