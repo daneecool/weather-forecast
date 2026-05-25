@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-05-25 21:00:00",
-    "temp": 19.64,
-    "temp_max": 19.65,
-    "temp_min": 19.64,
+    "temp": 19.55,
+    "temp_max": 19.63,
+    "temp_min": 19.55,
     "humidity": 88,
-    "feels_like": 19.96,
+    "feels_like": 19.86,
     "pressure": 1014,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
