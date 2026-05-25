@@ -1,17 +1,47 @@
 [
   {
     "time": "2026-05-29 03:00:00",
-    "wind_speed": 18.13,
-    "wind_gust": 27.92,
-    "pressure": 1003,
+    "wind_speed": 18.37,
+    "wind_gust": 26.7,
+    "pressure": 1005,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 16.4,
+    "temp": 15.94,
+    "humidity": 95,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 2.75
+  },
+  {
+    "time": "2026-05-29 06:00:00",
+    "wind_speed": 19.13,
+    "wind_gust": 29.42,
+    "pressure": 1002,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 16.25,
     "humidity": 96,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 10.06
+    "rain_mm": 5.06
+  },
+  {
+    "time": "2026-05-29 09:00:00",
+    "wind_speed": 18.09,
+    "wind_gust": 29.21,
+    "pressure": 1001,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 16.61,
+    "humidity": 96,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 5.38
   }
 ]
