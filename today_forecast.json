@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-05-28 21:00:00",
-    "temp": 22.54,
-    "temp_max": 22.54,
-    "temp_min": 22.05,
-    "humidity": 94,
-    "feels_like": 23.3,
-    "pressure": 995,
-    "weather_main": "Clouds",
-    "weather_description": "scattered clouds",
-    "weather_icon": "03d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
