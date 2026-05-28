@@ -1,73 +1,63 @@
 [
   {
-    "time": "2026-05-28 18:00:00",
-    "temp": 23.28,
-    "temp_max": 23.28,
-    "temp_min": 21.59,
-    "humidity": 92,
-    "feels_like": 24.07,
-    "pressure": 994,
-    "rain_mm": 0
-  },
-  {
     "time": "2026-05-28 21:00:00",
-    "temp": 22.89,
-    "temp_max": 22.89,
+    "temp": 22.55,
+    "temp_max": 22.55,
     "temp_min": 22.12,
-    "humidity": 91,
-    "feels_like": 23.61,
+    "humidity": 92,
+    "feels_like": 23.26,
     "pressure": 995,
     "rain_mm": 0
   },
   {
     "time": "2026-05-29 00:00:00",
-    "temp": 23.81,
-    "temp_max": 24.07,
-    "temp_min": 23.81,
-    "humidity": 76,
-    "feels_like": 24.23,
-    "pressure": 996,
-    "rain_mm": 0.15
+    "temp": 24.05,
+    "temp_max": 24.69,
+    "temp_min": 24.05,
+    "humidity": 78,
+    "feels_like": 24.55,
+    "pressure": 995,
+    "rain_mm": 0.2
   },
   {
     "time": "2026-05-29 03:00:00",
-    "temp": 23.8,
-    "temp_max": 23.8,
-    "temp_min": 23.8,
-    "humidity": 70,
-    "feels_like": 24.06,
+    "temp": 25.82,
+    "temp_max": 25.82,
+    "temp_min": 25.82,
+    "humidity": 54,
+    "feels_like": 25.87,
     "pressure": 997,
-    "rain_mm": 0.27
+    "rain_mm": 0.37
   },
   {
     "time": "2026-05-29 06:00:00",
-    "temp": 22.72,
-    "temp_max": 22.72,
-    "temp_min": 22.72,
-    "humidity": 77,
-    "feels_like": 23.06,
+    "temp": 23.9,
+    "temp_max": 23.9,
+    "temp_min": 23.9,
+    "humidity": 70,
+    "feels_like": 24.17,
     "pressure": 998,
-    "rain_mm": 0.13
+    "rain_mm": 0
   },
   {
     "time": "2026-05-29 09:00:00",
-    "temp": 21.49,
-    "temp_max": 21.49,
-    "temp_min": 21.49,
-    "humidity": 75,
-    "feels_like": 21.65,
-    "pressure": 1001,
-    "rain_mm": 0
+    "temp": 22.08,
+    "temp_max": 22.08,
+    "temp_min": 22.08,
+    "humidity": 77,
+    "feels_like": 22.35,
+    "pressure": 1002,
+    "rain_mm": 0.21
   },
   {
     "time": "2026-05-29 12:00:00",
-    "temp": 20.6,
-    "temp_max": 20.6,
-    "temp_min": 20.6,
-    "humidity": 80,
-    "feels_like": 20.8,
+    "temp": 20.88,
+    "temp_max": 20.88,
+    "temp_min": 20.88,
+    "humidity": 78,
+    "feels_like": 21.06,
     "pressure": 1005,
-    "rain_mm": 0
+    "rain_mm": 0.1
   },
   {
     "time": "2026-05-29 15:00:00",
@@ -397,6 +387,16 @@
     "humidity": 85,
     "feels_like": 20.75,
     "pressure": 1012,
+    "rain_mm": 0
+  },
+  {
+    "time": "2026-06-02 18:00:00",
+    "temp": 20.49,
+    "temp_max": 20.49,
+    "temp_min": 20.49,
+    "humidity": 85,
+    "feels_like": 20.81,
+    "pressure": 1010,
     "rain_mm": 0
   }
 ]
