@@ -8,11 +8,11 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.11,
-    "humidity": 95,
+    "temp": 27.42,
+    "humidity": 92,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 10.51
+    "rain_mm": 11.97
   },
   {
     "time": "2026-05-30 09:00:00",
