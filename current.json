@@ -1,14 +1,14 @@
 {
-  "time": "2026-05-30 20:24:17",
-  "temp": 21.14,
+  "time": "2026-05-30 20:44:09",
+  "temp": 21.24,
   "temp_max": 22.32,
   "temp_min": 19.98,
-  "humidity": 91,
-  "feels_like": 21.69,
+  "humidity": 90,
+  "feels_like": 21.77,
   "pressure": 1013,
-  "weather_main": "Rain",
-  "weather_description": "light rain",
-  "weather_icon": "10d",
-  "rain_1h_mm": 0.26,
+  "weather_main": "Clear",
+  "weather_description": "clear sky",
+  "weather_icon": "01d",
+  "rain_1h_mm": 0.1,
   "snow_1h_mm": 0
 }
