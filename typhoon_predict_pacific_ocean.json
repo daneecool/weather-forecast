@@ -73,5 +73,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 0.13
+  },
+  {
+    "time": "2026-06-04 21:00:00",
+    "wind_speed": 14.63,
+    "wind_gust": 16.41,
+    "pressure": 992,
+    "lat": 35.0,
+    "lon": 150.0,
+    "region": "Pacific Ocean",
+    "in_japan": true,
+    "temp": 22.15,
+    "humidity": 90,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.31
   }
 ]
