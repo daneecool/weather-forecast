@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-05-31 03:00:00",
-    "wind_speed": 21.05,
-    "wind_gust": 27.11,
-    "pressure": 1001,
-    "lat": 20.0,
-    "lon": 130.0,
-    "region": "Philippine Sea",
-    "in_japan": false,
-    "temp": 27.77,
-    "humidity": 88,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 4.9
-  },
-  {
     "time": "2026-05-31 06:00:00",
     "wind_speed": 18.82,
     "wind_gust": 23.89,
@@ -23,7 +8,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.74,
+    "temp": 27.69,
     "humidity": 89,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
