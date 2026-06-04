@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-06-04 03:00:00",
-    "temp": 18.75,
-    "temp_max": 18.75,
-    "temp_min": 18.75,
-    "humidity": 69,
-    "feels_like": 18.48,
-    "pressure": 1007,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 0.26,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-06-04 06:00:00",
     "temp": 19.03,
     "temp_max": 19.58,
