@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-06-05 21:00:00",
-    "temp": 16.52,
+    "temp": 16.24,
     "temp_max": 17.09,
-    "temp_min": 16.52,
-    "humidity": 80,
-    "feels_like": 16.32,
-    "pressure": 1015,
+    "temp_min": 16.24,
+    "humidity": 84,
+    "feels_like": 16.11,
+    "pressure": 1016,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "weather_icon": "04d",
