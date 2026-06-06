@@ -1,14 +1,14 @@
 {
-  "time": "2026-06-06 07:31:46",
-  "temp": 24.76,
-  "temp_max": 24.76,
-  "temp_min": 23.94,
-  "humidity": 61,
-  "feels_like": 24.88,
+  "time": "2026-06-06 08:56:16",
+  "temp": 22.65,
+  "temp_max": 22.83,
+  "temp_min": 22.54,
+  "humidity": 66,
+  "feels_like": 22.69,
   "pressure": 1017,
-  "weather_main": "Clear",
-  "weather_description": "clear sky",
-  "weather_icon": "01d",
+  "weather_main": "Clouds",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
