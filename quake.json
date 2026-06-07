@@ -1,28 +1,109 @@
 {
-  "EventID": "20260607114639",
-  "Serial": 5,
-  "AnnouncedTime": "2026/06/07 11:47:40",
-  "OriginTime": "2026/06/07 11:46:29",
-  "Hypocenter": "沖縄本島近海",
-  "Latitude": 26.5,
-  "Longitude": 127.1,
-  "Magunitude": 3.3,
-  "Depth": 70,
-  "MaxIntensity": "1",
-  "isSea": true,
+  "EventID": "20260608084454",
+  "Serial": 11,
+  "AnnouncedTime": "2026/06/08 08:46:17",
+  "OriginTime": "2026/06/08 08:44:35",
+  "Hypocenter": "秋田県内陸南部",
+  "Latitude": 39.4,
+  "Longitude": 140.6,
+  "Magunitude": 5.7,
+  "Depth": 130,
+  "MaxIntensity": "4",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260607114740 C11 260607114629 ND20260607114639 NCN905 JD////////////// JN/// 850 N265 E1271 070 33 01 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "11",
+  "OriginalText": "37 03 00 260608084617 C11 260608084435 ND20260608084454 NCN911 JD////////////// JN/// 233 N394 E1406 130 57 04 RK44559 RT00/// RC0//// EBI 233 S0404 ////// 01 212 S0404 ////// 01 230 S0404 ////// 01 220 S0404 ////// 01 222 S0404 ////// 01 202 S0404 ////// 01 231 S0403 ////// 01 213 S0403 ////// 01 240 S0403 ////// 01 250 S0403 ////// 01 9999=",
+  "Pond": "144",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "秋田県内陸南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "岩手県内陸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "秋田県沿岸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "宮城県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "宮城県中部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "青森県三八上北",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "秋田県沿岸南部",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "岩手県内陸南部",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "山形県庄内",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "福島県中通り",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
