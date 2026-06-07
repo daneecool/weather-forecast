@@ -1,14 +1,14 @@
 {
-  "time": "2026-06-07 18:27:22",
+  "time": "2026-06-07 19:28:06",
   "temp": 18.71,
   "temp_max": 19.47,
   "temp_min": 17.83,
-  "humidity": 94,
-  "feels_like": 19.09,
+  "humidity": 95,
+  "feels_like": 19.12,
   "pressure": 1008,
   "weather_main": "Rain",
   "weather_description": "light rain",
-  "weather_icon": "10n",
-  "rain_1h_mm": 0.99,
+  "weather_icon": "10d",
+  "rain_1h_mm": 0.98,
   "snow_1h_mm": 0
 }
