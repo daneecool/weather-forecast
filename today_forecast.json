@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-06-08 21:00:00",
-    "temp": 18.55,
-    "temp_max": 19.29,
-    "temp_min": 18.55,
-    "humidity": 93,
-    "feels_like": 18.89,
-    "pressure": 1002,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "weather_icon": "10d",
-    "rain_mm": 3.42,
-    "snow_mm": 0
-  }
-]
+[]
