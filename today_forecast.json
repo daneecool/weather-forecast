@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-06-09 21:00:00",
-    "temp": 19.96,
-    "temp_max": 19.96,
-    "temp_min": 19.66,
-    "humidity": 90,
-    "feels_like": 20.36,
-    "pressure": 1006,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
