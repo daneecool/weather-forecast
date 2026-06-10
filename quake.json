@@ -1,30 +1,43 @@
 {
-  "EventID": "20260610161433",
-  "Serial": 3,
-  "AnnouncedTime": "2026/06/10 16:15:14",
-  "OriginTime": "2026/06/10 16:14:29",
-  "Hypocenter": "三陸沖",
-  "Latitude": 39.6,
-  "Longitude": 143.5,
-  "Magunitude": 4.3,
-  "Depth": 20,
-  "MaxIntensity": "1",
-  "isSea": true,
+  "EventID": "20260610180130",
+  "Serial": 4,
+  "AnnouncedTime": "2026/06/10 18:02:07",
+  "OriginTime": "2026/06/10 18:01:22",
+  "Hypocenter": "奈良県",
+  "Latitude": 34.2,
+  "Longitude": 135.8,
+  "Magunitude": 3.5,
+  "Depth": 50,
+  "MaxIntensity": "2",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260610161514 C11 260610161429 ND20260610161433 NCN903 JD////////////// JN/// 288 N396 E1435 020 43 01 RK44529 RT10/// RC0//// 9999=",
-  "Pond": "73",
+  "OriginalText": "37 03 00 260610180207 C11 260610180122 ND20260610180130 NCN904 JD////////////// JN/// 540 N342 E1358 050 35 02 RK44209 RT00/// RC0//// 9999=",
+  "Pond": "134",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "MagnitudeAccuracy": "防災科研システム",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260610180130",
+      "time": "2026/06/10 18:01",
+      "time_full": "2026/06/10 18:01:30",
+      "location": "奈良県",
+      "magnitude": "3.6",
+      "depth": "50km",
+      "latitude": "34.2",
+      "longitude": "135.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260610161433",
       "time": "2026/06/10 16:14",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "39.6",
       "longitude": "143.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260610125322",
       "time": "2026/06/10 12:53",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260610092921",
       "time": "2026/06/10 09:29",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260609221550",
       "time": "2026/06/09 22:15",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260609072634",
       "time": "2026/06/09 07:26",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260609054708",
       "time": "2026/06/09 05:47",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260609030456",
       "time": "2026/06/09 03:04",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260608234240",
       "time": "2026/06/08 23:42",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260608124704",
       "time": "2026/06/08 12:47",
@@ -140,19 +153,6 @@
       "longitude": "140.6",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "遠地地震に関する情報",
-      "EventID": "20260608084413",
-      "time": "2026/06/08 08:44",
-      "time_full": "2026/06/08 08:44:13",
-      "location": "フィリピン付近",
-      "magnitude": "8.2",
-      "depth": "0km",
-      "latitude": "0.0",
-      "longitude": "0.0",
-      "info": "",
-      "intensity": "不明"
     }
   }
 }
