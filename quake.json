@@ -1,13 +1,13 @@
 {
-  "EventID": "20260611150655",
-  "Serial": 3,
-  "AnnouncedTime": "2026/06/11 15:07:36",
-  "OriginTime": "2026/06/11 15:06:46",
-  "Hypocenter": "岩手県沖",
-  "Latitude": 40.4,
-  "Longitude": 142.0,
-  "Magunitude": 3.5,
-  "Depth": 60,
+  "EventID": "20260611232239",
+  "Serial": 4,
+  "AnnouncedTime": "2026/06/11 23:23:24",
+  "OriginTime": "2026/06/11 23:22:32",
+  "Hypocenter": "宮城県沖",
+  "Latitude": 38.7,
+  "Longitude": 142.2,
+  "Magunitude": 4.2,
+  "Depth": 40,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260611150736 C11 260611150646 ND20260611150655 NCN903 JD////////////// JN/// 286 N404 E1420 060 35 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "13",
+  "OriginalText": "37 03 00 260611232324 C11 260611232232 ND20260611232239 NCN904 JD////////////// JN/// 287 N387 E1422 040 42 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "119",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260611232239",
+      "time": "2026/06/11 23:22",
+      "time_full": "2026/06/11 23:22:39",
+      "location": "宮城県沖",
+      "magnitude": "4.2",
+      "depth": "40km",
+      "latitude": "38.7",
+      "longitude": "142.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260611221115",
       "time": "2026/06/11 22:11",
       "time_full": "2026/06/11 22:11:15",
@@ -34,10 +47,10 @@
       "depth": "60km",
       "latitude": "41.9",
       "longitude": "142.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260611150655",
       "time": "2026/06/11 15:06",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260611140306",
       "time": "2026/06/11 14:03",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260611012509",
       "time": "2026/06/11 01:25",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260610224854",
       "time": "2026/06/10 22:48",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260610193518",
       "time": "2026/06/10 19:35",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260610185552",
       "time": "2026/06/10 18:55",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260610180130",
       "time": "2026/06/10 18:01",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260610161433",
       "time": "2026/06/10 16:14",
@@ -140,19 +153,6 @@
       "longitude": "143.4",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260610125322",
-      "time": "2026/06/10 12:53",
-      "time_full": "2026/06/10 12:53:22",
-      "location": "トカラ列島近海",
-      "magnitude": "2.9",
-      "depth": "10km",
-      "latitude": "29.4",
-      "longitude": "129.6",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
