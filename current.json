@@ -1,14 +1,14 @@
 {
-  "time": "2026-06-12 17:46:02",
-  "temp": 18.93,
+  "time": "2026-06-12 18:38:51",
+  "temp": 18.73,
   "temp_max": 19.99,
-  "temp_min": 18.1,
+  "temp_min": 17.54,
   "humidity": 92,
-  "feels_like": 19.28,
+  "feels_like": 19.06,
   "pressure": 1013,
   "weather_main": "Clouds",
-  "weather_description": "broken clouds",
-  "weather_icon": "04n",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
