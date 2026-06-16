@@ -1,9 +1,9 @@
 {
-  "time": "2026-06-16 03:45:21",
+  "time": "2026-06-16 05:51:03",
   "temp": 26.43,
   "temp_max": 26.43,
-  "temp_min": 24.99,
-  "humidity": 63,
+  "temp_min": 25.55,
+  "humidity": 57,
   "feels_like": 26.43,
   "pressure": 1018,
   "weather_main": "Clouds",
