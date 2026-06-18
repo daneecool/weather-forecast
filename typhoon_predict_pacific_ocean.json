@@ -1,62 +1,17 @@
 [
   {
     "time": "2026-06-19 21:00:00",
-    "wind_speed": 18.36,
-    "wind_gust": 21.4,
-    "pressure": 1004,
+    "wind_speed": 18.29,
+    "wind_gust": 21.51,
+    "pressure": 1006,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 14.8,
+    "temp": 14.34,
     "humidity": 94,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 5.63
-  },
-  {
-    "time": "2026-06-20 00:00:00",
-    "wind_speed": 18.31,
-    "wind_gust": 21.3,
-    "pressure": 1003,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 14.56,
-    "humidity": 94,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.19
-  },
-  {
-    "time": "2026-06-20 03:00:00",
-    "wind_speed": 18.42,
-    "wind_gust": 22.52,
-    "pressure": 1003,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 14.26,
-    "humidity": 93,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.31
-  },
-  {
-    "time": "2026-06-20 06:00:00",
-    "wind_speed": 18.25,
-    "wind_gust": 21.5,
-    "pressure": 1004,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 13.55,
-    "humidity": 92,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.25
+    "rain_mm": 4.5
   }
 ]
