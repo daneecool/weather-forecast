@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-06-19 21:00:00",
-    "temp": 22.14,
-    "temp_max": 22.32,
-    "temp_min": 22.14,
-    "humidity": 91,
-    "feels_like": 22.79,
-    "pressure": 1012,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 1.68,
-    "snow_mm": 0
-  }
-]
+[]
