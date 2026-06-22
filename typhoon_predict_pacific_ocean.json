@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-06-23 00:00:00",
-    "wind_speed": 18.39,
-    "wind_gust": 18.1,
-    "pressure": 1000,
-    "lat": 35.0,
-    "lon": 150.0,
+    "time": "2026-06-26 18:00:00",
+    "wind_speed": 18.09,
+    "wind_gust": 25.51,
+    "pressure": 1011,
+    "lat": 40.0,
+    "lon": 155.0,
     "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 20.34,
-    "humidity": 89,
+    "in_japan": false,
+    "temp": 17.37,
+    "humidity": 94,
     "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 0.75
+    "weather_description": "moderate rain",
+    "rain_mm": 9.31
   }
 ]
