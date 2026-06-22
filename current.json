@@ -1,14 +1,14 @@
 {
-  "time": "2026-06-22 09:29:44",
-  "temp": 23.52,
-  "temp_max": 23.65,
-  "temp_min": 23.31,
-  "humidity": 84,
-  "feels_like": 24.12,
-  "pressure": 1003,
+  "time": "2026-06-22 11:25:31",
+  "temp": 22,
+  "temp_max": 23.36,
+  "temp_min": 21.65,
+  "humidity": 86,
+  "feels_like": 22.5,
+  "pressure": 1005,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
