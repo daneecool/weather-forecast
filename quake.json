@@ -1,30 +1,52 @@
 {
-  "EventID": "20260625093359",
-  "Serial": 3,
-  "AnnouncedTime": "2026/06/25 09:34:44",
-  "OriginTime": "2026/06/25 09:33:52",
+  "EventID": "20260625205839",
+  "Serial": 7,
+  "AnnouncedTime": "2026/06/25 20:59:36",
+  "OriginTime": "2026/06/25 20:58:30",
   "Hypocenter": "岩手県沖",
-  "Latitude": 40.2,
-  "Longitude": 142.4,
-  "Magunitude": 3.5,
-  "Depth": 40,
-  "MaxIntensity": "2",
+  "Latitude": 40.3,
+  "Longitude": 142.2,
+  "Magunitude": 4.6,
+  "Depth": 50,
+  "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260625093444 C11 260625093352 ND20260625093359 NCN903 JD////////////// JN/// 286 N402 E1424 040 35 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "64",
+  "OriginalText": "37 03 00 260625205936 C11 260625205830 ND20260625205839 NCN907 JD////////////// JN/// 286 N403 E1422 050 46 04 RK44559 RT10/// RC0//// EBI 202 S0404 205853 09 9999=",
+  "Pond": "50",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "青森県三八上北",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "205853",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260625205839",
+      "time": "2026/06/25 20:58",
+      "time_full": "2026/06/25 20:58:39",
+      "location": "岩手県沖",
+      "magnitude": "4.7",
+      "depth": "50km",
+      "latitude": "40.3",
+      "longitude": "142.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "4"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260625192149",
       "time": "2026/06/25 19:21",
@@ -34,10 +56,10 @@
       "depth": "50km",
       "latitude": "39.7",
       "longitude": "142.1",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260625121824",
       "time": "2026/06/25 12:18",
@@ -50,7 +72,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260625113240",
       "time": "2026/06/25 11:32",
@@ -63,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260625104834",
       "time": "2026/06/25 10:48",
@@ -76,7 +98,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20260625073021",
       "time": "2026/06/25 07:30",
@@ -89,7 +111,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260625101106",
       "time": "2026/06/25 10:11",
@@ -102,7 +124,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260625093359",
       "time": "2026/06/25 09:33",
@@ -115,7 +137,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260625090836",
       "time": "2026/06/25 09:08",
@@ -128,7 +150,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260625090203",
       "time": "2026/06/25 09:02",
@@ -137,19 +159,6 @@
       "magnitude": "2.9",
       "depth": "40km",
       "latitude": "40.2",
-      "longitude": "142.2",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625082214",
-      "time": "2026/06/25 08:22",
-      "time_full": "2026/06/25 08:22:14",
-      "location": "岩手県沖",
-      "magnitude": "3.1",
-      "depth": "50km",
-      "latitude": "40.3",
       "longitude": "142.2",
       "info": "",
       "intensity": "1"
