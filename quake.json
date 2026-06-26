@@ -1,12 +1,12 @@
 {
-  "EventID": "20260626114906",
+  "EventID": "20260626133139",
   "Serial": 7,
-  "AnnouncedTime": "2026/06/26 11:49:50",
-  "OriginTime": "2026/06/26 11:48:58",
-  "Hypocenter": "茨城県南部",
-  "Latitude": 36.1,
-  "Longitude": 139.9,
-  "Magunitude": 4.0,
+  "AnnouncedTime": "2026/06/26 13:32:22",
+  "OriginTime": "2026/06/26 13:31:32",
+  "Hypocenter": "千葉県北東部",
+  "Latitude": 35.7,
+  "Longitude": 140.6,
+  "Magunitude": 4.3,
   "Depth": 50,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260626114950 C11 260626114858 ND20260626114906 NCN907 JD////////////// JN/// 301 N361 E1399 050 40 03 RK44559 RT00/// RC0//// 9999=",
-  "Pond": "18",
+  "OriginalText": "37 03 00 260626133222 C11 260626133132 ND20260626133139 NCN907 JD////////////// JN/// 340 N357 E1406 050 43 03 RK44559 RT00/// RC0//// 9999=",
+  "Pond": "115",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,84 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260626133139",
+      "time": "2026/06/26 13:31",
+      "time_full": "2026/06/26 13:31:39",
+      "location": "千葉県北東部",
+      "magnitude": "4.1",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260626132235",
+      "time": "2026/06/26 13:22",
+      "time_full": "2026/06/26 13:22:35",
+      "location": "千葉県北東部",
+      "magnitude": "3.5",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.6",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260626130015",
+      "time": "2026/06/26 13:00",
+      "time_full": "2026/06/26 13:00:15",
+      "location": "千葉県北東部",
+      "magnitude": "3.9",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.6",
+      "info": "",
+      "intensity": "2"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
+      "EventID": "20260626124643",
+      "time": "2026/06/26 12:46",
+      "time_full": "2026/06/26 12:46:43",
+      "location": "千葉県北東部",
+      "magnitude": "5.8",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.6",
+      "info": "",
+      "intensity": "4"
+    },
+    "No5": {
+      "Title": "震源・震度情報",
+      "EventID": "20260626125255",
+      "time": "2026/06/26 12:52",
+      "time_full": "2026/06/26 12:52:55",
+      "location": "千葉県北東部",
+      "magnitude": "3.1",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.6",
+      "info": "",
+      "intensity": "1"
+    },
+    "No6": {
+      "Title": "震源・震度情報",
+      "EventID": "20260626124643",
+      "time": "2026/06/26 12:46",
+      "time_full": "2026/06/26 12:46:43",
+      "location": "千葉県北東部",
+      "magnitude": "5.8",
+      "depth": "50km",
+      "latitude": "35.7",
+      "longitude": "140.6",
+      "info": "",
+      "intensity": "4"
+    },
+    "No7": {
+      "Title": "震源・震度情報",
       "EventID": "20260626114906",
       "time": "2026/06/26 11:49",
       "time_full": "2026/06/26 11:49:06",
@@ -34,10 +112,10 @@
       "depth": "40km",
       "latitude": "36.1",
       "longitude": "139.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260626050254",
       "time": "2026/06/26 05:02",
@@ -50,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260626011151",
       "time": "2026/06/26 01:11",
@@ -63,7 +141,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No4": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260625224426",
       "time": "2026/06/25 22:44",
@@ -75,84 +153,6 @@
       "longitude": "135.5",
       "info": "",
       "intensity": "2"
-    },
-    "No5": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625205839",
-      "time": "2026/06/25 20:58",
-      "time_full": "2026/06/25 20:58:39",
-      "location": "岩手県沖",
-      "magnitude": "4.7",
-      "depth": "50km",
-      "latitude": "40.3",
-      "longitude": "142.2",
-      "info": "",
-      "intensity": "4"
-    },
-    "No6": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625192149",
-      "time": "2026/06/25 19:21",
-      "time_full": "2026/06/25 19:21:49",
-      "location": "岩手県沖",
-      "magnitude": "3.2",
-      "depth": "50km",
-      "latitude": "39.7",
-      "longitude": "142.1",
-      "info": "",
-      "intensity": "1"
-    },
-    "No7": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625121824",
-      "time": "2026/06/25 12:18",
-      "time_full": "2026/06/25 12:18:24",
-      "location": "渡島地方東部",
-      "magnitude": "3.9",
-      "depth": "130km",
-      "latitude": "42.1",
-      "longitude": "140.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625113240",
-      "time": "2026/06/25 11:32",
-      "time_full": "2026/06/25 11:32:40",
-      "location": "愛媛県南予",
-      "magnitude": "3.1",
-      "depth": "40km",
-      "latitude": "33.6",
-      "longitude": "132.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260625104834",
-      "time": "2026/06/25 10:48",
-      "time_full": "2026/06/25 10:48:34",
-      "location": "岩手県沖",
-      "magnitude": "3.6",
-      "depth": "40km",
-      "latitude": "40.2",
-      "longitude": "142.3",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "顕著な地震の震源要素更新のお知らせ",
-      "EventID": "20260625073021",
-      "time": "2026/06/25 07:30",
-      "time_full": "2026/06/25 07:30:21",
-      "location": "岩手県沖",
-      "magnitude": "7.2",
-      "depth": "44km",
-      "latitude": "40.2",
-      "longitude": "142.3",
-      "info": "",
-      "intensity": "不明"
     }
   }
 }
