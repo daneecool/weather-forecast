@@ -1,6 +1,48 @@
 [
   {
     "No": "No1",
+    "Title": "震源・震度情報",
+    "EventID": "20260627043008",
+    "time": "2026/06/27 04:30",
+    "time_full": "2026/06/27 04:30:08",
+    "location": "茨城県南部",
+    "magnitude": "3.2",
+    "depth": "50km",
+    "latitude": "36.2",
+    "longitude": "140.0",
+    "info": "この地震による津波の心配はありません。",
+    "intensity": "1"
+  },
+  {
+    "No": "No2",
+    "Title": "震源・震度情報",
+    "EventID": "20260627035948",
+    "time": "2026/06/27 03:59",
+    "time_full": "2026/06/27 03:59:48",
+    "location": "千葉県北西部",
+    "magnitude": "3.8",
+    "depth": "70km",
+    "latitude": "35.8",
+    "longitude": "140.1",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No3",
+    "Title": "震源・震度情報",
+    "EventID": "20260627023300",
+    "time": "2026/06/27 02:33",
+    "time_full": "2026/06/27 02:33:00",
+    "location": "福島県会津",
+    "magnitude": "3.6",
+    "depth": "10km",
+    "latitude": "37.1",
+    "longitude": "139.4",
+    "info": "",
+    "intensity": "3"
+  },
+  {
+    "No": "No4",
     "Title": "顕著な地震の震源要素更新のお知らせ",
     "EventID": "20260626222902",
     "time": "2026/06/26 22:29",
@@ -14,7 +56,7 @@
     "intensity": "不明"
   },
   {
-    "No": "No2",
+    "No": "No5",
     "Title": "震源・震度情報",
     "EventID": "20260627003315",
     "time": "2026/06/27 00:33",
@@ -28,7 +70,7 @@
     "intensity": "1"
   },
   {
-    "No": "No3",
+    "No": "No6",
     "Title": "震源・震度情報",
     "EventID": "20260626231746",
     "time": "2026/06/26 23:17",
@@ -42,7 +84,7 @@
     "intensity": "3"
   },
   {
-    "No": "No4",
+    "No": "No7",
     "Title": "震源・震度情報",
     "EventID": "20260626230436",
     "time": "2026/06/26 23:04",
@@ -56,7 +98,7 @@
     "intensity": "1"
   },
   {
-    "No": "No5",
+    "No": "No8",
     "Title": "震源・震度情報",
     "EventID": "20260626222902",
     "time": "2026/06/26 22:29",
@@ -70,7 +112,7 @@
     "intensity": "6-"
   },
   {
-    "No": "No6",
+    "No": "No9",
     "Title": "震源・震度情報",
     "EventID": "20260626154113",
     "time": "2026/06/26 15:41",
@@ -84,7 +126,7 @@
     "intensity": "1"
   },
   {
-    "No": "No7",
+    "No": "No10",
     "Title": "震源・震度情報",
     "EventID": "20260626133139",
     "time": "2026/06/26 13:31",
@@ -96,47 +138,5 @@
     "longitude": "140.7",
     "info": "",
     "intensity": "2"
-  },
-  {
-    "No": "No8",
-    "Title": "震源・震度情報",
-    "EventID": "20260626132235",
-    "time": "2026/06/26 13:22",
-    "time_full": "2026/06/26 13:22:35",
-    "location": "千葉県北東部",
-    "magnitude": "3.5",
-    "depth": "50km",
-    "latitude": "35.7",
-    "longitude": "140.6",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No9",
-    "Title": "震源・震度情報",
-    "EventID": "20260626130015",
-    "time": "2026/06/26 13:00",
-    "time_full": "2026/06/26 13:00:15",
-    "location": "千葉県北東部",
-    "magnitude": "3.9",
-    "depth": "50km",
-    "latitude": "35.7",
-    "longitude": "140.6",
-    "info": "",
-    "intensity": "2"
-  },
-  {
-    "No": "No10",
-    "Title": "震源・震度情報",
-    "EventID": "20260626124643",
-    "time": "2026/06/26 12:46",
-    "time_full": "2026/06/26 12:46:43",
-    "location": "千葉県北東部",
-    "magnitude": "5.8",
-    "depth": "50km",
-    "latitude": "35.7",
-    "longitude": "140.6",
-    "info": "",
-    "intensity": "4"
   }
 ]
