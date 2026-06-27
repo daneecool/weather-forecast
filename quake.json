@@ -1,30 +1,92 @@
 {
-  "EventID": "20260627035948",
-  "Serial": 6,
-  "AnnouncedTime": "2026/06/27 04:00:32",
-  "OriginTime": "2026/06/27 03:59:37",
-  "Hypocenter": "千葉県北西部",
-  "Latitude": 35.8,
-  "Longitude": 140.1,
-  "Magunitude": 4.3,
-  "Depth": 80,
-  "MaxIntensity": "3",
-  "isSea": false,
+  "EventID": "20260628052159",
+  "Serial": 17,
+  "AnnouncedTime": "2026/06/28 05:23:38",
+  "OriginTime": "2026/06/28 05:21:51",
+  "Hypocenter": "岩手県沖",
+  "Latitude": 40.2,
+  "Longitude": 142.4,
+  "Magunitude": 5.8,
+  "Depth": 50,
+  "MaxIntensity": "4",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260627040032 C11 260627035937 ND20260627035948 NCN906 JD////////////// JN/// 341 N358 E1401 080 43 03 RK44529 RT00/// RC0//// 9999=",
-  "Pond": "134",
+  "OriginalText": "37 03 00 260628052338 C11 260628052151 ND20260628052159 NCN917 JD////////////// JN/// 286 N402 E1424 050 58 04 RK44559 RT10/// RC0//// EBI 210 S0404 ////// 01 202 S0404 ////// 01 212 S0404 ////// 01 203 S0404 052235 09 200 S0404 052234 09 220 S0404 052240 09 9999=",
+  "Pond": "198",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "岩手県沿岸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "青森県三八上北",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "岩手県内陸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "青森県下北",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "052235",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "青森県津軽北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "052234",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "宮城県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "052240",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震度速報",
+      "EventID": "20260628052159",
+      "time": "2026/06/28 05:21",
+      "time_full": "2026/06/28 05:21:59",
+      "location": "",
+      "magnitude": "",
+      "depth": "0km",
+      "latitude": "0.0",
+      "longitude": "0.0",
+      "info": "今後の情報に注意してください。",
+      "intensity": "5-"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260628024359",
       "time": "2026/06/28 02:43",
@@ -34,10 +96,10 @@
       "depth": "70km",
       "latitude": "39.3",
       "longitude": "141.8",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260627230235",
       "time": "2026/06/27 23:02",
@@ -50,7 +112,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260627165738",
       "time": "2026/06/27 16:57",
@@ -63,7 +125,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260627160941",
       "time": "2026/06/27 16:09",
@@ -76,7 +138,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260627115107",
       "time": "2026/06/27 11:51",
@@ -89,7 +151,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260627070057",
       "time": "2026/06/27 07:00",
@@ -102,7 +164,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260627043008",
       "time": "2026/06/27 04:30",
@@ -115,7 +177,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260627035948",
       "time": "2026/06/27 03:59",
@@ -128,7 +190,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260627023300",
       "time": "2026/06/27 02:33",
@@ -140,19 +202,6 @@
       "longitude": "139.4",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "顕著な地震の震源要素更新のお知らせ",
-      "EventID": "20260626222902",
-      "time": "2026/06/26 22:29",
-      "time_full": "2026/06/26 22:29:02",
-      "location": "山梨県東部・富士五湖",
-      "magnitude": "5.6",
-      "depth": "20km",
-      "latitude": "35.6",
-      "longitude": "139.0",
-      "info": "",
-      "intensity": "不明"
     }
   }
 }
