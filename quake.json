@@ -75,6 +75,45 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260629001923",
+      "time": "2026/06/29 00:19",
+      "time_full": "2026/06/29 00:19:23",
+      "location": "茨城県南部",
+      "magnitude": "3.2",
+      "depth": "50km",
+      "latitude": "36.1",
+      "longitude": "140.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260628234930",
+      "time": "2026/06/28 23:49",
+      "time_full": "2026/06/28 23:49:30",
+      "location": "岩手県沖",
+      "magnitude": "4.1",
+      "depth": "50km",
+      "latitude": "40.2",
+      "longitude": "142.5",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260628233404",
+      "time": "2026/06/28 23:34",
+      "time_full": "2026/06/28 23:34:04",
+      "location": "茨城県沖",
+      "magnitude": "3.3",
+      "depth": "50km",
+      "latitude": "36.6",
+      "longitude": "141.0",
+      "info": "",
+      "intensity": "1"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
       "EventID": "20260628143937",
       "time": "2026/06/28 14:39",
       "time_full": "2026/06/28 14:39:37",
@@ -83,10 +122,10 @@
       "depth": "40km",
       "latitude": "40.1",
       "longitude": "142.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260628091239",
       "time": "2026/06/28 09:12",
@@ -99,7 +138,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No6": {
       "Title": "顕著な地震の震源要素更新のお知らせ",
       "EventID": "20260628052159",
       "time": "2026/06/28 05:21",
@@ -112,7 +151,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No4": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260628052159",
       "time": "2026/06/28 05:21",
@@ -125,7 +164,7 @@
       "info": "",
       "intensity": "5-"
     },
-    "No5": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260628024359",
       "time": "2026/06/28 02:43",
@@ -138,7 +177,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260627230235",
       "time": "2026/06/27 23:02",
@@ -151,7 +190,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260627165738",
       "time": "2026/06/27 16:57",
@@ -161,45 +200,6 @@
       "depth": "20km",
       "latitude": "35.6",
       "longitude": "139.0",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260627160941",
-      "time": "2026/06/27 16:09",
-      "time_full": "2026/06/27 16:09:41",
-      "location": "山梨県東部・富士五湖",
-      "magnitude": "2.3",
-      "depth": "20km",
-      "latitude": "35.5",
-      "longitude": "139.0",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260627115107",
-      "time": "2026/06/27 11:51",
-      "time_full": "2026/06/27 11:51:07",
-      "location": "山梨県東部・富士五湖",
-      "magnitude": "2.7",
-      "depth": "20km",
-      "latitude": "35.5",
-      "longitude": "139.0",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260627070057",
-      "time": "2026/06/27 07:00",
-      "time_full": "2026/06/27 07:00:57",
-      "location": "兵庫県南西部",
-      "magnitude": "3.0",
-      "depth": "10km",
-      "latitude": "34.8",
-      "longitude": "134.4",
       "info": "",
       "intensity": "1"
     }
