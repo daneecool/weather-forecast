@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-06-29 21:00:00",
-    "temp": 22.88,
-    "temp_max": 22.88,
-    "temp_min": 22.29,
-    "humidity": 91,
-    "feels_like": 23.6,
+    "temp": 22.71,
+    "temp_max": 22.71,
+    "temp_min": 22.35,
+    "humidity": 92,
+    "feels_like": 23.44,
     "pressure": 1013,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
