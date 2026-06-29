@@ -1,14 +1,14 @@
 {
-  "time": "2026-06-29 01:47:02",
-  "temp": 22.46,
-  "temp_max": 23.91,
-  "temp_min": 21.66,
-  "humidity": 94,
-  "feels_like": 23.22,
+  "time": "2026-06-29 05:04:54",
+  "temp": 26.6,
+  "temp_max": 27.32,
+  "temp_min": 24.47,
+  "humidity": 83,
+  "feels_like": 26.6,
   "pressure": 1013,
   "weather_main": "Clouds",
-  "weather_description": "broken clouds",
-  "weather_icon": "04d",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
