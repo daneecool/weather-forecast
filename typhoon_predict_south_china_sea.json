@@ -1,17 +1,32 @@
 [
   {
-    "time": "2026-07-03 00:00:00",
-    "wind_speed": 18.49,
-    "wind_gust": 21.23,
+    "time": "2026-07-03 03:00:00",
+    "wind_speed": 19.66,
+    "wind_gust": 25.1,
     "pressure": 1005,
     "lat": 18.0,
     "lon": 115.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 28.14,
+    "temp": 26.97,
     "humidity": 89,
     "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 7.32
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 13.46
+  },
+  {
+    "time": "2026-07-03 06:00:00",
+    "wind_speed": 18.47,
+    "wind_gust": 23.46,
+    "pressure": 1005,
+    "lat": 18.0,
+    "lon": 115.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 27.15,
+    "humidity": 88,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 13.12
   }
 ]
