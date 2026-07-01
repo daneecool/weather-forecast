@@ -1,30 +1,68 @@
 {
-  "EventID": "20260701103619",
-  "Serial": 3,
-  "AnnouncedTime": "2026/07/01 10:37:01",
-  "OriginTime": "2026/07/01 10:36:06",
-  "Hypocenter": "十勝地方中部",
-  "Latitude": 42.8,
-  "Longitude": 143.7,
-  "Magunitude": 3.6,
-  "Depth": 90,
-  "MaxIntensity": "1",
-  "isSea": false,
+  "EventID": "20260701210835",
+  "Serial": 10,
+  "AnnouncedTime": "2026/07/01 21:10:09",
+  "OriginTime": "2026/07/01 21:08:28",
+  "Hypocenter": "岩手県沖",
+  "Latitude": 40.1,
+  "Longitude": 142.5,
+  "Magunitude": 5.8,
+  "Depth": 40,
+  "MaxIntensity": "4",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260701103701 C11 260701103606 ND20260701103619 NCN903 JD////////////// JN/// 156 N428 E1437 090 36 01 RK44209 RT00/// RC0//// 9999=",
-  "Pond": "93",
+  "OriginalText": "37 04 00 260701211009 C11 260701210828 ND20260701210835 NCN910 JD////////////// JN/// 286 N401 E1425 040 58 04 RK44559 RT10/// RC0//// EBI 210 S0404 ////// 01 202 S0404 ////// 01 212 S0404 ////// 01 9999=",
+  "Pond": "84",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "岩手県沿岸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "青森県三八上北",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "岩手県内陸北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260701210835",
+      "time": "2026/07/01 21:08",
+      "time_full": "2026/07/01 21:08:35",
+      "location": "岩手県沖",
+      "magnitude": "6.0",
+      "depth": "40km",
+      "latitude": "40.1",
+      "longitude": "142.4",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "4"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260701195742",
       "time": "2026/07/01 19:57",
@@ -34,10 +72,10 @@
       "depth": "10km",
       "latitude": "32.4",
       "longitude": "131.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260701103619",
       "time": "2026/07/01 10:36",
@@ -50,7 +88,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260701102202",
       "time": "2026/07/01 10:22",
@@ -63,7 +101,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260701084416",
       "time": "2026/07/01 08:44",
@@ -76,7 +114,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260701084015",
       "time": "2026/07/01 08:40",
@@ -89,7 +127,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260701055533",
       "time": "2026/07/01 05:55",
@@ -102,7 +140,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260701013154",
       "time": "2026/07/01 01:31",
@@ -115,7 +153,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260701003305",
       "time": "2026/07/01 00:33",
@@ -128,7 +166,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260701000231",
       "time": "2026/07/01 00:02",
@@ -140,19 +178,6 @@
       "longitude": "140.2",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260630230228",
-      "time": "2026/06/30 23:02",
-      "time_full": "2026/06/30 23:02:28",
-      "location": "岩手県沖",
-      "magnitude": "4.9",
-      "depth": "40km",
-      "latitude": "40.1",
-      "longitude": "142.4",
-      "info": "",
-      "intensity": "3"
     }
   }
 }

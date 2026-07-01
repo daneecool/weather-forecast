@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2026-07-06 12:00:00",
+    "wind_speed": 17.4,
+    "wind_gust": 21.54,
+    "pressure": 995,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.81,
+    "humidity": 92,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 6.45
+  }
+]
