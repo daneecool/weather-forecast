@@ -1,17 +1,47 @@
 [
   {
-    "time": "2026-07-06 12:00:00",
-    "wind_speed": 17.4,
-    "wind_gust": 21.54,
+    "time": "2026-07-06 06:00:00",
+    "wind_speed": 16.52,
+    "wind_gust": 19.65,
     "pressure": 995,
     "lat": 15.0,
     "lon": 140.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.81,
-    "humidity": 92,
+    "temp": 27.72,
+    "humidity": 89,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 6.45
+    "rain_mm": 10.67
+  },
+  {
+    "time": "2026-07-06 09:00:00",
+    "wind_speed": 18.96,
+    "wind_gust": 23.02,
+    "pressure": 993,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.79,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 13.11
+  },
+  {
+    "time": "2026-07-06 12:00:00",
+    "wind_speed": 21.9,
+    "wind_gust": 26.67,
+    "pressure": 991,
+    "lat": 15.0,
+    "lon": 140.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.68,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 14.13
   }
 ]
