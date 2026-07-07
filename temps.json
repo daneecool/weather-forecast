@@ -4,8 +4,8 @@
     "temp": 24.76,
     "temp_max": 24.76,
     "temp_min": 23.49,
-    "humidity": 78,
-    "feels_like": 25.33,
+    "humidity": 75,
+    "feels_like": 25.25,
     "pressure": 1015,
     "rain_mm": 0
   },
@@ -14,8 +14,8 @@
     "temp": 24.93,
     "temp_max": 25.26,
     "temp_min": 24.93,
-    "humidity": 70,
-    "feels_like": 25.31,
+    "humidity": 68,
+    "feels_like": 25.25,
     "pressure": 1015,
     "rain_mm": 0
   },
@@ -24,7 +24,7 @@
     "temp": 25.99,
     "temp_max": 26.61,
     "temp_min": 25.99,
-    "humidity": 64,
+    "humidity": 63,
     "feels_like": 25.99,
     "pressure": 1014,
     "rain_mm": 0
