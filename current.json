@@ -1,10 +1,10 @@
 {
-  "time": "2026-07-07 12:18:37",
+  "time": "2026-07-07 13:12:34",
   "temp": 24.03,
   "temp_max": 24.54,
   "temp_min": 22.8,
-  "humidity": 79,
-  "feels_like": 24.55,
+  "humidity": 80,
+  "feels_like": 24.58,
   "pressure": 1015,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
