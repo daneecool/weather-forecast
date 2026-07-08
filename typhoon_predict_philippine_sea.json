@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-07-08 21:00:00",
-    "wind_speed": 26.46,
-    "wind_gust": 33.31,
-    "pressure": 984,
-    "lat": 20.0,
-    "lon": 130.0,
-    "region": "Philippine Sea",
-    "in_japan": false,
-    "temp": 28.67,
-    "humidity": 84,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.32
-  },
-  {
     "time": "2026-07-09 00:00:00",
     "wind_speed": 28.94,
     "wind_gust": 37.34,
