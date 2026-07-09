@@ -1,8 +1,8 @@
 [
   {
     "time": "2026-07-10 00:00:00",
-    "wind_speed": 28.23,
-    "wind_gust": 35.12,
+    "wind_speed": 28.19,
+    "wind_gust": 35.5,
     "pressure": 989,
     "lat": 20.0,
     "lon": 130.0,
@@ -12,12 +12,12 @@
     "humidity": 88,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 6.54
+    "rain_mm": 6.78
   },
   {
     "time": "2026-07-10 03:00:00",
-    "wind_speed": 27.52,
-    "wind_gust": 35.54,
+    "wind_speed": 25.46,
+    "wind_gust": 35.14,
     "pressure": 990,
     "lat": 20.0,
     "lon": 130.0,
@@ -26,52 +26,52 @@
     "temp": 28.39,
     "humidity": 86,
     "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.91
+    "weather_description": "moderate rain",
+    "rain_mm": 4.65
   },
   {
     "time": "2026-07-10 06:00:00",
-    "wind_speed": 25.12,
-    "wind_gust": 33.14,
+    "wind_speed": 25.28,
+    "wind_gust": 33.63,
     "pressure": 992,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.47,
-    "humidity": 86,
+    "temp": 28.09,
+    "humidity": 88,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 6.12
+    "rain_mm": 9.5
   },
   {
     "time": "2026-07-10 09:00:00",
-    "wind_speed": 22.29,
-    "wind_gust": 28.93,
-    "pressure": 998,
+    "wind_speed": 22.55,
+    "wind_gust": 29.97,
+    "pressure": 997,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.8,
-    "humidity": 89,
+    "temp": 28.49,
+    "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 4.57
+    "rain_mm": 4.65
   },
   {
     "time": "2026-07-10 12:00:00",
-    "wind_speed": 19.41,
-    "wind_gust": 26.35,
-    "pressure": 1002,
+    "wind_speed": 20.38,
+    "wind_gust": 26.79,
+    "pressure": 1001,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.68,
+    "temp": 28.72,
     "humidity": 86,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 2.22
+    "rain_mm": 2.03
   }
 ]
