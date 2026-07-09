@@ -1,13 +1,13 @@
 {
-  "EventID": "20260708163558",
-  "Serial": 8,
-  "AnnouncedTime": "2026/07/08 16:37:41",
-  "OriginTime": "2026/07/08 16:35:49",
-  "Hypocenter": "岩手県沖",
-  "Latitude": 40.1,
-  "Longitude": 142.1,
-  "Magunitude": 4.2,
-  "Depth": 60,
+  "EventID": "20260709215904",
+  "Serial": 7,
+  "AnnouncedTime": "2026/07/09 21:59:54",
+  "OriginTime": "2026/07/09 21:58:58",
+  "Hypocenter": "和歌山県南方沖",
+  "Latitude": 33.3,
+  "Longitude": 135.0,
+  "Magunitude": 4.7,
+  "Depth": 30,
   "MaxIntensity": "3",
   "isSea": true,
   "isTraining": false,
@@ -15,8 +15,8 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260708163741 C11 260708163549 ND20260708163558 NCN908 JD////////////// JN/// 286 N401 E1421 060 42 03 RK44559 RT10/// RC0//// 9999=",
-  "Pond": "75",
+  "OriginalText": "37 04 00 260709215954 C11 260709215858 ND20260709215904 NCN907 JD////////////// JN/// 689 N333 E1350 030 47 03 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "146",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260709215904",
+      "time": "2026/07/09 21:59",
+      "time_full": "2026/07/09 21:59:04",
+      "location": "和歌山県南方沖",
+      "magnitude": "4.7",
+      "depth": "10km",
+      "latitude": "33.3",
+      "longitude": "135.0",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260709205908",
+      "time": "2026/07/09 20:59",
+      "time_full": "2026/07/09 20:59:08",
+      "location": "択捉島南東沖",
+      "magnitude": "4.9",
+      "depth": "0km",
+      "latitude": "44.2",
+      "longitude": "147.9",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260709192635",
       "time": "2026/07/09 19:26",
       "time_full": "2026/07/09 19:26:35",
@@ -34,10 +60,10 @@
       "depth": "10km",
       "latitude": "34.2",
       "longitude": "139.2",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260709173738",
       "time": "2026/07/09 17:37",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260709140522",
       "time": "2026/07/09 14:05",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260709102249",
       "time": "2026/07/09 10:22",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260708233352",
       "time": "2026/07/08 23:33",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260708163558",
       "time": "2026/07/08 16:35",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260708132540",
       "time": "2026/07/08 13:25",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260707061650",
       "time": "2026/07/07 06:16",
@@ -125,32 +151,6 @@
       "depth": "10km",
       "latitude": "34.7",
       "longitude": "132.0",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260707020907",
-      "time": "2026/07/07 02:09",
-      "time_full": "2026/07/07 02:09:07",
-      "location": "岩手県沖",
-      "magnitude": "4.6",
-      "depth": "40km",
-      "latitude": "40.1",
-      "longitude": "142.5",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260707012745",
-      "time": "2026/07/07 01:27",
-      "time_full": "2026/07/07 01:27:45",
-      "location": "種子島近海",
-      "magnitude": "3.2",
-      "depth": "50km",
-      "latitude": "30.1",
-      "longitude": "130.5",
       "info": "",
       "intensity": "1"
     }
