@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-11 09:32:43",
-  "temp": 27.94,
-  "temp_max": 28.43,
-  "temp_min": 27.2,
-  "humidity": 82,
-  "feels_like": 32.25,
+  "time": "2026-07-11 10:26:21",
+  "temp": 26.44,
+  "temp_max": 26.99,
+  "temp_min": 25.55,
+  "humidity": 85,
+  "feels_like": 26.44,
   "pressure": 1012,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
