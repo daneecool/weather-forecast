@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-12 10:57:29",
-  "temp": 26.96,
-  "temp_max": 27.88,
+  "time": "2026-07-12 11:26:03",
+  "temp": 26.68,
+  "temp_max": 27.32,
   "temp_min": 25.55,
   "humidity": 89,
-  "feels_like": 30.52,
+  "feels_like": 29.76,
   "pressure": 1008,
   "weather_main": "Rain",
   "weather_description": "heavy intensity rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 5.12,
+  "rain_1h_mm": 7.49,
   "snow_1h_mm": 0
 }
