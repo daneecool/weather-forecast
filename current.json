@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-12 12:48:27",
+  "time": "2026-07-12 13:22:17",
   "temp": 26.4,
   "temp_max": 27.32,
   "temp_min": 25.55,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 3.65,
+  "rain_1h_mm": 3.16,
   "snow_1h_mm": 0
 }
