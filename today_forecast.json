@@ -7,10 +7,10 @@
     "humidity": 93,
     "feels_like": 26.72,
     "pressure": 1007,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "weather_icon": "10n",
+    "rain_mm": 0.1,
     "snow_mm": 0
   },
   {
