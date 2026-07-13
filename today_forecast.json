@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-07-13 21:00:00",
-    "temp": 25.11,
+    "temp": 25.39,
     "temp_max": 25.45,
-    "temp_min": 25.11,
-    "humidity": 92,
-    "feels_like": 26.08,
+    "temp_min": 25.39,
+    "humidity": 93,
+    "feels_like": 26.41,
     "pressure": 1008,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
