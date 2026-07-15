@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-07-15 03:00:00",
-    "temp": 29.78,
-    "temp_max": 29.78,
-    "temp_min": 28.36,
+    "temp": 29.65,
+    "temp_max": 29.65,
+    "temp_min": 27.94,
     "humidity": 81,
-    "feels_like": 36.78,
+    "feels_like": 36.65,
     "pressure": 1004,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
