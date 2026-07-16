@@ -1,8 +1,8 @@
 {
-  "time": "2026-07-16 05:52:49",
+  "time": "2026-07-16 06:47:14",
   "temp": 33.65,
-  "temp_max": 35.61,
-  "temp_min": 33.65,
+  "temp_max": 33.65,
+  "temp_min": 31.66,
   "humidity": 68,
   "feels_like": 40.65,
   "pressure": 1000,
