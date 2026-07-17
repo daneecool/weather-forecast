@@ -11,11 +11,11 @@
   },
   {
     "time": "2026-07-18 03:00:00",
-    "temp": 27.58,
-    "temp_max": 27.92,
-    "temp_min": 27.58,
+    "temp": 27.65,
+    "temp_max": 28.12,
+    "temp_min": 27.65,
     "humidity": 81,
-    "feels_like": 31.2,
+    "feels_like": 31.37,
     "pressure": 1007,
     "rain_mm": 0
   },
