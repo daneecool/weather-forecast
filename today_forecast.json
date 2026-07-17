@@ -1,10 +1,10 @@
 [
   {
     "time": "2026-07-17 21:00:00",
-    "temp": 25.77,
-    "temp_max": 25.77,
-    "temp_min": 25.12,
-    "humidity": 87,
+    "temp": 25.74,
+    "temp_max": 25.74,
+    "temp_min": 25.02,
+    "humidity": 88,
     "feels_like": 26.67,
     "pressure": 1006,
     "weather_main": "Clouds",
