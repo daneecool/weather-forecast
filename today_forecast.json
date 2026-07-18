@@ -1,24 +1,10 @@
 [
   {
-    "time": "2026-07-18 18:00:00",
-    "temp": 26.25,
-    "temp_max": 26.25,
-    "temp_min": 25.45,
-    "humidity": 90,
-    "feels_like": 26.25,
-    "pressure": 1007,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-07-18 21:00:00",
     "temp": 26.03,
     "temp_max": 26.03,
     "temp_min": 25.6,
-    "humidity": 88,
+    "humidity": 89,
     "feels_like": 26.03,
     "pressure": 1007,
     "weather_main": "Clouds",
