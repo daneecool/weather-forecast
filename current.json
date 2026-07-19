@@ -1,5 +1,5 @@
 {
-  "time": "2026-07-19 11:22:01",
+  "time": "2026-07-19 11:50:09",
   "temp": 28.7,
   "temp_max": 28.99,
   "temp_min": 28.1,
@@ -7,8 +7,8 @@
   "feels_like": 34.32,
   "pressure": 1008,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03n",
+  "weather_description": "few clouds",
+  "weather_icon": "02n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
