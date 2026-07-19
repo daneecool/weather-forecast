@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-07-19 21:00:00",
-    "temp": 26.78,
-    "temp_max": 26.78,
+    "temp": 26.91,
+    "temp_max": 26.91,
     "temp_min": 26.09,
     "humidity": 92,
-    "feels_like": 30.3,
+    "feels_like": 30.68,
     "pressure": 1008,
     "weather_main": "Clear",
     "weather_description": "clear sky",
