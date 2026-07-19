@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-19 06:00:24",
-  "temp": 31.99,
-  "temp_max": 31.99,
-  "temp_min": 31.72,
-  "humidity": 68,
-  "feels_like": 38.99,
+  "time": "2026-07-19 07:16:54",
+  "temp": 31.03,
+  "temp_max": 31.43,
+  "temp_min": 30.55,
+  "humidity": 66,
+  "feels_like": 36.51,
   "pressure": 1007,
   "weather_main": "Clouds",
-  "weather_description": "broken clouds",
-  "weather_icon": "04d",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
