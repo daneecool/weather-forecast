@@ -1,9 +1,9 @@
 {
-  "time": "2026-07-21 12:03:57",
+  "time": "2026-07-21 12:59:16",
   "temp": 29.86,
   "temp_max": 30.66,
-  "temp_min": 28.38,
-  "humidity": 87,
+  "temp_min": 28.36,
+  "humidity": 88,
   "feels_like": 36.86,
   "pressure": 1008,
   "weather_main": "Clouds",
