@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "time": "2026-07-26 06:00:00",
+    "wind_speed": 16.16,
+    "wind_gust": 19.47,
+    "pressure": 994,
+    "lat": 18.0,
+    "lon": 115.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 27.6,
+    "humidity": 86,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 2.37
+  }
+]
