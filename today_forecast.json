@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-07-21 21:00:00",
-    "temp": 28.45,
-    "temp_max": 28.45,
+    "temp": 28.6,
+    "temp_max": 28.6,
     "temp_min": 27.68,
-    "humidity": 92,
-    "feels_like": 35.45,
+    "humidity": 91,
+    "feels_like": 35.6,
     "pressure": 1008,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
