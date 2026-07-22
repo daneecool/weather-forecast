@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-22 04:32:15",
-  "temp": 35.88,
-  "temp_max": 36.16,
-  "temp_min": 35.88,
-  "humidity": 68,
-  "feels_like": 42.88,
+  "time": "2026-07-22 05:59:17",
+  "temp": 35.32,
+  "temp_max": 35.61,
+  "temp_min": 35.32,
+  "humidity": 67,
+  "feels_like": 42.32,
   "pressure": 1006,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02d",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
