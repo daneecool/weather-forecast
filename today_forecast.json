@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-07-22 21:00:00",
-    "temp": 29.03,
-    "temp_max": 29.03,
+    "temp": 29.31,
+    "temp_max": 29.31,
     "temp_min": 27.44,
     "humidity": 91,
-    "feels_like": 36.03,
+    "feels_like": 36.31,
     "pressure": 1007,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
