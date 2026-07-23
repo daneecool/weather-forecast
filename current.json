@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-23 13:00:10",
+  "time": "2026-07-23 14:10:46",
   "temp": 30.3,
   "temp_max": 31.21,
   "temp_min": 28.88,
-  "humidity": 72,
-  "feels_like": 36.31,
+  "humidity": 74,
+  "feels_like": 36.85,
   "pressure": 1010,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03n",
+  "weather_description": "broken clouds",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
