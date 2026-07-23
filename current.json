@@ -1,14 +1,14 @@
 {
-  "time": "2026-07-23 09:18:02",
-  "temp": 33.37,
-  "temp_max": 33.99,
-  "temp_min": 32.54,
-  "humidity": 67,
-  "feels_like": 40.37,
-  "pressure": 1007,
+  "time": "2026-07-23 10:16:36",
+  "temp": 31.94,
+  "temp_max": 32.32,
+  "temp_min": 31.43,
+  "humidity": 69,
+  "feels_like": 38.94,
+  "pressure": 1008,
   "weather_main": "Clear",
   "weather_description": "clear sky",
-  "weather_icon": "01d",
+  "weather_icon": "01n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
