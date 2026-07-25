@@ -1,10 +1,10 @@
 {
-  "time": "2026-07-25 18:48:25",
+  "time": "2026-07-25 19:19:18",
   "temp": 25.82,
   "temp_max": 26.21,
   "temp_min": 25.54,
-  "humidity": 89,
-  "feels_like": 26.78,
+  "humidity": 90,
+  "feels_like": 26.81,
   "pressure": 1009,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
