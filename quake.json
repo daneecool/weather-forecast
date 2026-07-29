@@ -43,6 +43,58 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260730061055",
+      "time": "2026/07/30 06:10",
+      "time_full": "2026/07/30 06:10:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "32.7",
+      "longitude": "130.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260730060828",
+      "time": "2026/07/30 06:08",
+      "time_full": "2026/07/30 06:08:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.8",
+      "depth": "10km",
+      "latitude": "32.5",
+      "longitude": "130.6",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260730060505",
+      "time": "2026/07/30 06:05",
+      "time_full": "2026/07/30 06:05:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.3",
+      "depth": "0km",
+      "latitude": "32.7",
+      "longitude": "130.7",
+      "info": "",
+      "intensity": "2"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
+      "EventID": "20260730055524",
+      "time": "2026/07/30 05:55",
+      "time_full": "2026/07/30 05:55:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.0",
+      "depth": "0km",
+      "latitude": "32.5",
+      "longitude": "130.6",
+      "info": "",
+      "intensity": "1"
+    },
+    "No5": {
+      "Title": "震源・震度情報",
       "EventID": "20260730053728",
       "time": "2026/07/30 05:37",
       "time_full": "2026/07/30 05:37:00",
@@ -51,10 +103,10 @@
       "depth": "10km",
       "latitude": "32.7",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260730053406",
       "time": "2026/07/30 05:34",
@@ -67,7 +119,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260730053211",
       "time": "2026/07/30 05:32",
@@ -80,7 +132,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260730052728",
       "time": "2026/07/30 05:27",
@@ -93,7 +145,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260730051638",
       "time": "2026/07/30 05:16",
@@ -106,7 +158,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No6": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260730050709",
       "time": "2026/07/30 05:07",
@@ -118,58 +170,6 @@
       "longitude": "130.6",
       "info": "",
       "intensity": "1"
-    },
-    "No7": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730042800",
-      "time": "2026/07/30 04:28",
-      "time_full": "2026/07/30 04:28:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.3",
-      "depth": "0km",
-      "latitude": "32.7",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730040222",
-      "time": "2026/07/30 04:02",
-      "time_full": "2026/07/30 04:02:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "3.4",
-      "depth": "10km",
-      "latitude": "32.7",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "3"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730035909",
-      "time": "2026/07/30 03:59",
-      "time_full": "2026/07/30 03:59:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "3.3",
-      "depth": "10km",
-      "latitude": "32.8",
-      "longitude": "130.8",
-      "info": "",
-      "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730033552",
-      "time": "2026/07/30 03:35",
-      "time_full": "2026/07/30 03:35:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "3.5",
-      "depth": "10km",
-      "latitude": "32.5",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "2"
     }
   }
 }

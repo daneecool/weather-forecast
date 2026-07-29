@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-07-29 21:00:00",
-    "temp": 27.29,
-    "temp_max": 27.64,
-    "temp_min": 27.29,
-    "humidity": 82,
-    "feels_like": 30.62,
-    "pressure": 1005,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 0.13,
-    "snow_mm": 0
-  }
-]
+[]
