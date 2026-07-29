@@ -1,12 +1,12 @@
 {
-  "EventID": "20260729120847",
+  "EventID": "20260729155938",
   "Serial": 5,
-  "AnnouncedTime": "2026/07/29 12:09:24",
-  "OriginTime": "2026/07/29 12:08:44",
-  "Hypocenter": "熊本県熊本地方",
-  "Latitude": 32.7,
-  "Longitude": 130.7,
-  "Magunitude": 3.6,
+  "AnnouncedTime": "2026/07/29 16:00:14",
+  "OriginTime": "2026/07/29 15:59:35",
+  "Hypocenter": "熊本県阿蘇地方",
+  "Latitude": 32.9,
+  "Longitude": 131.0,
+  "Magunitude": 3.9,
   "Depth": 10,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260729120924 C11 260729120844 ND20260729120847 NCN905 JD////////////// JN/// 741 N327 E1307 010 36 03 RK44559 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260729160014 C11 260729155935 ND20260729155938 NCN905 JD////////////// JN/// 740 N329 E1310 010 39 03 RK44559 RT00/// RC0//// 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,84 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260729161319",
+      "time": "2026/07/29 16:13",
+      "time_full": "2026/07/29 16:13:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.6",
+      "depth": "0km",
+      "latitude": "32.5",
+      "longitude": "130.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260729161139",
+      "time": "2026/07/29 16:11",
+      "time_full": "2026/07/29 16:11:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "3.4",
+      "depth": "0km",
+      "latitude": "32.5",
+      "longitude": "130.6",
+      "info": "",
+      "intensity": "2"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260729155938",
+      "time": "2026/07/29 15:59",
+      "time_full": "2026/07/29 15:59:00",
+      "location": "熊本県阿蘇地方",
+      "magnitude": "3.9",
+      "depth": "10km",
+      "latitude": "32.9",
+      "longitude": "131.0",
+      "info": "",
+      "intensity": "3"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
+      "EventID": "20260729152854",
+      "time": "2026/07/29 15:28",
+      "time_full": "2026/07/29 15:28:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.7",
+      "depth": "10km",
+      "latitude": "32.7",
+      "longitude": "130.7",
+      "info": "",
+      "intensity": "1"
+    },
+    "No5": {
+      "Title": "震源・震度情報",
+      "EventID": "20260729152447",
+      "time": "2026/07/29 15:24",
+      "time_full": "2026/07/29 15:24:00",
+      "location": "トカラ列島近海",
+      "magnitude": "3.0",
+      "depth": "80km",
+      "latitude": "28.5",
+      "longitude": "129.0",
+      "info": "",
+      "intensity": "1"
+    },
+    "No6": {
+      "Title": "震源・震度情報",
+      "EventID": "20260729150200",
+      "time": "2026/07/29 15:01",
+      "time_full": "2026/07/29 15:01:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.3",
+      "depth": "10km",
+      "latitude": "32.7",
+      "longitude": "130.8",
+      "info": "",
+      "intensity": "1"
+    },
+    "No7": {
+      "Title": "震源・震度情報",
       "EventID": "20260729145224",
       "time": "2026/07/29 14:52",
       "time_full": "2026/07/29 14:52:00",
@@ -34,10 +112,10 @@
       "depth": "10km",
       "latitude": "32.7",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260729144331",
       "time": "2026/07/29 14:43",
@@ -50,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260729142150",
       "time": "2026/07/29 14:21",
@@ -63,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260729135449",
       "time": "2026/07/29 13:54",
@@ -75,84 +153,6 @@
       "longitude": "130.6",
       "info": "",
       "intensity": "1"
-    },
-    "No5": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729133418",
-      "time": "2026/07/29 13:34",
-      "time_full": "2026/07/29 13:34:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.3",
-      "depth": "10km",
-      "latitude": "32.8",
-      "longitude": "130.8",
-      "info": "",
-      "intensity": "1"
-    },
-    "No6": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729133322",
-      "time": "2026/07/29 13:33",
-      "time_full": "2026/07/29 13:33:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.8",
-      "depth": "0km",
-      "latitude": "32.6",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No7": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729132933",
-      "time": "2026/07/29 13:29",
-      "time_full": "2026/07/29 13:29:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "2.7",
-      "depth": "10km",
-      "latitude": "32.4",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729132152",
-      "time": "2026/07/29 13:21",
-      "time_full": "2026/07/29 13:21:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "2.2",
-      "depth": "0km",
-      "latitude": "32.5",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729131709",
-      "time": "2026/07/29 13:17",
-      "time_full": "2026/07/29 13:17:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.1",
-      "depth": "10km",
-      "latitude": "32.7",
-      "longitude": "130.8",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260729131304",
-      "time": "2026/07/29 13:13",
-      "time_full": "2026/07/29 13:13:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "3.5",
-      "depth": "10km",
-      "latitude": "32.5",
-      "longitude": "130.6",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
