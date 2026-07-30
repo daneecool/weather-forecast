@@ -1,12 +1,12 @@
 {
-  "EventID": "20260730151507",
+  "EventID": "20260730202044",
   "Serial": 4,
-  "AnnouncedTime": "2026/07/30 15:15:44",
-  "OriginTime": "2026/07/30 15:15:06",
-  "Hypocenter": "鹿児島県薩摩地方",
-  "Latitude": 32.2,
-  "Longitude": 130.3,
-  "Magunitude": 3.1,
+  "AnnouncedTime": "2026/07/30 20:21:23",
+  "OriginTime": "2026/07/30 20:20:41",
+  "Hypocenter": "熊本県熊本地方",
+  "Latitude": 32.5,
+  "Longitude": 130.6,
+  "Magunitude": 3.2,
   "Depth": 10,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,7 +15,7 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260730151544 C11 260730151506 ND20260730151507 NCN904 JD////////////// JN/// 770 N322 E1303 010 31 03 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260730202123 C11 260730202041 ND20260730202044 NCN904 JD////////////// JN/// 741 N325 E1306 010 32 03 RK44209 RT00/// RC0//// 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
@@ -26,6 +26,32 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260730202044",
+      "time": "2026/07/30 20:20",
+      "time_full": "2026/07/30 20:20:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "3.4",
+      "depth": "10km",
+      "latitude": "32.5",
+      "longitude": "130.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260730201712",
+      "time": "2026/07/30 20:17",
+      "time_full": "2026/07/30 20:17:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "3.4",
+      "depth": "10km",
+      "latitude": "32.5",
+      "longitude": "130.5",
+      "info": "",
+      "intensity": "2"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
       "EventID": "20260730193716",
       "time": "2026/07/30 19:37",
       "time_full": "2026/07/30 19:37:00",
@@ -34,10 +60,10 @@
       "depth": "0km",
       "latitude": "32.6",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260730193400",
       "time": "2026/07/30 19:33",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260730185737",
       "time": "2026/07/30 18:57",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260730173653",
       "time": "2026/07/30 17:33",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260730172910",
       "time": "2026/07/30 17:29",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260730164714",
       "time": "2026/07/30 16:47",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260730162156",
       "time": "2026/07/30 16:21",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260730155619",
       "time": "2026/07/30 15:56",
@@ -127,32 +153,6 @@
       "longitude": "130.7",
       "info": "",
       "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730151507",
-      "time": "2026/07/30 15:15",
-      "time_full": "2026/07/30 15:15:00",
-      "location": "鹿児島県薩摩地方",
-      "magnitude": "3.0",
-      "depth": "10km",
-      "latitude": "32.2",
-      "longitude": "130.3",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260730135103",
-      "time": "2026/07/30 13:50",
-      "time_full": "2026/07/30 13:50:00",
-      "location": "岩手県沖",
-      "magnitude": "3.6",
-      "depth": "50km",
-      "latitude": "39.3",
-      "longitude": "142.1",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
