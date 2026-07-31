@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-07-31 21:00:00",
-    "temp": 27.62,
-    "temp_max": 27.62,
-    "temp_min": 27.05,
-    "humidity": 92,
-    "feels_like": 32.87,
-    "pressure": 1003,
-    "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
-    "weather_icon": "04d",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
