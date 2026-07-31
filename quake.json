@@ -1,12 +1,12 @@
 {
-  "EventID": "20260731124000",
-  "Serial": 4,
-  "AnnouncedTime": "2026/07/31 12:40:37",
-  "OriginTime": "2026/07/31 12:39:56",
+  "EventID": "20260731152845",
+  "Serial": 5,
+  "AnnouncedTime": "2026/07/31 15:29:18",
+  "OriginTime": "2026/07/31 15:28:42",
   "Hypocenter": "熊本県熊本地方",
-  "Latitude": 32.5,
-  "Longitude": 130.6,
-  "Magunitude": 3.2,
+  "Latitude": 32.6,
+  "Longitude": 130.7,
+  "Magunitude": 3.7,
   "Depth": 10,
   "MaxIntensity": "3",
   "isSea": false,
@@ -15,16 +15,55 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260731124037 C11 260731123956 ND20260731124000 NCN904 JD////////////// JN/// 741 N325 E1306 010 32 03 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 04 00 260731152918 C11 260731152842 ND20260731152845 NCN905 JD////////////// JN/// 741 N326 E1307 010 37 03 RK44519 RT00/// RC0//// 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260731153207",
+      "time": "2026/07/31 15:32",
+      "time_full": "2026/07/31 15:32:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.6",
+      "depth": "10km",
+      "latitude": "32.7",
+      "longitude": "130.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260731152845",
+      "time": "2026/07/31 15:28",
+      "time_full": "2026/07/31 15:28:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "3.7",
+      "depth": "10km",
+      "latitude": "32.6",
+      "longitude": "130.7",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260731150100",
+      "time": "2026/07/31 15:00",
+      "time_full": "2026/07/31 15:00:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "2.4",
+      "depth": "10km",
+      "latitude": "32.3",
+      "longitude": "130.5",
+      "info": "",
+      "intensity": "1"
+    },
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260731144450",
       "time": "2026/07/31 14:44",
@@ -34,10 +73,10 @@
       "depth": "0km",
       "latitude": "32.6",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260731140029",
       "time": "2026/07/31 14:00",
@@ -50,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260731130717",
       "time": "2026/07/31 13:07",
@@ -63,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260731125719",
       "time": "2026/07/31 12:57",
@@ -76,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260731124000",
       "time": "2026/07/31 12:39",
@@ -89,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260731120600",
       "time": "2026/07/31 12:05",
@@ -102,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260731114043",
       "time": "2026/07/31 11:40",
@@ -114,45 +153,6 @@
       "longitude": "140.0",
       "info": "",
       "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260731110858",
-      "time": "2026/07/31 11:08",
-      "time_full": "2026/07/31 11:08:00",
-      "location": "長野県南部",
-      "magnitude": "2.2",
-      "depth": "0km",
-      "latitude": "35.9",
-      "longitude": "137.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260731075033",
-      "time": "2026/07/31 07:50",
-      "time_full": "2026/07/31 07:50:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "3.3",
-      "depth": "10km",
-      "latitude": "32.6",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260731071714",
-      "time": "2026/07/31 07:17",
-      "time_full": "2026/07/31 07:17:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "2.9",
-      "depth": "10km",
-      "latitude": "32.4",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
