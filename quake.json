@@ -59,6 +59,58 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260801130027",
+      "time": "2026/08/01 13:00",
+      "time_full": "2026/08/01 13:00:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "32.8",
+      "longitude": "130.8",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20260801125421",
+      "time": "2026/08/01 12:54",
+      "time_full": "2026/08/01 12:54:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "32.4",
+      "longitude": "130.5",
+      "info": "",
+      "intensity": "1"
+    },
+    "No3": {
+      "Title": "震源・震度情報",
+      "EventID": "20260801125127",
+      "time": "2026/08/01 12:51",
+      "time_full": "2026/08/01 12:51:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "3.1",
+      "depth": "10km",
+      "latitude": "32.5",
+      "longitude": "130.5",
+      "info": "",
+      "intensity": "1"
+    },
+    "No4": {
+      "Title": "震源・震度情報",
+      "EventID": "20260801125012",
+      "time": "2026/08/01 12:50",
+      "time_full": "2026/08/01 12:50:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "2.9",
+      "depth": "20km",
+      "latitude": "32.5",
+      "longitude": "130.5",
+      "info": "",
+      "intensity": "1"
+    },
+    "No5": {
+      "Title": "震源・震度情報",
       "EventID": "20260801115228",
       "time": "2026/08/01 11:52",
       "time_full": "2026/08/01 11:52:00",
@@ -67,10 +119,10 @@
       "depth": "0km",
       "latitude": "32.5",
       "longitude": "130.6",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260801114813",
       "time": "2026/08/01 11:48",
@@ -83,7 +135,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No3": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260801100004",
       "time": "2026/08/01 10:00",
@@ -96,7 +148,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260801093255",
       "time": "2026/08/01 09:32",
@@ -109,7 +161,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260801085126",
       "time": "2026/08/01 08:51",
@@ -122,7 +174,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260801083814",
       "time": "2026/08/01 08:38",
@@ -134,58 +186,6 @@
       "longitude": "137.4",
       "info": "",
       "intensity": "2"
-    },
-    "No7": {
-      "Title": "震源・震度情報",
-      "EventID": "20260801075124",
-      "time": "2026/08/01 07:51",
-      "time_full": "2026/08/01 07:51:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.8",
-      "depth": "10km",
-      "latitude": "32.6",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "1"
-    },
-    "No8": {
-      "Title": "震源・震度情報",
-      "EventID": "20260801064823",
-      "time": "2026/08/01 06:48",
-      "time_full": "2026/08/01 06:48:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "3.0",
-      "depth": "10km",
-      "latitude": "32.5",
-      "longitude": "130.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20260801064215",
-      "time": "2026/08/01 06:42",
-      "time_full": "2026/08/01 06:42:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.6",
-      "depth": "10km",
-      "latitude": "32.5",
-      "longitude": "130.6",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260801062520",
-      "time": "2026/08/01 06:25",
-      "time_full": "2026/08/01 06:25:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.1",
-      "depth": "10km",
-      "latitude": "32.7",
-      "longitude": "130.8",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
