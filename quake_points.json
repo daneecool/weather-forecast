@@ -2,6 +2,48 @@
   {
     "No": "No1",
     "Title": "震源・震度情報",
+    "EventID": "20260801221302",
+    "time": "2026/08/01 22:12",
+    "time_full": "2026/08/01 22:12:00",
+    "location": "熊本県天草・芦北地方",
+    "magnitude": "3.2",
+    "depth": "0km",
+    "latitude": "32.4",
+    "longitude": "130.5",
+    "info": "この地震による津波の心配はありません。",
+    "intensity": "2"
+  },
+  {
+    "No": "No2",
+    "Title": "震源・震度情報",
+    "EventID": "20260801220340",
+    "time": "2026/08/01 22:03",
+    "time_full": "2026/08/01 22:03:00",
+    "location": "熊本県天草・芦北地方",
+    "magnitude": "2.3",
+    "depth": "0km",
+    "latitude": "32.3",
+    "longitude": "130.5",
+    "info": "",
+    "intensity": "1"
+  },
+  {
+    "No": "No3",
+    "Title": "震源・震度情報",
+    "EventID": "20260801214725",
+    "time": "2026/08/01 21:47",
+    "time_full": "2026/08/01 21:47:00",
+    "location": "熊本県熊本地方",
+    "magnitude": "4.7",
+    "depth": "10km",
+    "latitude": "32.7",
+    "longitude": "130.7",
+    "info": "",
+    "intensity": "5-"
+  },
+  {
+    "No": "No4",
+    "Title": "震源・震度情報",
     "EventID": "20260801213607",
     "time": "2026/08/01 21:36",
     "time_full": "2026/08/01 21:36:00",
@@ -10,11 +52,11 @@
     "depth": "10km",
     "latitude": "34.2",
     "longitude": "139.2",
-    "info": "この地震による津波の心配はありません。",
+    "info": "",
     "intensity": "1"
   },
   {
-    "No": "No2",
+    "No": "No5",
     "Title": "震源・震度情報",
     "EventID": "20260801210129",
     "time": "2026/08/01 21:01",
@@ -28,7 +70,7 @@
     "intensity": "2"
   },
   {
-    "No": "No3",
+    "No": "No6",
     "Title": "震源・震度情報",
     "EventID": "20260801184125",
     "time": "2026/08/01 18:41",
@@ -42,7 +84,7 @@
     "intensity": "3"
   },
   {
-    "No": "No4",
+    "No": "No7",
     "Title": "震源・震度情報",
     "EventID": "20260801182202",
     "time": "2026/08/01 18:21",
@@ -56,7 +98,7 @@
     "intensity": "1"
   },
   {
-    "No": "No5",
+    "No": "No8",
     "Title": "震源・震度情報",
     "EventID": "20260801175144",
     "time": "2026/08/01 17:51",
@@ -70,7 +112,7 @@
     "intensity": "1"
   },
   {
-    "No": "No6",
+    "No": "No9",
     "Title": "震源・震度情報",
     "EventID": "20260801164900",
     "time": "2026/08/01 16:48",
@@ -84,7 +126,7 @@
     "intensity": "2"
   },
   {
-    "No": "No7",
+    "No": "No10",
     "Title": "震源・震度情報",
     "EventID": "20260801145801",
     "time": "2026/08/01 14:57",
@@ -96,47 +138,5 @@
     "longitude": "130.7",
     "info": "",
     "intensity": "2"
-  },
-  {
-    "No": "No8",
-    "Title": "震源・震度情報",
-    "EventID": "20260801130027",
-    "time": "2026/08/01 13:00",
-    "time_full": "2026/08/01 13:00:00",
-    "location": "熊本県熊本地方",
-    "magnitude": "3.0",
-    "depth": "10km",
-    "latitude": "32.8",
-    "longitude": "130.8",
-    "info": "",
-    "intensity": "2"
-  },
-  {
-    "No": "No9",
-    "Title": "震源・震度情報",
-    "EventID": "20260801125421",
-    "time": "2026/08/01 12:54",
-    "time_full": "2026/08/01 12:54:00",
-    "location": "熊本県天草・芦北地方",
-    "magnitude": "3.0",
-    "depth": "10km",
-    "latitude": "32.4",
-    "longitude": "130.5",
-    "info": "",
-    "intensity": "1"
-  },
-  {
-    "No": "No10",
-    "Title": "震源・震度情報",
-    "EventID": "20260801125127",
-    "time": "2026/08/01 12:51",
-    "time_full": "2026/08/01 12:51:00",
-    "location": "熊本県天草・芦北地方",
-    "magnitude": "3.1",
-    "depth": "10km",
-    "latitude": "32.5",
-    "longitude": "130.5",
-    "info": "",
-    "intensity": "1"
   }
 ]
