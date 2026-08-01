@@ -1,47 +1,43 @@
 {
-  "EventID": "20260801214725",
-  "Serial": 8,
-  "AnnouncedTime": "2026/08/01 21:48:13",
-  "OriginTime": "2026/08/01 21:47:23",
-  "Hypocenter": "熊本県熊本地方",
-  "Latitude": 32.7,
-  "Longitude": 130.8,
-  "Magunitude": 4.6,
+  "EventID": "20260802002256",
+  "Serial": 7,
+  "AnnouncedTime": "2026/08/02 00:23:29",
+  "OriginTime": "2026/08/02 00:22:54",
+  "Hypocenter": "西表島付近",
+  "Latitude": 24.1,
+  "Longitude": 123.7,
+  "Magunitude": 3.6,
   "Depth": 10,
-  "MaxIntensity": "4",
-  "isSea": false,
+  "MaxIntensity": "2",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260801214813 C11 260801214723 ND20260801214725 NCN908 JD////////////// JN/// 741 N327 E1308 010 46 04 RK44559 RT00/// RC0//// EBI 741 S0404 ////// 01 743 S0404 214728 09 9999=",
+  "OriginalText": "37 03 00 260802002329 C11 260802002254 ND20260802002256 NCN907 JD////////////// JN/// 856 N241 E1237 010 36 02 RK44519 RT10/// RC0//// 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [
-    {
-      "Chiiki": "熊本県熊本",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "//////",
-      "Type": "予報",
-      "Arrive": "既に到達と予測"
-    },
-    {
-      "Chiiki": "熊本県天草・芦北",
-      "Shindo1": "4",
-      "Shindo2": "4",
-      "Time": "214728",
-      "Type": "予報",
-      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
-    }
-  ],
+  "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260801235004",
+      "time": "2026/08/01 23:50",
+      "time_full": "2026/08/01 23:50:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "2.7",
+      "depth": "10km",
+      "latitude": "32.6",
+      "longitude": "130.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260801225901",
       "time": "2026/08/01 22:59",
@@ -51,10 +47,10 @@
       "depth": "10km",
       "latitude": "32.7",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260801225607",
       "time": "2026/08/01 22:56",
@@ -67,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260801223949",
       "time": "2026/08/01 22:39",
@@ -80,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260801221302",
       "time": "2026/08/01 22:12",
@@ -93,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260801220340",
       "time": "2026/08/01 22:03",
@@ -106,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260801214725",
       "time": "2026/08/01 21:47",
@@ -119,7 +115,7 @@
       "info": "",
       "intensity": "5-"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260801213607",
       "time": "2026/08/01 21:36",
@@ -132,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260801210129",
       "time": "2026/08/01 21:01",
@@ -145,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260801184125",
       "time": "2026/08/01 18:41",
@@ -157,19 +153,6 @@
       "longitude": "130.5",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260801182202",
-      "time": "2026/08/01 18:21",
-      "time_full": "2026/08/01 18:21:00",
-      "location": "千葉県南東沖",
-      "magnitude": "3.3",
-      "depth": "20km",
-      "latitude": "35.1",
-      "longitude": "140.2",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
