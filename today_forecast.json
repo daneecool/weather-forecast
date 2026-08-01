@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-08-01 21:00:00",
-    "temp": 28.64,
-    "temp_max": 28.64,
+    "temp": 28.81,
+    "temp_max": 28.81,
     "temp_min": 28.31,
-    "humidity": 83,
-    "feels_like": 34.35,
-    "pressure": 1003,
+    "humidity": 88,
+    "feels_like": 35.81,
+    "pressure": 1004,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04d",
