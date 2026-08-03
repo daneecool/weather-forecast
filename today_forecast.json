@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-03 21:00:00",
-    "temp": 23.68,
-    "temp_max": 23.68,
-    "temp_min": 23.63,
-    "humidity": 80,
-    "feels_like": 24.19,
+    "temp": 23.56,
+    "temp_max": 23.56,
+    "temp_min": 23.54,
+    "humidity": 81,
+    "feels_like": 24.09,
     "pressure": 1014,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
