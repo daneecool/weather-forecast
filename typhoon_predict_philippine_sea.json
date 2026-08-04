@@ -180,21 +180,6 @@
     "rain_mm": 0.52
   },
   {
-    "time": "2026-08-04 21:00:00",
-    "wind_speed": 16.82,
-    "wind_gust": 20.09,
-    "pressure": 993,
-    "lat": 25.0,
-    "lon": 135.0,
-    "region": "Philippine Sea",
-    "in_japan": true,
-    "temp": 29.49,
-    "humidity": 85,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 0.74
-  },
-  {
     "time": "2026-08-05 00:00:00",
     "wind_speed": 19.41,
     "wind_gust": 23.82,
