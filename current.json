@@ -1,14 +1,14 @@
 {
-  "time": "2026-08-05 05:56:08",
-  "temp": 32.78,
-  "temp_max": 33.43,
+  "time": "2026-08-05 06:58:45",
+  "temp": 32.17,
+  "temp_max": 32.32,
   "temp_min": 29.99,
-  "humidity": 64,
-  "feels_like": 39.78,
+  "humidity": 66,
+  "feels_like": 39.17,
   "pressure": 1009,
-  "weather_main": "Clear",
-  "weather_description": "clear sky",
-  "weather_icon": "01d",
+  "weather_main": "Clouds",
+  "weather_description": "broken clouds",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
