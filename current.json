@@ -1,11 +1,11 @@
 {
-  "time": "2026-08-08 04:47:40",
+  "time": "2026-08-08 05:16:07",
   "temp": 33.65,
   "temp_max": 33.65,
   "temp_min": 33.65,
   "humidity": 55,
   "feels_like": 39.33,
-  "pressure": 1006,
+  "pressure": 1005,
   "weather_main": "Clear",
   "weather_description": "clear sky",
   "weather_icon": "01d",
