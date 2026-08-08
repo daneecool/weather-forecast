@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-08 21:00:00",
-    "temp": 26.36,
-    "temp_max": 26.57,
-    "temp_min": 26.36,
+    "temp": 26.06,
+    "temp_max": 26.13,
+    "temp_min": 26.06,
     "humidity": 88,
-    "feels_like": 26.36,
+    "feels_like": 26.06,
     "pressure": 1007,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
