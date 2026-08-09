@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-10 00:00:00",
-    "temp": 27.06,
-    "temp_max": 29.63,
-    "temp_min": 27.06,
+    "temp": 27.1,
+    "temp_max": 29.75,
+    "temp_min": 27.1,
     "humidity": 81,
-    "feels_like": 29.97,
+    "feels_like": 30.06,
     "pressure": 1008,
     "rain_mm": 0
   },
