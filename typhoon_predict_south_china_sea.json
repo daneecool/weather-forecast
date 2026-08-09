@@ -8,8 +8,8 @@
     "lon": 120.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 29.58,
-    "humidity": 81,
+    "temp": 29.35,
+    "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.34
@@ -23,8 +23,8 @@
     "lon": 120.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 29.57,
-    "humidity": 80,
+    "temp": 29.45,
+    "humidity": 81,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.44
