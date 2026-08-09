@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-08-09 15:00:00",
-    "wind_speed": 10.38,
-    "wind_gust": 13.34,
-    "pressure": 993,
-    "lat": 22.0,
-    "lon": 120.0,
-    "region": "South China Sea",
-    "in_japan": false,
-    "temp": 29.64,
-    "humidity": 79,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.34
-  },
-  {
     "time": "2026-08-09 18:00:00",
     "wind_speed": 9.51,
     "wind_gust": 12.47,
