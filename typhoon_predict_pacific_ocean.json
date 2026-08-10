@@ -1,17 +1,1 @@
-[
-  {
-    "time": "2026-08-10 12:00:00",
-    "wind_speed": 17.78,
-    "wind_gust": 21.31,
-    "pressure": 994,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 26.66,
-    "humidity": 87,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.31
-  }
-]
+[]
