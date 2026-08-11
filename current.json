@@ -1,14 +1,14 @@
 {
-  "time": "2026-08-11 12:17:52",
-  "temp": 23.88,
-  "temp_max": 25.58,
-  "temp_min": 22.76,
-  "humidity": 88,
-  "feels_like": 24.62,
-  "pressure": 993,
+  "time": "2026-08-11 12:46:04",
+  "temp": 23.35,
+  "temp_max": 25.02,
+  "temp_min": 22.2,
+  "humidity": 89,
+  "feels_like": 24.06,
+  "pressure": 992,
   "weather_main": "Rain",
   "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 3.45,
+  "rain_1h_mm": 2.3,
   "snow_1h_mm": 0
 }
