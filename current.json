@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-12 19:51:08",
+  "time": "2026-08-12 20:14:38",
   "temp": 24.72,
   "temp_max": 25.02,
   "temp_min": 24.21,
@@ -8,7 +8,7 @@
   "pressure": 1007,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04n",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
