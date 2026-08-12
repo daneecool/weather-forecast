@@ -1,10 +1,10 @@
 {
-  "time": "2026-08-12 16:45:40",
-  "temp": 24.73,
+  "time": "2026-08-12 17:20:12",
+  "temp": 24.67,
   "temp_max": 25.02,
   "temp_min": 24.42,
   "humidity": 94,
-  "feels_like": 25.71,
+  "feels_like": 25.65,
   "pressure": 1007,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
