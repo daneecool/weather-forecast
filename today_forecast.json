@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-13 21:00:00",
-    "temp": 22.84,
-    "temp_max": 23.49,
-    "temp_min": 22.84,
-    "humidity": 95,
-    "feels_like": 23.66,
+    "temp": 22.44,
+    "temp_max": 23.52,
+    "temp_min": 22.44,
+    "humidity": 93,
+    "feels_like": 23.17,
     "pressure": 1008,
     "weather_main": "Rain",
     "weather_description": "light rain",
