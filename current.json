@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-13 10:48:45",
+  "time": "2026-08-13 11:17:39",
   "temp": 23.87,
   "temp_max": 24.47,
   "temp_min": 23.65,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "heavy intensity rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 8.42,
+  "rain_1h_mm": 6.48,
   "snow_1h_mm": 0
 }
