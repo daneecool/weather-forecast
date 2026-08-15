@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-15 21:00:00",
-    "temp": 24.21,
-    "temp_max": 24.66,
-    "temp_min": 24.21,
-    "humidity": 87,
-    "feels_like": 24.96,
+    "temp": 24.06,
+    "temp_max": 24.43,
+    "temp_min": 24.06,
+    "humidity": 88,
+    "feels_like": 24.82,
     "pressure": 1012,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
