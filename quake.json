@@ -1,13 +1,13 @@
 {
-  "EventID": "20260818124255",
-  "Serial": 4,
-  "AnnouncedTime": "2026/08/18 12:43:32",
-  "OriginTime": "2026/08/18 12:42:51",
-  "Hypocenter": "熊本県熊本地方",
+  "EventID": "20260818150559",
+  "Serial": 7,
+  "AnnouncedTime": "2026/08/18 15:07:28",
+  "OriginTime": "2026/08/18 15:05:56",
+  "Hypocenter": "熊本県天草・芦北地方",
   "Latitude": 32.5,
-  "Longitude": 130.6,
-  "Magunitude": 3.5,
-  "Depth": 20,
+  "Longitude": 130.5,
+  "Magunitude": 3.7,
+  "Depth": 10,
   "MaxIntensity": "3",
   "isSea": false,
   "isTraining": false,
@@ -15,16 +15,29 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260818124332 C11 260818124251 ND20260818124255 NCN904 JD////////////// JN/// 741 N325 E1306 020 35 03 RK44209 RT00/// RC0//// 9999=",
-  "Pond": "195",
+  "OriginalText": "37 03 00 260818150728 C11 260818150556 ND20260818150559 NCN907 JD////////////// JN/// 743 N325 E1305 010 37 03 RK44559 RT00/// RC0//// 9999=",
+  "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260818150559",
+      "time": "2026/08/18 15:05",
+      "time_full": "2026/08/18 15:05:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "4.0",
+      "depth": "10km",
+      "latitude": "32.5",
+      "longitude": "130.5",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260818124255",
       "time": "2026/08/18 12:42",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "32.5",
       "longitude": "130.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260818095430",
       "time": "2026/08/18 09:54",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260818082131",
       "time": "2026/08/18 08:21",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260818054618",
       "time": "2026/08/18 05:46",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260818052246",
       "time": "2026/08/18 05:22",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260818043213",
       "time": "2026/08/18 04:32",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260817230907",
       "time": "2026/08/17 23:09",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260817223317",
       "time": "2026/08/17 22:33",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260817210710",
       "time": "2026/08/17 21:07",
@@ -138,19 +151,6 @@
       "depth": "60km",
       "latitude": "40.9",
       "longitude": "142.1",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260817193654",
-      "time": "2026/08/17 19:36",
-      "time_full": "2026/08/17 19:36:00",
-      "location": "天草灘",
-      "magnitude": "3.2",
-      "depth": "10km",
-      "latitude": "32.0",
-      "longitude": "130.0",
       "info": "",
       "intensity": "1"
     }
