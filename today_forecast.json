@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-08-19 21:00:00",
-    "temp": 25.77,
-    "temp_max": 25.99,
-    "temp_min": 25.77,
-    "humidity": 88,
-    "feels_like": 26.7,
+    "temp": 25.82,
+    "temp_max": 25.82,
+    "temp_min": 25.81,
+    "humidity": 89,
+    "feels_like": 26.78,
     "pressure": 1015,
     "weather_main": "Clouds",
     "weather_description": "few clouds",
