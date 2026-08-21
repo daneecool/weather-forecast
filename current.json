@@ -1,14 +1,14 @@
 {
-  "time": "2026-08-21 16:07:54",
-  "temp": 26.56,
+  "time": "2026-08-21 16:44:06",
+  "temp": 26.45,
   "temp_max": 27.25,
   "temp_min": 25.32,
   "humidity": 92,
-  "feels_like": 26.56,
+  "feels_like": 26.45,
   "pressure": 1012,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02n",
+  "weather_description": "scattered clouds",
+  "weather_icon": "03n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
