@@ -2,7 +2,7 @@
   {
     "time": "2026-08-22 15:00:00",
     "temp": 24.84,
-    "temp_max": 25.53,
+    "temp_max": 25.55,
     "temp_min": 24.84,
     "humidity": 94,
     "feels_like": 25.83,
@@ -12,7 +12,7 @@
   {
     "time": "2026-08-22 18:00:00",
     "temp": 24.94,
-    "temp_max": 25.14,
+    "temp_max": 25.15,
     "temp_min": 24.94,
     "humidity": 92,
     "feels_like": 25.89,
