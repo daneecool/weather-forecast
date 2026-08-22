@@ -1,30 +1,244 @@
 {
-  "EventID": "20260822113559",
-  "Serial": 3,
-  "AnnouncedTime": "2026/08/22 11:36:42",
-  "OriginTime": "2026/08/22 11:35:44",
-  "Hypocenter": "十勝地方南部",
-  "Latitude": 42.4,
-  "Longitude": 143.0,
-  "Magunitude": 3.8,
-  "Depth": 110,
-  "MaxIntensity": "2",
+  "EventID": "20260823020050",
+  "Serial": 25,
+  "AnnouncedTime": "2026/08/23 02:02:48",
+  "OriginTime": "2026/08/23 02:00:39",
+  "Hypocenter": "茨城県南部",
+  "Latitude": 36.0,
+  "Longitude": 140.1,
+  "Magunitude": 6.4,
+  "Depth": 80,
+  "MaxIntensity": "5弱",
   "isSea": false,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260822113642 C11 260822113544 ND20260822113559 NCN903 JD////////////// JN/// 157 N424 E1430 110 38 02 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 03 00 260823020248 C11 260823020039 ND20260823020050 NCN925 JD////////////// JN/// 301 N360 E1401 080 64 5- RK44559 RT01/// RC0//// EBI 341 S5-5- ////// 11 301 S5-5- ////// 11 331 S5-5- ////// 11 300 S5-5- ////// 11 330 S5-5- ////// 11 350 S5-04 ////// 11 311 S5-5- 020104 19 340 S0404 ////// 11 351 S0404 ////// 11 321 S0404 ////// 11 360 S0404 ////// 11 352 S0404 ////// 11 332 S0404 ////// 11 361 S0404 ////// 11 342 S0404 ////// 11 310 S0404 ////// 11 320 S0404 ////// 11 250 S0404 ////// 11 412 S0404 ////// 11 421 S0404 ////// 11 411 S0404 ////// 11 441 S0404 ////// 11 251 S0404 ////// 11 371 S0404 ////// 11 440 S0403 ////// 11 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "千葉県北西部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "茨城県南部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "埼玉県南部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "茨城県北部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "埼玉県北部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "東京都２３区",
+      "Shindo1": "5弱",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "栃木県南部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "020104",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "千葉県北東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "東京都多摩東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "群馬県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "神奈川県東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "東京都多摩西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "埼玉県秩父",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "神奈川県西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "千葉県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "栃木県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "群馬県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "福島県中通り",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "山梨県東部・富士五湖",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "長野県中部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "山梨県中・西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "静岡県東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "福島県浜通り",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "新潟県中越",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "静岡県伊豆",
+      "Shindo1": "4",
+      "Shindo2": "3",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震度速報",
+      "EventID": "20260823020050",
+      "time": "2026/08/23 02:00",
+      "time_full": "2026/08/23 02:00:00",
+      "location": "茨城県南部",
+      "magnitude": "5.9",
+      "depth": "70km",
+      "latitude": "36.0",
+      "longitude": "140.1",
+      "info": "今後の情報に注意してください。",
+      "intensity": "5-"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260822224620",
       "time": "2026/08/22 22:46",
@@ -34,10 +248,10 @@
       "depth": "50km",
       "latitude": "43.0",
       "longitude": "145.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260822193028",
       "time": "2026/08/22 19:30",
@@ -50,7 +264,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260822183723",
       "time": "2026/08/22 18:37",
@@ -63,7 +277,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260822183216",
       "time": "2026/08/22 18:31",
@@ -76,7 +290,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260822173741",
       "time": "2026/08/22 17:37",
@@ -89,7 +303,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260822113559",
       "time": "2026/08/22 11:35",
@@ -102,7 +316,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260821233249",
       "time": "2026/08/21 23:32",
@@ -115,7 +329,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260821232757",
       "time": "2026/08/21 23:27",
@@ -128,7 +342,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260821210216",
       "time": "2026/08/21 21:02",
@@ -140,19 +354,6 @@
       "longitude": "140.5",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260821091118",
-      "time": "2026/08/21 09:11",
-      "time_full": "2026/08/21 09:11:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "2.2",
-      "depth": "0km",
-      "latitude": "32.6",
-      "longitude": "130.7",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
