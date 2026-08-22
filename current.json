@@ -1,10 +1,10 @@
 {
-  "time": "2026-08-22 17:05:23",
-  "temp": 25,
+  "time": "2026-08-22 17:37:10",
+  "temp": 25.13,
   "temp_max": 25.98,
   "temp_min": 24.21,
   "humidity": 94,
-  "feels_like": 26.01,
+  "feels_like": 26.15,
   "pressure": 1015,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
