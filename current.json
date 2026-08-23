@@ -1,9 +1,9 @@
 {
-  "time": "2026-08-23 03:46:04",
-  "temp": 29.72,
+  "time": "2026-08-23 04:14:21",
+  "temp": 29.91,
   "temp_max": 30.73,
-  "temp_min": 29.14,
-  "humidity": 73,
+  "temp_min": 29.76,
+  "humidity": 71,
   "feels_like": 35.06,
   "pressure": 1015,
   "weather_main": "Clouds",
