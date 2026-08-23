@@ -28,5 +28,20 @@
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "rain_mm": 18.09
+  },
+  {
+    "time": "2026-08-28 09:00:00",
+    "wind_speed": 21,
+    "wind_gust": 24.44,
+    "pressure": 990,
+    "lat": 22.0,
+    "lon": 120.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 26.44,
+    "humidity": 93,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 14.28
   }
 ]
