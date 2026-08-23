@@ -1,10 +1,10 @@
 {
-  "time": "2026-08-23 14:06:05",
-  "temp": 27.3,
+  "time": "2026-08-23 14:38:48",
+  "temp": 27.16,
   "temp_max": 27.88,
   "temp_min": 26.58,
   "humidity": 89,
-  "feels_like": 31.48,
+  "feels_like": 31.08,
   "pressure": 1015,
   "weather_main": "Clear",
   "weather_description": "clear sky",
