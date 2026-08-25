@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-08-25 09:00:00",
-    "temp": 32.94,
-    "temp_max": 33.01,
-    "temp_min": 32.94,
+    "temp": 32.77,
+    "temp_max": 33.05,
+    "temp_min": 32.77,
     "humidity": 68,
-    "feels_like": 39.94,
+    "feels_like": 39.77,
     "pressure": 1008,
     "rain_mm": 0
   },
   {
     "time": "2026-08-25 12:00:00",
-    "temp": 31.19,
-    "temp_max": 31.19,
-    "temp_min": 30.33,
-    "humidity": 73,
-    "feels_like": 38.19,
+    "temp": 31.43,
+    "temp_max": 31.43,
+    "temp_min": 30.83,
+    "humidity": 71,
+    "feels_like": 38.43,
     "pressure": 1009,
     "rain_mm": 0
   },
