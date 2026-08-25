@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "time": "2026-08-29 18:00:00",
+    "wind_speed": 16.54,
+    "wind_gust": 18.5,
+    "pressure": 995,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 26.85,
+    "humidity": 94,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 44.13
+  },
+  {
+    "time": "2026-08-29 21:00:00",
+    "wind_speed": 14.63,
+    "wind_gust": 16.28,
+    "pressure": 995,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.59,
+    "humidity": 80,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 5.03
+  },
+  {
+    "time": "2026-08-30 06:00:00",
+    "wind_speed": 18.64,
+    "wind_gust": 23.25,
+    "pressure": 995,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.11,
+    "humidity": 85,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.59
+  },
+  {
+    "time": "2026-08-30 18:00:00",
+    "wind_speed": 16.54,
+    "wind_gust": 19.92,
+    "pressure": 994,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.17,
+    "humidity": 89,
+    "weather_main": "Rain",
+    "weather_description": "moderate rain",
+    "rain_mm": 3.09
+  }
+]
