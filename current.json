@@ -1,5 +1,5 @@
 {
-  "time": "2026-08-25 17:38:56",
+  "time": "2026-08-25 18:09:29",
   "temp": 28.75,
   "temp_max": 28.99,
   "temp_min": 28.1,
@@ -7,8 +7,8 @@
   "feels_like": 35.1,
   "pressure": 1009,
   "weather_main": "Clouds",
-  "weather_description": "scattered clouds",
-  "weather_icon": "03n",
+  "weather_description": "few clouds",
+  "weather_icon": "02n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
