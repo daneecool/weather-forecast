@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-08-26 21:00:00",
-    "temp": 28.64,
-    "temp_max": 28.64,
-    "temp_min": 28.45,
-    "humidity": 82,
-    "feels_like": 34.15,
-    "pressure": 1008,
+    "temp": 28.09,
+    "temp_max": 28.27,
+    "temp_min": 28.09,
+    "humidity": 83,
+    "feels_like": 32.81,
+    "pressure": 1009,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10d",
