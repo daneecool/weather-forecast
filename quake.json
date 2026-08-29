@@ -1,30 +1,52 @@
 {
-  "EventID": "20260829224339",
-  "Serial": 4,
-  "AnnouncedTime": "2026/08/29 22:44:17",
-  "OriginTime": "2026/08/29 22:43:36",
-  "Hypocenter": "熊本県天草・芦北地方",
-  "Latitude": 32.5,
-  "Longitude": 130.5,
-  "Magunitude": 3.5,
-  "Depth": 10,
-  "MaxIntensity": "3",
-  "isSea": false,
+  "EventID": "20260830001711",
+  "Serial": 12,
+  "AnnouncedTime": "2026/08/30 00:17:57",
+  "OriginTime": "2026/08/30 00:17:05",
+  "Hypocenter": "千葉県東方沖",
+  "Latitude": 35.8,
+  "Longitude": 140.9,
+  "Magunitude": 4.9,
+  "Depth": 40,
+  "MaxIntensity": "4",
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 260829224417 C11 260829224336 ND20260829224339 NCN904 JD////////////// JN/// 743 N325 E1305 010 35 03 RK44209 RT00/// RC0//// 9999=",
+  "OriginalText": "37 03 00 260830001757 C11 260830001705 ND20260830001711 NCN912 JD////////////// JN/// 473 N358 E1409 040 49 04 RK44559 RT10/// RC0//// EBI 340 S0404 001717 09 9999=",
   "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "千葉県北東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "001717",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260830001711",
+      "time": "2026/08/30 00:17",
+      "time_full": "2026/08/30 00:17:00",
+      "location": "千葉県東方沖",
+      "magnitude": "4.8",
+      "depth": "30km",
+      "latitude": "35.8",
+      "longitude": "140.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "4"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260829235528",
       "time": "2026/08/29 23:55",
@@ -34,10 +56,10 @@
       "depth": "50km",
       "latitude": "35.8",
       "longitude": "140.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260829224339",
       "time": "2026/08/29 22:43",
@@ -50,7 +72,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260829184851",
       "time": "2026/08/29 18:48",
@@ -63,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260829135933",
       "time": "2026/08/29 13:59",
@@ -76,7 +98,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260829081458",
       "time": "2026/08/29 08:14",
@@ -89,7 +111,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260829081037",
       "time": "2026/08/29 08:10",
@@ -102,7 +124,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260828233150",
       "time": "2026/08/28 23:31",
@@ -115,7 +137,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260828191156",
       "time": "2026/08/28 19:11",
@@ -128,7 +150,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260828181710",
       "time": "2026/08/28 18:17",
@@ -138,19 +160,6 @@
       "depth": "10km",
       "latitude": "34.9",
       "longitude": "132.9",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260828150958",
-      "time": "2026/08/28 15:09",
-      "time_full": "2026/08/28 15:09:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "2.5",
-      "depth": "10km",
-      "latitude": "32.4",
-      "longitude": "130.5",
       "info": "",
       "intensity": "1"
     }
