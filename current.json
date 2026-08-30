@@ -1,10 +1,10 @@
 {
-  "time": "2026-08-30 09:32:14",
-  "temp": 25.56,
+  "time": "2026-08-30 10:00:01",
+  "temp": 25.57,
   "temp_max": 26.58,
   "temp_min": 24.98,
   "humidity": 85,
-  "feels_like": 26.39,
+  "feels_like": 26.4,
   "pressure": 1009,
   "weather_main": "Clouds",
   "weather_description": "scattered clouds",
