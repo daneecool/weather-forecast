@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "time": "2026-09-04 03:00:00",
+    "wind_speed": 10.78,
+    "wind_gust": 11.99,
+    "pressure": 995,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.88,
+    "humidity": 87,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.36
+  },
+  {
+    "time": "2026-09-04 06:00:00",
+    "wind_speed": 7.11,
+    "wind_gust": 7.2,
+    "pressure": 995,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.65,
+    "humidity": 82,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 1.59
+  }
+]
