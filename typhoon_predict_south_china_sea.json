@@ -46,17 +46,17 @@
   },
   {
     "time": "2026-09-02 09:00:00",
-    "wind_speed": 9.55,
-    "wind_gust": 10.93,
-    "pressure": 993,
+    "wind_speed": 13.13,
+    "wind_gust": 16.32,
+    "pressure": 995,
     "lat": 22.0,
     "lon": 120.0,
     "region": "South China Sea",
     "in_japan": false,
-    "temp": 28.35,
-    "humidity": 91,
+    "temp": 28.06,
+    "humidity": 90,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 2.46
+    "rain_mm": 0.56
   }
 ]
