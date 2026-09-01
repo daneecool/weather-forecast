@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-09-01 21:00:00",
-    "temp": 25.31,
-    "temp_max": 25.31,
-    "temp_min": 25.3,
-    "humidity": 89,
-    "feels_like": 26.22,
+    "temp": 25.19,
+    "temp_max": 25.19,
+    "temp_min": 25.15,
+    "humidity": 90,
+    "feels_like": 26.11,
     "pressure": 1015,
     "weather_main": "Rain",
     "weather_description": "light rain",
