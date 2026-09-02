@@ -13,5 +13,20 @@
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "rain_mm": 0
+  },
+  {
+    "time": "2026-09-07 09:00:00",
+    "wind_speed": 2,
+    "wind_gust": 1.95,
+    "pressure": 995,
+    "lat": 25.0,
+    "lon": 135.0,
+    "region": "Philippine Sea",
+    "in_japan": true,
+    "temp": 28.58,
+    "humidity": 80,
+    "weather_main": "Clouds",
+    "weather_description": "broken clouds",
+    "rain_mm": 0
   }
 ]
