@@ -1,17 +1,1 @@
-[
-  {
-    "time": "2026-09-04 00:00:00",
-    "wind_speed": 18.23,
-    "wind_gust": 24.52,
-    "pressure": 1004,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 24.19,
-    "humidity": 89,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 2.25
-  }
-]
+[]
