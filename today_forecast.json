@@ -1,19 +1,5 @@
 [
   {
-    "time": "2026-09-02 18:00:00",
-    "temp": 26.92,
-    "temp_max": 26.92,
-    "temp_min": 26.4,
-    "humidity": 88,
-    "feels_like": 30.31,
-    "pressure": 1012,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10n",
-    "rain_mm": 0.17,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-09-02 21:00:00",
     "temp": 26.97,
     "temp_max": 27.08,
