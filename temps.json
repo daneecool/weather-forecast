@@ -2,10 +2,10 @@
   {
     "time": "2026-09-04 00:00:00",
     "temp": 25.56,
-    "temp_max": 26.52,
+    "temp_max": 26.53,
     "temp_min": 25.56,
-    "humidity": 80,
-    "feels_like": 26.26,
+    "humidity": 79,
+    "feels_like": 26.23,
     "pressure": 1011,
     "rain_mm": 0
   },
@@ -14,8 +14,8 @@
     "temp": 25.78,
     "temp_max": 26.13,
     "temp_min": 25.78,
-    "humidity": 75,
-    "feels_like": 26.37,
+    "humidity": 74,
+    "feels_like": 26.35,
     "pressure": 1010,
     "rain_mm": 0
   },
