@@ -1,14 +1,14 @@
 {
-  "time": "2026-09-03 20:09:04",
-  "temp": 25.08,
+  "time": "2026-09-03 20:30:40",
+  "temp": 25.07,
   "temp_max": 25.66,
-  "temp_min": 23.94,
-  "humidity": 83,
-  "feels_like": 25.81,
+  "temp_min": 23.38,
+  "humidity": 85,
+  "feels_like": 25.85,
   "pressure": 1010,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04n",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
