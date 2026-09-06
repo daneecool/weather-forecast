@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-09-06 21:00:00",
-    "temp": 22.19,
-    "temp_max": 22.19,
-    "temp_min": 21.96,
+    "temp": 22.53,
+    "temp_max": 22.53,
+    "temp_min": 22.02,
     "humidity": 94,
-    "feels_like": 22.92,
-    "pressure": 1003,
+    "feels_like": 23.29,
+    "pressure": 1004,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "weather_icon": "10d",
