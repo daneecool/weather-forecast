@@ -1,31 +1,31 @@
 [
   {
     "time": "2026-09-07 06:00:00",
-    "temp": 23.2,
-    "temp_max": 23.2,
-    "temp_min": 22.44,
+    "temp": 23.05,
+    "temp_max": 23.05,
+    "temp_min": 22.93,
     "humidity": 98,
-    "feels_like": 24.13,
+    "feels_like": 23.97,
     "pressure": 1002,
     "rain_mm": 12.44
   },
   {
     "time": "2026-09-07 09:00:00",
-    "temp": 22.97,
-    "temp_max": 22.97,
-    "temp_min": 22.51,
+    "temp": 22.89,
+    "temp_max": 22.89,
+    "temp_min": 22.58,
     "humidity": 96,
-    "feels_like": 23.83,
+    "feels_like": 23.74,
     "pressure": 1003,
     "rain_mm": 2.53
   },
   {
     "time": "2026-09-07 12:00:00",
-    "temp": 22.81,
-    "temp_max": 22.81,
+    "temp": 22.76,
+    "temp_max": 22.76,
     "temp_min": 22.62,
     "humidity": 93,
-    "feels_like": 23.57,
+    "feels_like": 23.52,
     "pressure": 1004,
     "rain_mm": 1.7
   },
