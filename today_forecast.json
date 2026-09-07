@@ -2,7 +2,7 @@
   {
     "time": "2026-09-07 09:00:00",
     "temp": 23.05,
-    "temp_max": 23.49,
+    "temp_max": 23.45,
     "temp_min": 23.05,
     "humidity": 98,
     "feels_like": 23.97,
@@ -17,7 +17,7 @@
     "time": "2026-09-07 12:00:00",
     "temp": 22.89,
     "temp_max": 22.89,
-    "temp_min": 22.58,
+    "temp_min": 22.57,
     "humidity": 95,
     "feels_like": 23.72,
     "pressure": 1005,
