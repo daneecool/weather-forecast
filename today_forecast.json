@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-09-09 21:00:00",
-    "temp": 19.61,
-    "temp_max": 19.95,
-    "temp_min": 19.61,
-    "humidity": 88,
-    "feels_like": 19.92,
-    "pressure": 1016,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10d",
-    "rain_mm": 0.26,
-    "snow_mm": 0
-  }
-]
+[]
