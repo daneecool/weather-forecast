@@ -1,24 +1,10 @@
 [
   {
-    "time": "2026-09-11 09:00:00",
-    "temp": 21.08,
-    "temp_max": 21.11,
-    "temp_min": 21.08,
-    "humidity": 91,
-    "feels_like": 21.62,
-    "pressure": 1019,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "weather_icon": "10n",
-    "rain_mm": 0.38,
-    "snow_mm": 0
-  },
-  {
     "time": "2026-09-11 12:00:00",
-    "temp": 21.48,
-    "temp_max": 22.27,
-    "temp_min": 21.48,
-    "humidity": 89,
+    "temp": 21.46,
+    "temp_max": 22.23,
+    "temp_min": 21.46,
+    "humidity": 90,
     "feels_like": 22.01,
     "pressure": 1020,
     "weather_main": "Rain",
