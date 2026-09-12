@@ -1,10 +1,10 @@
 {
-  "time": "2026-09-12 19:00:10",
-  "temp": 20.98,
+  "time": "2026-09-12 19:30:10",
+  "temp": 20.85,
   "temp_max": 21.58,
   "temp_min": 20.54,
   "humidity": 94,
-  "feels_like": 21.59,
+  "feels_like": 21.45,
   "pressure": 1022,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
