@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-09-14 21:00:00",
-    "temp": 25.6,
-    "temp_max": 25.6,
-    "temp_min": 24.81,
-    "humidity": 91,
-    "feels_like": 26.59,
-    "pressure": 1013,
+    "temp": 25.32,
+    "temp_max": 25.32,
+    "temp_min": 24.87,
+    "humidity": 93,
+    "feels_like": 26.34,
+    "pressure": 1014,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10d",
