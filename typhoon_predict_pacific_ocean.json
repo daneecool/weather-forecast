@@ -58,5 +58,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 0.44
+  },
+  {
+    "time": "2026-09-22 03:00:00",
+    "wind_speed": 17.5,
+    "wind_gust": 21.63,
+    "pressure": 994,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 21.17,
+    "humidity": 91,
+    "weather_main": "Clouds",
+    "weather_description": "overcast clouds",
+    "rain_mm": 0
   }
 ]
