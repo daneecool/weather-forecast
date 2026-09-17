@@ -1,10 +1,10 @@
 {
-  "time": "2026-09-17 11:35:15",
+  "time": "2026-09-17 12:16:31",
   "temp": 21.94,
   "temp_max": 22.58,
   "temp_min": 21.65,
-  "humidity": 80,
-  "feels_like": 22.28,
+  "humidity": 84,
+  "feels_like": 22.38,
   "pressure": 1022,
   "weather_main": "Clouds",
   "weather_description": "scattered clouds",
