@@ -1,10 +1,10 @@
 {
-  "time": "2026-09-17 14:11:03",
+  "time": "2026-09-17 14:30:00",
   "temp": 21.69,
   "temp_max": 22.32,
   "temp_min": 20.61,
-  "humidity": 82,
-  "feels_like": 22.06,
+  "humidity": 81,
+  "feels_like": 22.03,
   "pressure": 1021,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
