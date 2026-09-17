@@ -1,22 +1,22 @@
 {
-  "EventID": "20260917215229",
-  "Serial": 4,
-  "AnnouncedTime": "2026/09/17 21:53:06",
-  "OriginTime": "2026/09/17 21:52:26",
-  "Hypocenter": "熊本県天草・芦北地方",
-  "Latitude": 32.6,
-  "Longitude": 130.6,
-  "Magunitude": 3.0,
-  "Depth": 10,
+  "EventID": "20260918030608",
+  "Serial": 3,
+  "AnnouncedTime": "2026/09/18 03:06:54",
+  "OriginTime": "2026/09/18 03:06:01",
+  "Hypocenter": "沖縄本島近海",
+  "Latitude": 27.3,
+  "Longitude": 128.5,
+  "Magunitude": 3.8,
+  "Depth": 40,
   "MaxIntensity": "2",
-  "isSea": false,
+  "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260917215306 C11 260917215226 ND20260917215229 NCN904 JD////////////// JN/// 743 N326 E1306 010 30 02 RK44209 RT00/// RC0//// 9999=",
-  "Pond": "146",
+  "OriginalText": "37 04 00 260918030654 C11 260918030601 ND20260918030608 NCN903 JD////////////// JN/// 850 N273 E1285 040 38 02 RK44209 RT10/// RC0//// 9999=",
+  "Pond": "78",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "防災科研システム",
@@ -26,6 +26,19 @@
   "RecentList": {
     "No1": {
       "Title": "震源・震度情報",
+      "EventID": "20260918030608",
+      "time": "2026/09/18 03:06",
+      "time_full": "2026/09/18 03:06:00",
+      "location": "沖縄本島近海",
+      "magnitude": "3.4",
+      "depth": "50km",
+      "latitude": "27.3",
+      "longitude": "128.4",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
       "EventID": "20260918020415",
       "time": "2026/09/18 02:04",
       "time_full": "2026/09/18 02:04:00",
@@ -34,10 +47,10 @@
       "depth": "20km",
       "latitude": "32.7",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260917224027",
       "time": "2026/09/17 22:40",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260917215229",
       "time": "2026/09/17 21:52",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260917182451",
       "time": "2026/09/17 18:24",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260917061143",
       "time": "2026/09/17 06:11",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260917034007",
       "time": "2026/09/17 03:40",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260917014532",
       "time": "2026/09/17 01:45",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260917000748",
       "time": "2026/09/17 00:07",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260916213537",
       "time": "2026/09/16 21:35",
@@ -140,19 +153,6 @@
       "longitude": "130.6",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260916172127",
-      "time": "2026/09/16 17:21",
-      "time_full": "2026/09/16 17:21:00",
-      "location": "栃木県北部",
-      "magnitude": "2.7",
-      "depth": "0km",
-      "latitude": "36.8",
-      "longitude": "139.4",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
