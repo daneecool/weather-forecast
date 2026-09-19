@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-19 08:37:57",
+  "time": "2026-09-19 09:08:24",
   "temp": 23.01,
   "temp_max": 23.58,
   "temp_min": 22.54,
@@ -8,7 +8,7 @@
   "pressure": 1017,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
