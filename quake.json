@@ -1,30 +1,43 @@
 {
-  "EventID": "20260919160830",
-  "Serial": 4,
-  "AnnouncedTime": "2026/09/19 16:09:28",
-  "OriginTime": "2026/09/19 16:08:21",
-  "Hypocenter": "種子島南東沖",
-  "Latitude": 30.0,
-  "Longitude": 131.2,
-  "Magunitude": 4.1,
+  "EventID": "20260919210716",
+  "Serial": 5,
+  "AnnouncedTime": "2026/09/19 21:08:06",
+  "OriginTime": "2026/09/19 21:07:11",
+  "Hypocenter": "天草灘",
+  "Latitude": 32.4,
+  "Longitude": 129.8,
+  "Magunitude": 4.3,
   "Depth": 10,
-  "MaxIntensity": "2",
+  "MaxIntensity": "3",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 260919160928 C11 260919160821 ND20260919160830 NCN904 JD////////////// JN/// 822 N300 E1312 010 41 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "1",
+  "OriginalText": "37 04 00 260919210806 C11 260919210711 ND20260919210716 NCN905 JD////////////// JN/// 784 N324 E1298 010 43 03 RK44559 RT10/// RC0//// 9999=",
+  "Pond": "0729",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "防災科研システム",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20260919210716",
+      "time": "2026/09/19 21:07",
+      "time_full": "2026/09/19 21:07:00",
+      "location": "天草灘",
+      "magnitude": "4.4",
+      "depth": "10km",
+      "latitude": "32.3",
+      "longitude": "129.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20260919140420",
       "time": "2026/09/19 14:04",
@@ -34,10 +47,10 @@
       "depth": "10km",
       "latitude": "32.7",
       "longitude": "130.7",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20260919140100",
       "time": "2026/09/19 14:00",
@@ -50,7 +63,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20260919092934",
       "time": "2026/09/19 09:29",
@@ -63,7 +76,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20260919074854",
       "time": "2026/09/19 07:48",
@@ -76,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20260919065801",
       "time": "2026/09/19 06:57",
@@ -89,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20260919061519",
       "time": "2026/09/19 06:15",
@@ -102,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20260919044550",
       "time": "2026/09/19 04:45",
@@ -115,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20260919015914",
       "time": "2026/09/19 01:59",
@@ -128,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20260918203440",
       "time": "2026/09/18 20:34",
@@ -140,19 +153,6 @@
       "longitude": "130.6",
       "info": "",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20260918100733",
-      "time": "2026/09/18 10:07",
-      "time_full": "2026/09/18 10:07:00",
-      "location": "日向灘",
-      "magnitude": "4.3",
-      "depth": "20km",
-      "latitude": "32.2",
-      "longitude": "132.0",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
