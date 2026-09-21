@@ -1,14 +1,14 @@
 {
-  "time": "2026-09-21 11:36:39",
+  "time": "2026-09-21 12:12:10",
   "temp": 23.2,
-  "temp_max": 23.65,
+  "temp_max": 24.58,
   "temp_min": 22.77,
   "humidity": 95,
   "feels_like": 24.06,
-  "pressure": 995,
+  "pressure": 996,
   "weather_main": "Rain",
-  "weather_description": "moderate rain",
+  "weather_description": "light rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 3.45,
+  "rain_1h_mm": 0.5,
   "snow_1h_mm": 0
 }
