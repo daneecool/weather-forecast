@@ -1,11 +1,11 @@
 {
-  "time": "2026-09-21 18:12:38",
+  "time": "2026-09-21 18:40:12",
   "temp": 23.42,
   "temp_max": 25.58,
   "temp_min": 22.88,
   "humidity": 90,
   "feels_like": 24.17,
-  "pressure": 1001,
+  "pressure": 1002,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
   "weather_icon": "04n",
