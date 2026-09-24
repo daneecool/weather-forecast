@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-09-24 21:00:00",
-    "temp": 22.65,
-    "temp_max": 22.65,
-    "temp_min": 22.13,
-    "humidity": 81,
-    "feels_like": 23.09,
-    "pressure": 1015,
+    "temp": 22.91,
+    "temp_max": 22.91,
+    "temp_min": 22.08,
+    "humidity": 85,
+    "feels_like": 23.48,
+    "pressure": 1016,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
     "weather_icon": "04d",
