@@ -1,5 +1,5 @@
 {
-  "time": "2026-09-26 08:34:11",
+  "time": "2026-09-26 09:10:31",
   "temp": 19.49,
   "temp_max": 19.99,
   "temp_min": 18.58,
@@ -7,8 +7,8 @@
   "feels_like": 19.9,
   "pressure": 1013,
   "weather_main": "Rain",
-  "weather_description": "light rain",
+  "weather_description": "moderate rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 0.22,
+  "rain_1h_mm": 1.59,
   "snow_1h_mm": 0
 }
