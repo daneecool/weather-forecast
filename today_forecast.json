@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-09-26 21:00:00",
-    "temp": 18.76,
-    "temp_max": 19.9,
-    "temp_min": 18.76,
+    "temp": 18.64,
+    "temp_max": 19.65,
+    "temp_min": 18.64,
     "humidity": 94,
-    "feels_like": 19.15,
+    "feels_like": 19.01,
     "pressure": 1011,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
