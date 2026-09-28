@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-09-29 00:00:00",
-    "temp": 21.23,
-    "temp_max": 21.23,
-    "temp_min": 20.1,
-    "humidity": 93,
-    "feels_like": 21.84,
+    "temp": 21.62,
+    "temp_max": 21.62,
+    "temp_min": 20.05,
+    "humidity": 92,
+    "feels_like": 22.24,
     "pressure": 1012,
     "rain_mm": 2.68
   },
   {
     "time": "2026-09-29 03:00:00",
-    "temp": 20.72,
-    "temp_max": 20.72,
+    "temp": 20.92,
+    "temp_max": 20.92,
     "temp_min": 20.18,
     "humidity": 86,
-    "feels_like": 21.09,
+    "feels_like": 21.31,
     "pressure": 1012,
     "rain_mm": 2.42
   },
