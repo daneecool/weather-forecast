@@ -1,14 +1,14 @@
 {
-  "time": "2026-09-29 22:07:58",
-  "temp": 18.55,
-  "temp_max": 18.98,
-  "temp_min": 18.1,
+  "time": "2026-09-29 22:36:19",
+  "temp": 18.57,
+  "temp_max": 19.5,
+  "temp_min": 18.14,
   "humidity": 95,
-  "feels_like": 18.94,
+  "feels_like": 18.96,
   "pressure": 1015,
   "weather_main": "Rain",
   "weather_description": "moderate rain",
   "weather_icon": "10d",
-  "rain_1h_mm": 2.37,
+  "rain_1h_mm": 2.3,
   "snow_1h_mm": 0
 }
