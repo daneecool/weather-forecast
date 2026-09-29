@@ -2,7 +2,7 @@
   {
     "time": "2026-09-29 18:00:00",
     "temp": 17.55,
-    "temp_max": 18.72,
+    "temp_max": 18.56,
     "temp_min": 17.55,
     "humidity": 94,
     "feels_like": 17.82,
@@ -11,11 +11,11 @@
   },
   {
     "time": "2026-09-29 21:00:00",
-    "temp": 18.11,
-    "temp_max": 19.23,
-    "temp_min": 18.11,
+    "temp": 18.09,
+    "temp_max": 19.18,
+    "temp_min": 18.09,
     "humidity": 92,
-    "feels_like": 18.38,
+    "feels_like": 18.36,
     "pressure": 1014,
     "rain_mm": 1.75
   },
