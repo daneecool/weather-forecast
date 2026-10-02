@@ -1,11 +1,11 @@
 {
-  "time": "2026-10-02 19:09:31",
+  "time": "2026-10-02 19:34:52",
   "temp": 19.86,
   "temp_max": 20.66,
   "temp_min": 19.21,
   "humidity": 75,
   "feels_like": 19.86,
-  "pressure": 1018,
+  "pressure": 1019,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
   "weather_icon": "04n",
