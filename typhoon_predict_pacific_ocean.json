@@ -268,5 +268,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 0.19
+  },
+  {
+    "time": "2026-10-07 15:00:00",
+    "wind_speed": 36.58,
+    "wind_gust": 45.7,
+    "pressure": 978,
+    "lat": 40.0,
+    "lon": 155.0,
+    "region": "Pacific Ocean",
+    "in_japan": false,
+    "temp": 22.35,
+    "humidity": 86,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 2.31
   }
 ]
