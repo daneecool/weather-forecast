@@ -1,13 +1,13 @@
 {
-  "EventID": "20261003150535",
-  "Serial": 3,
-  "AnnouncedTime": "2026/10/03 15:06:12",
-  "OriginTime": "2026/10/03 15:05:26",
-  "Hypocenter": "奄美大島北東沖",
-  "Latitude": 29.7,
-  "Longitude": 130.3,
-  "Magunitude": 4.5,
-  "Depth": 30,
+  "EventID": "20261004084522",
+  "Serial": 5,
+  "AnnouncedTime": "2026/10/04 08:45:58",
+  "OriginTime": "2026/10/04 08:45:15",
+  "Hypocenter": "宮古島近海",
+  "Latitude": 24.8,
+  "Longitude": 125.4,
+  "Magunitude": 4.1,
+  "Depth": 40,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
@@ -15,16 +15,42 @@
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 261003150612 C11 261003150526 ND20261003150535 NCN903 JD////////////// JN/// 823 N297 E1303 030 45 02 RK33519 RT10/// RC0//// 9999=",
+  "OriginalText": "37 03 00 261004084558 C11 261004084515 ND20261004084522 NCN905 JD////////////// JN/// 853 N248 E1254 040 41 02 RK44539 RT10/// RC0//// 9999=",
   "Pond": "0729",
-  "Epicenter": "IPF 法（3 点／4 点）",
-  "DepthAccuracy": "IPF 法（3 点／4 点）",
+  "Epicenter": "IPF 法（5 点以上）",
+  "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "不明、未設定時、キャンセル時",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261004085824",
+      "time": "2026/10/04 08:58",
+      "time_full": "2026/10/04 08:58:00",
+      "location": "熊本県熊本地方",
+      "magnitude": "2.4",
+      "depth": "10km",
+      "latitude": "32.7",
+      "longitude": "130.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20261004084522",
+      "time": "2026/10/04 08:45",
+      "time_full": "2026/10/04 08:45:00",
+      "location": "宮古島近海",
+      "magnitude": "3.9",
+      "depth": "50km",
+      "latitude": "24.8",
+      "longitude": "125.4",
+      "info": "",
+      "intensity": "2"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261004034055",
       "time": "2026/10/04 03:40",
@@ -34,10 +60,10 @@
       "depth": "60km",
       "latitude": "32.1",
       "longitude": "131.3",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261003171723",
       "time": "2026/10/03 17:17",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261003152118",
       "time": "2026/10/03 15:21",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261003150831",
       "time": "2026/10/03 15:08",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261003150535",
       "time": "2026/10/03 15:05",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261003132605",
       "time": "2026/10/03 13:26",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261003132452",
       "time": "2026/10/03 13:24",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261003091155",
       "time": "2026/10/03 09:11",
@@ -127,32 +153,6 @@
       "longitude": "130.7",
       "info": "",
       "intensity": "1"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20261003064150",
-      "time": "2026/10/03 06:41",
-      "time_full": "2026/10/03 06:41:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "2.4",
-      "depth": "0km",
-      "latitude": "32.2",
-      "longitude": "130.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261003053459",
-      "time": "2026/10/03 05:34",
-      "time_full": "2026/10/03 05:34:00",
-      "location": "三陸沖",
-      "magnitude": "4.3",
-      "depth": "10km",
-      "latitude": "39.9",
-      "longitude": "143.1",
-      "info": "",
-      "intensity": "2"
     }
   }
 }
