@@ -1,14 +1,14 @@
 {
-  "time": "2026-10-05 08:00:28",
-  "temp": 21.45,
-  "temp_max": 22.25,
-  "temp_min": 20.55,
-  "humidity": 84,
-  "feels_like": 21.84,
-  "pressure": 1010,
+  "time": "2026-10-05 08:51:19",
+  "temp": 21.81,
+  "temp_max": 22.32,
+  "temp_min": 21.43,
+  "humidity": 81,
+  "feels_like": 22.16,
+  "pressure": 1011,
   "weather_main": "Clouds",
   "weather_description": "overcast clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
