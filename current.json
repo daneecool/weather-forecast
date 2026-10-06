@@ -1,13 +1,13 @@
 {
-  "time": "2026-10-06 13:10:33",
-  "temp": 21.83,
-  "temp_max": 22.58,
+  "time": "2026-10-06 13:38:00",
+  "temp": 22.06,
+  "temp_max": 22.88,
   "temp_min": 21.65,
   "humidity": 69,
-  "feels_like": 21.87,
+  "feels_like": 22.12,
   "pressure": 1006,
   "weather_main": "Clouds",
-  "weather_description": "broken clouds",
+  "weather_description": "overcast clouds",
   "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
