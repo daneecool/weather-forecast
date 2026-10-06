@@ -2,7 +2,7 @@
   {
     "time": "2026-10-06 12:00:00",
     "temp": 22.76,
-    "temp_max": 23.02,
+    "temp_max": 22.77,
     "temp_min": 22.76,
     "humidity": 78,
     "feels_like": 23.13,
@@ -11,11 +11,11 @@
   },
   {
     "time": "2026-10-06 15:00:00",
-    "temp": 22.56,
-    "temp_max": 22.56,
-    "temp_min": 22.16,
+    "temp": 22.55,
+    "temp_max": 22.55,
+    "temp_min": 22.12,
     "humidity": 70,
-    "feels_like": 22.7,
+    "feels_like": 22.69,
     "pressure": 1006,
     "rain_mm": 0
   },
