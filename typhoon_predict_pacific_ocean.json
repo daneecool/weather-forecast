@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-06 12:00:00",
-    "wind_speed": 26.02,
-    "wind_gust": 35.5,
-    "pressure": 996,
-    "lat": 35.0,
-    "lon": 150.0,
-    "region": "Pacific Ocean",
-    "in_japan": true,
-    "temp": 27.15,
-    "humidity": 83,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 0.19
-  },
-  {
     "time": "2026-10-06 15:00:00",
     "wind_speed": 34.13,
     "wind_gust": 48.1,
