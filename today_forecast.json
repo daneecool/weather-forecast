@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-07 21:00:00",
-    "temp": 18.2,
-    "temp_max": 18.47,
-    "temp_min": 18.2,
-    "humidity": 64,
-    "feels_like": 17.75,
+    "temp": 17.93,
+    "temp_max": 17.93,
+    "temp_min": 17.38,
+    "humidity": 66,
+    "feels_like": 17.5,
     "pressure": 1022,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
