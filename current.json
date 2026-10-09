@@ -1,14 +1,14 @@
 {
-  "time": "2026-10-09 20:40:33",
-  "temp": 17.36,
+  "time": "2026-10-09 21:00:12",
+  "temp": 16.86,
   "temp_max": 18.98,
-  "temp_min": 17.32,
+  "temp_min": 16.77,
   "humidity": 89,
-  "feels_like": 17.48,
+  "feels_like": 16.93,
   "pressure": 1023,
   "weather_main": "Clear",
   "weather_description": "clear sky",
-  "weather_icon": "01n",
+  "weather_icon": "01d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
