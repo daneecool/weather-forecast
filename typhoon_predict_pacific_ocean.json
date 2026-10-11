@@ -1,17 +1,17 @@
 [
   {
     "time": "2026-10-13 00:00:00",
-    "wind_speed": 19.22,
-    "wind_gust": 21.8,
-    "pressure": 1002,
+    "wind_speed": 18.8,
+    "wind_gust": 21.72,
+    "pressure": 1003,
     "lat": 35.0,
     "lon": 150.0,
     "region": "Pacific Ocean",
     "in_japan": true,
-    "temp": 22.9,
-    "humidity": 95,
+    "temp": 23.01,
+    "humidity": 94,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
-    "rain_mm": 16.06
+    "rain_mm": 12.5
   }
 ]
