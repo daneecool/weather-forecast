@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-11 21:00:00",
-    "temp": 19.14,
-    "temp_max": 19.14,
-    "temp_min": 17.14,
-    "humidity": 83,
-    "feels_like": 19.28,
+    "temp": 19.02,
+    "temp_max": 19.02,
+    "temp_min": 17.16,
+    "humidity": 84,
+    "feels_like": 19.17,
     "pressure": 1019,
     "weather_main": "Clouds",
     "weather_description": "overcast clouds",
