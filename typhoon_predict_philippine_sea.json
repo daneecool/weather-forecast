@@ -90,6 +90,21 @@
     "rain_mm": 93.48
   },
   {
+    "time": "2026-10-21 15:00:00",
+    "wind_speed": 33.68,
+    "wind_gust": 41.37,
+    "pressure": 975,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 27.68,
+    "humidity": 91,
+    "weather_main": "Rain",
+    "weather_description": "very heavy rain",
+    "rain_mm": 70.05
+  },
+  {
     "time": "2026-10-18 21:00:00",
     "wind_speed": 20.88,
     "wind_gust": 26.34,
