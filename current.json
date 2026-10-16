@@ -1,10 +1,10 @@
 {
-  "time": "2026-10-16 19:35:32",
+  "time": "2026-10-16 20:09:36",
   "temp": 20.47,
   "temp_max": 20.98,
   "temp_min": 19.76,
-  "humidity": 73,
-  "feels_like": 20.48,
+  "humidity": 69,
+  "feels_like": 20.37,
   "pressure": 1024,
   "weather_main": "Clear",
   "weather_description": "clear sky",
