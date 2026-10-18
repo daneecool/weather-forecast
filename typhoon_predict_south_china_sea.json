@@ -58,5 +58,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 1.02
+  },
+  {
+    "time": "2026-10-23 15:00:00",
+    "wind_speed": 35.16,
+    "wind_gust": 38.68,
+    "pressure": 965,
+    "lat": 22.0,
+    "lon": 120.0,
+    "region": "South China Sea",
+    "in_japan": false,
+    "temp": 27.43,
+    "humidity": 90,
+    "weather_main": "Rain",
+    "weather_description": "heavy intensity rain",
+    "rain_mm": 42.99
   }
 ]
