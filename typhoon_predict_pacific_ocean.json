@@ -1,17 +1,1 @@
-[
-  {
-    "time": "2026-10-22 03:00:00",
-    "wind_speed": 18.36,
-    "wind_gust": 26.4,
-    "pressure": 1008,
-    "lat": 40.0,
-    "lon": 155.0,
-    "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 21.62,
-    "humidity": 89,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "rain_mm": 0
-  }
-]
+[]
