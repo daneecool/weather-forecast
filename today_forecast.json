@@ -1,10 +1,10 @@
 [
   {
     "time": "2026-10-20 12:00:00",
-    "temp": 22.86,
-    "temp_max": 22.86,
-    "temp_min": 21.44,
-    "humidity": 75,
+    "temp": 22.84,
+    "temp_max": 22.84,
+    "temp_min": 21.38,
+    "humidity": 76,
     "feels_like": 23.16,
     "pressure": 1017,
     "weather_main": "Clouds",
