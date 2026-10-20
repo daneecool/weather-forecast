@@ -8,7 +8,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.17,
+    "temp": 28.24,
     "humidity": 85,
     "weather_main": "Rain",
     "weather_description": "light rain",
@@ -193,5 +193,20 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "rain_mm": 2.34
+  },
+  {
+    "time": "2026-10-22 09:00:00",
+    "wind_speed": 18.3,
+    "wind_gust": 23.77,
+    "pressure": 1004,
+    "lat": 20.0,
+    "lon": 130.0,
+    "region": "Philippine Sea",
+    "in_japan": false,
+    "temp": 28.96,
+    "humidity": 80,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "rain_mm": 0.8
   }
 ]
