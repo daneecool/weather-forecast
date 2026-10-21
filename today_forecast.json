@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-21 21:00:00",
-    "temp": 22.79,
-    "temp_max": 22.79,
-    "temp_min": 19.98,
+    "temp": 22.49,
+    "temp_max": 22.49,
+    "temp_min": 19.89,
     "humidity": 61,
-    "feels_like": 22.72,
+    "feels_like": 22.39,
     "pressure": 1013,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
