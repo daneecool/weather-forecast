@@ -16,24 +16,24 @@
   },
   {
     "time": "2026-10-21 12:00:00",
-    "wind_speed": 32,
-    "wind_gust": 41.74,
-    "pressure": 987,
+    "wind_speed": 30.23,
+    "wind_gust": 38.77,
+    "pressure": 989,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
     "temp": 28.12,
-    "humidity": 89,
+    "humidity": 86,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
-    "rain_mm": 19.22
+    "rain_mm": 14.16
   },
   {
     "time": "2026-10-21 15:00:00",
-    "wind_speed": 27.83,
-    "wind_gust": 34.7,
-    "pressure": 994,
+    "wind_speed": 26.76,
+    "wind_gust": 33.27,
+    "pressure": 996,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
@@ -42,28 +42,28 @@
     "humidity": 88,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 5.67
+    "rain_mm": 8.82
   },
   {
     "time": "2026-10-21 18:00:00",
-    "wind_speed": 25.15,
-    "wind_gust": 31.77,
-    "pressure": 996,
+    "wind_speed": 24,
+    "wind_gust": 31.37,
+    "pressure": 997,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
     "temp": 28.66,
-    "humidity": 89,
+    "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 5.72
+    "rain_mm": 3.36
   },
   {
     "time": "2026-10-21 21:00:00",
-    "wind_speed": 23.79,
-    "wind_gust": 31.08,
-    "pressure": 998,
+    "wind_speed": 22,
+    "wind_gust": 28.94,
+    "pressure": 1000,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
@@ -71,14 +71,14 @@
     "temp": 28.81,
     "humidity": 83,
     "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 3.68
+    "weather_description": "light rain",
+    "rain_mm": 1.46
   },
   {
     "time": "2026-10-22 00:00:00",
-    "wind_speed": 21.94,
-    "wind_gust": 28.06,
-    "pressure": 1001,
+    "wind_speed": 20.71,
+    "wind_gust": 27.16,
+    "pressure": 1002,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
@@ -87,36 +87,21 @@
     "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 1.2
+    "rain_mm": 0.78
   },
   {
     "time": "2026-10-22 03:00:00",
-    "wind_speed": 19.85,
-    "wind_gust": 26.33,
-    "pressure": 1002,
+    "wind_speed": 19.07,
+    "wind_gust": 24.45,
+    "pressure": 1003,
     "lat": 20.0,
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
     "temp": 28.84,
-    "humidity": 81,
+    "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "light rain",
-    "rain_mm": 1.51
-  },
-  {
-    "time": "2026-10-22 06:00:00",
-    "wind_speed": 18.4,
-    "wind_gust": 24.47,
-    "pressure": 1002,
-    "lat": 20.0,
-    "lon": 130.0,
-    "region": "Philippine Sea",
-    "in_japan": false,
-    "temp": 28.57,
-    "humidity": 82,
-    "weather_main": "Rain",
-    "weather_description": "light rain",
-    "rain_mm": 1.69
+    "rain_mm": 0.67
   }
 ]
