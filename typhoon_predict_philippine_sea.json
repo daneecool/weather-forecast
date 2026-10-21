@@ -1,8 +1,8 @@
 [
   {
     "time": "2026-10-21 09:00:00",
-    "wind_speed": 36.64,
-    "wind_gust": 47.17,
+    "wind_speed": 34.21,
+    "wind_gust": 44.61,
     "pressure": 982,
     "lat": 20.0,
     "lon": 130.0,
@@ -12,7 +12,7 @@
     "humidity": 86,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
-    "rain_mm": 25.58
+    "rain_mm": 18.47
   },
   {
     "time": "2026-10-21 12:00:00",
@@ -23,11 +23,11 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.84,
+    "temp": 28.12,
     "humidity": 89,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
-    "rain_mm": 26.47
+    "rain_mm": 19.22
   },
   {
     "time": "2026-10-21 15:00:00",
@@ -38,7 +38,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.92,
+    "temp": 27.8,
     "humidity": 88,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
@@ -53,7 +53,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 27.64,
+    "temp": 28.66,
     "humidity": 89,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
@@ -68,7 +68,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.55,
+    "temp": 28.81,
     "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
@@ -83,7 +83,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.81,
+    "temp": 29.02,
     "humidity": 83,
     "weather_main": "Rain",
     "weather_description": "light rain",
@@ -98,7 +98,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 29,
+    "temp": 28.84,
     "humidity": 81,
     "weather_main": "Rain",
     "weather_description": "light rain",
@@ -113,7 +113,7 @@
     "lon": 130.0,
     "region": "Philippine Sea",
     "in_japan": false,
-    "temp": 28.68,
+    "temp": 28.57,
     "humidity": 82,
     "weather_main": "Rain",
     "weather_description": "light rain",
