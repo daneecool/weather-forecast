@@ -1,21 +1,21 @@
 [
   {
     "time": "2026-10-24 18:00:00",
-    "temp": 17.18,
-    "temp_max": 17.18,
-    "temp_min": 16.68,
+    "temp": 17.25,
+    "temp_max": 17.25,
+    "temp_min": 16.9,
     "humidity": 92,
-    "feels_like": 17.36,
+    "feels_like": 17.43,
     "pressure": 1018,
     "rain_mm": 0
   },
   {
     "time": "2026-10-24 21:00:00",
-    "temp": 17.07,
-    "temp_max": 17.07,
-    "temp_min": 16.89,
+    "temp": 17.17,
+    "temp_max": 17.17,
+    "temp_min": 17.04,
     "humidity": 90,
-    "feels_like": 17.18,
+    "feels_like": 17.29,
     "pressure": 1017,
     "rain_mm": 0
   },
