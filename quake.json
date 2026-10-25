@@ -1,30 +1,52 @@
 {
-  "EventID": "20261024023136",
-  "Serial": 3,
-  "AnnouncedTime": "2026/10/24 02:32:17",
-  "OriginTime": "2026/10/24 02:31:22",
-  "Hypocenter": "浦河沖",
-  "Latitude": 42.4,
-  "Longitude": 142.2,
-  "Magunitude": 3.5,
-  "Depth": 100,
-  "MaxIntensity": "2",
+  "EventID": "20261025085944",
+  "Serial": 8,
+  "AnnouncedTime": "2026/10/25 09:00:38",
+  "OriginTime": "2026/10/25 08:59:39",
+  "Hypocenter": "日向灘",
+  "Latitude": 31.8,
+  "Longitude": 131.9,
+  "Magunitude": 5.3,
+  "Depth": 20,
+  "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 261024023217 C11 261024023122 ND20261024023136 NCN903 JD////////////// JN/// 192 N424 E1422 100 35 02 RK44209 RT10/// RC0//// 9999=",
-  "Pond": "0",
+  "OriginalText": "37 03 00 261025090038 C11 261025085939 ND20261025085944 NCN908 JD////////////// JN/// 791 N318 E1319 020 53 04 RK44559 RT10/// RC00/// EBI 762 S0404 ////// 01 9999=",
+  "Pond": "1",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "速度マグニチュード",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
-  "Reason": "不明、未設定時、キャンセル時",
-  "WarnArea": [],
+  "Reason": "変化なし",
+  "WarnArea": [
+    {
+      "Chiiki": "宮崎県南部平野部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261025085944",
+      "time": "2026/10/25 08:59",
+      "time_full": "2026/10/25 08:59:00",
+      "location": "日向灘",
+      "magnitude": "5.3",
+      "depth": "0km",
+      "latitude": "31.8",
+      "longitude": "131.9",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261025075556",
       "time": "2026/10/25 07:53",
@@ -34,10 +56,10 @@
       "depth": "10km",
       "latitude": "32.8",
       "longitude": "130.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261024210818",
       "time": "2026/10/24 21:08",
@@ -50,7 +72,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261024124440",
       "time": "2026/10/24 12:44",
@@ -63,7 +85,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "遠地地震に関する情報",
       "EventID": "20261024113820",
       "time": "2026/10/24 11:31",
@@ -76,7 +98,7 @@
       "info": "",
       "intensity": "不明"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261024023136",
       "time": "2026/10/24 02:31",
@@ -89,7 +111,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261024010754",
       "time": "2026/10/24 01:07",
@@ -102,7 +124,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261023160355",
       "time": "2026/10/23 16:03",
@@ -115,7 +137,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261023111746",
       "time": "2026/10/23 11:17",
@@ -128,7 +150,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261023103127",
       "time": "2026/10/23 10:31",
@@ -138,19 +160,6 @@
       "depth": "0km",
       "latitude": "32.4",
       "longitude": "130.5",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261023043806",
-      "time": "2026/10/23 04:38",
-      "time_full": "2026/10/23 04:38:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "1.4",
-      "depth": "10km",
-      "latitude": "32.2",
-      "longitude": "130.4",
       "info": "",
       "intensity": "1"
     }
