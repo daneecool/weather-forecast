@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-26 12:00:00",
-    "temp": 18.01,
-    "temp_max": 18.69,
-    "temp_min": 18.01,
+    "temp": 17.98,
+    "temp_max": 18.6,
+    "temp_min": 17.98,
     "humidity": 93,
-    "feels_like": 18.29,
+    "feels_like": 18.26,
     "pressure": 1014,
     "rain_mm": 2.4
   },
