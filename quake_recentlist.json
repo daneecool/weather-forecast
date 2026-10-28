@@ -26,12 +26,12 @@
     "intensity": "1"
   },
   "No3": {
-    "Title": "震源・震度情報",
+    "Title": "顕著な地震の震源要素更新のお知らせ",
     "EventID": "20261029000759",
     "time": "2026/10/29 00:07",
     "time_full": "2026/10/29 00:07:00",
     "location": "千葉県北東部",
-    "magnitude": "5.4",
+    "magnitude": "5.5",
     "depth": "50km",
     "latitude": "35.7",
     "longitude": "140.7",
