@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-29 00:00:00",
-    "temp": 13.36,
-    "temp_max": 15.41,
-    "temp_min": 13.36,
-    "humidity": 59,
-    "feels_like": 12.29,
+    "temp": 13.38,
+    "temp_max": 15.46,
+    "temp_min": 13.38,
+    "humidity": 60,
+    "feels_like": 12.34,
     "pressure": 1027,
     "rain_mm": 0
   },
