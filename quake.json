@@ -1,30 +1,108 @@
 {
-  "EventID": "20261028142855",
-  "Serial": 4,
-  "AnnouncedTime": "2026/10/28 14:29:56",
-  "OriginTime": "2026/10/28 14:28:49",
-  "Hypocenter": "奄美大島近海",
-  "Latitude": 28.2,
-  "Longitude": 129.5,
-  "Magunitude": 3.7,
-  "Depth": 30,
-  "MaxIntensity": "2",
+  "EventID": "20261029000759",
+  "Serial": 2,
+  "AnnouncedTime": "2026/10/29 00:08:03",
+  "OriginTime": "2026/10/29 00:07:52",
+  "Hypocenter": "千葉県東方沖",
+  "Latitude": 35.6,
+  "Longitude": 140.7,
+  "Magunitude": 5.9,
+  "Depth": 50,
+  "MaxIntensity": "4",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
-  "isFinal": true,
+  "isFinal": false,
   "isCancel": false,
-  "OriginalText": "37 03 00 261028142956 C11 261028142849 ND20261028142855 NCN904 JD////////////// JN/// 793 N282 E1295 030 37 02 RK44209 RT10/// RC00/// 9999=",
+  "OriginalText": "37 03 00 261029000803 C11 261029000752 ND20261029000759 NCN002 JD////////////// JN/// 473 N356 E1407 050 59 04 RK44314 RT10/// RC00/// EBI 301 S0404 000807 00 340 S0404 000808 00 342 S0404 000809 00 341 S0404 000817 00 350 S0404 000817 00 300 S0404 000819 00 331 S0404 000820 00 330 S0404 000823 00 9999=",
   "Pond": "0",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "速度マグニチュード",
+  "MagnitudeAccuracy": "全点P 相",
   "String": "ほとんど変化なし",
   "Reason": "変化なし",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "茨城県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000807",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "千葉県北東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000808",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "千葉県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000809",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "千葉県北西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000817",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "東京都２３区",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000817",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "茨城県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000819",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "埼玉県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000820",
+      "Type": "予報",
+      "Arrive": "未到達"
+    },
+    {
+      "Chiiki": "埼玉県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "000823",
+      "Type": "予報",
+      "Arrive": "未到達"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261028235446",
+      "time": "2026/10/28 23:54",
+      "time_full": "2026/10/28 23:54:00",
+      "location": "熊本県天草・芦北地方",
+      "magnitude": "3.0",
+      "depth": "10km",
+      "latitude": "32.6",
+      "longitude": "130.6",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261028171732",
       "time": "2026/10/28 17:17",
@@ -34,10 +112,10 @@
       "depth": "10km",
       "latitude": "32.4",
       "longitude": "130.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261028142855",
       "time": "2026/10/28 14:28",
@@ -50,7 +128,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261028033204",
       "time": "2026/10/28 03:32",
@@ -63,7 +141,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261028002811",
       "time": "2026/10/28 00:27",
@@ -76,7 +154,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261027220923",
       "time": "2026/10/27 22:09",
@@ -89,7 +167,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261027205052",
       "time": "2026/10/27 20:50",
@@ -102,7 +180,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261027153247",
       "time": "2026/10/27 15:32",
@@ -115,7 +193,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261027092519",
       "time": "2026/10/27 09:25",
@@ -128,7 +206,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261027085407",
       "time": "2026/10/27 08:54",
@@ -138,19 +216,6 @@
       "depth": "10km",
       "latitude": "32.3",
       "longitude": "130.4",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261027044909",
-      "time": "2026/10/27 04:49",
-      "time_full": "2026/10/27 04:49:00",
-      "location": "熊本県熊本地方",
-      "magnitude": "1.8",
-      "depth": "0km",
-      "latitude": "32.5",
-      "longitude": "130.6",
       "info": "",
       "intensity": "1"
     }
