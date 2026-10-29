@@ -3,7 +3,7 @@
     "time": "2026-10-29 15:00:00",
     "temp": 14.36,
     "temp_max": 14.36,
-    "temp_min": 14.24,
+    "temp_min": 14.15,
     "humidity": 72,
     "feels_like": 13.73,
     "pressure": 1022,
@@ -12,7 +12,7 @@
   {
     "time": "2026-10-29 18:00:00",
     "temp": 14.37,
-    "temp_max": 14.4,
+    "temp_max": 14.38,
     "temp_min": 14.37,
     "humidity": 70,
     "feels_like": 13.69,
