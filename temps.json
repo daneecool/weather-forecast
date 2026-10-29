@@ -4,15 +4,15 @@
     "temp": 14.72,
     "temp_max": 14.72,
     "temp_min": 14.2,
-    "humidity": 77,
-    "feels_like": 14.26,
+    "humidity": 76,
+    "feels_like": 14.23,
     "pressure": 1020,
     "rain_mm": 0
   },
   {
     "time": "2026-10-30 00:00:00",
     "temp": 15.38,
-    "temp_max": 16.7,
+    "temp_max": 16.71,
     "temp_min": 15.38,
     "humidity": 70,
     "feels_like": 14.8,
