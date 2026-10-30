@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-10-30 21:00:00",
-    "temp": 15.31,
-    "temp_max": 15.31,
-    "temp_min": 14.37,
-    "humidity": 89,
-    "feels_like": 15.22,
-    "pressure": 1009,
-    "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
