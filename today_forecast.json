@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-10-30 15:00:00",
-    "temp": 16.15,
-    "temp_max": 16.49,
-    "temp_min": 16.15,
+    "temp": 16.14,
+    "temp_max": 16.46,
+    "temp_min": 16.14,
     "humidity": 74,
-    "feels_like": 15.75,
+    "feels_like": 15.74,
     "pressure": 1013,
     "weather_main": "Rain",
     "weather_description": "light rain",
