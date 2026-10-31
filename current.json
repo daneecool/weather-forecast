@@ -1,14 +1,14 @@
 {
-  "time": "2026-10-31 02:08:06",
-  "temp": 20.68,
-  "temp_max": 22.58,
-  "temp_min": 18.88,
-  "humidity": 62,
-  "feels_like": 20.42,
+  "time": "2026-10-31 02:33:30",
+  "temp": 21.72,
+  "temp_max": 22.88,
+  "temp_min": 19.99,
+  "humidity": 61,
+  "feels_like": 21.54,
   "pressure": 1010,
   "weather_main": "Clouds",
-  "weather_description": "few clouds",
-  "weather_icon": "02d",
+  "weather_description": "broken clouds",
+  "weather_icon": "04d",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
