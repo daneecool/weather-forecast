@@ -1,30 +1,16 @@
 [
   {
-    "time": "2026-11-04 18:00:00",
-    "temp": 12.49,
-    "temp_max": 13.6,
-    "temp_min": 12.49,
-    "humidity": 92,
-    "feels_like": 12.2,
-    "pressure": 1021,
+    "time": "2026-11-04 21:00:00",
+    "temp": 12.5,
+    "temp_max": 12.5,
+    "temp_min": 12.21,
+    "humidity": 94,
+    "feels_like": 12.26,
+    "pressure": 1020,
     "weather_main": "Rain",
     "weather_description": "heavy intensity rain",
     "weather_icon": "10n",
-    "rain_mm": 22.85,
-    "snow_mm": 0
-  },
-  {
-    "time": "2026-11-04 21:00:00",
-    "temp": 12.94,
-    "temp_max": 13.85,
-    "temp_min": 12.94,
-    "humidity": 91,
-    "feels_like": 12.67,
-    "pressure": 1020,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "weather_icon": "10n",
-    "rain_mm": 3.12,
+    "rain_mm": 14.55,
     "snow_mm": 0
   }
 ]
