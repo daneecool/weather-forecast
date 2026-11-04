@@ -2,7 +2,7 @@
   {
     "time": "2026-11-04 12:00:00",
     "temp": 12.97,
-    "temp_max": 13.95,
+    "temp_max": 13.89,
     "temp_min": 12.97,
     "humidity": 92,
     "feels_like": 12.72,
@@ -16,7 +16,7 @@
   {
     "time": "2026-11-04 15:00:00",
     "temp": 13.11,
-    "temp_max": 13.4,
+    "temp_max": 13.38,
     "temp_min": 13.11,
     "humidity": 91,
     "feels_like": 12.85,
