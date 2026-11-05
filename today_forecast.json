@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-11-05 21:00:00",
-    "temp": 16.01,
-    "temp_max": 16.01,
-    "temp_min": 15.52,
+    "temp": 16.32,
+    "temp_max": 16.32,
+    "temp_min": 15.49,
     "humidity": 89,
-    "feels_like": 15.99,
+    "feels_like": 16.33,
     "pressure": 1002,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "few clouds",
+    "weather_icon": "02n",
     "rain_mm": 0,
     "snow_mm": 0
   }
