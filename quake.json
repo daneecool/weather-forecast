@@ -1,30 +1,52 @@
 {
-  "EventID": "20261106030553",
-  "Serial": 6,
-  "AnnouncedTime": "2026/11/06 03:06:43",
-  "OriginTime": "2026/11/06 03:05:40",
-  "Hypocenter": "福島県沖",
-  "Latitude": 37.8,
-  "Longitude": 141.5,
-  "Magunitude": 4.2,
-  "Depth": 90,
-  "MaxIntensity": "2",
-  "isSea": true,
+  "EventID": "20261106194044",
+  "Serial": 5,
+  "AnnouncedTime": "2026/11/06 19:41:18",
+  "OriginTime": "2026/11/06 19:40:42",
+  "Hypocenter": "福島県中通り",
+  "Latitude": 37.4,
+  "Longitude": 140.4,
+  "Magunitude": 1.0,
+  "Depth": 10,
+  "MaxIntensity": "4",
+  "isSea": false,
   "isTraining": false,
-  "isAssumption": false,
+  "isAssumption": true,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 261106030643 C11 261106030540 ND20261106030553 NCN906 JD////////////// JN/// 289 N378 E1415 090 42 02 RK44559 RT10/// RC00/// 9999=",
+  "OriginalText": "",
   "Pond": "1",
-  "Epicenter": "IPF 法（5 点以上）",
-  "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "全点全相",
+  "Epicenter": "P 波／S 波レベル超え、IPF 法（1 点）、または仮定震源要素",
+  "DepthAccuracy": "P 波／S 波レベル超え、IPF 法（1 点）、または仮定震源要素",
+  "MagnitudeAccuracy": "P 波／S 波レベル超え、または仮定震源要素",
   "String": "ほとんど変化なし",
   "Reason": "変化なし",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "福島県中通り",
+      "Shindo1": "4",
+      "Shindo2": "不明",
+      "Time": "194051",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261106193937",
+      "time": "2026/11/06 19:39",
+      "time_full": "2026/11/06 19:39:00",
+      "location": "関東東方沖",
+      "magnitude": "6.1",
+      "depth": "10km",
+      "latitude": "35.0",
+      "longitude": "142.2",
+      "info": "この地震により、日本の沿岸では若干の海面変動があるかもしれませんが、被害の心配はありません。",
+      "intensity": "3"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261106090630",
       "time": "2026/11/06 09:06",
@@ -34,10 +56,10 @@
       "depth": "140km",
       "latitude": "35.2",
       "longitude": "139.5",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261106030553",
       "time": "2026/11/06 03:05",
@@ -50,7 +72,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261105141648",
       "time": "2026/11/05 14:16",
@@ -63,7 +85,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261105113536",
       "time": "2026/11/05 11:35",
@@ -76,7 +98,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261105042852",
       "time": "2026/11/05 04:28",
@@ -89,7 +111,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261105042154",
       "time": "2026/11/05 04:21",
@@ -102,7 +124,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261104072834",
       "time": "2026/11/04 07:28",
@@ -115,7 +137,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261104053431",
       "time": "2026/11/04 05:34",
@@ -128,7 +150,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261104051155",
       "time": "2026/11/04 05:11",
@@ -138,19 +160,6 @@
       "depth": "10km",
       "latitude": "34.2",
       "longitude": "135.3",
-      "info": "",
-      "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261104014852",
-      "time": "2026/11/04 01:48",
-      "time_full": "2026/11/04 01:48:00",
-      "location": "硫黄島近海",
-      "magnitude": "5.4",
-      "depth": "150km",
-      "latitude": "24.3",
-      "longitude": "141.3",
       "info": "",
       "intensity": "1"
     }
