@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-11-06 21:00:00",
-    "temp": 15.89,
-    "temp_max": 15.89,
+    "temp": 15.25,
+    "temp_max": 15.25,
     "temp_min": 14.56,
     "humidity": 54,
-    "feels_like": 14.94,
+    "feels_like": 14.24,
     "pressure": 1014,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
