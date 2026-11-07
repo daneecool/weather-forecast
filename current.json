@@ -1,10 +1,10 @@
 {
-  "time": "2026-11-07 17:00:13",
+  "time": "2026-11-07 17:32:09",
   "temp": 11.85,
   "temp_max": 12.32,
   "temp_min": 11.43,
-  "humidity": 53,
-  "feels_like": 10.47,
+  "humidity": 54,
+  "feels_like": 10.5,
   "pressure": 1027,
   "weather_main": "Clouds",
   "weather_description": "scattered clouds",
