@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-11-08 00:00:00",
-    "temp": 12.49,
-    "temp_max": 13.1,
-    "temp_min": 12.49,
+    "temp": 12.48,
+    "temp_max": 13.07,
+    "temp_min": 12.48,
     "humidity": 50,
-    "feels_like": 11.1,
+    "feels_like": 11.09,
     "pressure": 1029,
     "rain_mm": 0
   },
@@ -14,8 +14,8 @@
     "temp": 15.56,
     "temp_max": 17.25,
     "temp_min": 15.56,
-    "humidity": 42,
-    "feels_like": 14.27,
+    "humidity": 41,
+    "feels_like": 14.24,
     "pressure": 1029,
     "rain_mm": 0
   },
