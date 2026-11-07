@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-11-07 21:00:00",
-    "temp": 12.18,
-    "temp_max": 12.18,
-    "temp_min": 10,
+    "temp": 11.71,
+    "temp_max": 11.71,
+    "temp_min": 9.92,
     "humidity": 51,
-    "feels_like": 10.79,
-    "pressure": 1028,
+    "feels_like": 10.27,
+    "pressure": 1029,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   }
