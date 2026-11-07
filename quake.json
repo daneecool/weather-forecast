@@ -1,30 +1,140 @@
 {
-  "EventID": "20261107200747",
-  "Serial": 8,
-  "AnnouncedTime": "2026/11/07 20:08:46",
-  "OriginTime": "2026/11/07 20:07:41",
-  "Hypocenter": "茨城県沖",
-  "Latitude": 36.2,
-  "Longitude": 141.5,
-  "Magunitude": 5.4,
-  "Depth": 40,
-  "MaxIntensity": "3",
-  "isSea": true,
+  "EventID": "20261108010441",
+  "Serial": 19,
+  "AnnouncedTime": "2026/11/08 01:06:08",
+  "OriginTime": "2026/11/08 01:04:34",
+  "Hypocenter": "静岡県西部",
+  "Latitude": 34.9,
+  "Longitude": 137.7,
+  "Magunitude": 6.0,
+  "Depth": 50,
+  "MaxIntensity": "5強",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
-  "isWarn": false,
+  "isWarn": true,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 261107200846 C11 261107200741 ND20261107200747 NCN908 JD////////////// JN/// 471 N362 E1415 040 54 03 RK44559 RT10/// RC00/// 9999=",
+  "OriginalText": "37 03 00 261108010608 C11 261108010434 ND20261108010441 NCN919 JD////////////// JN/// 443 N349 E1377 050 60 5+ RK44559 RT01/// RC00/// EBI 451 S5+5+ 010456 19 450 S5-5- 010450 19 443 S5-5- 010450 19 431 S5-5- 010456 19 442 S0404 ////// 11 422 S0404 ////// 01 441 S0404 ////// 01 460 S0404 ////// 01 411 S0404 ////// 01 432 S0404 ////// 01 461 S0404 ////// 01 500 S0404 010524 09 9999=",
   "Pond": "0",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
   "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "変化なし",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "愛知県西部",
+      "Shindo1": "5強",
+      "Shindo2": "5強",
+      "Time": "010456",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "愛知県東部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "010450",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "静岡県西部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "010450",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "岐阜県美濃東部",
+      "Shindo1": "5弱",
+      "Shindo2": "5弱",
+      "Time": "010456",
+      "Type": "警報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    },
+    {
+      "Chiiki": "静岡県中部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "警報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "長野県南部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "静岡県東部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "三重県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "山梨県中・西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "岐阜県美濃中西部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "三重県中部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    },
+    {
+      "Chiiki": "滋賀県北部",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "010524",
+      "Type": "予報",
+      "Arrive": "主要動到達時刻の予測なし（PLUM 法による予測）"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261108004200",
+      "time": "2026/11/08 00:41",
+      "time_full": "2026/11/08 00:41:00",
+      "location": "岩手県沖",
+      "magnitude": "4.1",
+      "depth": "20km",
+      "latitude": "40.3",
+      "longitude": "142.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261107224830",
       "time": "2026/11/07 22:48",
@@ -34,10 +144,10 @@
       "depth": "60km",
       "latitude": "37.3",
       "longitude": "141.4",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "1"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261107200747",
       "time": "2026/11/07 20:07",
@@ -50,7 +160,7 @@
       "info": "",
       "intensity": "3"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261107063022",
       "time": "2026/11/07 06:30",
@@ -63,7 +173,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261107035357",
       "time": "2026/11/07 03:53",
@@ -76,7 +186,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261107035101",
       "time": "2026/11/07 03:50",
@@ -89,7 +199,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261107030244",
       "time": "2026/11/07 03:02",
@@ -102,7 +212,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261106224305",
       "time": "2026/11/06 22:43",
@@ -115,7 +225,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261106220433",
       "time": "2026/11/06 22:04",
@@ -128,7 +238,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261106193937",
       "time": "2026/11/06 19:39",
@@ -140,19 +250,6 @@
       "longitude": "142.2",
       "info": "",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261106090630",
-      "time": "2026/11/06 09:06",
-      "time_full": "2026/11/06 09:06:00",
-      "location": "相模湾",
-      "magnitude": "3.7",
-      "depth": "140km",
-      "latitude": "35.2",
-      "longitude": "139.5",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
