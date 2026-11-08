@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-11-08 21:00:00",
-    "temp": 11.44,
-    "temp_max": 11.44,
-    "temp_min": 11.13,
-    "humidity": 76,
-    "feels_like": 10.62,
-    "pressure": 1027,
+    "temp": 11.1,
+    "temp_max": 11.1,
+    "temp_min": 10.84,
+    "humidity": 83,
+    "feels_like": 10.43,
+    "pressure": 1026,
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
