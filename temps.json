@@ -3,9 +3,9 @@
     "time": "2026-11-08 12:00:00",
     "temp": 15.77,
     "temp_max": 15.77,
-    "temp_min": 13.97,
-    "humidity": 63,
-    "feels_like": 15.05,
+    "temp_min": 13.96,
+    "humidity": 62,
+    "feels_like": 15.02,
     "pressure": 1030,
     "rain_mm": 0.12
   },
