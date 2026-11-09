@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-11-09 09:00:00",
-    "wind_speed": 20.81,
-    "wind_gust": 25.66,
-    "pressure": 1006,
-    "lat": 25.0,
-    "lon": 135.0,
-    "region": "Philippine Sea",
-    "in_japan": true,
-    "temp": 24.9,
-    "humidity": 87,
-    "weather_main": "Rain",
-    "weather_description": "moderate rain",
-    "rain_mm": 8.4
-  },
-  {
     "time": "2026-11-09 12:00:00",
     "wind_speed": 19.82,
     "wind_gust": 24.3,
