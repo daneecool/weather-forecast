@@ -3,9 +3,9 @@
     "time": "2026-11-09 09:00:00",
     "temp": 10.47,
     "temp_max": 10.47,
-    "temp_min": 10.34,
-    "humidity": 86,
-    "feels_like": 9.82,
+    "temp_min": 10.32,
+    "humidity": 89,
+    "feels_like": 9.9,
     "pressure": 1021,
     "rain_mm": 0
   },
@@ -14,8 +14,8 @@
     "temp": 10.39,
     "temp_max": 10.39,
     "temp_min": 10.24,
-    "humidity": 84,
-    "feels_like": 9.68,
+    "humidity": 86,
+    "feels_like": 9.73,
     "pressure": 1021,
     "rain_mm": 0.22
   },
@@ -24,7 +24,7 @@
     "temp": 9.98,
     "temp_max": 9.98,
     "temp_min": 9.73,
-    "humidity": 78,
+    "humidity": 79,
     "feels_like": 7.17,
     "pressure": 1020,
     "rain_mm": 0.11
