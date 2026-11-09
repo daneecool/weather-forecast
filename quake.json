@@ -1,30 +1,56 @@
 {
-  "EventID": "20261109111231",
-  "Serial": 7,
-  "AnnouncedTime": "2026/11/09 11:13:22",
-  "OriginTime": "2026/11/09 11:12:18",
-  "Hypocenter": "奄美大島北東沖",
-  "Latitude": 29.7,
-  "Longitude": 130.4,
-  "Magunitude": 3.8,
-  "Depth": 60,
-  "MaxIntensity": "1",
+  "EventID": "20261109140157",
+  "Serial": 6,
+  "AnnouncedTime": "2026/11/09 14:02:58",
+  "OriginTime": "2026/11/09 14:01:50",
+  "Hypocenter": "茨城県沖",
+  "Latitude": 36.3,
+  "Longitude": 141.7,
+  "Magunitude": 4.8,
+  "Depth": 40,
+  "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 03 00 261109111322 C11 261109111218 ND20261109111231 NCN907 JD////////////// JN/// 823 N297 E1304 060 38 01 RK442/9 RT10/// RC00/// 9999=",
+  "OriginalText": "37 03 00 261109140258 C11 261109140150 ND20261109140157 NCN906 JD////////////// JN/// 471 N363 E1417 040 48 02 RK44559 RT10/// RC00/// 9999=",
   "Pond": "1",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "速度マグニチュード",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "変化なし",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261109140157",
+      "time": "2026/11/09 14:01",
+      "time_full": "2026/11/09 14:01:00",
+      "location": "茨城県沖",
+      "magnitude": "4.5",
+      "depth": "40km",
+      "latitude": "36.3",
+      "longitude": "141.7",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "1"
+    },
+    "No2": {
+      "Title": "震源・震度情報",
+      "EventID": "20261109135259",
+      "time": "2026/11/09 13:52",
+      "time_full": "2026/11/09 13:52:00",
+      "location": "茨城県沖",
+      "magnitude": "5.9",
+      "depth": "10km",
+      "latitude": "36.2",
+      "longitude": "142.2",
+      "info": "",
+      "intensity": "3"
+    },
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261109051637",
       "time": "2026/11/09 05:16",
@@ -34,10 +60,10 @@
       "depth": "50km",
       "latitude": "38.3",
       "longitude": "141.9",
-      "info": "この地震による津波の心配はありません。",
+      "info": "",
       "intensity": "3"
     },
-    "No2": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261109031529",
       "time": "2026/11/09 03:15",
@@ -50,7 +76,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No3": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261108204756",
       "time": "2026/11/08 20:47",
@@ -63,7 +89,7 @@
       "info": "",
       "intensity": "2"
     },
-    "No4": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261108193909",
       "time": "2026/11/08 19:39",
@@ -76,7 +102,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No5": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261108112111",
       "time": "2026/11/08 11:21",
@@ -89,7 +115,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No6": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261108105319",
       "time": "2026/11/08 10:53",
@@ -102,7 +128,7 @@
       "info": "",
       "intensity": "4"
     },
-    "No7": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261108082336",
       "time": "2026/11/08 08:23",
@@ -115,7 +141,7 @@
       "info": "",
       "intensity": "1"
     },
-    "No8": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261108073835",
       "time": "2026/11/08 07:38",
@@ -127,32 +153,6 @@
       "longitude": "141.8",
       "info": "",
       "intensity": "2"
-    },
-    "No9": {
-      "Title": "震源・震度情報",
-      "EventID": "20261108023143",
-      "time": "2026/11/08 02:31",
-      "time_full": "2026/11/08 02:31:00",
-      "location": "渡島地方東部",
-      "magnitude": "2.9",
-      "depth": "0km",
-      "latitude": "41.9",
-      "longitude": "140.7",
-      "info": "",
-      "intensity": "2"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261108023059",
-      "time": "2026/11/08 02:30",
-      "time_full": "2026/11/08 02:30:00",
-      "location": "茨城県南部",
-      "magnitude": "3.2",
-      "depth": "60km",
-      "latitude": "36.2",
-      "longitude": "139.8",
-      "info": "",
-      "intensity": "1"
     }
   }
 }
