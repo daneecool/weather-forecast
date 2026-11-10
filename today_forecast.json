@@ -1,16 +1,1 @@
-[
-  {
-    "time": "2026-11-10 21:00:00",
-    "temp": 8.93,
-    "temp_max": 8.93,
-    "temp_min": 6.78,
-    "humidity": 66,
-    "feels_like": 6.47,
-    "pressure": 1023,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01n",
-    "rain_mm": 0,
-    "snow_mm": 0
-  }
-]
+[]
