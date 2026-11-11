@@ -1,14 +1,14 @@
 {
-  "time": "2026-11-11 07:33:20",
-  "temp": 14.03,
-  "temp_max": 14.58,
-  "temp_min": 13.65,
+  "time": "2026-11-11 08:04:54",
+  "temp": 13.68,
+  "temp_max": 14.17,
+  "temp_min": 12.6,
   "humidity": 52,
-  "feels_like": 12.85,
+  "feels_like": 12.46,
   "pressure": 1025,
   "weather_main": "Clouds",
   "weather_description": "few clouds",
-  "weather_icon": "02d",
+  "weather_icon": "02n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
