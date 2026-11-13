@@ -1,17 +1,17 @@
 [
   {
-    "time": "2026-11-15 18:00:00",
-    "wind_speed": 18.49,
-    "wind_gust": 25,
-    "pressure": 999,
-    "lat": 40.0,
-    "lon": 155.0,
+    "time": "2026-11-15 21:00:00",
+    "wind_speed": 18.08,
+    "wind_gust": 23.21,
+    "pressure": 1005,
+    "lat": 35.0,
+    "lon": 150.0,
     "region": "Pacific Ocean",
-    "in_japan": false,
-    "temp": 17.88,
-    "humidity": 93,
+    "in_japan": true,
+    "temp": 22.31,
+    "humidity": 85,
     "weather_main": "Rain",
     "weather_description": "moderate rain",
-    "rain_mm": 8.25
+    "rain_mm": 4.38
   }
 ]
