@@ -1,14 +1,14 @@
 [
   {
     "time": "2026-11-14 21:00:00",
-    "temp": 14.49,
-    "temp_max": 14.49,
-    "temp_min": 12.71,
-    "humidity": 78,
-    "feels_like": 14.03,
+    "temp": 14.61,
+    "temp_max": 14.61,
+    "temp_min": 12.81,
+    "humidity": 81,
+    "feels_like": 14.24,
     "pressure": 1014,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
+    "weather_description": "broken clouds",
     "weather_icon": "04n",
     "rain_mm": 0,
     "snow_mm": 0
