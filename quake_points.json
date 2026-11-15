@@ -24,7 +24,7 @@
     "depth": "10km",
     "latitude": "34.9",
     "longitude": "135.6",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "1"
   },
   {
@@ -38,7 +38,7 @@
     "depth": "10km",
     "latitude": "32.5",
     "longitude": "130.6",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "2"
   },
   {
@@ -52,7 +52,7 @@
     "depth": "40km",
     "latitude": "36.6",
     "longitude": "141.1",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "1"
   },
   {
@@ -66,7 +66,7 @@
     "depth": "0km",
     "latitude": "41.9",
     "longitude": "140.9",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "1"
   },
   {
@@ -80,7 +80,7 @@
     "depth": "10km",
     "latitude": "32.3",
     "longitude": "130.4",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "1"
   },
   {
@@ -94,7 +94,7 @@
     "depth": "10km",
     "latitude": "32.4",
     "longitude": "130.5",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "3"
   },
   {
@@ -108,7 +108,7 @@
     "depth": "90km",
     "latitude": "36.7",
     "longitude": "140.8",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "1"
   },
   {
@@ -122,7 +122,7 @@
     "depth": "10km",
     "latitude": "32.5",
     "longitude": "130.6",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "3"
   },
   {
@@ -136,7 +136,7 @@
     "depth": "10km",
     "latitude": "34.2",
     "longitude": "135.2",
-    "info": "",
+    "info": "この地震による津波の心配はありません。",
     "intensity": "2"
   }
 ]
