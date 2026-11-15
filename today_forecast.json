@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-11-15 21:00:00",
-    "temp": 13.57,
-    "temp_max": 13.57,
-    "temp_min": 12.86,
-    "humidity": 80,
-    "feels_like": 13.07,
-    "pressure": 1007,
+    "temp": 13.62,
+    "temp_max": 13.62,
+    "temp_min": 12.89,
+    "humidity": 82,
+    "feels_like": 13.18,
+    "pressure": 1008,
     "weather_main": "Clear",
     "weather_description": "clear sky",
     "weather_icon": "01n",
