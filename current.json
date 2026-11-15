@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-15 09:06:39",
+  "time": "2026-11-15 09:31:14",
   "temp": 13.57,
   "temp_max": 13.98,
   "temp_min": 12.27,
@@ -9,6 +9,6 @@
   "weather_main": "Rain",
   "weather_description": "heavy intensity rain",
   "weather_icon": "10n",
-  "rain_1h_mm": 6.48,
+  "rain_1h_mm": 7.49,
   "snow_1h_mm": 0
 }
