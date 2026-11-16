@@ -3,9 +3,9 @@
     "time": "2026-11-17 00:00:00",
     "temp": 14.16,
     "temp_max": 14.16,
-    "temp_min": 14.11,
-    "humidity": 68,
-    "feels_like": 13.41,
+    "temp_min": 14.13,
+    "humidity": 69,
+    "feels_like": 13.43,
     "pressure": 1024,
     "rain_mm": 0.21
   },
