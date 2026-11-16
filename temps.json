@@ -3,9 +3,9 @@
     "time": "2026-11-16 15:00:00",
     "temp": 15.77,
     "temp_max": 15.77,
-    "temp_min": 13.29,
-    "humidity": 60,
-    "feels_like": 14.97,
+    "temp_min": 13.3,
+    "humidity": 59,
+    "feels_like": 14.94,
     "pressure": 1022,
     "rain_mm": 0
   },
@@ -14,8 +14,8 @@
     "temp": 14.54,
     "temp_max": 14.54,
     "temp_min": 12.08,
-    "humidity": 59,
-    "feels_like": 13.59,
+    "humidity": 58,
+    "feels_like": 13.56,
     "pressure": 1022,
     "rain_mm": 0
   },
