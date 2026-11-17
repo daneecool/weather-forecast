@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-11-17 21:00:00",
-    "temp": 11.25,
-    "temp_max": 11.62,
-    "temp_min": 11.25,
+    "temp": 11.4,
+    "temp_max": 11.63,
+    "temp_min": 11.4,
     "humidity": 92,
-    "feels_like": 10.83,
+    "feels_like": 11,
     "pressure": 1008,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",

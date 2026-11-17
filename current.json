@@ -1,14 +1,14 @@
 {
-  "time": "2026-11-17 19:32:10",
-  "temp": 11.25,
+  "time": "2026-11-17 20:00:13",
+  "temp": 11.38,
   "temp_max": 11.98,
   "temp_min": 10.61,
   "humidity": 92,
-  "feels_like": 10.83,
-  "pressure": 1008,
-  "weather_main": "Rain, Mist",
-  "weather_description": "shower rain, mist",
-  "weather_icon": "09n, 50n",
-  "rain_1h_mm": 3.13,
+  "feels_like": 10.98,
+  "pressure": 1007,
+  "weather_main": "Mist",
+  "weather_description": "mist",
+  "weather_icon": "50n",
+  "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
