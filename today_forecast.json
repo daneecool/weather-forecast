@@ -18,13 +18,13 @@
     "temp": 10.73,
     "temp_max": 10.94,
     "temp_min": 10.73,
-    "humidity": 91,
-    "feels_like": 10.23,
+    "humidity": 89,
+    "feels_like": 10.18,
     "pressure": 1012,
     "weather_main": "Rain",
-    "weather_description": "heavy intensity rain",
+    "weather_description": "moderate rain",
     "weather_icon": "10n",
-    "rain_mm": 12.48,
+    "rain_mm": 8.81,
     "snow_mm": 0
   },
   {
@@ -38,7 +38,7 @@
     "weather_main": "Rain",
     "weather_description": "light rain",
     "weather_icon": "10n",
-    "rain_mm": 0.37,
+    "rain_mm": 0.25,
     "snow_mm": 0
   }
 ]
