@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-11-17 12:00:00",
-    "temp": 10.96,
-    "temp_max": 11.63,
-    "temp_min": 10.96,
+    "temp": 10.95,
+    "temp_max": 11.6,
+    "temp_min": 10.95,
     "humidity": 91,
-    "feels_like": 10.49,
+    "feels_like": 10.48,
     "pressure": 1020,
     "rain_mm": 5.79
   },
