@@ -1,16 +1,16 @@
 [
   {
     "time": "2026-11-18 21:00:00",
-    "temp": 13.2,
-    "temp_max": 13.2,
+    "temp": 13.42,
+    "temp_max": 13.42,
     "temp_min": 12.17,
-    "humidity": 83,
-    "feels_like": 12.74,
+    "humidity": 85,
+    "feels_like": 13.04,
     "pressure": 1000,
-    "weather_main": "Clear",
-    "weather_description": "clear sky",
-    "weather_icon": "01n",
-    "rain_mm": 0,
+    "weather_main": "Rain",
+    "weather_description": "light rain",
+    "weather_icon": "10n",
+    "rain_mm": 0.15,
     "snow_mm": 0
   }
 ]
