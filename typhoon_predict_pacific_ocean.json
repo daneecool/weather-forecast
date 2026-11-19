@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-11-19 09:00:00",
-    "wind_speed": 11.55,
-    "wind_gust": 15.71,
+    "wind_speed": 11.71,
+    "wind_gust": 14.02,
     "pressure": 995,
     "lat": 40.0,
     "lon": 155.0,
     "region": "Pacific Ocean",
     "in_japan": false,
-    "temp": 17.02,
-    "humidity": 83,
+    "temp": 17.26,
+    "humidity": 81,
     "weather_main": "Clouds",
     "weather_description": "scattered clouds",
     "rain_mm": 0
