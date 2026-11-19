@@ -1,11 +1,11 @@
 [
   {
     "time": "2026-11-19 21:00:00",
-    "temp": 9.66,
-    "temp_max": 9.66,
-    "temp_min": 9.02,
+    "temp": 9.81,
+    "temp_max": 9.81,
+    "temp_min": 8.93,
     "humidity": 58,
-    "feels_like": 5.94,
+    "feels_like": 6.14,
     "pressure": 1005,
     "weather_main": "Clear",
     "weather_description": "clear sky",
