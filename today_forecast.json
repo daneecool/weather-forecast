@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-11-22 21:00:00",
-    "temp": 6.29,
-    "temp_max": 6.29,
-    "temp_min": 4.9,
-    "humidity": 58,
-    "feels_like": 3.48,
-    "pressure": 1029,
+    "temp": 7.63,
+    "temp_max": 7.63,
+    "temp_min": 5.03,
+    "humidity": 54,
+    "feels_like": 5.13,
+    "pressure": 1028,
     "weather_main": "Clear",
     "weather_description": "clear sky",
     "weather_icon": "01n",
