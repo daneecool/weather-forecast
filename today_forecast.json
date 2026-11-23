@@ -1,15 +1,15 @@
 [
   {
     "time": "2026-11-23 12:00:00",
-    "temp": 12.23,
-    "temp_max": 12.23,
-    "temp_min": 10.16,
+    "temp": 12.19,
+    "temp_max": 12.19,
+    "temp_min": 10.03,
     "humidity": 57,
-    "feels_like": 11,
+    "feels_like": 10.95,
     "pressure": 1025,
     "weather_main": "Clouds",
-    "weather_description": "broken clouds",
-    "weather_icon": "04n",
+    "weather_description": "scattered clouds",
+    "weather_icon": "03n",
     "rain_mm": 0,
     "snow_mm": 0
   },
@@ -22,7 +22,7 @@
     "feels_like": 6.68,
     "pressure": 1024,
     "weather_main": "Clouds",
-    "weather_description": "overcast clouds",
+    "weather_description": "broken clouds",
     "weather_icon": "04n",
     "rain_mm": 0,
     "snow_mm": 0
