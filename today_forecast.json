@@ -1,12 +1,12 @@
 [
   {
     "time": "2026-11-23 21:00:00",
-    "temp": 13.93,
-    "temp_max": 13.93,
-    "temp_min": 8.36,
-    "humidity": 62,
-    "feels_like": 13,
-    "pressure": 1017,
+    "temp": 14.4,
+    "temp_max": 14.4,
+    "temp_min": 9.6,
+    "humidity": 61,
+    "feels_like": 13.49,
+    "pressure": 1016,
     "weather_main": "Clouds",
     "weather_description": "broken clouds",
     "weather_icon": "04n",
