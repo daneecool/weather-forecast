@@ -1,9 +1,9 @@
 {
-  "time": "2026-11-23 00:49:35",
+  "time": "2026-11-23 01:07:11",
   "temp": 9.82,
-  "temp_max": 12.25,
+  "temp_max": 12.8,
   "temp_min": 9.21,
-  "humidity": 59,
+  "humidity": 57,
   "feels_like": 8.56,
   "pressure": 1030,
   "weather_main": "Clouds",
