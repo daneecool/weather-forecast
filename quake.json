@@ -1,30 +1,43 @@
 {
   "EventID": "20261127043332",
-  "Serial": 1,
-  "AnnouncedTime": "2026/11/27 04:33:44",
-  "OriginTime": "2026/11/27 04:33:13",
+  "Serial": 7,
+  "AnnouncedTime": "2026/11/27 04:34:34",
+  "OriginTime": "2026/11/27 04:33:08",
   "Hypocenter": "父島近海",
-  "Latitude": 27.7,
-  "Longitude": 141.2,
-  "Magunitude": 5.3,
-  "Depth": 10,
+  "Latitude": 28.3,
+  "Longitude": 141.3,
+  "Magunitude": 5.4,
+  "Depth": 70,
   "MaxIntensity": "2",
   "isSea": true,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
-  "isFinal": false,
+  "isFinal": true,
   "isCancel": false,
-  "OriginalText": "36 04 00 261127043344 C11 261127043313 ND20261127043332 NCN001 JD////////////// JN/// 911 N277 E1412 010 53 02 RK22422 RT10/// RC///// 9999=",
+  "OriginalText": "37 04 00 261127043434 C11 261127043308 ND20261127043332 NCN907 JD////////////// JN/// 911 N283 E1413 070 54 02 RK44529 RT10/// RC00/// 9999=",
   "Pond": "0",
-  "Epicenter": "IPF 法（2 点）",
-  "DepthAccuracy": "IPF 法（2 点）",
-  "MagnitudeAccuracy": "P 相／全相混在",
-  "String": "不明、未設定時、キャンセル時",
-  "Reason": "不明、未設定時、キャンセル時",
+  "Epicenter": "IPF 法（5 点以上）",
+  "DepthAccuracy": "IPF 法（5 点以上）",
+  "MagnitudeAccuracy": "全点全相",
+  "String": "ほとんど変化なし",
+  "Reason": "変化なし",
   "WarnArea": [],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261127043332",
+      "time": "2026/11/27 04:33",
+      "time_full": "2026/11/27 04:33:00",
+      "location": "父島近海",
+      "magnitude": "5.5",
+      "depth": "30km",
+      "latitude": "28.4",
+      "longitude": "141.2",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261127001112",
       "time": "2026/11/27 00:11",
@@ -37,7 +50,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261126213650",
       "time": "2026/11/26 21:36",
@@ -50,7 +63,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261126194026",
       "time": "2026/11/26 19:40",
@@ -63,7 +76,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261126193102",
       "time": "2026/11/26 19:31",
@@ -76,7 +89,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261126184204",
       "time": "2026/11/26 18:42",
@@ -89,7 +102,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261126140846",
       "time": "2026/11/26 14:08",
@@ -102,7 +115,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261126085642",
       "time": "2026/11/26 08:56",
@@ -115,7 +128,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261126075935",
       "time": "2026/11/26 07:59",
@@ -128,7 +141,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261126075248",
       "time": "2026/11/26 07:52",
@@ -140,19 +153,6 @@
       "longitude": "134.0",
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261126073135",
-      "time": "2026/11/26 07:31",
-      "time_full": "2026/11/26 07:31:00",
-      "location": "熊本県天草・芦北地方",
-      "magnitude": "4.0",
-      "depth": "0km",
-      "latitude": "32.3",
-      "longitude": "130.5",
-      "info": "この地震による津波の心配はありません。",
-      "intensity": "3"
     }
   }
 }
