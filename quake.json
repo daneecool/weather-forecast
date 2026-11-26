@@ -1,30 +1,52 @@
 {
-  "EventID": "20261126194026",
-  "Serial": 3,
-  "AnnouncedTime": "2026/11/26 19:41:06",
-  "OriginTime": "2026/11/26 19:40:23",
-  "Hypocenter": "陸奥湾",
-  "Latitude": 40.9,
-  "Longitude": 140.7,
-  "Magunitude": 3.5,
+  "EventID": "20261127001112",
+  "Serial": 7,
+  "AnnouncedTime": "2026/11/27 00:11:44",
+  "OriginTime": "2026/11/27 00:11:09",
+  "Hypocenter": "石川県能登地方",
+  "Latitude": 37.5,
+  "Longitude": 137.3,
+  "Magunitude": 4.1,
   "Depth": 10,
-  "MaxIntensity": "3",
-  "isSea": true,
+  "MaxIntensity": "4",
+  "isSea": false,
   "isTraining": false,
   "isAssumption": false,
   "isWarn": false,
   "isFinal": true,
   "isCancel": false,
-  "OriginalText": "37 04 00 261126194106 C11 261126194023 ND20261126194026 NCN903 JD////////////// JN/// 284 N409 E1407 010 35 03 RK442/9 RT10/// RC00/// 9999=",
+  "OriginalText": "37 04 00 261127001144 C11 261127001109 ND20261127001112 NCN907 JD////////////// JN/// 390 N375 E1373 010 41 04 RK44519 RT00/// RC00/// EBI 390 S0404 ////// 01 9999=",
   "Pond": "0",
   "Epicenter": "IPF 法（5 点以上）",
   "DepthAccuracy": "IPF 法（5 点以上）",
-  "MagnitudeAccuracy": "速度マグニチュード",
+  "MagnitudeAccuracy": "全点全相",
   "String": "ほとんど変化なし",
   "Reason": "変化なし",
-  "WarnArea": [],
+  "WarnArea": [
+    {
+      "Chiiki": "石川県能登",
+      "Shindo1": "4",
+      "Shindo2": "4",
+      "Time": "//////",
+      "Type": "予報",
+      "Arrive": "既に到達と予測"
+    }
+  ],
   "RecentList": {
     "No1": {
+      "Title": "震源・震度情報",
+      "EventID": "20261127001112",
+      "time": "2026/11/27 00:11",
+      "time_full": "2026/11/27 00:11:00",
+      "location": "石川県能登地方",
+      "magnitude": "3.8",
+      "depth": "10km",
+      "latitude": "37.5",
+      "longitude": "137.3",
+      "info": "この地震による津波の心配はありません。",
+      "intensity": "2"
+    },
+    "No2": {
       "Title": "震源・震度情報",
       "EventID": "20261126213650",
       "time": "2026/11/26 21:36",
@@ -37,7 +59,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No2": {
+    "No3": {
       "Title": "震源・震度情報",
       "EventID": "20261126194026",
       "time": "2026/11/26 19:40",
@@ -50,7 +72,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No3": {
+    "No4": {
       "Title": "震源・震度情報",
       "EventID": "20261126193102",
       "time": "2026/11/26 19:31",
@@ -63,7 +85,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No4": {
+    "No5": {
       "Title": "震源・震度情報",
       "EventID": "20261126184204",
       "time": "2026/11/26 18:42",
@@ -76,7 +98,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No5": {
+    "No6": {
       "Title": "震源・震度情報",
       "EventID": "20261126140846",
       "time": "2026/11/26 14:08",
@@ -89,7 +111,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No6": {
+    "No7": {
       "Title": "震源・震度情報",
       "EventID": "20261126085642",
       "time": "2026/11/26 08:56",
@@ -102,7 +124,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "2"
     },
-    "No7": {
+    "No8": {
       "Title": "震源・震度情報",
       "EventID": "20261126075935",
       "time": "2026/11/26 07:59",
@@ -115,7 +137,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No8": {
+    "No9": {
       "Title": "震源・震度情報",
       "EventID": "20261126075248",
       "time": "2026/11/26 07:52",
@@ -128,7 +150,7 @@
       "info": "この地震による津波の心配はありません。",
       "intensity": "1"
     },
-    "No9": {
+    "No10": {
       "Title": "震源・震度情報",
       "EventID": "20261126073135",
       "time": "2026/11/26 07:31",
@@ -140,19 +162,6 @@
       "longitude": "130.5",
       "info": "この地震による津波の心配はありません。",
       "intensity": "3"
-    },
-    "No10": {
-      "Title": "震源・震度情報",
-      "EventID": "20261126052236",
-      "time": "2026/11/26 05:18",
-      "time_full": "2026/11/26 05:18:00",
-      "location": "釧路地方中南部",
-      "magnitude": "1.8",
-      "depth": "10km",
-      "latitude": "43.4",
-      "longitude": "144.1",
-      "info": "この地震による津波の心配はありません。",
-      "intensity": "1"
     }
   }
 }
