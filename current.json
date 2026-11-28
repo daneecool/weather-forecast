@@ -1,14 +1,14 @@
 {
-  "time": "2026-11-28 07:06:44",
-  "temp": 18.09,
-  "temp_max": 18.58,
+  "time": "2026-11-28 07:33:42",
+  "temp": 18.23,
+  "temp_max": 18.65,
   "temp_min": 17.77,
-  "humidity": 84,
-  "feels_like": 18.15,
-  "pressure": 998,
+  "humidity": 83,
+  "feels_like": 18.28,
+  "pressure": 999,
   "weather_main": "Clouds",
   "weather_description": "broken clouds",
-  "weather_icon": "04d",
+  "weather_icon": "04n",
   "rain_1h_mm": 0,
   "snow_1h_mm": 0
 }
